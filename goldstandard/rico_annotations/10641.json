@@ -1,0 +1,969 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "Sassuolo",
+            "resource-id": "com.eurosport:id/text_name_team_2",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1057,
+                2209,
+                1258,
+                2275
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6F7074",
+            "bounds_updated": [
+                1059.6666666666667,
+                2227.6666666666665,
+                1257.0,
+                2262.3333333333335
+            ],
+            "text_updated": "Sassuolo",
+            "font_size": 9.068187392690696,
+            "id": "10641_0"
+        },
+        {
+            "iconClass": "avatar",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.eurosport:id/image_score_team_2",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1286,
+                2193,
+                1384,
+                2291
+            ],
+            "componentLabel": "Icon",
+            "id": "10641_1"
+        },
+        {
+            "text": "Fiorentina",
+            "resource-id": "com.eurosport:id/text_name_team_1",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                182,
+                2209,
+                400,
+                2275
+            ],
+            "componentLabel": "Text",
+            "text_color": "#727375",
+            "bounds_updated": [
+                187.33333333333334,
+                2227.6666666666665,
+                398.0,
+                2262.3333333333335
+            ],
+            "text_updated": "Fiorentina",
+            "font_size": 8.392102500793392,
+            "id": "10641_2"
+        },
+        {
+            "iconClass": "help",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.eurosport:id/image_score_team_1",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                2193,
+                154,
+                2291
+            ],
+            "componentLabel": "Icon",
+            "id": "10641_3"
+        },
+        {
+            "text": "12:00",
+            "resource-id": "com.eurosport:id/text_score",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                643,
+                2195,
+                797,
+                2289
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3E3F41",
+            "bounds_updated": [
+                661.6666666666666,
+                2227.0,
+                781.6666666666666,
+                2261.6666666666665
+            ],
+            "text_updated": "12:00",
+            "font_size": 8.214618592101992,
+            "id": "10641_4"
+        },
+        {
+            "text": "Day 16",
+            "resource-id": "com.eurosport:id/livebox_round_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                2056,
+                1398,
+                2122
+            ],
+            "componentLabel": "Text",
+            "text_color": "#707070",
+            "bounds_updated": [
+                650.0,
+                2074.6666666666665,
+                791.3333333333333,
+                2120.0
+            ],
+            "text_updated": "Day 16",
+            "font_size": 7.201984145622341,
+            "id": "10641_5"
+        },
+        {
+            "text": "Serie A",
+            "resource-id": "com.eurosport:id/livebox_rec_event_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                210,
+                1966,
+                1230,
+                2056
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3E3F41",
+            "bounds_updated": [
+                620.6666666666666,
+                2000.6666666666667,
+                820.6666666666666,
+                2040.6666666666667
+            ],
+            "text_updated": "SERIE A",
+            "font_size": 10.988226637233263,
+            "id": "10641_6"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.eurosport:id/livebox_logo_event",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                636,
+                1791,
+                804,
+                1959
+            ],
+            "componentLabel": "Image",
+            "id": "10641_7"
+        },
+        {
+            "resource-id": "com.eurosport:id/livebox_section_calendar",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                42,
+                1587,
+                1398,
+                1756
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "results",
+            "bg_color": "#FFFFFF",
+            "text_color": "#8F8F8F",
+            "bounds_text": [
+                42,
+                1587,
+                1398,
+                1756
+            ],
+            "text_updated": "results",
+            "font_size": 12,
+            "id": "10641_8"
+        },
+        {
+            "text": "Atl\u00e9tico Madrid",
+            "resource-id": "com.eurosport:id/text_name_team_2",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                923,
+                1462,
+                1258,
+                1528
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6D6D6D",
+            "bounds_updated": [
+                923,
+                1480.6666666666667,
+                1253.6666666666665,
+                1515.3333333333333
+            ],
+            "text_updated": "Atl\u00e9tico Madrid",
+            "font_size": 8.773853323522214,
+            "id": "10641_9"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.eurosport:id/image_score_team_2",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1286,
+                1446,
+                1384,
+                1544
+            ],
+            "componentLabel": "Image",
+            "id": "10641_10"
+        },
+        {
+            "text": "Villarreal CF",
+            "resource-id": "com.eurosport:id/text_name_team_1",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                182,
+                1462,
+                445,
+                1528
+            ],
+            "componentLabel": "Text",
+            "text_color": "#757575",
+            "bounds_updated": [
+                184.66666666666666,
+                1480.6666666666667,
+                443.3333333333333,
+                1515.3333333333333
+            ],
+            "text_updated": "Villarreal CF",
+            "font_size": 8.524218636801404,
+            "id": "10641_11"
+        },
+        {
+            "iconClass": "globe",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.eurosport:id/image_score_team_1",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                1446,
+                154,
+                1544
+            ],
+            "componentLabel": "Icon",
+            "id": "10641_12"
+        },
+        {
+            "text": "13:45",
+            "resource-id": "com.eurosport:id/text_score",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                643,
+                1448,
+                797,
+                1542
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3F3F3F",
+            "bounds_updated": [
+                661.6666666666666,
+                1480.0,
+                781.6666666666666,
+                1514.6666666666667
+            ],
+            "text_updated": "13:45",
+            "font_size": 8.214618592101992,
+            "id": "10641_13"
+        },
+        {
+            "text": "Day 15",
+            "resource-id": "com.eurosport:id/livebox_round_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                1309,
+                1398,
+                1375
+            ],
+            "componentLabel": "Text",
+            "text_color": "#737375",
+            "bounds_updated": [
+                650.0,
+                1327.6666666666667,
+                791.3333333333333,
+                1373.0
+            ],
+            "text_updated": "Day 15",
+            "font_size": 7.2479086103152905,
+            "id": "10641_14"
+        },
+        {
+            "text": "Liga",
+            "resource-id": "com.eurosport:id/livebox_rec_event_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                210,
+                1219,
+                1230,
+                1309
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3C3E3D",
+            "bounds_updated": [
+                660.6666666666666,
+                1253.6666666666667,
+                780.6666666666666,
+                1293.6666666666667
+            ],
+            "text_updated": "LIGA",
+            "font_size": 11.074564630856019,
+            "id": "10641_15"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.eurosport:id/livebox_logo_event",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                636,
+                1044,
+                804,
+                1212
+            ],
+            "componentLabel": "Image",
+            "id": "10641_16"
+        },
+        {
+            "text": "Football",
+            "resource-id": "com.eurosport:id/livebox_sport_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                14,
+                859,
+                1426,
+                1009
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3D4246",
+            "bounds_updated": [
+                560.6666666666666,
+                907.0,
+                880.6666666666666,
+                971.0
+            ],
+            "text_updated": "Football",
+            "font_size": 15.31052244297277,
+            "id": "10641_17"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.eurosport:id/livebox_header_right_arrow",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                860,
+                635,
+                1000,
+                817
+            ],
+            "componentLabel": "Icon",
+            "id": "10641_18"
+        },
+        {
+            "text": "Today",
+            "resource-id": "com.eurosport:id/livebox_date_header",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                580,
+                635,
+                860,
+                817
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3D4144",
+            "bounds_updated": [
+                654.6666666666666,
+                712.3333333333334,
+                782.6666666666666,
+                755.0
+            ],
+            "text_updated": "Today",
+            "font_size": 8.885761589403984,
+            "id": "10641_19"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.eurosport:id/livebox_header_left_arrow",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                440,
+                635,
+                580,
+                817
+            ],
+            "componentLabel": "Icon",
+            "id": "10641_20"
+        },
+        {
+            "text": "3",
+            "resource-id": "com.eurosport:id/livebox_live_count",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1230,
+                670,
+                1412,
+                782
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#039FDC",
+            "text_color": "#F2FFFF",
+            "bounds_text": [
+                1230,
+                670,
+                1412,
+                782
+            ],
+            "text_updated": "3",
+            "font_size": 12,
+            "id": "10641_21"
+        },
+        {
+            "text": "All results",
+            "resource-id": "com.eurosport:id/all_results_button",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                734,
+                476,
+                1412,
+                588
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#467F93",
+            "bounds_text": [
+                734,
+                476.0,
+                1414.0,
+                588
+            ],
+            "text_updated": "ALL RESULTS",
+            "font_size": 17.124572566333377,
+            "id": "10641_22"
+        },
+        {
+            "text": "Scores",
+            "resource-id": "com.eurosport:id/score_button",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                28,
+                476,
+                706,
+                588
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#019CDE",
+            "text_color": "#C8FFFF",
+            "bounds_text": [
+                292.0,
+                521.3333333333334,
+                444.0,
+                550.6666666666666
+            ],
+            "text_updated": "SCORES",
+            "font_size": 6.470818326168595,
+            "id": "10641_23"
+        },
+        {
+            "text": "LATEST",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                904,
+                331,
+                1079,
+                397
+            ],
+            "componentLabel": "Text",
+            "text_color": "#CFD4EA",
+            "bounds_updated": [
+                906.6666666666666,
+                349.6666666666667,
+                1077.3333333333333,
+                384.3333333333333
+            ],
+            "text_updated": "LATEST",
+            "font_size": 9.670625545959592,
+            "id": "10641_24"
+        },
+        {
+            "text": "FEATURED",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                328,
+                331,
+                566,
+                397
+            ],
+            "componentLabel": "Text",
+            "text_color": "#CBD1DF",
+            "bounds_updated": [
+                330.6666666666667,
+                349.6666666666667,
+                562.6666666666666,
+                384.3333333333333
+            ],
+            "text_updated": "FEATURED",
+            "font_size": 9.016594351830687,
+            "id": "10641_25"
+        },
+        {
+            "ancestors": [
+                "android.widget.LinearLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.support.design.widget.TabLayout$TabView",
+            "bounds": [
+                608,
+                280,
+                862,
+                448
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "video",
+            "bg_color": "#141C4D",
+            "text_color": "#D1D8E8",
+            "bounds_text": [
+                650.6666666666666,
+                349.3333333333333,
+                818.6666666666666,
+                384.0
+            ],
+            "text_updated": "VIDEOS",
+            "font_size": 9.008619783454241,
+            "id": "10641_26"
+        },
+        {
+            "ancestors": [
+                "android.widget.LinearLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.support.design.widget.TabLayout$TabView",
+            "bounds": [
+                0,
+                280,
+                286,
+                448
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "results",
+            "bg_color": "#141C4D",
+            "text_color": "#FBFFFF",
+            "bounds_text": [
+                45.33333333333333,
+                349.3333333333333,
+                242.66666666666666,
+                384.0
+            ],
+            "text_updated": "RESULTS.",
+            "font_size": 8.405811230264124,
+            "id": "10641_27"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                252,
+                126,
+                783,
+                238
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Image",
+            "id": "10641_28"
+        },
+        {
+            "iconClass": "menu",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "componentLabel": "Icon",
+            "id": "10641_29"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                617,
+                1440,
+                2392
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "10641_30",
+            "ui_comp_ids": [
+                "10641_0",
+                "10641_1",
+                "10641_2",
+                "10641_3",
+                "10641_4",
+                "10641_5",
+                "10641_6",
+                "10641_7",
+                "10641_8",
+                "10641_9",
+                "10641_10",
+                "10641_11",
+                "10641_12",
+                "10641_13",
+                "10641_14",
+                "10641_15",
+                "10641_16",
+                "10641_17",
+                "10641_18",
+                "10641_19",
+                "10641_20",
+                "10641_21"
+            ],
+            "ui_comp_group_ids": [
+                "10641_32",
+                "10641_33",
+                "10641_35",
+                "10641_36",
+                "10641_37"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                84,
+                1440,
+                448
+            ],
+            "class": "android.support.design.widget.AppBarLayout",
+            "bg_color": "#141C4D",
+            "id": "10641_31",
+            "ui_comp_ids": [
+                "10641_24",
+                "10641_25",
+                "10641_26",
+                "10641_27",
+                "10641_28",
+                "10641_29"
+            ],
+            "ui_comp_group_ids": [
+                "10641_34",
+                "10641_38"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                42,
+                1037,
+                1398,
+                1309
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "10641_32",
+            "ui_comp_ids": [
+                "10641_15",
+                "10641_16"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                42,
+                1784,
+                1398,
+                2056
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "10641_33",
+            "ui_comp_ids": [
+                "10641_6",
+                "10641_7"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#141C4D",
+            "id": "10641_34",
+            "ui_comp_ids": [
+                "10641_28",
+                "10641_29"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                28,
+                635,
+                1412,
+                817
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "10641_35",
+            "ui_comp_ids": [
+                "10641_18",
+                "10641_19",
+                "10641_20",
+                "10641_21"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                42,
+                1404,
+                1398,
+                1587
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "10641_36",
+            "ui_comp_ids": [
+                "10641_9",
+                "10641_10",
+                "10641_11",
+                "10641_12",
+                "10641_13"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                42,
+                2151,
+                1398,
+                2334
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "10641_37",
+            "ui_comp_ids": [
+                "10641_0",
+                "10641_1",
+                "10641_2",
+                "10641_3",
+                "10641_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Multi-Tab",
+            "bounds": [
+                0,
+                280,
+                1440,
+                448
+            ],
+            "class": "android.support.design.widget.TabLayout$SlidingTabStrip",
+            "bg_color": "#141C4D",
+            "id": "10641_38",
+            "ui_comp_ids": [
+                "10641_24",
+                "10641_25",
+                "10641_26",
+                "10641_27"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                28,
+                476,
+                1412,
+                588
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#019CDE",
+            "id": "10641_39",
+            "ui_comp_ids": [
+                "10641_22",
+                "10641_23"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

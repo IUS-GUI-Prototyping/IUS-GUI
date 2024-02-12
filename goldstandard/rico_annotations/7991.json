@@ -1,0 +1,646 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "minutes",
+            "resource-id": "com.campbellskitchen.android:id/total_minutes_units",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                630,
+                2283,
+                811,
+                2345
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFDFF",
+            "bounds_updated": [
+                634.0,
+                2307.0,
+                810.0,
+                2333.6666666666665
+            ],
+            "text_updated": "minutes",
+            "font_size": 9.537761723192185,
+            "id": "7991_0"
+        },
+        {
+            "text": "25",
+            "resource-id": "com.campbellskitchen.android:id/total_minutes",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                651,
+                2097,
+                789,
+                2255
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FBFFFF",
+            "bounds_updated": [
+                655.0,
+                2138.3333333333335,
+                785.6666666666666,
+                2225.0
+            ],
+            "text_updated": "25",
+            "font_size": 15.616686477613648,
+            "id": "7991_1"
+        },
+        {
+            "text": "minutes",
+            "resource-id": "com.campbellskitchen.android:id/prep_minutes_units",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                201,
+                2283,
+                382,
+                2345
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FBFFFF",
+            "bounds_updated": [
+                203.66666666666666,
+                2307.0,
+                379.66666666666663,
+                2333.6666666666665
+            ],
+            "text_updated": "minutes",
+            "font_size": 9.537761723192185,
+            "id": "7991_2"
+        },
+        {
+            "text": "10",
+            "resource-id": "com.campbellskitchen.android:id/prep_minutes",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                226,
+                2097,
+                356,
+                2255
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFF8FF",
+            "bounds_updated": [
+                226,
+                2097,
+                356,
+                2255
+            ],
+            "text_updated": "10",
+            "font_size": 12,
+            "id": "7991_3"
+        },
+        {
+            "text": "people",
+            "resource-id": "com.campbellskitchen.android:id/format_serves",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1071,
+                2283,
+                1227,
+                2345
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFDFF",
+            "bounds_updated": [
+                1071,
+                2283,
+                1227,
+                2345
+            ],
+            "text_updated": "people",
+            "font_size": 12,
+            "id": "7991_4"
+        },
+        {
+            "text": "8",
+            "resource-id": "com.campbellskitchen.android:id/serve_people",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1113,
+                2097,
+                1185,
+                2255
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFBFF",
+            "bounds_updated": [
+                1113,
+                2097,
+                1185,
+                2255
+            ],
+            "text_updated": "8",
+            "font_size": 12,
+            "id": "7991_5"
+        },
+        {
+            "text": "SERVES",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1076,
+                2046,
+                1221,
+                2097
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFBFF",
+            "bounds_updated": [
+                1077.3333333333333,
+                2058.0,
+                1220.0,
+                2087.3333333333335
+            ],
+            "text_updated": "SERVES",
+            "font_size": 7.9137786422554735,
+            "id": "7991_6"
+        },
+        {
+            "text": "TOTAL TIME",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                603,
+                2046,
+                838,
+                2097
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFF8FF",
+            "bounds_updated": [
+                604.3333333333334,
+                2058.0,
+                836.3333333333333,
+                2087.3333333333335
+            ],
+            "text_updated": "TOTAL TIME",
+            "font_size": 8.531120753089233,
+            "id": "7991_7"
+        },
+        {
+            "text": "PREP",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                244,
+                2046,
+                339,
+                2097
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFCFF",
+            "bounds_updated": [
+                246.66666666666666,
+                2058.0,
+                338.66666666666663,
+                2087.3333333333335
+            ],
+            "text_updated": "PREP",
+            "font_size": 7.714751895575371,
+            "id": "7991_8"
+        },
+        {
+            "text": "(3)",
+            "resource-id": "com.campbellskitchen.android:id/reviews",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                848,
+                1398,
+                907,
+                1454
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6B6B6B",
+            "bounds_updated": [
+                848,
+                1398,
+                907,
+                1454
+            ],
+            "text_updated": "(3)",
+            "font_size": 12,
+            "id": "7991_9"
+        },
+        {
+            "text": "Easy \u00b7 Kid Friendly",
+            "resource-id": "com.campbellskitchen.android:id/recipe_tags",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1818,
+                1384,
+                1878
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#569FB0",
+            "bounds_text": [
+                517.3333333333333,
+                1830.0,
+                924.0,
+                1874.0
+            ],
+            "text_updated": "Easy - Kid Friendly",
+            "font_size": 9.759777839248038,
+            "id": "7991_10"
+        },
+        {
+            "text": "Saut\u00e9 ground beef, onion and chili powder and stir in a cheese sauce to fill crisp taco shells.",
+            "resource-id": "com.campbellskitchen.android:id/recipe_description",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                112,
+                1510,
+                1328,
+                1762
+            ],
+            "componentLabel": "Text",
+            "text_color": "#52514C",
+            "bounds_updated": [
+                150.66666666666666,
+                1524.6666666666667,
+                1292.0,
+                1750.0
+            ],
+            "text_updated": "Saut\u00e9 ground beef, onion and chili powder\nand stir in a cheese sauce to fill crisp taco\nshells.",
+            "font_size": 11.562766997985799,
+            "id": "7991_11"
+        },
+        {
+            "text": "Nacho Tacos",
+            "resource-id": "com.campbellskitchen.android:id/recipe_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1253,
+                1384,
+                1398
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3A393E",
+            "bounds_updated": [
+                392.0,
+                1287.6666666666667,
+                1053.3333333333333,
+                1369.0
+            ],
+            "text_updated": "Nacho Tacos",
+            "font_size": 15.746627793195806,
+            "id": "7991_12"
+        },
+        {
+            "iconClass": "share",
+            "resource-id": "com.campbellskitchen.android:id/menu_share",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1272,
+                98,
+                1440,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "7991_13"
+        },
+        {
+            "iconClass": "bookmark",
+            "resource-id": "com.campbellskitchen.android:id/menu_bookmark",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1104,
+                98,
+                1272,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "7991_14"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "componentLabel": "Icon",
+            "id": "7991_15"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.campbellskitchen.android:id/recipe_image",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                0,
+                84,
+                1440,
+                1218
+            ],
+            "componentLabel": "Image",
+            "id": "7991_16"
+        },
+        {
+            "iconClass": "sliders",
+            "ancestors": [
+                "android.support.design.widget.VisibilityAwareImageButton",
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.campbellskitchen.android:id/fab_cooking_mode",
+            "clickable": true,
+            "class": "android.support.design.widget.FloatingActionButton",
+            "bounds": [
+                1188,
+                2140,
+                1384,
+                2336
+            ],
+            "componentLabel": "Icon",
+            "id": "7991_17"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                56,
+                1253,
+                1384,
+                1934
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "7991_18",
+            "ui_comp_ids": [
+                "7991_9",
+                "7991_10",
+                "7991_11",
+                "7991_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1969,
+                1440,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#BF132B",
+            "id": "7991_19",
+            "ui_comp_ids": [
+                "7991_0",
+                "7991_1",
+                "7991_2",
+                "7991_3",
+                "7991_4",
+                "7991_5",
+                "7991_6",
+                "7991_7",
+                "7991_8",
+                "7991_17"
+            ],
+            "ui_comp_group_ids": [
+                "7991_21",
+                "7991_22",
+                "7991_23",
+                "7991_24",
+                "7991_25",
+                "7991_26"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#8D826E",
+            "id": "7991_20",
+            "ui_comp_ids": [
+                "7991_13",
+                "7991_14",
+                "7991_15"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2234,
+                1440,
+                2392
+            ],
+            "class": "com.campbellskitchen.android.ui.widget.CookingTimerView",
+            "bg_color": "#BF132B",
+            "id": "7991_21",
+            "ui_comp_ids": [
+                "7991_0",
+                "7991_2",
+                "7991_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                506,
+                2046,
+                935,
+                2345
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#BF132B",
+            "id": "7991_22",
+            "ui_comp_ids": [
+                "7991_0",
+                "7991_1",
+                "7991_7"
+            ],
+            "ui_comp_group_ids": [
+                "7991_25"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                77,
+                2046,
+                506,
+                2345
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#BF132B",
+            "id": "7991_23",
+            "ui_comp_ids": [
+                "7991_2",
+                "7991_3",
+                "7991_8"
+            ],
+            "ui_comp_group_ids": [
+                "7991_26"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                935,
+                2046,
+                1363,
+                2345
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#BF132B",
+            "id": "7991_24",
+            "ui_comp_ids": [
+                "7991_4",
+                "7991_5",
+                "7991_6"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                630,
+                2097,
+                811,
+                2345
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#BF132B",
+            "id": "7991_25",
+            "ui_comp_ids": [
+                "7991_0",
+                "7991_1"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                201,
+                2097,
+                382,
+                2345
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#BF132B",
+            "id": "7991_26",
+            "ui_comp_ids": [
+                "7991_2",
+                "7991_3"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

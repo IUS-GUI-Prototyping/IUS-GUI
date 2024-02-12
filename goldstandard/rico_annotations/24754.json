@@ -1,0 +1,865 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "ancestors": [
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/webViewAd",
+            "clickable": true,
+            "class": "android.webkit.WebView",
+            "bounds": [
+                20,
+                1640,
+                1420,
+                2224
+            ],
+            "componentLabel": "Web View",
+            "id": "24754_0"
+        },
+        {
+            "text": "Federally insured by NCUA | DCU is an Equal Housing Lender",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/textLabel",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                1505,
+                1440,
+                1614
+            ],
+            "componentLabel": "Text",
+            "text_color": "#747474",
+            "bounds_updated": [
+                260.0,
+                1546.3333333333333,
+                1182.6666666666665,
+                1583.6666666666667
+            ],
+            "text_updated": "Federally insured by NCUA | DCU is an Equal Housing Lender",
+            "font_size": 5.034293749870312,
+            "id": "24754_1"
+        },
+        {
+            "text": "Locator",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/textLabel",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                196,
+                1384,
+                1328,
+                1460
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1F1F1F",
+            "bounds_updated": [
+                201.33333333333334,
+                1404.0,
+                382.66666666666663,
+                1445.3333333333333
+            ],
+            "text_updated": "Locator",
+            "font_size": 10.711402192870132,
+            "id": "24754_2"
+        },
+        {
+            "iconClass": "location",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/iconRow",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                1380,
+                140,
+                1464
+            ],
+            "componentLabel": "Icon",
+            "id": "24754_3"
+        },
+        {
+            "text": "Rates",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/textLabel",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                196,
+                1217,
+                1328,
+                1293
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1E1E1E",
+            "bounds_updated": [
+                201.33333333333334,
+                1237.0,
+                334.66666666666663,
+                1277.0
+            ],
+            "text_updated": "Rates",
+            "font_size": 10.368858127659134,
+            "id": "24754_4"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/iconRow",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                1213,
+                140,
+                1297
+            ],
+            "componentLabel": "Image",
+            "id": "24754_5"
+        },
+        {
+            "text": "Contact Us",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/textLabel",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                196,
+                1050,
+                1328,
+                1126
+            ],
+            "componentLabel": "Text",
+            "text_color": "#252525",
+            "bounds_updated": [
+                200.0,
+                1068.6666666666667,
+                465.3333333333333,
+                1110.0
+            ],
+            "text_updated": "Contact Us",
+            "font_size": 10.67016535465867,
+            "id": "24754_6"
+        },
+        {
+            "iconClass": "call",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/iconRow",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                1046,
+                140,
+                1130
+            ],
+            "componentLabel": "Icon",
+            "id": "24754_7"
+        },
+        {
+            "text": "Apply for a Loan",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/textLabel",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                196,
+                883,
+                1328,
+                959
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1F1F1F",
+            "bounds_updated": [
+                197.33333333333334,
+                903.0,
+                592.0,
+                955.0
+            ],
+            "text_updated": "Apply for a Loan",
+            "font_size": 10.617076964633338,
+            "id": "24754_8"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/iconRow",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                879,
+                140,
+                963
+            ],
+            "componentLabel": "Image",
+            "id": "24754_9"
+        },
+        {
+            "text": "Open an Account",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/textLabel",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                196,
+                716,
+                1328,
+                792
+            ],
+            "componentLabel": "Text",
+            "text_color": "#232323",
+            "bounds_updated": [
+                198.66666666666666,
+                736.0,
+                616.0,
+                788.0
+            ],
+            "text_updated": "Open an Account",
+            "font_size": 10.705239920994542,
+            "id": "24754_10"
+        },
+        {
+            "iconClass": "shop",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/iconRow",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                712,
+                140,
+                796
+            ],
+            "componentLabel": "Icon",
+            "id": "24754_11"
+        },
+        {
+            "text": "Alerts and Messages",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/textLabel",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                196,
+                549,
+                1328,
+                625
+            ],
+            "componentLabel": "Text",
+            "text_color": "#212121",
+            "bounds_updated": [
+                197.33333333333334,
+                569.0,
+                708.0,
+                621.0
+            ],
+            "text_updated": "Alerts and Messages",
+            "font_size": 10.793276396106842,
+            "id": "24754_12"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/iconRow",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                545,
+                140,
+                629
+            ],
+            "componentLabel": "Image",
+            "id": "24754_13"
+        },
+        {
+            "text": "Not Logged In",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/labelUser",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                390,
+                1440,
+                473
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                0,
+                390,
+                1440,
+                473
+            ],
+            "text_updated": "Not Logged In",
+            "font_size": 12,
+            "id": "24754_14"
+        },
+        {
+            "text": "Good morning",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/labelWelcome",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                0,
+                283,
+                1440,
+                383
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                0,
+                283,
+                1440,
+                383
+            ],
+            "text_updated": "Good morning",
+            "font_size": 12,
+            "id": "24754_15"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/imageBackground",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                0,
+                252,
+                1440,
+                504
+            ],
+            "componentLabel": "Image",
+            "id": "24754_16"
+        },
+        {
+            "iconClass": "more",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatImageView",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1300,
+                2224,
+                1440,
+                2392
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton",
+            "componentLabel": "Icon",
+            "id": "24754_17"
+        },
+        {
+            "iconClass": "info",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1132,
+                2224,
+                1300,
+                2392
+            ],
+            "componentLabel": "Icon",
+            "id": "24754_18"
+        },
+        {
+            "text": "Login",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                935,
+                2224,
+                1132,
+                2392
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "login",
+            "bg_color": "#006E53",
+            "text_color": "#F4FFFF",
+            "bounds_text": [
+                935,
+                2224,
+                1132,
+                2392
+            ],
+            "text_updated": "Login",
+            "font_size": 12,
+            "id": "24754_19"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                56,
+                2266,
+                429,
+                2350
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "24754_20"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/imageWallpaper",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                0,
+                252,
+                1440,
+                2392
+            ],
+            "componentLabel": "Background Image",
+            "id": "24754_21"
+        },
+        {
+            "text": "Acct Mgr",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1092,
+                124,
+                1334,
+                211
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B9DED7",
+            "bounds_updated": [
+                1093.3333333333333,
+                161.33333333333331,
+                1332.0,
+                197.33333333333331
+            ],
+            "text_updated": "ACCT MGR",
+            "font_size": 9.95076985600414,
+            "id": "24754_22"
+        },
+        {
+            "text": "Deposit",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                841,
+                124,
+                1034,
+                211
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C0DDD9",
+            "bounds_updated": [
+                845.0,
+                161.33333333333331,
+                1033.0,
+                197.33333333333331
+            ],
+            "text_updated": "DEPOSIT",
+            "font_size": 9.654470590077164,
+            "id": "24754_23"
+        },
+        {
+            "text": "Pay",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                643,
+                124,
+                728,
+                211
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B6D9D2",
+            "bounds_updated": [
+                647.0,
+                161.33333333333331,
+                727.0,
+                197.33333333333331
+            ],
+            "text_updated": "PAY",
+            "font_size": 10.05150846210448,
+            "id": "24754_24"
+        },
+        {
+            "text": "Accounts",
+            "resource-id": "com.Vertifi.Mobile.P211391825:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                280,
+                124,
+                532,
+                211
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B9DFD4",
+            "bounds_updated": [
+                280,
+                124,
+                532,
+                211
+            ],
+            "text_updated": "Accounts",
+            "font_size": 12,
+            "id": "24754_25"
+        },
+        {
+            "ancestors": [
+                "android.widget.LinearLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.support.design.widget.TabLayout$TabView",
+            "bounds": [
+                0,
+                84,
+                252,
+                252
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "home",
+            "bg_color": "#006749",
+            "text_color": "#40D198",
+            "bounds_text": [
+                0,
+                162.66666666666666,
+                252.0,
+                252
+            ],
+            "text_updated": "HOME",
+            "font_size": 14.599203429225508,
+            "id": "24754_26"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                252,
+                1440,
+                2224
+            ],
+            "class": "android.support.v7.widget.RecyclerView",
+            "bg_color": "#FFFFFF",
+            "id": "24754_27",
+            "ui_comp_ids": [
+                "24754_0",
+                "24754_1",
+                "24754_2",
+                "24754_3",
+                "24754_4",
+                "24754_5",
+                "24754_6",
+                "24754_7",
+                "24754_8",
+                "24754_9",
+                "24754_10",
+                "24754_11",
+                "24754_12",
+                "24754_13",
+                "24754_14",
+                "24754_15",
+                "24754_16"
+            ],
+            "ui_comp_group_ids": [
+                "24754_28",
+                "24754_29",
+                "24754_32",
+                "24754_33",
+                "24754_34",
+                "24754_35",
+                "24754_36",
+                "24754_37"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1613,
+                1440,
+                2224
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "24754_28",
+            "ui_comp_ids": [
+                "24754_0"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                252,
+                1440,
+                504
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#ACACAC",
+            "id": "24754_29",
+            "ui_comp_ids": [
+                "24754_14",
+                "24754_15",
+                "24754_16"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Multi-Tab",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "android.support.design.widget.TabLayout$SlidingTabStrip",
+            "bg_color": "#006E53",
+            "id": "24754_30",
+            "ui_comp_ids": [
+                "24754_22",
+                "24754_23",
+                "24754_24",
+                "24754_25",
+                "24754_26"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                2224,
+                1440,
+                2392
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#006E53",
+            "id": "24754_31",
+            "ui_comp_ids": [
+                "24754_17",
+                "24754_18",
+                "24754_19",
+                "24754_20"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                503,
+                1440,
+                671
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "24754_32",
+            "ui_comp_ids": [
+                "24754_12",
+                "24754_13"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                670,
+                1440,
+                838
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "24754_33",
+            "ui_comp_ids": [
+                "24754_10",
+                "24754_11"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                837,
+                1440,
+                1005
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "24754_34",
+            "ui_comp_ids": [
+                "24754_8",
+                "24754_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1004,
+                1440,
+                1172
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "24754_35",
+            "ui_comp_ids": [
+                "24754_6",
+                "24754_7"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1171,
+                1440,
+                1339
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "24754_36",
+            "ui_comp_ids": [
+                "24754_4",
+                "24754_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1338,
+                1440,
+                1506
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "24754_37",
+            "ui_comp_ids": [
+                "24754_2",
+                "24754_3"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

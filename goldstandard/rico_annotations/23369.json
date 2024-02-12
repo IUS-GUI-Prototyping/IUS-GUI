@@ -1,0 +1,536 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "Directions",
+            "resource-id": "fr.recettetek:id/recipeHeader",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "fr.recettetek.widget.TextViewSizeAjust",
+            "bounds": [
+                38,
+                2143,
+                1402,
+                2209
+            ],
+            "componentLabel": "Text",
+            "text_color": "#9729A4",
+            "bounds_updated": [
+                42.0,
+                2160.3333333333335,
+                262.0,
+                2196.3333333333335
+            ],
+            "text_updated": "Directions",
+            "font_size": 9.618034651147239,
+            "id": "23369_0"
+        },
+        {
+            "text": "1/2 cup Marzetti\u00ae Poppyseed Dressing 10 slices Pre-cooked bacon 1 pkg. (6 oz.) Baby spinach leaves 3 Oranges, peeled and sectioned 1/2 cup Toasted walnut pieces 1/2 cup Gorgonzola or favorite blue cheese 1/2 Small red onion, sliced thin",
+            "resource-id": "fr.recettetek:id/ingredient",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "fr.recettetek.widget.TextViewSizeAjust",
+            "bounds": [
+                48,
+                1757,
+                1392,
+                2051
+            ],
+            "componentLabel": "Text",
+            "id": "23369_1"
+        },
+        {
+            "text": "Ingredients",
+            "resource-id": "fr.recettetek:id/ingredientHeader",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "fr.recettetek.widget.TextViewSizeAjust",
+            "bounds": [
+                38,
+                1603,
+                1402,
+                1669
+            ],
+            "componentLabel": "Text",
+            "text_color": "#9C27B3",
+            "bounds_updated": [
+                42.0,
+                1620.3333333333333,
+                286.0,
+                1665.6666666666667
+            ],
+            "text_updated": "Ingredients",
+            "font_size": 9.50047648343164,
+            "id": "23369_2"
+        },
+        {
+            "iconClass": "cart",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "fr.recettetek:id/btnShoppingList",
+            "clickable": true,
+            "class": "fr.recettetek.widget.FloatingActionButton",
+            "bounds": [
+                1217,
+                1585,
+                1420,
+                1788
+            ],
+            "componentLabel": "Icon",
+            "id": "23369_3"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "fr.recettetek:id/btnScale",
+            "clickable": true,
+            "class": "fr.recettetek.widget.FloatingActionButton",
+            "bounds": [
+                1014,
+                1585,
+                1217,
+                1788
+            ],
+            "componentLabel": "Image",
+            "id": "23369_4"
+        },
+        {
+            "text": "6",
+            "resource-id": "fr.recettetek:id/quantity",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "fr.recettetek.widget.TextViewSizeAjust",
+            "bounds": [
+                186,
+                1455,
+                214,
+                1521
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                186,
+                1455,
+                214,
+                1521
+            ],
+            "text_updated": "6",
+            "font_size": 12,
+            "id": "23369_5"
+        },
+        {
+            "text": "Yield : ",
+            "resource-id": "fr.recettetek:id/headerQuantity",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "fr.recettetek.widget.TextViewSizeAjust",
+            "bounds": [
+                38,
+                1455,
+                186,
+                1521
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                39.333333333333336,
+                1472.3333333333333,
+                171.33333333333331,
+                1508.3333333333333
+            ],
+            "text_updated": "Yield :",
+            "font_size": 9.54668093740941,
+            "id": "23369_6"
+        },
+        {
+            "text": "23 min",
+            "resource-id": "fr.recettetek:id/totalTime",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "fr.recettetek.widget.TextViewSizeAjust",
+            "bounds": [
+                185,
+                1389,
+                335,
+                1455
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                186.33333333333334,
+                1405.0,
+                331.66666666666663,
+                1441.0
+            ],
+            "text_updated": "23 min",
+            "font_size": 9.119788891426253,
+            "id": "23369_7"
+        },
+        {
+            "text": "Total : ",
+            "resource-id": "fr.recettetek:id/totalTimeHeader",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "fr.recettetek.widget.TextViewSizeAjust",
+            "bounds": [
+                38,
+                1389,
+                185,
+                1455
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                39.333333333333336,
+                1406.3333333333333,
+                170.0,
+                1441.0
+            ],
+            "text_updated": "Total :",
+            "font_size": 9.61068140583838,
+            "id": "23369_8"
+        },
+        {
+            "text": "3 min",
+            "resource-id": "fr.recettetek:id/cookingTime",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "fr.recettetek.widget.TextViewSizeAjust",
+            "bounds": [
+                258,
+                1323,
+                380,
+                1389
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                259.3333333333333,
+                1340.3333333333333,
+                376.66666666666663,
+                1376.3333333333333
+            ],
+            "text_updated": "3 min",
+            "font_size": 8.971277271498032,
+            "id": "23369_9"
+        },
+        {
+            "text": "Cooking : ",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "fr.recettetek.widget.TextViewSizeAjust",
+            "bounds": [
+                38,
+                1323,
+                258,
+                1389
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                40.666666666666664,
+                1340.3333333333333,
+                243.33333333333331,
+                1385.6666666666667
+            ],
+            "text_updated": "Cooking :",
+            "font_size": 9.537366290049565,
+            "id": "23369_10"
+        },
+        {
+            "text": "20 min",
+            "resource-id": "fr.recettetek:id/preparationTime",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "fr.recettetek.widget.TextViewSizeAjust",
+            "bounds": [
+                334,
+                1257,
+                484,
+                1323
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                336.6666666666667,
+                1273.0,
+                482.0,
+                1309.0
+            ],
+            "text_updated": "20 min",
+            "font_size": 9.226566673722616,
+            "id": "23369_11"
+        },
+        {
+            "text": "Preparation : ",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "fr.recettetek.widget.TextViewSizeAjust",
+            "bounds": [
+                38,
+                1257,
+                334,
+                1323
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                42.0,
+                1274.3333333333333,
+                319.3333333333333,
+                1318.3333333333333
+            ],
+            "text_updated": "Preparation :",
+            "font_size": 9.459227559019567,
+            "id": "23369_12"
+        },
+        {
+            "text": "Great as a starter or by itself, this classic salad combines spinach, bacon, oranges, walnuts, red onion, Gorgonzola cheese and Marzetti Poppyseed Dressing.",
+            "resource-id": "fr.recettetek:id/description",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "fr.recettetek.widget.TextViewSizeAjust",
+            "bounds": [
+                28,
+                1008,
+                1412,
+                1188
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                29.333333333333332,
+                1024.0,
+                1378.6666666666665,
+                1185.3333333333333
+            ],
+            "text_updated": "Great as a starter or by itself, this classic salad combines\nspinach, bacon, oranges, walnuts, red onion, Gorgonzola cheese\nand Marzetti Poppyseed Dressing.",
+            "font_size": 9.150004009183483,
+            "id": "23369_13"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "fr.recettetek:id/picture",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                0,
+                280,
+                1440,
+                980
+            ],
+            "componentLabel": "Image",
+            "id": "23369_14"
+        },
+        {
+            "iconClass": "more",
+            "resource-id": "fr.recettetek:id/menu_more",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1244,
+                98,
+                1440,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "23369_15"
+        },
+        {
+            "iconClass": "edit",
+            "resource-id": "fr.recettetek:id/menu_edit",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1048,
+                98,
+                1244,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "23369_16"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "componentLabel": "Icon",
+            "id": "23369_17"
+        },
+        {
+            "text": "Classic Spinach Salad Recipe",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                252,
+                135,
+                1020,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFBFF",
+            "bounds_updated": [
+                256.0,
+                159.0,
+                988.0,
+                224.33333333333331
+            ],
+            "text_updated": "Classic Spinach Salad...",
+            "font_size": 12.685074608861385,
+            "id": "23369_18"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Card",
+            "bounds": [
+                7,
+                1569,
+                1433,
+                2095
+            ],
+            "class": "android.support.v7.widget.CardView",
+            "bg_color": "#FFFFFF",
+            "id": "23369_19",
+            "ui_comp_ids": [
+                "23369_1",
+                "23369_2",
+                "23369_3",
+                "23369_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Card",
+            "bounds": [
+                7,
+                1223,
+                1433,
+                1555
+            ],
+            "class": "android.support.v7.widget.CardView",
+            "bg_color": "#FFFFFF",
+            "id": "23369_20",
+            "ui_comp_ids": [
+                "23369_5",
+                "23369_6",
+                "23369_7",
+                "23369_8",
+                "23369_9",
+                "23369_10",
+                "23369_11",
+                "23369_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#9C27B3",
+            "id": "23369_21",
+            "ui_comp_ids": [
+                "23369_15",
+                "23369_16",
+                "23369_17",
+                "23369_18"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

@@ -1,0 +1,416 @@
+{
+    "bg_color": "#FAFAFA",
+    "ui_comps": [
+        {
+            "text": "4:00 PM",
+            "resource-id": "com.freerecipes.cakerecipes:id/shopping_reminder_time_text",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                84,
+                1612,
+                1356,
+                1697
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                85.33333333333333,
+                1634.6666666666667,
+                310.66666666666663,
+                1680.0
+            ],
+            "text_updated": "4:00 PM",
+            "font_size": 12.004578529964848,
+            "id": "8162_0"
+        },
+        {
+            "text": "Time to show Shopping Reminder Notification",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                84,
+                1490,
+                1356,
+                1612
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6D6D6D",
+            "bounds_updated": [
+                85.33333333333333,
+                1506.0,
+                1078.6666666666665,
+                1551.3333333333333
+            ],
+            "text_updated": "Time to show Shopping Reminder Notification",
+            "font_size": 9.566405604500076,
+            "id": "8162_1"
+        },
+        {
+            "text": "",
+            "resource-id": "com.freerecipes.cakerecipes:id/shopping_reminder_checkbox",
+            "ancestors": [
+                "android.widget.CheckBox",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatCheckBox",
+            "bounds": [
+                1244,
+                1234,
+                1356,
+                1346
+            ],
+            "componentLabel": "Input",
+            "id": "8162_2"
+        },
+        {
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Shopping Reminder",
+            "bounds": [
+                84,
+                1247,
+                630,
+                1332
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                86.66666666666667,
+                1268.3333333333333,
+                629.3333333333333,
+                1327.0
+            ],
+            "text_updated": "Shopping Reminder",
+            "font_size": 11.812851232557795,
+            "id": "8162_3"
+        },
+        {
+            "text": "4:00 PM",
+            "resource-id": "com.freerecipes.cakerecipes:id/recipe_of_the_day_time_text",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                84,
+                1002,
+                1356,
+                1087
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                85.33333333333333,
+                1023.3333333333334,
+                310.66666666666663,
+                1068.6666666666667
+            ],
+            "text_updated": "4:00 PM",
+            "font_size": 12.004578529964848,
+            "id": "8162_4"
+        },
+        {
+            "text": "Time to get Recipe of the Day Notification",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                84,
+                880,
+                1356,
+                1002
+            ],
+            "componentLabel": "Text",
+            "text_color": "#707070",
+            "bounds_updated": [
+                85.33333333333333,
+                897.3333333333334,
+                985.3333333333333,
+                942.6666666666666
+            ],
+            "text_updated": "Time to get Recipe of the Day Notification",
+            "font_size": 9.435369143978416,
+            "id": "8162_5"
+        },
+        {
+            "text": "",
+            "resource-id": "com.freerecipes.cakerecipes:id/recipe_of_the_day_checkbox",
+            "ancestors": [
+                "android.widget.CheckBox",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatCheckBox",
+            "bounds": [
+                1244,
+                624,
+                1356,
+                736
+            ],
+            "componentLabel": "Input",
+            "id": "8162_6"
+        },
+        {
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Recipe of the Day",
+            "bounds": [
+                84,
+                624,
+                572,
+                709
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                89.33333333333333,
+                646.6666666666666,
+                570.6666666666666,
+                704.0
+            ],
+            "text_updated": "Recipe of the Day",
+            "font_size": 11.63870951950422,
+            "id": "8162_7"
+        },
+        {
+            "text": "EN",
+            "resource-id": "com.freerecipes.cakerecipes:id/language_abbreviation",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1275,
+                364,
+                1356,
+                449
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                1280.3333333333333,
+                386.6666666666667,
+                1351.0,
+                430.66666666666663
+            ],
+            "text_updated": "EN",
+            "font_size": 11.310926634124128,
+            "id": "8162_8"
+        },
+        {
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Change language",
+            "bounds": [
+                84,
+                364,
+                569,
+                449
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                88.0,
+                385.3333333333333,
+                566.6666666666666,
+                449
+            ],
+            "text_updated": "Change language",
+            "font_size": 11.625641546670117,
+            "id": "8162_9"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "8162_10"
+        },
+        {
+            "text": "Settings",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                210,
+                135,
+                469,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFBFF",
+            "bounds_updated": [
+                212.66666666666666,
+                159.0,
+                466.0,
+                224.33333333333331
+            ],
+            "text_updated": "Settings",
+            "font_size": 12.676412137224563,
+            "id": "8162_11"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1434,
+                1440,
+                1753
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "8162_12",
+            "ui_comp_ids": [
+                "8162_0",
+                "8162_1"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                824,
+                1440,
+                1143
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "8162_13",
+            "ui_comp_ids": [
+                "8162_4",
+                "8162_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1150,
+                1440,
+                1430
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "8162_14",
+            "ui_comp_ids": [
+                "8162_2",
+                "8162_3"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                540,
+                1440,
+                820
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "8162_15",
+            "ui_comp_ids": [
+                "8162_6",
+                "8162_7"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                533
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "8162_16",
+            "ui_comp_ids": [
+                "8162_8",
+                "8162_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#FE5722",
+            "id": "8162_17",
+            "ui_comp_ids": [
+                "8162_10",
+                "8162_11"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

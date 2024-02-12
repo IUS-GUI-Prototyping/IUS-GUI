@@ -1,0 +1,1188 @@
+{
+    "bg_color": "#FAFAFA",
+    "ui_comps": [
+        {
+            "text": "four",
+            "resource-id": "com.financial.calculator:id/rbFour",
+            "ancestors": [
+                "android.widget.RadioButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatRadioButton",
+            "bounds": [
+                816,
+                1320,
+                1023,
+                1432
+            ],
+            "componentLabel": "Radio Button",
+            "id": "20595_0"
+        },
+        {
+            "text": "three",
+            "resource-id": "com.financial.calculator:id/rbThree",
+            "ancestors": [
+                "android.widget.RadioButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatRadioButton",
+            "bounds": [
+                584,
+                1320,
+                816,
+                1432
+            ],
+            "componentLabel": "Radio Button",
+            "id": "20595_1"
+        },
+        {
+            "text": "two",
+            "resource-id": "com.financial.calculator:id/rbTwo",
+            "ancestors": [
+                "android.widget.RadioButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatRadioButton",
+            "bounds": [
+                385,
+                1320,
+                584,
+                1432
+            ],
+            "componentLabel": "Radio Button",
+            "id": "20595_2"
+        },
+        {
+            "text": "Beginning",
+            "resource-id": "com.financial.calculator:id/rbBegin",
+            "ancestors": [
+                "android.widget.RadioButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatRadioButton",
+            "bounds": [
+                586,
+                1208,
+                932,
+                1320
+            ],
+            "componentLabel": "Radio Button",
+            "id": "20595_3"
+        },
+        {
+            "text": "End",
+            "resource-id": "com.financial.calculator:id/rbEnd",
+            "ancestors": [
+                "android.widget.RadioButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatRadioButton",
+            "bounds": [
+                385,
+                1208,
+                586,
+                1320
+            ],
+            "componentLabel": "Radio Button",
+            "id": "20595_4"
+        },
+        {
+            "ancestors": [
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                160,
+                2217,
+                1280,
+                2392
+            ],
+            "clickable": true,
+            "class": "com.google.android.gms.ads.internal.webview.m",
+            "componentLabel": "Web View",
+            "id": "20595_5"
+        },
+        {
+            "text": "Save",
+            "resource-id": "com.financial.calculator:id/save",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                935,
+                1612,
+                1285,
+                1753
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "save",
+            "bg_color": "#599B44",
+            "text_color": "#F5FFEF",
+            "bounds_text": [
+                1044.3333333333333,
+                1665.3333333333333,
+                1175.0,
+                1705.3333333333333
+            ],
+            "text_updated": "SAVE",
+            "font_size": 10.741323042874996,
+            "id": "20595_6"
+        },
+        {
+            "text": "History",
+            "resource-id": "com.financial.calculator:id/history",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                518,
+                1612,
+                921,
+                1753
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "history",
+            "bg_color": "#589FE1",
+            "text_color": "#F1FFFF",
+            "bounds_text": [
+                611.3333333333334,
+                1665.3333333333333,
+                830.0,
+                1705.3333333333333
+            ],
+            "text_updated": "HISTORY",
+            "font_size": 10.788496107465512,
+            "id": "20595_7"
+        },
+        {
+            "text": "Example",
+            "resource-id": "com.financial.calculator:id/example",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                154,
+                1612,
+                504,
+                1753
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#1976C4",
+            "text_color": "#F7FFFF",
+            "bounds_text": [
+                210.0,
+                1665.3333333333333,
+                447.3333333333333,
+                1705.3333333333333
+            ],
+            "text_updated": "EXAMPLE",
+            "font_size": 10.868965453004357,
+            "id": "20595_8"
+        },
+        {
+            "text": "Email",
+            "resource-id": "com.financial.calculator:id/email",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                935,
+                1439,
+                1285,
+                1580
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "email",
+            "bg_color": "#599B43",
+            "text_color": "#FFFEFF",
+            "bounds_text": [
+                1033.6666666666667,
+                1492.3333333333333,
+                1185.6666666666667,
+                1529.6666666666667
+            ],
+            "text_updated": "EMAIL",
+            "font_size": 10.688315712017356,
+            "id": "20595_9"
+        },
+        {
+            "text": "Instruction",
+            "resource-id": "com.financial.calculator:id/instruction",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                518,
+                1439,
+                921,
+                1580
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#599B43",
+            "text_color": "#FCFFFF",
+            "bounds_text": [
+                550.0,
+                1492.3333333333333,
+                888.6666666666666,
+                1529.6666666666667
+            ],
+            "text_updated": "INSTRUCTION",
+            "font_size": 10.489931249482973,
+            "id": "20595_10"
+        },
+        {
+            "text": "Reset",
+            "resource-id": "com.financial.calculator:id/reset",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                154,
+                1439,
+                504,
+                1580
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "default",
+            "bg_color": "#227CCA",
+            "text_color": "#F8FFFF",
+            "bounds_text": [
+                250.0,
+                1492.3333333333333,
+                407.3333333333333,
+                1529.6666666666667
+            ],
+            "text_updated": "RESET",
+            "font_size": 10.420499336810986,
+            "id": "20595_11"
+        },
+        {
+            "text": "Decimal Digit",
+            "resource-id": "com.financial.calculator:id/decimal",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                1340,
+                385,
+                1411
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6D6D6D",
+            "bounds_updated": [
+                72.0,
+                1358.6666666666667,
+                384.0,
+                1409.3333333333333
+            ],
+            "text_updated": "Decimal Digit",
+            "font_size": 9.488934171053387,
+            "id": "20595_12"
+        },
+        {
+            "text": "Mode ",
+            "resource-id": "com.financial.calculator:id/mode",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                1228,
+                385,
+                1299
+            ],
+            "componentLabel": "Text",
+            "text_color": "#727272",
+            "bounds_updated": [
+                240.0,
+                1246.6666666666667,
+                370.66666666666663,
+                1286.6666666666667
+            ],
+            "text_updated": "Mode",
+            "font_size": 10.0493009565857,
+            "id": "20595_13"
+        },
+        {
+            "resource-id": "com.financial.calculator:id/paymentSpinner",
+            "ancestors": [
+                "android.widget.Spinner",
+                "android.widget.AbsSpinner",
+                "android.widget.AdapterView",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatSpinner",
+            "bounds": [
+                385,
+                1106,
+                980,
+                1190
+            ],
+            "componentLabel": "Text Button",
+            "text": "Monthly",
+            "bg_color": "#FAFAFA",
+            "text_color": "#1E1E1E",
+            "bounds_text": [
+                417.0,
+                1130.0,
+                614.3333333333333,
+                1180.6666666666667
+            ],
+            "text_updated": "Monthly",
+            "font_size": 10.377998901850033,
+            "id": "20595_14"
+        },
+        {
+            "text": "Compounding ",
+            "resource-id": "com.financial.calculator:id/compoundMethod",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                1114,
+                385,
+                1185
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6F6F6F",
+            "bounds_updated": [
+                40.0,
+                1130.0,
+                370.66666666666663,
+                1180.6666666666667
+            ],
+            "text_updated": "Compounding",
+            "font_size": 9.853078243806703,
+            "id": "20595_15"
+        },
+        {
+            "text": "Period",
+            "resource-id": "com.financial.calculator:id/periods",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                882,
+                948,
+                1127,
+                1088
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#69BD4D",
+            "text_color": "#FFFBFF",
+            "bounds_text": [
+                914.0,
+                998.6666666666666,
+                1095.3333333333333,
+                1038.6666666666667
+            ],
+            "text_updated": "PERIOD",
+            "font_size": 10.12085178003,
+            "id": "20595_16"
+        },
+        {
+            "text": "",
+            "resource-id": "com.financial.calculator:id/periodInput",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatEditText",
+            "bounds": [
+                385,
+                930,
+                875,
+                1088
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FAFAFA",
+            "text_color": "#989898",
+            "bounds_text": [
+                385,
+                930,
+                875,
+                1088
+            ],
+            "text_updated": "\f",
+            "font_size": 12,
+            "id": "20595_17"
+        },
+        {
+            "text": "Periods ",
+            "resource-id": "com.financial.calculator:id/period",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                976,
+                385,
+                1047
+            ],
+            "componentLabel": "Text",
+            "text_color": "#717171",
+            "bounds_updated": [
+                192.0,
+                994.6666666666666,
+                370.66666666666663,
+                1032.0
+            ],
+            "text_updated": "Periods",
+            "font_size": 10.267571165182632,
+            "id": "20595_18"
+        },
+        {
+            "text": "Rate",
+            "resource-id": "com.financial.calculator:id/rate",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                882,
+                790,
+                1127,
+                930
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "rate",
+            "bg_color": "#549841",
+            "text_color": "#FEFFFF",
+            "bounds_text": [
+                940.6666666666666,
+                843.3333333333334,
+                1068.6666666666667,
+                880.6666666666666
+            ],
+            "text_updated": "RATE",
+            "font_size": 10.858719646799097,
+            "id": "20595_19"
+        },
+        {
+            "text": "",
+            "resource-id": "com.financial.calculator:id/rateInput",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatEditText",
+            "bounds": [
+                385,
+                772,
+                875,
+                930
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FAFAFA",
+            "text_color": "#858585",
+            "bounds_text": [
+                385,
+                772,
+                875,
+                930
+            ],
+            "text_updated": "\f",
+            "font_size": 12,
+            "id": "20595_20"
+        },
+        {
+            "text": "Annual Rate% ",
+            "resource-id": "com.financial.calculator:id/interestRate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                818,
+                385,
+                889
+            ],
+            "componentLabel": "Text",
+            "text_color": "#757575",
+            "bounds_updated": [
+                45.33333333333333,
+                836.6666666666666,
+                370.66666666666663,
+                874.0
+            ],
+            "text_updated": "Annual Rate%",
+            "font_size": 9.471500537725701,
+            "id": "20595_21"
+        },
+        {
+            "text": "FV",
+            "resource-id": "com.financial.calculator:id/FV",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                882,
+                632,
+                1127,
+                772
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#5CA549",
+            "text_color": "#FBFFFA",
+            "bounds_text": [
+                972.6666666666666,
+                685.3333333333334,
+                1034.0,
+                722.6666666666666
+            ],
+            "text_updated": "FV",
+            "font_size": 10.467065441857187,
+            "id": "20595_22"
+        },
+        {
+            "text": "",
+            "resource-id": "com.financial.calculator:id/fvInput",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatEditText",
+            "bounds": [
+                385,
+                614,
+                875,
+                772
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FAFAFA",
+            "text_color": "#707070",
+            "bounds_text": [
+                385,
+                614,
+                875,
+                772
+            ],
+            "text_updated": "\f",
+            "font_size": 12,
+            "id": "20595_23"
+        },
+        {
+            "text": "Future Value ",
+            "resource-id": "com.financial.calculator:id/futureValue",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                660,
+                385,
+                731
+            ],
+            "componentLabel": "Text",
+            "text_color": "#717171",
+            "bounds_updated": [
+                72.0,
+                676.0,
+                370.66666666666663,
+                716.0
+            ],
+            "text_updated": "Future Value",
+            "font_size": 9.897195430908043,
+            "id": "20595_24"
+        },
+        {
+            "text": "PMT",
+            "resource-id": "com.financial.calculator:id/PMT",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                882,
+                474,
+                1127,
+                614
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#51963B",
+            "text_color": "#FFFFFA",
+            "bounds_text": [
+                951.3333333333334,
+                527.3333333333334,
+                1060.6666666666667,
+                564.6666666666666
+            ],
+            "text_updated": "PMT",
+            "font_size": 11.237438483504494,
+            "id": "20595_25"
+        },
+        {
+            "text": "",
+            "resource-id": "com.financial.calculator:id/pmtInput",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatEditText",
+            "bounds": [
+                385,
+                456,
+                875,
+                614
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FAFAFA",
+            "text_color": "#868686",
+            "bounds_text": [
+                385,
+                456,
+                875,
+                614
+            ],
+            "text_updated": "\f",
+            "font_size": 12,
+            "id": "20595_26"
+        },
+        {
+            "text": "Payment ",
+            "resource-id": "com.financial.calculator:id/monthlyPayment",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                502,
+                385,
+                573
+            ],
+            "componentLabel": "Text",
+            "text_color": "#707070",
+            "bounds_updated": [
+                162.66666666666666,
+                520.6666666666666,
+                370.66666666666663,
+                571.3333333333334
+            ],
+            "text_updated": "Payment",
+            "font_size": 9.862512028074942,
+            "id": "20595_27"
+        },
+        {
+            "text": "PV",
+            "resource-id": "com.financial.calculator:id/PV",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                882,
+                316,
+                1127,
+                456
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#559C3E",
+            "text_color": "#F0FFE8",
+            "bounds_text": [
+                970.0,
+                369.3333333333333,
+                1036.6666666666667,
+                409.3333333333333
+            ],
+            "text_updated": "PV",
+            "font_size": 10.932303164091232,
+            "id": "20595_28"
+        },
+        {
+            "text": "",
+            "resource-id": "com.financial.calculator:id/pvInput",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatEditText",
+            "bounds": [
+                385,
+                298,
+                875,
+                456
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FAFAFA",
+            "text_color": "#1D9480",
+            "bounds_text": [
+                385,
+                298,
+                875,
+                456
+            ],
+            "text_updated": "\f",
+            "font_size": 12,
+            "id": "20595_29"
+        },
+        {
+            "text": "Present Value ",
+            "resource-id": "com.financial.calculator:id/presentValue",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                344,
+                385,
+                415
+            ],
+            "componentLabel": "Text",
+            "text_color": "#717171",
+            "bounds_updated": [
+                40.0,
+                362.6666666666667,
+                370.66666666666663,
+                400.0
+            ],
+            "text_updated": "Present Value",
+            "font_size": 10.088545499141523,
+            "id": "20595_30"
+        },
+        {
+            "text": "Advanced",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.internal.view.menu.ActionMenuItemView",
+            "bounds": [
+                1130,
+                98,
+                1440,
+                266
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "advanced",
+            "bg_color": "#53933F",
+            "text_color": "#E9FFDF",
+            "bounds_text": [
+                1159.3333333333333,
+                164.66666666666666,
+                1410.0,
+                202.0
+            ],
+            "text_updated": "ADVANCED",
+            "font_size": 9.1721619775497,
+            "id": "20595_31"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "20595_32"
+        },
+        {
+            "text": "TVM Calculator",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                210,
+                135,
+                697,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFA",
+            "bounds_updated": [
+                210,
+                135,
+                697,
+                228
+            ],
+            "text_updated": "TVM Calculator",
+            "font_size": 12,
+            "id": "20595_33"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.internal.widget.ActionBarContainer",
+            "bg_color": "#53933F",
+            "id": "20595_34",
+            "ui_comp_ids": [
+                "20595_31",
+                "20595_32",
+                "20595_33"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                456
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "20595_35",
+            "ui_comp_ids": [
+                "20595_28",
+                "20595_29",
+                "20595_30"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                147,
+                1587,
+                1292,
+                1760
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#589FE1",
+            "id": "20595_36",
+            "ui_comp_ids": [
+                "20595_6",
+                "20595_7",
+                "20595_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                930,
+                1134,
+                1088
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "20595_37",
+            "ui_comp_ids": [
+                "20595_16",
+                "20595_17",
+                "20595_18"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                772,
+                1134,
+                930
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "20595_38",
+            "ui_comp_ids": [
+                "20595_19",
+                "20595_20",
+                "20595_21"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                614,
+                1134,
+                772
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "20595_39",
+            "ui_comp_ids": [
+                "20595_22",
+                "20595_23",
+                "20595_24"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                456,
+                1134,
+                614
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "20595_40",
+            "ui_comp_ids": [
+                "20595_25",
+                "20595_26",
+                "20595_27"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                147,
+                1432,
+                1292,
+                1587
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#599B43",
+            "id": "20595_41",
+            "ui_comp_ids": [
+                "20595_9",
+                "20595_10",
+                "20595_11"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1088,
+                1440,
+                1208
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "20595_42",
+            "ui_comp_ids": [
+                "20595_14",
+                "20595_15"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1320,
+                1440,
+                1432
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "20595_43",
+            "ui_comp_ids": [
+                "20595_0",
+                "20595_1",
+                "20595_2",
+                "20595_12"
+            ],
+            "ui_comp_group_ids": [
+                "20595_45"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1208,
+                1440,
+                1320
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "20595_44",
+            "ui_comp_ids": [
+                "20595_3",
+                "20595_4",
+                "20595_13"
+            ],
+            "ui_comp_group_ids": [
+                "20595_46"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                385,
+                1320,
+                1023,
+                1432
+            ],
+            "class": "android.widget.RadioGroup",
+            "bg_color": "#FAFAFA",
+            "id": "20595_45",
+            "ui_comp_ids": [
+                "20595_0",
+                "20595_1",
+                "20595_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                385,
+                1208,
+                932,
+                1320
+            ],
+            "class": "android.widget.RadioGroup",
+            "bg_color": "#FAFAFA",
+            "id": "20595_46",
+            "ui_comp_ids": [
+                "20595_3",
+                "20595_4"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

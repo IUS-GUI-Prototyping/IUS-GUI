@@ -1,0 +1,1619 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1389,
+                984,
+                1440,
+                1054
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "15764_0"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1249,
+                984,
+                1319,
+                1054
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "15764_1"
+        },
+        {
+            "iconClass": "close",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1109,
+                984,
+                1179,
+                1054
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Icon",
+            "id": "15764_2"
+        },
+        {
+            "iconClass": "twitter",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                969,
+                984,
+                1039,
+                1054
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Icon",
+            "id": "15764_3"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                829,
+                984,
+                899,
+                1054
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "15764_4"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                689,
+                984,
+                759,
+                1054
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "15764_5"
+        },
+        {
+            "iconClass": "close",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                549,
+                984,
+                619,
+                1054
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Icon",
+            "id": "15764_6"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                409,
+                984,
+                479,
+                1054
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "15764_7"
+        },
+        {
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                0,
+                949,
+                374,
+                1089
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "text": "ALL\nSPORTS",
+            "bg_color": "#FFFFFF",
+            "text_color": "#151515",
+            "bounds_text": [
+                102.66666666666666,
+                975.6666666666666,
+                272.0,
+                1065.0
+            ],
+            "text_updated": "ALL\n\nSPORTS",
+            "font_size": 9.750248885426132,
+            "id": "15764_8"
+        },
+        {
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                720,
+                805,
+                1440,
+                945
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "gallery",
+            "bg_color": "#FFFFFF",
+            "text_color": "#898989",
+            "bounds_text": [
+                720,
+                805,
+                1440,
+                945
+            ],
+            "text_updated": "gallery",
+            "font_size": 12,
+            "id": "15764_9"
+        },
+        {
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                0,
+                805,
+                720,
+                945
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "text": "GAMES",
+            "bg_color": "#FFFFFF",
+            "text_color": "#121212",
+            "bounds_text": [
+                276.0,
+                857.0,
+                446.66666666666663,
+                895.6666666666666
+            ],
+            "text_updated": "GAMES",
+            "font_size": 10.525905726529034,
+            "id": "15764_10"
+        },
+        {
+            "text": "NFL - 8/13/2016, 2:00 AM",
+            "resource-id": "com.scorestream.scorestream:id/sportDesc",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                123,
+                1979,
+                621,
+                2036
+            ],
+            "componentLabel": "Text",
+            "text_color": "#929292",
+            "bounds_updated": [
+                127.0,
+                1993.6666666666667,
+                604.3333333333333,
+                2029.6666666666667
+            ],
+            "text_updated": "NFL - 8/13/2016, 2:00 AM",
+            "font_size": 7.965006949554409,
+            "id": "15764_11"
+        },
+        {
+            "text": "Final",
+            "resource-id": "com.scorestream.scorestream:id/period",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1297,
+                2172,
+                1394,
+                2234
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A5A5A5",
+            "bounds_updated": [
+                1299.6666666666667,
+                2188.0,
+                1390.3333333333333,
+                2221.3333333333335
+            ],
+            "text_updated": "Final",
+            "font_size": 8.511267981466663,
+            "id": "15764_12"
+        },
+        {
+            "text": "10",
+            "resource-id": "com.scorestream.scorestream:id/homeScore",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1302,
+                2227,
+                1394,
+                2334
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                1302,
+                2227,
+                1394,
+                2334
+            ],
+            "text_updated": "10",
+            "font_size": 12,
+            "id": "15764_13"
+        },
+        {
+            "text": "31",
+            "resource-id": "com.scorestream.scorestream:id/awayScore",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1302,
+                2065,
+                1394,
+                2172
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                1304.6666666666667,
+                2091.6666666666665,
+                1379.3333333333333,
+                2150.3333333333335
+            ],
+            "text_updated": "31",
+            "font_size": 12.339465293107658,
+            "id": "15764_14"
+        },
+        {
+            "text": "Glendale, AZ",
+            "resource-id": "com.scorestream.scorestream:id/homeLocation",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                2285,
+                456,
+                2347
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A6A6A6",
+            "bounds_updated": [
+                203.66666666666666,
+                2301.0,
+                453.0,
+                2339.6666666666665
+            ],
+            "text_updated": "Glendale, AZ",
+            "font_size": 8.32082413539368,
+            "id": "15764_15"
+        },
+        {
+            "text": "Arizona Cardinals",
+            "resource-id": "com.scorestream.scorestream:id/homeName",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                2227,
+                1076,
+                2298
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2D2D2D",
+            "bounds_updated": [
+                201,
+                2245.6666666666665,
+                542.3333333333333,
+                2284.3333333333335
+            ],
+            "text_updated": "Arizona Cardinals",
+            "font_size": 8.330215204814651,
+            "id": "15764_16"
+        },
+        {
+            "text": "Oakland, CA",
+            "resource-id": "com.scorestream.scorestream:id/awayLocation",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                2123,
+                448,
+                2185
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A5A5A5",
+            "bounds_updated": [
+                203.66666666666666,
+                2139.0,
+                447.66666666666663,
+                2179.0
+            ],
+            "text_updated": "Oakland, CA",
+            "font_size": 8.535446748452944,
+            "id": "15764_17"
+        },
+        {
+            "text": "Oakland Raiders",
+            "resource-id": "com.scorestream.scorestream:id/awayName",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                2065,
+                1076,
+                2136
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2B2B2B",
+            "bounds_updated": [
+                203.66666666666666,
+                2082.3333333333335,
+                525.0,
+                2121.0
+            ],
+            "text_updated": "Oakland Raiders",
+            "font_size": 8.402140777608674,
+            "id": "15764_18"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.scorestream.scorestream:id/sportIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                36,
+                1979,
+                92,
+                2035
+            ],
+            "componentLabel": "Image",
+            "id": "15764_19"
+        },
+        {
+            "text": "NFL - 8/19/2016, 12:00 AM",
+            "resource-id": "com.scorestream.scorestream:id/sportDesc",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                123,
+                1568,
+                645,
+                1625
+            ],
+            "componentLabel": "Text",
+            "text_color": "#919191",
+            "bounds_updated": [
+                127.0,
+                1582.6666666666667,
+                628.3333333333333,
+                1618.6666666666667
+            ],
+            "text_updated": "NFL - 8/19/2016, 12:00 AM",
+            "font_size": 7.96814024636525,
+            "id": "15764_20"
+        },
+        {
+            "text": "Final",
+            "resource-id": "com.scorestream.scorestream:id/period",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1297,
+                1761,
+                1394,
+                1823
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A8A8A8",
+            "bounds_updated": [
+                1299.6666666666667,
+                1777.0,
+                1390.3333333333333,
+                1810.3333333333333
+            ],
+            "text_updated": "Final",
+            "font_size": 8.511267981466663,
+            "id": "15764_21"
+        },
+        {
+            "text": "20",
+            "resource-id": "com.scorestream.scorestream:id/homeScore",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1302,
+                1816,
+                1394,
+                1923
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                1306.0,
+                1842.6666666666667,
+                1391.3333333333333,
+                1901.3333333333333
+            ],
+            "text_updated": "20",
+            "font_size": 13.296108730467877,
+            "id": "15764_22"
+        },
+        {
+            "text": "12",
+            "resource-id": "com.scorestream.scorestream:id/awayScore",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1302,
+                1654,
+                1394,
+                1761
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                1302,
+                1654,
+                1394,
+                1761
+            ],
+            "text_updated": "12",
+            "font_size": 12,
+            "id": "15764_23"
+        },
+        {
+            "text": "Green Bay, WI",
+            "resource-id": "com.scorestream.scorestream:id/homeLocation",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                1874,
+                480,
+                1936
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2B2B2B",
+            "bounds_updated": [
+                203.66666666666666,
+                1888.6666666666667,
+                475.66666666666663,
+                1936
+            ],
+            "text_updated": "Green Bay, WI",
+            "font_size": 8.070813314288202,
+            "id": "15764_24"
+        },
+        {
+            "text": "Green Bay Packers",
+            "resource-id": "com.scorestream.scorestream:id/homeName",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                1816,
+                1076,
+                1887
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2B2B2B",
+            "bounds_updated": [
+                203.66666666666666,
+                1833.3333333333333,
+                579.6666666666666,
+                1884.0
+            ],
+            "text_updated": "Green Bay Packers",
+            "font_size": 8.677531977517894,
+            "id": "15764_25"
+        },
+        {
+            "text": "Oakland, CA",
+            "resource-id": "com.scorestream.scorestream:id/awayLocation",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                1712,
+                448,
+                1774
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A3A3A3",
+            "bounds_updated": [
+                203.66666666666666,
+                1728.0,
+                447.66666666666663,
+                1766.6666666666667
+            ],
+            "text_updated": "Oakland, CA",
+            "font_size": 8.535446748452944,
+            "id": "15764_26"
+        },
+        {
+            "text": "Oakland Raiders",
+            "resource-id": "com.scorestream.scorestream:id/awayName",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                1654,
+                1076,
+                1725
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2B2B2B",
+            "bounds_updated": [
+                203.66666666666666,
+                1672.6666666666667,
+                525.0,
+                1711.3333333333333
+            ],
+            "text_updated": "Oakland Raiders",
+            "font_size": 8.402140777608674,
+            "id": "15764_27"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.scorestream.scorestream:id/sportIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                36,
+                1568,
+                92,
+                1624
+            ],
+            "componentLabel": "Image",
+            "id": "15764_28"
+        },
+        {
+            "text": "NFL - 8/28/2016, 12:00 AM",
+            "resource-id": "com.scorestream.scorestream:id/sportDesc",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                123,
+                1157,
+                645,
+                1214
+            ],
+            "componentLabel": "Text",
+            "text_color": "#919191",
+            "bounds_updated": [
+                127.0,
+                1171.6666666666667,
+                628.3333333333333,
+                1207.6666666666667
+            ],
+            "text_updated": "NFL - 8/28/2016, 12:00 AM",
+            "font_size": 7.958740355932725,
+            "id": "15764_29"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.scorestream.scorestream:id/post_icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1366,
+                1168,
+                1408,
+                1210
+            ],
+            "componentLabel": "Image",
+            "id": "15764_30"
+        },
+        {
+            "text": "1",
+            "resource-id": "com.scorestream.scorestream:id/post_count",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1335,
+                1156,
+                1359,
+                1213
+            ],
+            "componentLabel": "Text",
+            "text_color": "#989898",
+            "bounds_updated": [
+                1335,
+                1156,
+                1359,
+                1213
+            ],
+            "text_updated": "1",
+            "font_size": 12,
+            "id": "15764_31"
+        },
+        {
+            "text": "Final",
+            "resource-id": "com.scorestream.scorestream:id/period",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1297,
+                1350,
+                1394,
+                1412
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A5A5A5",
+            "bounds_updated": [
+                1299.6666666666667,
+                1366.0,
+                1390.3333333333333,
+                1400.6666666666667
+            ],
+            "text_updated": "Final",
+            "font_size": 8.511267981466663,
+            "id": "15764_32"
+        },
+        {
+            "text": "14",
+            "resource-id": "com.scorestream.scorestream:id/homeScore",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1302,
+                1405,
+                1394,
+                1512
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                1302,
+                1405,
+                1394,
+                1512
+            ],
+            "text_updated": "14",
+            "font_size": 12,
+            "id": "15764_33"
+        },
+        {
+            "text": "27",
+            "resource-id": "com.scorestream.scorestream:id/awayScore",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1302,
+                1243,
+                1394,
+                1350
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                1306.0,
+                1269.6666666666667,
+                1391.3333333333333,
+                1328.3333333333333
+            ],
+            "text_updated": "27",
+            "font_size": 13.24070467038911,
+            "id": "15764_34"
+        },
+        {
+            "text": "Oakland, CA",
+            "resource-id": "com.scorestream.scorestream:id/homeLocation",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                1463,
+                448,
+                1525
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A4A4A4",
+            "bounds_updated": [
+                203.66666666666666,
+                1479.0,
+                446.3333333333333,
+                1519.0
+            ],
+            "text_updated": "Oakland, CA",
+            "font_size": 8.488267516965097,
+            "id": "15764_35"
+        },
+        {
+            "text": "Oakland Raiders",
+            "resource-id": "com.scorestream.scorestream:id/homeName",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                1405,
+                1076,
+                1476
+            ],
+            "componentLabel": "Text",
+            "text_color": "#292929",
+            "bounds_updated": [
+                203.66666666666666,
+                1422.3333333333333,
+                525.0,
+                1461.0
+            ],
+            "text_updated": "Oakland Raiders",
+            "font_size": 8.402140777608674,
+            "id": "15764_36"
+        },
+        {
+            "text": "Nashville, TN",
+            "resource-id": "com.scorestream.scorestream:id/awayLocation",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                1301,
+                467,
+                1363
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A0A0A0",
+            "bounds_updated": [
+                203.66666666666666,
+                1317.0,
+                462.3333333333333,
+                1355.6666666666667
+            ],
+            "text_updated": "Nashville, TN",
+            "font_size": 8.52665342731569,
+            "id": "15764_37"
+        },
+        {
+            "text": "Tennessee Titans",
+            "resource-id": "com.scorestream.scorestream:id/awayName",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                1243,
+                1076,
+                1314
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2F2F2F",
+            "bounds_updated": [
+                201,
+                1261.6666666666667,
+                562.3333333333333,
+                1300.3333333333333
+            ],
+            "text_updated": "Tennessee Titans",
+            "font_size": 9.211555669701742,
+            "id": "15764_38"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.scorestream.scorestream:id/sportIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                36,
+                1157,
+                92,
+                1213
+            ],
+            "componentLabel": "Image",
+            "id": "15764_39"
+        },
+        {
+            "text": "Oakland, CA",
+            "resource-id": "com.scorestream.scorestream:id/homeLocation",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                201,
+                1093,
+                448,
+                1114
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A5A5A5",
+            "bounds_updated": [
+                201,
+                1093,
+                448,
+                1114
+            ],
+            "text_updated": "Oakland, CA",
+            "font_size": 12,
+            "id": "15764_40"
+        },
+        {
+            "text": "Home of the Raiders",
+            "resource-id": "com.scorestream.scorestream:id/mascot",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                88,
+                455,
+                662,
+                540
+            ],
+            "componentLabel": "Text",
+            "text_color": "#141414",
+            "bounds_updated": [
+                93.33333333333333,
+                477.6666666666667,
+                661.3333333333333,
+                540
+            ],
+            "text_updated": "Home of-the'Raiders",
+            "font_size": 11.858139269761319,
+            "id": "15764_41"
+        },
+        {
+            "text": "Oakland",
+            "resource-id": "com.scorestream.scorestream:id/name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                88,
+                350,
+                420,
+                472
+            ],
+            "componentLabel": "Text",
+            "text_color": "#141414",
+            "bounds_updated": [
+                88,
+                350,
+                420,
+                472
+            ],
+            "text_updated": "Oakland",
+            "font_size": 12,
+            "id": "15764_42"
+        },
+        {
+            "text": "Unfollow  Team",
+            "resource-id": "com.scorestream.scorestream:id/followText",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                169,
+                626,
+                682,
+                725
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                179.66666666666666,
+                654.0,
+                607.6666666666666,
+                700.6666666666666
+            ],
+            "text_updated": "Unfollow Team",
+            "font_size": 12.297800059141892,
+            "id": "15764_43"
+        },
+        {
+            "iconClass": "star",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.scorestream.scorestream:id/image",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                74,
+                630,
+                165,
+                721
+            ],
+            "componentLabel": "Icon",
+            "id": "15764_44"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.scorestream.scorestream:id/imageView",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                0,
+                280,
+                1440,
+                805
+            ],
+            "componentLabel": "Image",
+            "id": "15764_45"
+        },
+        {
+            "iconClass": "menu",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "15764_46"
+        },
+        {
+            "text": "ScoreStream",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                210,
+                135,
+                617,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                211.33333333333334,
+                159.0,
+                612.6666666666666,
+                209.66666666666666
+            ],
+            "text_updated": "ScoreStream",
+            "font_size": 12.765694299938168,
+            "id": "15764_47"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                28,
+                595,
+                1412,
+                2364
+            ],
+            "class": "android.support.v7.widget.RecyclerView",
+            "bg_color": "#FFFFFF",
+            "id": "15764_48",
+            "ui_comp_ids": [
+                "15764_1",
+                "15764_2",
+                "15764_3",
+                "15764_4",
+                "15764_5",
+                "15764_6",
+                "15764_7",
+                "15764_11",
+                "15764_12",
+                "15764_13",
+                "15764_14",
+                "15764_15",
+                "15764_16",
+                "15764_17",
+                "15764_18",
+                "15764_19",
+                "15764_20",
+                "15764_21",
+                "15764_22",
+                "15764_23",
+                "15764_24",
+                "15764_25",
+                "15764_26",
+                "15764_27",
+                "15764_28",
+                "15764_29",
+                "15764_30",
+                "15764_31",
+                "15764_32",
+                "15764_33",
+                "15764_34",
+                "15764_35",
+                "15764_36",
+                "15764_37",
+                "15764_38",
+                "15764_39",
+                "15764_40",
+                "15764_43",
+                "15764_44"
+            ],
+            "ui_comp_group_ids": [
+                "15764_60",
+                "15764_61",
+                "15764_63",
+                "15764_64"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                949,
+                1440,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "15764_49",
+            "ui_comp_ids": [
+                "15764_0",
+                "15764_1",
+                "15764_2",
+                "15764_3",
+                "15764_4",
+                "15764_5",
+                "15764_6",
+                "15764_7",
+                "15764_8",
+                "15764_11",
+                "15764_12",
+                "15764_13",
+                "15764_14",
+                "15764_15",
+                "15764_16",
+                "15764_17",
+                "15764_18",
+                "15764_19",
+                "15764_20",
+                "15764_21",
+                "15764_22",
+                "15764_23",
+                "15764_24",
+                "15764_25",
+                "15764_26",
+                "15764_27",
+                "15764_28",
+                "15764_29",
+                "15764_30",
+                "15764_31",
+                "15764_32",
+                "15764_33",
+                "15764_34",
+                "15764_35",
+                "15764_36",
+                "15764_37",
+                "15764_38",
+                "15764_39",
+                "15764_40"
+            ],
+            "ui_comp_group_ids": [
+                "15764_50",
+                "15764_53",
+                "15764_54",
+                "15764_55",
+                "15764_58",
+                "15764_60",
+                "15764_61",
+                "15764_62",
+                "15764_63",
+                "15764_64"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1093,
+                1440,
+                2392
+            ],
+            "class": "android.widget.ListView",
+            "bg_color": "#FFFFFF",
+            "id": "15764_50",
+            "ui_comp_ids": [
+                "15764_11",
+                "15764_12",
+                "15764_13",
+                "15764_14",
+                "15764_15",
+                "15764_16",
+                "15764_17",
+                "15764_18",
+                "15764_19",
+                "15764_20",
+                "15764_21",
+                "15764_22",
+                "15764_23",
+                "15764_24",
+                "15764_25",
+                "15764_26",
+                "15764_27",
+                "15764_28",
+                "15764_29",
+                "15764_30",
+                "15764_31",
+                "15764_32",
+                "15764_33",
+                "15764_34",
+                "15764_35",
+                "15764_36",
+                "15764_37",
+                "15764_38",
+                "15764_39",
+                "15764_40"
+            ],
+            "ui_comp_group_ids": [
+                "15764_53",
+                "15764_54",
+                "15764_55",
+                "15764_62"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                949
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "15764_51",
+            "ui_comp_ids": [
+                "15764_9",
+                "15764_10",
+                "15764_41",
+                "15764_42",
+                "15764_43",
+                "15764_44",
+                "15764_45"
+            ],
+            "ui_comp_group_ids": [
+                "15764_52",
+                "15764_56",
+                "15764_59"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                805
+            ],
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bg_color": "#0C0C0C",
+            "id": "15764_52",
+            "ui_comp_ids": [
+                "15764_41",
+                "15764_42",
+                "15764_43",
+                "15764_44"
+            ],
+            "ui_comp_group_ids": [
+                "15764_56"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1132,
+                1440,
+                1570
+            ],
+            "class": "com.scorestream.scorestream.widgets.GameCell",
+            "bg_color": "#FFFFFF",
+            "id": "15764_53",
+            "ui_comp_ids": [
+                "15764_29",
+                "15764_30",
+                "15764_31",
+                "15764_32",
+                "15764_33",
+                "15764_34",
+                "15764_35",
+                "15764_36",
+                "15764_37",
+                "15764_38",
+                "15764_39"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1543,
+                1440,
+                1981
+            ],
+            "class": "com.scorestream.scorestream.widgets.GameCell",
+            "bg_color": "#FFFFFF",
+            "id": "15764_54",
+            "ui_comp_ids": [
+                "15764_20",
+                "15764_21",
+                "15764_22",
+                "15764_23",
+                "15764_24",
+                "15764_25",
+                "15764_26",
+                "15764_27",
+                "15764_28"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1954,
+                1440,
+                2392
+            ],
+            "class": "com.scorestream.scorestream.widgets.GameCell",
+            "bg_color": "#FFFFFF",
+            "id": "15764_55",
+            "ui_comp_ids": [
+                "15764_11",
+                "15764_12",
+                "15764_13",
+                "15764_14",
+                "15764_15",
+                "15764_16",
+                "15764_17",
+                "15764_18",
+                "15764_19"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                595
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#0C0C0C",
+            "id": "15764_56",
+            "ui_comp_ids": [
+                "15764_41",
+                "15764_42"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.ActionBarContainer",
+            "bg_color": "#212121",
+            "id": "15764_57",
+            "ui_comp_ids": [
+                "15764_46",
+                "15764_47"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                949,
+                1440,
+                1089
+            ],
+            "class": "com.scorestream.scorestream.widgets.SlideMenu",
+            "bg_color": "#FFFFFF",
+            "id": "15764_58",
+            "ui_comp_ids": [
+                "15764_0",
+                "15764_1",
+                "15764_2",
+                "15764_3",
+                "15764_4",
+                "15764_5",
+                "15764_6",
+                "15764_7",
+                "15764_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                805,
+                1440,
+                945
+            ],
+            "class": "com.scorestream.scorestream.widgets.SlideMenu",
+            "bg_color": "#FFFFFF",
+            "id": "15764_59",
+            "ui_comp_ids": [
+                "15764_9",
+                "15764_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                950,
+                960,
+                1412,
+                1212
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "15764_60",
+            "ui_comp_ids": [
+                "15764_1",
+                "15764_2",
+                "15764_3",
+                "15764_30"
+            ],
+            "ui_comp_group_ids": [
+                "15764_63"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                489,
+                960,
+                950,
+                1212
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "15764_61",
+            "ui_comp_ids": [
+                "15764_4",
+                "15764_5",
+                "15764_6"
+            ],
+            "ui_comp_group_ids": [
+                "15764_64"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1093,
+                1440,
+                1159
+            ],
+            "class": "com.scorestream.scorestream.widgets.GameCell",
+            "bg_color": "#FFFFFF",
+            "id": "15764_62",
+            "ui_comp_ids": [
+                "15764_40"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                971,
+                981,
+                1391,
+                1191
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "15764_63",
+            "ui_comp_ids": [
+                "15764_1",
+                "15764_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                510,
+                981,
+                929,
+                1191
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "15764_64",
+            "ui_comp_ids": [
+                "15764_4",
+                "15764_5",
+                "15764_6"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

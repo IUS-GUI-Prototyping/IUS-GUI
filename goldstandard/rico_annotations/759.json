@@ -1,0 +1,369 @@
+{
+    "bg_color": "#161616",
+    "ui_comps": [
+        {
+            "ancestors": [
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                2027,
+                1440,
+                2202
+            ],
+            "clickable": true,
+            "class": "com.google.android.gms.ads.internal.webview.o",
+            "componentLabel": "Web View",
+            "id": "759_0"
+        },
+        {
+            "text": "242 hours (32 kHz)",
+            "resource-id": "com.andrwq.recorder:id/recstats_time_text",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                25,
+                1938,
+                529,
+                2013
+            ],
+            "componentLabel": "Text",
+            "text_color": "#E0E0E0",
+            "bounds_updated": [
+                33.0,
+                1951.3333333333333,
+                525.0,
+                2000.6666666666667
+            ],
+            "text_updated": "& 242 hours (32 kHz)",
+            "font_size": 10.179292521402038,
+            "id": "759_1"
+        },
+        {
+            "text": "Skip silence",
+            "resource-id": "com.andrwq.recorder:id/skipSilence_button",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.CheckBox",
+            "bounds": [
+                1037,
+                1915,
+                1408,
+                2027
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#0D0D0D",
+            "text_color": "#DEDEDE",
+            "bounds_text": [
+                1150.3333333333333,
+                1955.0,
+                1406.3333333333333,
+                2000.3333333333333
+            ],
+            "text_updated": "Skip silence",
+            "font_size": 9.495952906548931,
+            "id": "759_2"
+        },
+        {
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Cancel",
+            "bounds": [
+                1044,
+                2220,
+                1425,
+                2388
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "componentLabel": "Text Button",
+            "textButtonClass": "back",
+            "bg_color": "#202529",
+            "text_color": "#DEDFE1",
+            "bounds_text": [
+                1044,
+                2220,
+                1425,
+                2388
+            ],
+            "text_updated": "Cancel",
+            "font_size": 12,
+            "id": "759_3"
+        },
+        {
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Pause   ",
+            "bounds": [
+                607,
+                2220,
+                1044,
+                2388
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "componentLabel": "Text Button",
+            "bg_color": "#202529",
+            "text_color": "#E0E4E7",
+            "bounds_text": [
+                607,
+                2220,
+                1044,
+                2388
+            ],
+            "text_updated": "Pause   ",
+            "font_size": 12,
+            "id": "759_4"
+        },
+        {
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Finish   ",
+            "bounds": [
+                14,
+                2220,
+                607,
+                2388
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "componentLabel": "Text Button",
+            "bg_color": "#202529",
+            "text_color": "#E3E2DD",
+            "bounds_text": [
+                14,
+                2220,
+                607,
+                2388
+            ],
+            "text_updated": "Finish   ",
+            "font_size": 12,
+            "id": "759_5"
+        },
+        {
+            "text": "00:10",
+            "resource-id": "com.andrwq.recorder:id/rectime_text",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                562,
+                1237,
+                877,
+                1406
+            ],
+            "componentLabel": "Text",
+            "text_color": "#DDDBDC",
+            "bounds_updated": [
+                568.6666666666666,
+                1279.6666666666667,
+                868.6666666666666,
+                1371.6666666666667
+            ],
+            "text_updated": "00:10",
+            "font_size": 15.71449595290655,
+            "id": "759_6"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.andrwq.recorder:id/status_img",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                457,
+                1059,
+                982,
+                1584
+            ],
+            "componentLabel": "Image",
+            "id": "759_7"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                457,
+                1059,
+                982,
+                1584
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "759_8"
+        },
+        {
+            "text": "Recording\u2026",
+            "resource-id": "android:id/action_bar_title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                169,
+                125,
+                493,
+                210
+            ],
+            "componentLabel": "Text",
+            "text_color": "#DFDFDF",
+            "bounds_updated": [
+                173.0,
+                146.33333333333334,
+                489.0,
+                205.0
+            ],
+            "text_updated": "Recording...",
+            "font_size": 11.520198209778219,
+            "id": "759_9"
+        },
+        {
+            "iconClass": "more",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1244,
+                84,
+                1440,
+                252
+            ],
+            "clickable": true,
+            "class": "android.widget.ActionMenuPresenter$OverflowMenuButton",
+            "componentLabel": "Icon",
+            "id": "759_10"
+        },
+        {
+            "iconClass": "microphone",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/home",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                43,
+                112,
+                155,
+                224
+            ],
+            "componentLabel": "Icon",
+            "id": "759_11"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1059,
+                1440,
+                1584
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#191919",
+            "id": "759_12",
+            "ui_comp_ids": [
+                "759_6",
+                "759_7",
+                "759_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1915,
+                1440,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#202529",
+            "id": "759_13",
+            "ui_comp_ids": [
+                "759_0",
+                "759_1",
+                "759_2",
+                "759_3",
+                "759_4",
+                "759_5"
+            ],
+            "ui_comp_group_ids": [
+                "759_15"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "com.android.internal.widget.ActionBarContainer",
+            "bg_color": "#040404",
+            "id": "759_14",
+            "ui_comp_ids": [
+                "759_9",
+                "759_10",
+                "759_11"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1915,
+                1440,
+                2027
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#101010",
+            "id": "759_15",
+            "ui_comp_ids": [
+                "759_1",
+                "759_2"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

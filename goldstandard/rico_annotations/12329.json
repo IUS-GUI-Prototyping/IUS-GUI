@@ -1,0 +1,916 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                18,
+                994,
+                228,
+                1071
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "12329_0"
+        },
+        {
+            "text": "Calories",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/caloriesDescTextView",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1176,
+                1250,
+                1384,
+                1312
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#757575",
+            "bounds_text": [
+                1178.6666666666667,
+                1258.0,
+                1381.3333333333333,
+                1300.6666666666667
+            ],
+            "text_updated": "Calories",
+            "font_size": 10.5915716061868,
+            "id": "12329_1"
+        },
+        {
+            "text": "0",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/caloriesTextView",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1176,
+                1160,
+                1384,
+                1250
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1C1C1C",
+            "bounds_updated": [
+                1176,
+                1160,
+                1384,
+                1250
+            ],
+            "text_updated": "0",
+            "font_size": 12,
+            "id": "12329_2"
+        },
+        {
+            "text": "Min/mi",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/avgDescTextView",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                813,
+                1250,
+                993,
+                1312
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#717171",
+            "bounds_text": [
+                818.3333333333334,
+                1260.6666666666667,
+                989.0,
+                1300.6666666666667
+            ],
+            "text_updated": "Min/mi",
+            "font_size": 10.768784236775398,
+            "id": "12329_3"
+        },
+        {
+            "text": "0:00",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/avgTextView",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                813,
+                1160,
+                993,
+                1250
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1E1E1E",
+            "bounds_updated": [
+                821.0,
+                1173.3333333333333,
+                986.3333333333333,
+                1234.6666666666667
+            ],
+            "text_updated": "0:00",
+            "font_size": 14.680156978170231,
+            "id": "12329_4"
+        },
+        {
+            "text": "Duration",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/timeDescTextView",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                407,
+                1250,
+                630,
+                1312
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#6D6D6D",
+            "bounds_text": [
+                412.3333333333333,
+                1260.6666666666667,
+                625.6666666666666,
+                1300.6666666666667
+            ],
+            "text_updated": "Duration",
+            "font_size": 10.262105870444657,
+            "id": "12329_5"
+        },
+        {
+            "text": "00:46",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/timeTextView",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                407,
+                1160,
+                630,
+                1250
+            ],
+            "componentLabel": "Text",
+            "text_color": "#252525",
+            "bounds_updated": [
+                412.3333333333333,
+                1173.3333333333333,
+                623.0,
+                1232.0
+            ],
+            "text_updated": "00:46",
+            "font_size": 14.621941140160908,
+            "id": "12329_6"
+        },
+        {
+            "text": "Mi",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/distanceUnitTextView",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1250,
+                225,
+                1312
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#7E7E7E",
+            "bounds_text": [
+                56,
+                1250,
+                225,
+                1312
+            ],
+            "text_updated": "Mi",
+            "font_size": 12,
+            "id": "12329_7"
+        },
+        {
+            "text": "0.00",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/distanceTextView",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1160,
+                225,
+                1250
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1D1D1D",
+            "bounds_updated": [
+                61.333333333333336,
+                1173.3333333333333,
+                218.66666666666666,
+                1232.0
+            ],
+            "text_updated": "0.00",
+            "font_size": 14.338704461410826,
+            "id": "12329_8"
+        },
+        {
+            "iconClass": "photo",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/imageView",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1209,
+                1481,
+                1384,
+                1656
+            ],
+            "componentLabel": "Icon",
+            "id": "12329_9"
+        },
+        {
+            "iconClass": "photo",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/networkImageView",
+            "clickable": true,
+            "class": "com.android.volley.toolbox.NetworkImageView",
+            "bounds": [
+                1209,
+                1481,
+                1384,
+                1656
+            ],
+            "componentLabel": "Icon",
+            "id": "12329_10"
+        },
+        {
+            "iconClass": "emoji",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/mapPrivacyButton",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "bounds": [
+                1282,
+                931,
+                1422,
+                1071
+            ],
+            "componentLabel": "Icon",
+            "id": "12329_11"
+        },
+        {
+            "text": "",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/toggleSwitchCompat",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.SwitchCompat",
+            "bounds": [
+                1218,
+                1947,
+                1384,
+                2042
+            ],
+            "componentLabel": "Input",
+            "id": "12329_12"
+        },
+        {
+            "text": "Share to Twitter",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/leftText",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1936,
+                1218,
+                2054
+            ],
+            "componentLabel": "Text",
+            "text_color": "#717171",
+            "bounds_updated": [
+                58.666666666666664,
+                1973.3333333333333,
+                458.66666666666663,
+                2016.0
+            ],
+            "text_updated": "Share to Twitter",
+            "font_size": 10.69683590875645,
+            "id": "12329_13"
+        },
+        {
+            "text": "",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/toggleSwitchCompat",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.SwitchCompat",
+            "bounds": [
+                1218,
+                1769,
+                1384,
+                1864
+            ],
+            "componentLabel": "Input",
+            "id": "12329_14"
+        },
+        {
+            "text": "Share to Facebook",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/leftText",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1758,
+                1218,
+                1876
+            ],
+            "componentLabel": "Text",
+            "text_color": "#777777",
+            "bounds_updated": [
+                58.666666666666664,
+                1795.3333333333333,
+                530.6666666666666,
+                1838.0
+            ],
+            "text_updated": "Share to Facebook",
+            "font_size": 10.858719646799116,
+            "id": "12329_15"
+        },
+        {
+            "text": "",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/editNotesText",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatEditText",
+            "bounds": [
+                252,
+                1530,
+                1174,
+                1670
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FFFFFF",
+            "text_color": "#767676",
+            "bounds_text": [
+                268.0,
+                1572.6666666666667,
+                1161.3333333333333,
+                1644.6666666666667
+            ],
+            "text_updated": "How did it go, Sam?",
+            "font_size": 16.031566752115832,
+            "id": "12329_16"
+        },
+        {
+            "text": "Notes",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/notesTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                252,
+                1443,
+                384,
+                1530
+            ],
+            "componentLabel": "Text",
+            "text_color": "#262626",
+            "bounds_updated": [
+                257.3333333333333,
+                1453.6666666666667,
+                382.66666666666663,
+                1488.3333333333333
+            ],
+            "text_updated": "Notes",
+            "font_size": 8.650625459896974,
+            "id": "12329_17"
+        },
+        {
+            "iconClass": "description",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/notesIcon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                1443,
+                196,
+                1583
+            ],
+            "componentLabel": "Icon",
+            "id": "12329_18"
+        },
+        {
+            "text": "10:28 AM",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/rightText",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                525,
+                305,
+                1440,
+                360
+            ],
+            "componentLabel": "Text",
+            "text_color": "#787878",
+            "bounds_updated": [
+                1175.6666666666665,
+                315.6666666666667,
+                1381.0,
+                350.3333333333333
+            ],
+            "text_updated": "10:28 AM",
+            "font_size": 8.697650328268228,
+            "id": "12329_19"
+        },
+        {
+            "text": "December 6, 2016",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/leftText",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                305,
+                525,
+                360
+            ],
+            "componentLabel": "Text",
+            "text_color": "#767676",
+            "bounds_updated": [
+                61.33333333333333,
+                315.6666666666667,
+                466.66666666666663,
+                355.6666666666667
+            ],
+            "text_updated": "December 6, 2016",
+            "font_size": 8.706265500231646,
+            "id": "12329_20"
+        },
+        {
+            "text": "Save Activity",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/saveButton",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                0,
+                2161,
+                1440,
+                2392
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFB636",
+            "text_color": "#FFFFDD",
+            "bounds_text": [
+                0,
+                2161.0,
+                1440.0,
+                2302.3333333333335
+            ],
+            "text_updated": "SAVE ACTIVITY",
+            "font_size": 19.811789714659476,
+            "id": "12329_21"
+        },
+        {
+            "iconClass": "delete",
+            "resource-id": "com.fitnesskeeper.runkeeper.pro:id/deleteMenuItem",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1272,
+                98,
+                1440,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "12329_22"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "12329_23"
+        },
+        {
+            "text": "Tuesday Morning Run",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                210,
+                143,
+                902,
+                220
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D5FFFF",
+            "bounds_updated": [
+                210,
+                153.66666666666666,
+                895.3333333333333,
+                220
+            ],
+            "text_updated": "Tuesday Morning Run",
+            "font_size": 13.291702249936895,
+            "id": "12329_24"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                389,
+                1440,
+                1383
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#F5F5F5",
+            "id": "12329_25",
+            "ui_comp_ids": [
+                "12329_0",
+                "12329_1",
+                "12329_2",
+                "12329_3",
+                "12329_4",
+                "12329_5",
+                "12329_6",
+                "12329_7",
+                "12329_8",
+                "12329_11"
+            ],
+            "ui_comp_group_ids": [
+                "12329_27",
+                "12329_32",
+                "12329_35",
+                "12329_36",
+                "12329_37",
+                "12329_38"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1383,
+                1440,
+                2161
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12329_26",
+            "ui_comp_ids": [
+                "12329_9",
+                "12329_10",
+                "12329_12",
+                "12329_13",
+                "12329_14",
+                "12329_15",
+                "12329_16",
+                "12329_17",
+                "12329_18"
+            ],
+            "ui_comp_group_ids": [
+                "12329_28",
+                "12329_30",
+                "12329_31",
+                "12329_34"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                389,
+                1440,
+                1089
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#F5F5F5",
+            "id": "12329_27",
+            "ui_comp_ids": [
+                "12329_0",
+                "12329_11"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1387,
+                1440,
+                1726
+            ],
+            "class": "com.fitnesskeeper.runkeeper.trips.NotesCell",
+            "bg_color": "#FFFFFF",
+            "id": "12329_28",
+            "ui_comp_ids": [
+                "12329_9",
+                "12329_10",
+                "12329_16",
+                "12329_17",
+                "12329_18"
+            ],
+            "ui_comp_group_ids": [
+                "12329_34"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#2DC9D6",
+            "id": "12329_29",
+            "ui_comp_ids": [
+                "12329_22",
+                "12329_23",
+                "12329_24"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1908,
+                1440,
+                2082
+            ],
+            "class": "com.fitnesskeeper.runkeeper.component.SingleLineCell",
+            "bg_color": "#FFFFFF",
+            "id": "12329_30",
+            "ui_comp_ids": [
+                "12329_12",
+                "12329_13"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1730,
+                1440,
+                1904
+            ],
+            "class": "com.fitnesskeeper.runkeeper.component.SingleLineCell",
+            "bg_color": "#FFFFFF",
+            "id": "12329_31",
+            "ui_comp_ids": [
+                "12329_14",
+                "12329_15"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                56,
+                1142,
+                1384,
+                1330
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12329_32",
+            "ui_comp_ids": [
+                "12329_1",
+                "12329_2",
+                "12329_3",
+                "12329_4",
+                "12329_5",
+                "12329_6",
+                "12329_7",
+                "12329_8"
+            ],
+            "ui_comp_group_ids": [
+                "12329_35",
+                "12329_36",
+                "12329_37",
+                "12329_38"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                385
+            ],
+            "class": "com.fitnesskeeper.runkeeper.component.OneLineCellHeaderLeftRightText",
+            "bg_color": "#FFFFFF",
+            "id": "12329_33",
+            "ui_comp_ids": [
+                "12329_19",
+                "12329_20"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                1174,
+                1456,
+                1384,
+                1656
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12329_34",
+            "ui_comp_ids": [
+                "12329_9",
+                "12329_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                407,
+                1142,
+                630,
+                1330
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12329_35",
+            "ui_comp_ids": [
+                "12329_5",
+                "12329_6"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                1176,
+                1142,
+                1384,
+                1330
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12329_36",
+            "ui_comp_ids": [
+                "12329_1",
+                "12329_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                813,
+                1142,
+                993,
+                1330
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12329_37",
+            "ui_comp_ids": [
+                "12329_3",
+                "12329_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                56,
+                1142,
+                225,
+                1330
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12329_38",
+            "ui_comp_ids": [
+                "12329_7",
+                "12329_8"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

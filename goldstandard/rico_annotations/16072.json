@@ -1,0 +1,812 @@
+{
+    "bg_color": "#BDE6FC",
+    "ui_comps": [
+        {
+            "iconClass": "add",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.jetcost.jetcost:id/stepper_plus_button",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1226,
+                1001,
+                1317,
+                1113
+            ],
+            "componentLabel": "Icon",
+            "id": "16072_0"
+        },
+        {
+            "text": "0",
+            "resource-id": "com.jetcost.jetcost:id/stepper_value_text",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1164,
+                1025,
+                1198,
+                1106
+            ],
+            "componentLabel": "Text",
+            "text_color": "#373737",
+            "bounds_updated": [
+                1164,
+                1025,
+                1198,
+                1106
+            ],
+            "text_updated": "0",
+            "font_size": 12,
+            "id": "16072_1"
+        },
+        {
+            "iconClass": "minus",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.jetcost.jetcost:id/stepper_minus_button",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1045,
+                1001,
+                1136,
+                1113
+            ],
+            "componentLabel": "Icon",
+            "id": "16072_2"
+        },
+        {
+            "text": "<12 years",
+            "resource-id": "com.jetcost.jetcost:id/stepper_top_label",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1075,
+                924,
+                1286,
+                990
+            ],
+            "componentLabel": "Text",
+            "text_color": "#EAFFFF",
+            "bounds_updated": [
+                1076.3333333333333,
+                949.3333333333334,
+                1284.3333333333333,
+                986.6666666666666
+            ],
+            "text_updated": "<12 years",
+            "font_size": 8.679458878134378,
+            "id": "16072_3"
+        },
+        {
+            "iconClass": "info",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.jetcost.jetcost:id/stepper_top_image",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1104,
+                847,
+                1258,
+                924
+            ],
+            "componentLabel": "Icon",
+            "id": "16072_4"
+        },
+        {
+            "iconClass": "add",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.jetcost.jetcost:id/stepper_plus_button",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                764,
+                1001,
+                855,
+                1113
+            ],
+            "componentLabel": "Icon",
+            "id": "16072_5"
+        },
+        {
+            "text": "1",
+            "resource-id": "com.jetcost.jetcost:id/stepper_value_text",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                702,
+                1025,
+                736,
+                1106
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2E2E2E",
+            "bounds_updated": [
+                702,
+                1025,
+                736,
+                1106
+            ],
+            "text_updated": "1",
+            "font_size": 12,
+            "id": "16072_6"
+        },
+        {
+            "iconClass": "minus",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.jetcost.jetcost:id/stepper_minus_button",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                583,
+                1001,
+                674,
+                1113
+            ],
+            "componentLabel": "Icon",
+            "id": "16072_7"
+        },
+        {
+            "text": ">12 years",
+            "resource-id": "com.jetcost.jetcost:id/stepper_top_label",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                613,
+                924,
+                825,
+                990
+            ],
+            "componentLabel": "Text",
+            "text_color": "#EBFFFF",
+            "bounds_updated": [
+                615.6666666666666,
+                949.3333333333334,
+                822.3333333333333,
+                986.6666666666666
+            ],
+            "text_updated": ">12 years",
+            "font_size": 8.624770273680921,
+            "id": "16072_8"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.jetcost.jetcost:id/stepper_top_image",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                642,
+                847,
+                796,
+                924
+            ],
+            "componentLabel": "Image",
+            "id": "16072_9"
+        },
+        {
+            "iconClass": "add",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.jetcost.jetcost:id/stepper_plus_button",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                303,
+                1001,
+                394,
+                1113
+            ],
+            "componentLabel": "Icon",
+            "id": "16072_10"
+        },
+        {
+            "text": "1",
+            "resource-id": "com.jetcost.jetcost:id/stepper_value_text",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                241,
+                1025,
+                275,
+                1106
+            ],
+            "componentLabel": "Text",
+            "text_color": "#303030",
+            "bounds_updated": [
+                241,
+                1025,
+                275,
+                1106
+            ],
+            "text_updated": "1",
+            "font_size": 12,
+            "id": "16072_11"
+        },
+        {
+            "iconClass": "minus",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.jetcost.jetcost:id/stepper_minus_button",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                122,
+                1001,
+                213,
+                1113
+            ],
+            "componentLabel": "Icon",
+            "id": "16072_12"
+        },
+        {
+            "text": "Rooms",
+            "resource-id": "com.jetcost.jetcost:id/stepper_top_label",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                181,
+                924,
+                335,
+                990
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F2FFFF",
+            "bounds_updated": [
+                185.0,
+                941.3333333333334,
+                333.0,
+                977.3333333333334
+            ],
+            "text_updated": "Rooms",
+            "font_size": 9.722172503629448,
+            "id": "16072_13"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.jetcost.jetcost:id/stepper_top_image",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                181,
+                847,
+                335,
+                924
+            ],
+            "componentLabel": "Image",
+            "id": "16072_14"
+        },
+        {
+            "text": "SEARCH",
+            "resource-id": "com.jetcost.jetcost:id/button_hotel_search",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                46,
+                2181,
+                1394,
+                2356
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "search",
+            "bg_color": "#F96C1D",
+            "text_color": "#FFFFF4",
+            "bounds_text": [
+                608.6666666666666,
+                2247.6666666666665,
+                830.0,
+                2293.0
+            ],
+            "text_updated": "SEARCH",
+            "font_size": 11.811679228897772,
+            "id": "16072_15"
+        },
+        {
+            "text": "Feb 23, 2017",
+            "resource-id": "com.jetcost.jetcost:id/edit_checkout_date_hotel",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                49,
+                651,
+                1391,
+                791
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                214.33333333333331,
+                701.6666666666666,
+                551.6666666666666,
+                753.6666666666666
+            ],
+            "text_updated": "Feb 23, 2017",
+            "font_size": 11.252077042160948,
+            "id": "16072_16"
+        },
+        {
+            "text": "Feb 22, 2017",
+            "resource-id": "com.jetcost.jetcost:id/edit_checkin_date_hotel",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                49,
+                469,
+                1391,
+                609
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                214.33333333333331,
+                518.3333333333334,
+                551.6666666666666,
+                570.3333333333334
+            ],
+            "text_updated": "Feb 22, 2017",
+            "font_size": 11.252077042160948,
+            "id": "16072_17"
+        },
+        {
+            "text": "",
+            "resource-id": "com.jetcost.jetcost:id/edit_city_hotel",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                49,
+                287,
+                1391,
+                427
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FFFFFF",
+            "text_color": "#3FB2DE",
+            "bounds_text": [
+                49,
+                287.0,
+                310.3333333333333,
+                427
+            ],
+            "text_updated": "PB city",
+            "font_size": 14.081742547906812,
+            "id": "16072_18"
+        },
+        {
+            "text": "Hotels",
+            "resource-id": "android:id/action_bar_title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                56,
+                125,
+                238,
+                210
+            ],
+            "componentLabel": "Text",
+            "text_color": "#E6E6EE",
+            "bounds_updated": [
+                61.333333333333336,
+                146.33333333333334,
+                236.0,
+                193.0
+            ],
+            "text_updated": "Hotels",
+            "font_size": 11.792284242615375,
+            "id": "16072_19"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/up",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                0,
+                140,
+                56,
+                196
+            ],
+            "componentLabel": "Icon",
+            "id": "16072_20"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                28,
+                266,
+                1412,
+                812
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "16072_21",
+            "ui_comp_ids": [
+                "16072_16",
+                "16072_17",
+                "16072_18"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                28,
+                840,
+                1412,
+                1120
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#BDE6FC",
+            "id": "16072_22",
+            "ui_comp_ids": [
+                "16072_0",
+                "16072_1",
+                "16072_2",
+                "16072_3",
+                "16072_4",
+                "16072_5",
+                "16072_6",
+                "16072_7",
+                "16072_8",
+                "16072_9",
+                "16072_10",
+                "16072_11",
+                "16072_12",
+                "16072_13",
+                "16072_14"
+            ],
+            "ui_comp_group_ids": [
+                "16072_24",
+                "16072_25",
+                "16072_26",
+                "16072_27",
+                "16072_28",
+                "16072_29",
+                "16072_30",
+                "16072_31",
+                "16072_32",
+                "16072_33",
+                "16072_34",
+                "16072_35"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "com.android.internal.widget.ActionBarContainer",
+            "bg_color": "#212759",
+            "id": "16072_23",
+            "ui_comp_ids": [
+                "16072_19",
+                "16072_20"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                950,
+                840,
+                1412,
+                1120
+            ],
+            "class": "com.jetcost.ui.ZUIStepper",
+            "bg_color": "#3FB2DE",
+            "id": "16072_24",
+            "ui_comp_ids": [
+                "16072_0",
+                "16072_1",
+                "16072_2",
+                "16072_3",
+                "16072_4"
+            ],
+            "ui_comp_group_ids": [
+                "16072_27",
+                "16072_30",
+                "16072_33"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                489,
+                840,
+                950,
+                1120
+            ],
+            "class": "com.jetcost.ui.ZUIStepper",
+            "bg_color": "#BDE6FC",
+            "id": "16072_25",
+            "ui_comp_ids": [
+                "16072_5",
+                "16072_6",
+                "16072_7",
+                "16072_8",
+                "16072_9"
+            ],
+            "ui_comp_group_ids": [
+                "16072_28",
+                "16072_31",
+                "16072_34"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                28,
+                840,
+                489,
+                1120
+            ],
+            "class": "com.jetcost.ui.ZUIStepper",
+            "bg_color": "#BDE6FC",
+            "id": "16072_26",
+            "ui_comp_ids": [
+                "16072_10",
+                "16072_11",
+                "16072_12",
+                "16072_13",
+                "16072_14"
+            ],
+            "ui_comp_group_ids": [
+                "16072_29",
+                "16072_32",
+                "16072_35"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                1041,
+                840,
+                1321,
+                1120
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#3FB2DE",
+            "id": "16072_27",
+            "ui_comp_ids": [
+                "16072_0",
+                "16072_1",
+                "16072_2",
+                "16072_3",
+                "16072_4"
+            ],
+            "ui_comp_group_ids": [
+                "16072_30",
+                "16072_33"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                579,
+                840,
+                859,
+                1120
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#3FB2DE",
+            "id": "16072_28",
+            "ui_comp_ids": [
+                "16072_5",
+                "16072_6",
+                "16072_7",
+                "16072_8",
+                "16072_9"
+            ],
+            "ui_comp_group_ids": [
+                "16072_31",
+                "16072_34"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                118,
+                840,
+                398,
+                1120
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#3FB2DE",
+            "id": "16072_29",
+            "ui_comp_ids": [
+                "16072_10",
+                "16072_11",
+                "16072_12",
+                "16072_13",
+                "16072_14"
+            ],
+            "ui_comp_group_ids": [
+                "16072_32",
+                "16072_35"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                1041,
+                840,
+                1321,
+                1015
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#3FB2DE",
+            "id": "16072_30",
+            "ui_comp_ids": [
+                "16072_3",
+                "16072_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                579,
+                840,
+                859,
+                1015
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#3FB2DE",
+            "id": "16072_31",
+            "ui_comp_ids": [
+                "16072_8",
+                "16072_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                118,
+                840,
+                398,
+                1015
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#3FB2DE",
+            "id": "16072_32",
+            "ui_comp_ids": [
+                "16072_13",
+                "16072_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                1041,
+                976,
+                1321,
+                1116
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#B8EBFE",
+            "id": "16072_33",
+            "ui_comp_ids": [
+                "16072_0",
+                "16072_1",
+                "16072_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                579,
+                976,
+                859,
+                1116
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#B8EBFE",
+            "id": "16072_34",
+            "ui_comp_ids": [
+                "16072_5",
+                "16072_6",
+                "16072_7"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                118,
+                976,
+                398,
+                1116
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#B8EBFE",
+            "id": "16072_35",
+            "ui_comp_ids": [
+                "16072_10",
+                "16072_11",
+                "16072_12"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

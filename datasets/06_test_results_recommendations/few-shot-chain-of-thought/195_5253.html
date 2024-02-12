@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.profile {
+    background-color: white;
+    margin: 50px 0;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.profile h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+.gender-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.gender-button:hover {
+    background-color: #4cae4c;
+}
+.gender-button.active {
+    background-color: #4cae4c;
+}
+</style>
+</head>
+<body>
+<div class="container">
+    <div class="profile">
+        <h2>Select Your Gender</h2>
+        <button class="gender-button">Male</button>
+        <button class="gender-button">Female</button>
+    </div>
+</div>
+<script>
+var btns = document.getElementsByClassName("gender-button");
+for (var i = 0; i < btns.length; i++) {
+    btns[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+    });
+}
+</script>
+</body>
+</html>

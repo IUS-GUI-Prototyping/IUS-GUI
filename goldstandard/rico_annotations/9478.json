@@ -1,0 +1,697 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "",
+            "resource-id": "co.bikecomputer:id/switchSetting",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.SwitchCompat",
+            "bounds": [
+                1232,
+                2292,
+                1398,
+                2387
+            ],
+            "componentLabel": "Input",
+            "id": "9478_0"
+        },
+        {
+            "text": "Heart Rate",
+            "resource-id": "co.bikecomputer:id/txtTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                2286,
+                432,
+                2392
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1D1D1D",
+            "bounds_updated": [
+                47.333333333333336,
+                2310.0,
+                427.3333333333333,
+                2367.3333333333335
+            ],
+            "text_updated": "Heart Rate",
+            "font_size": 13.543239998450863,
+            "id": "9478_1"
+        },
+        {
+            "text": "Manage Sensors",
+            "resource-id": "co.bikecomputer:id/txtTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                2128,
+                611,
+                2216
+            ],
+            "componentLabel": "Text",
+            "text_color": "#787A87",
+            "bounds_updated": [
+                46.0,
+                2148.0,
+                607.3333333333333,
+                2194.6666666666665
+            ],
+            "text_updated": "MANAGE SENSORS",
+            "font_size": 12.444900898348502,
+            "id": "9478_2"
+        },
+        {
+            "text": "Celsius",
+            "resource-id": "co.bikecomputer:id/txtValue",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1133,
+                1895,
+                1398,
+                2002
+            ],
+            "componentLabel": "Text",
+            "text_color": "#CF232F",
+            "bounds_updated": [
+                1135.6666666666667,
+                1916.3333333333333,
+                1394.3333333333333,
+                1976.3333333333333
+            ],
+            "text_updated": "Celsius",
+            "font_size": 13.763299723564618,
+            "id": "9478_3"
+        },
+        {
+            "text": "Temperature",
+            "resource-id": "co.bikecomputer:id/txtTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                1895,
+                500,
+                2002
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1C1C1C",
+            "bounds_updated": [
+                42,
+                1917.6666666666667,
+                495.3333333333333,
+                1995.0
+            ],
+            "text_updated": "Temperature",
+            "font_size": 13.637705948569506,
+            "id": "9478_4"
+        },
+        {
+            "text": "Kilometers",
+            "resource-id": "co.bikecomputer:id/txtValue",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1019,
+                1704,
+                1398,
+                1811
+            ],
+            "componentLabel": "Text",
+            "text_color": "#E41F31",
+            "bounds_updated": [
+                1025.6666666666667,
+                1726.6666666666667,
+                1393.6666666666665,
+                1785.3333333333333
+            ],
+            "text_updated": "Kilometers",
+            "font_size": 13.409476277313882,
+            "id": "9478_5"
+        },
+        {
+            "text": "Distance",
+            "resource-id": "co.bikecomputer:id/txtTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                1704,
+                362,
+                1811
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1D1D1D",
+            "bounds_updated": [
+                47.333333333333336,
+                1726.6666666666667,
+                356.66666666666663,
+                1785.3333333333333
+            ],
+            "text_updated": "Distance",
+            "font_size": 13.568467200563902,
+            "id": "9478_6"
+        },
+        {
+            "text": "Measurement",
+            "resource-id": "co.bikecomputer:id/txtTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                1546,
+                492,
+                1634
+            ],
+            "componentLabel": "Text",
+            "text_color": "#7A7E87",
+            "bounds_updated": [
+                46.0,
+                1564.6666666666667,
+                491.3333333333333,
+                1612.6666666666667
+            ],
+            "text_updated": "MEASUREMENT",
+            "font_size": 12.221643475457,
+            "id": "9478_7"
+        },
+        {
+            "text": "",
+            "resource-id": "co.bikecomputer:id/switchSetting",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.SwitchCompat",
+            "bounds": [
+                1232,
+                1319,
+                1398,
+                1414
+            ],
+            "componentLabel": "Input",
+            "id": "9478_8"
+        },
+        {
+            "text": "Auto Pause",
+            "resource-id": "co.bikecomputer:id/txtTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                1313,
+                445,
+                1420
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1B1B1B",
+            "bounds_updated": [
+                42,
+                1335.6666666666667,
+                440.66666666666663,
+                1394.3333333333333
+            ],
+            "text_updated": "Auto Pause",
+            "font_size": 13.634101338184674,
+            "id": "9478_9"
+        },
+        {
+            "text": "",
+            "resource-id": "co.bikecomputer:id/switchSetting",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.SwitchCompat",
+            "bounds": [
+                1232,
+                1128,
+                1398,
+                1223
+            ],
+            "componentLabel": "Input",
+            "id": "9478_10"
+        },
+        {
+            "text": "Disable Screen Lock",
+            "resource-id": "co.bikecomputer:id/txtTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                1122,
+                766,
+                1229
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1C1C1C",
+            "bounds_updated": [
+                47.333333333333336,
+                1144.6666666666667,
+                763.3333333333333,
+                1202.0
+            ],
+            "text_updated": "Disable Screen Lock",
+            "font_size": 13.639753186906244,
+            "id": "9478_11"
+        },
+        {
+            "text": "Bike Computer",
+            "resource-id": "co.bikecomputer:id/txtTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                964,
+                543,
+                1052
+            ],
+            "componentLabel": "Text",
+            "text_color": "#787F87",
+            "bounds_updated": [
+                46.0,
+                984.0,
+                539.3333333333333,
+                1030.6666666666667
+            ],
+            "text_updated": "BIKE COMPUTER",
+            "font_size": 12.53000431351653,
+            "id": "9478_12"
+        },
+        {
+            "text": "Setup Wizard",
+            "resource-id": "co.bikecomputer:id/txtTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                731,
+                533,
+                838
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1A1A1A",
+            "bounds_updated": [
+                44.666666666666664,
+                752.3333333333334,
+                526.0,
+                831.0
+            ],
+            "text_updated": "Setup Wizard",
+            "font_size": 13.756698084691271,
+            "id": "9478_13"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1363,
+                564,
+                1398,
+                622
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Image",
+            "id": "9478_14"
+        },
+        {
+            "text": "How To Use It",
+            "resource-id": "co.bikecomputer:id/txtTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                540,
+                519,
+                647
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1D1D1D",
+            "bounds_updated": [
+                47.333333333333336,
+                562.6666666666666,
+                516.6666666666666,
+                621.3333333333334
+            ],
+            "text_updated": "How To Use It",
+            "font_size": 13.493271579660824,
+            "id": "9478_15"
+        },
+        {
+            "text": "Keep me Safe",
+            "resource-id": "co.bikecomputer:id/txtTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                382,
+                465,
+                470
+            ],
+            "componentLabel": "Text",
+            "text_color": "#797B87",
+            "bounds_updated": [
+                46.0,
+                402.0,
+                460.66666666666663,
+                450.0
+            ],
+            "text_updated": "KEEP ME SAFE",
+            "font_size": 12.20796763747143,
+            "id": "9478_16"
+        },
+        {
+            "text": "Settings",
+            "resource-id": "co.bikecomputer:id/txtTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                542,
+                137,
+                898,
+                244
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1D1D1D",
+            "bounds_updated": [
+                546.0,
+                158.33333333333334,
+                895.3333333333333,
+                218.33333333333331
+            ],
+            "text_updated": "SETTINGS",
+            "font_size": 13.671395830829598,
+            "id": "9478_17"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "co.bikecomputer:id/btnBack",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                53,
+                160,
+                118,
+                221
+            ],
+            "componentLabel": "Icon",
+            "id": "9478_18"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                84,
+                1440,
+                297
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9478_19",
+            "ui_comp_ids": [
+                "9478_17",
+                "9478_18"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                298,
+                1440,
+                498
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9478_20",
+            "ui_comp_ids": [
+                "9478_16"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                880,
+                1440,
+                1080
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9478_21",
+            "ui_comp_ids": [
+                "9478_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1462,
+                1440,
+                1662
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9478_22",
+            "ui_comp_ids": [
+                "9478_7"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                2044,
+                1440,
+                2244
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9478_23",
+            "ui_comp_ids": [
+                "9478_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                498,
+                1440,
+                689
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9478_24",
+            "ui_comp_ids": [
+                "9478_14",
+                "9478_15"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                689,
+                1440,
+                880
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9478_25",
+            "ui_comp_ids": [
+                "9478_13"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1080,
+                1440,
+                1271
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9478_26",
+            "ui_comp_ids": [
+                "9478_10",
+                "9478_11"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1271,
+                1440,
+                1462
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9478_27",
+            "ui_comp_ids": [
+                "9478_8",
+                "9478_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1662,
+                1440,
+                1853
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9478_28",
+            "ui_comp_ids": [
+                "9478_5",
+                "9478_6"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1853,
+                1440,
+                2044
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9478_29",
+            "ui_comp_ids": [
+                "9478_3",
+                "9478_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                2244,
+                1440,
+                2392
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9478_30",
+            "ui_comp_ids": [
+                "9478_0",
+                "9478_1"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

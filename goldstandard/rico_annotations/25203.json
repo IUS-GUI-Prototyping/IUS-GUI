@@ -1,0 +1,700 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "SELECT AT LEAST 3 SOURCES",
+            "resource-id": "com.dwarfplanet.bundle:id/LeftCountTextView",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                360,
+                2217,
+                1079,
+                2287
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                362.6666666666667,
+                2234.3333333333335,
+                1077.3333333333333,
+                2273.0
+            ],
+            "text_updated": "SELECT AT LEAST 3 SOURCES",
+            "font_size": 10.699866726356795,
+            "id": "25203_0"
+        },
+        {
+            "text": "Add",
+            "resource-id": "com.dwarfplanet.bundle:id/checkedIV",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                1139,
+                2014,
+                1370,
+                2119
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "add",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                1220.3333333333333,
+                2054.0,
+                1287.0,
+                2083.3333333333335
+            ],
+            "text_updated": "Add",
+            "font_size": 6.926295673948149,
+            "id": "25203_1"
+        },
+        {
+            "text": "Cnbc.com",
+            "resource-id": "com.dwarfplanet.bundle:id/childTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                2029,
+                311,
+                2105
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2E3337",
+            "bounds_updated": [
+                58.666666666666664,
+                2049.0,
+                308.0,
+                2090.3333333333335
+            ],
+            "text_updated": "Cnbc.com",
+            "font_size": 11.052244297277415,
+            "id": "25203_2"
+        },
+        {
+            "text": "Add",
+            "resource-id": "com.dwarfplanet.bundle:id/checkedIV",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                1139,
+                1804,
+                1370,
+                1909
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "add",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                1220.3333333333333,
+                1844.0,
+                1287.0,
+                1872.0
+            ],
+            "text_updated": "Add",
+            "font_size": 6.926295673948149,
+            "id": "25203_3"
+        },
+        {
+            "text": "The Wall Street Journal",
+            "resource-id": "com.dwarfplanet.bundle:id/childTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1819,
+                644,
+                1895
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2E323B",
+            "bounds_updated": [
+                57.333333333333336,
+                1839.0,
+                640.0,
+                1880.3333333333333
+            ],
+            "text_updated": "The Wall Street Journal",
+            "font_size": 11.106365415999303,
+            "id": "25203_4"
+        },
+        {
+            "text": "Add",
+            "resource-id": "com.dwarfplanet.bundle:id/checkedIV",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                1139,
+                1594,
+                1370,
+                1699
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "add",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                1220.3333333333333,
+                1632.6666666666667,
+                1287.0,
+                1662.0
+            ],
+            "text_updated": "Add",
+            "font_size": 6.926295673948149,
+            "id": "25203_5"
+        },
+        {
+            "text": "New York Post",
+            "resource-id": "com.dwarfplanet.bundle:id/childTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1609,
+                424,
+                1685
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2E3339",
+            "bounds_updated": [
+                60.0,
+                1629.0,
+                422.66666666666663,
+                1670.3333333333333
+            ],
+            "text_updated": "New York Post",
+            "font_size": 11.257790299171875,
+            "id": "25203_6"
+        },
+        {
+            "text": "NEWS",
+            "resource-id": "com.dwarfplanet.bundle:id/channelGroupTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1471,
+                148,
+                1529
+            ],
+            "componentLabel": "Text",
+            "text_color": "#717372",
+            "bounds_updated": [
+                58.666666666666664,
+                1483.0,
+                146.66666666666666,
+                1516.3333333333333
+            ],
+            "text_updated": "NEWS",
+            "font_size": 4.69462840323765,
+            "id": "25203_7"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.dwarfplanet.bundle:id/logoIV",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                941,
+                1003,
+                1384,
+                1318
+            ],
+            "componentLabel": "Image",
+            "id": "25203_8"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.dwarfplanet.bundle:id/logoIV",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                941,
+                688,
+                1384,
+                1003
+            ],
+            "componentLabel": "Image",
+            "id": "25203_9"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.dwarfplanet.bundle:id/logoIV",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                498,
+                1003,
+                941,
+                1318
+            ],
+            "componentLabel": "Image",
+            "id": "25203_10"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.dwarfplanet.bundle:id/logoIV",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                498,
+                688,
+                941,
+                1003
+            ],
+            "componentLabel": "Image",
+            "id": "25203_11"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.dwarfplanet.bundle:id/logoIV",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                1003,
+                498,
+                1318
+            ],
+            "componentLabel": "Image",
+            "id": "25203_12"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.dwarfplanet.bundle:id/logoIV",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                688,
+                498,
+                1003
+            ],
+            "componentLabel": "Image",
+            "id": "25203_13"
+        },
+        {
+            "text": "SUGGESTED",
+            "resource-id": "com.dwarfplanet.bundle:id/SuggestedTextView",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                609,
+                1384,
+                667
+            ],
+            "componentLabel": "Text",
+            "text_color": "#707173",
+            "bounds_updated": [
+                57.333333333333336,
+                619.6666666666666,
+                238.66666666666666,
+                653.0
+            ],
+            "text_updated": "SUGGESTED",
+            "font_size": 4.649096061045878,
+            "id": "25203_14"
+        },
+        {
+            "text": "Search for Sources",
+            "resource-id": "com.dwarfplanet.bundle:id/searchHintTextView",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                252,
+                392,
+                723,
+                468
+            ],
+            "componentLabel": "Text",
+            "text_color": "#9A9B9D",
+            "bounds_updated": [
+                254.66666666666666,
+                412.0,
+                720.0,
+                453.3333333333333
+            ],
+            "text_updated": "Search for Sources",
+            "font_size": 10.874380619427948,
+            "id": "25203_15"
+        },
+        {
+            "iconClass": "search",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.dwarfplanet.bundle:id/searchLeftImageView",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                112,
+                388,
+                196,
+                472
+            ],
+            "componentLabel": "Icon",
+            "id": "25203_16"
+        },
+        {
+            "text": "",
+            "resource-id": "com.dwarfplanet.bundle:id/changeLocationButton",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                1230,
+                84,
+                1440,
+                280
+            ],
+            "componentLabel": "Image",
+            "id": "25203_17"
+        },
+        {
+            "text": "US",
+            "resource-id": "com.dwarfplanet.bundle:id/locationTextview",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1335,
+                153,
+                1387,
+                210
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                1337.6666666666667,
+                167.66666666666666,
+                1385.6666666666667,
+                198.33333333333331
+            ],
+            "text_updated": "US",
+            "font_size": 7.343635025754237,
+            "id": "25203_18"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.dwarfplanet.bundle:id/locationIcon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1244,
+                84,
+                1307,
+                280
+            ],
+            "componentLabel": "Image",
+            "id": "25203_19"
+        },
+        {
+            "text": "Add Source",
+            "resource-id": "com.dwarfplanet.bundle:id/settings_toolbar_header_textview",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                252,
+                137,
+                599,
+                227
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                253.33333333333334,
+                159.66666666666666,
+                597.3333333333333,
+                209.0
+            ],
+            "text_updated": "Add Source",
+            "font_size": 12.538973595496017,
+            "id": "25203_20"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "componentLabel": "Icon",
+            "id": "25203_21"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                2182
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25203_22",
+            "ui_comp_ids": [
+                "25203_1",
+                "25203_2",
+                "25203_3",
+                "25203_4",
+                "25203_5",
+                "25203_6",
+                "25203_7",
+                "25203_8",
+                "25203_9",
+                "25203_10",
+                "25203_11",
+                "25203_12",
+                "25203_13",
+                "25203_14",
+                "25203_15",
+                "25203_16"
+            ],
+            "ui_comp_group_ids": [
+                "25203_23",
+                "25203_24",
+                "25203_25",
+                "25203_26",
+                "25203_28",
+                "25203_29"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                553,
+                1440,
+                1374
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#E8ECED",
+            "id": "25203_23",
+            "ui_comp_ids": [
+                "25203_8",
+                "25203_9",
+                "25203_10",
+                "25203_11",
+                "25203_12",
+                "25203_13",
+                "25203_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1542,
+                1440,
+                1752
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25203_24",
+            "ui_comp_ids": [
+                "25203_5",
+                "25203_6"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1752,
+                1440,
+                1962
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25203_25",
+            "ui_comp_ids": [
+                "25203_3",
+                "25203_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1962,
+                1440,
+                2172
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25203_26",
+            "ui_comp_ids": [
+                "25203_1",
+                "25203_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#212121",
+            "id": "25203_27",
+            "ui_comp_ids": [
+                "25203_17",
+                "25203_18",
+                "25203_19",
+                "25203_20",
+                "25203_21"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                336,
+                1384,
+                525
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25203_28",
+            "ui_comp_ids": [
+                "25203_15",
+                "25203_16"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1374,
+                1440,
+                1542
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#E8ECED",
+            "id": "25203_29",
+            "ui_comp_ids": [
+                "25203_7"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

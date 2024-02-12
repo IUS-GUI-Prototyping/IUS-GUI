@@ -1,0 +1,721 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "TRACKS",
+            "resource-id": "com.soundcloud.android:id/tracks_text",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.soundcloud.android.view.CustomFontTextView",
+            "bounds": [
+                144,
+                2075,
+                353,
+                2149
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                146.66666666666666,
+                2096.3333333333335,
+                349.3333333333333,
+                2136.3333333333335
+            ],
+            "text_updated": "TRACKS",
+            "font_size": 11.070045708776034,
+            "id": "4158_0"
+        },
+        {
+            "text": "39",
+            "resource-id": "com.soundcloud.android:id/track_count",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.soundcloud.android.view.CustomFontTextView",
+            "bounds": [
+                200,
+                1964,
+                297,
+                2075
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                202.66666666666666,
+                1996.0,
+                290.66666666666663,
+                2057.3333333333335
+            ],
+            "text_updated": "39",
+            "font_size": 14.022810890360612,
+            "id": "4158_1"
+        },
+        {
+            "text": "#jazz, #education",
+            "resource-id": "com.soundcloud.android:id/playlist_additional_info",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.soundcloud.android.view.CustomFontTextView",
+            "bounds": [
+                56,
+                2335,
+                709,
+                2392
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6D6D6D",
+            "bounds_updated": [
+                58.666666666666664,
+                2353.6666666666665,
+                445.3333333333333,
+                2392
+            ],
+            "text_updated": "#ia7z7 teducation",
+            "font_size": 8.19203016353794,
+            "id": "4158_2"
+        },
+        {
+            "text": "35",
+            "resource-id": "com.soundcloud.android:id/toggle_repost",
+            "ancestors": [
+                "android.widget.ToggleButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.soundcloud.android.view.CustomFontToggleButton",
+            "bounds": [
+                737,
+                2284,
+                947,
+                2392
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#5E5E5E",
+            "bounds_text": [
+                737,
+                2284,
+                947,
+                2392
+            ],
+            "text_updated": "35",
+            "font_size": 12,
+            "id": "4158_3"
+        },
+        {
+            "text": "216",
+            "resource-id": "com.soundcloud.android:id/toggle_like",
+            "ancestors": [
+                "android.widget.ToggleButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.soundcloud.android.view.CustomFontToggleButton",
+            "bounds": [
+                1003,
+                2284,
+                1230,
+                2392
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#636363",
+            "bounds_text": [
+                1003,
+                2284,
+                1230,
+                2392
+            ],
+            "text_updated": "216",
+            "font_size": 12,
+            "id": "4158_4"
+        },
+        {
+            "iconClass": "more",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.soundcloud.android:id/overflow_button",
+            "clickable": true,
+            "class": "com.soundcloud.android.view.OverflowAnchorImageView",
+            "bounds": [
+                1286,
+                2298,
+                1384,
+                2392
+            ],
+            "componentLabel": "Icon",
+            "id": "4158_5"
+        },
+        {
+            "text": "Artist Advice | Piano",
+            "resource-id": "com.soundcloud.android:id/title",
+            "ancestors": [
+                "com.soundcloud.android.view.CustomFontTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.soundcloud.android.view.JaggedTextView",
+            "bounds": [
+                98,
+                1311,
+                712,
+                1400
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                119.33333333333333,
+                1332.3333333333333,
+                690.0,
+                1391.0
+            ],
+            "text_updated": "Artist Advice | Piano",
+            "font_size": 12.045205537707371,
+            "id": "4158_6"
+        },
+        {
+            "text": "Monterey Jazz Festival",
+            "resource-id": "com.soundcloud.android:id/creator",
+            "ancestors": [
+                "com.soundcloud.android.view.CustomFontTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.soundcloud.android.view.JaggedTextView",
+            "bounds": [
+                98,
+                1224,
+                633,
+                1297
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#323232",
+            "text_color": "#D1D1D1",
+            "bounds_text": [
+                119.33333333333333,
+                1242.6666666666667,
+                610.0,
+                1288.0
+            ],
+            "text_updated": "Monterey Jazz Festival",
+            "font_size": 8.875561430247771,
+            "id": "4158_7"
+        },
+        {
+            "ancestors": [
+                "com.soundcloud.android.view.AspectRatioImageView",
+                "com.soundcloud.android.view.OptimisedImageView",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.soundcloud.android:id/image",
+            "clickable": false,
+            "class": "com.soundcloud.android.view.ParallaxImageView",
+            "bounds": [
+                56,
+                1168,
+                1384,
+                2270
+            ],
+            "componentLabel": "Image",
+            "id": "4158_8"
+        },
+        {
+            "text": "Spotlight",
+            "resource-id": "com.soundcloud.android:id/sounds_header_text",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.soundcloud.android.view.CustomFontTextView",
+            "bounds": [
+                0,
+                956,
+                1440,
+                1112
+            ],
+            "componentLabel": "Text",
+            "text_color": "#686868",
+            "bounds_updated": [
+                58.666666666666664,
+                1046.6666666666667,
+                261.3333333333333,
+                1089.3333333333333
+            ],
+            "text_updated": "Spotlight",
+            "font_size": 9.251844118937054,
+            "id": "4158_9"
+        },
+        {
+            "text": "Start station",
+            "resource-id": "com.soundcloud.android:id/btn_station",
+            "ancestors": [
+                "com.soundcloud.android.view.CustomFontToggleButton",
+                "android.widget.ToggleButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.soundcloud.android.view.ProfileToggleButton",
+            "bounds": [
+                672,
+                574,
+                1155,
+                700
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#2D2D2D",
+            "bounds_text": [
+                714.6666666666666,
+                608.6666666666666,
+                1109.3333333333333,
+                667.3333333333334
+            ],
+            "text_updated": "((e) Start station",
+            "font_size": 9.868974767373636,
+            "id": "4158_10"
+        },
+        {
+            "text": "",
+            "resource-id": "com.soundcloud.android:id/toggle_btn_follow",
+            "ancestors": [
+                "com.soundcloud.android.view.CustomFontToggleButton",
+                "android.widget.ToggleButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.soundcloud.android.view.ProfileToggleButton",
+            "bounds": [
+                476,
+                574,
+                630,
+                700
+            ],
+            "componentLabel": "Image",
+            "id": "4158_11"
+        },
+        {
+            "text": "172K",
+            "resource-id": "com.soundcloud.android:id/followers_count",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.soundcloud.android.view.CustomFontTextView",
+            "bounds": [
+                476,
+                418,
+                640,
+                474
+            ],
+            "componentLabel": "Text",
+            "text_color": "#999999",
+            "bounds_updated": [
+                476,
+                418,
+                640,
+                474
+            ],
+            "text_updated": "172K",
+            "font_size": 12,
+            "id": "4158_12"
+        },
+        {
+            "text": "Monterey Jazz Festival",
+            "resource-id": "com.soundcloud.android:id/username",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.soundcloud.android.view.CustomFontTextView",
+            "bounds": [
+                476,
+                323,
+                1384,
+                397
+            ],
+            "componentLabel": "Text",
+            "text_color": "#373737",
+            "bounds_updated": [
+                481.3333333333333,
+                344.3333333333333,
+                1046.6666666666665,
+                395.0
+            ],
+            "text_updated": "Monterey Jazz Festival",
+            "font_size": 10.725487897790542,
+            "id": "4158_13"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.soundcloud.android:id/image",
+            "clickable": true,
+            "class": "com.soundcloud.android.view.CircularBorderImageView",
+            "bounds": [
+                56,
+                336,
+                420,
+                700
+            ],
+            "componentLabel": "Image",
+            "id": "4158_14"
+        },
+        {
+            "text": "FOLLOWERS",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1130,
+                779,
+                1409,
+                845
+            ],
+            "componentLabel": "Text",
+            "text_color": "#737373",
+            "bounds_updated": [
+                1132.6666666666667,
+                795.0,
+                1407.3333333333333,
+                832.3333333333334
+            ],
+            "text_updated": "FOLLOWERS",
+            "font_size": 9.154525386313471,
+            "id": "4158_15"
+        },
+        {
+            "ancestors": [
+                "android.widget.LinearLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.support.design.widget.TabLayout$TabView",
+            "bounds": [
+                690,
+                728,
+                1074,
+                896
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "follow",
+            "bg_color": "#FFFFFF",
+            "text_color": "#737373",
+            "bounds_text": [
+                748.6666666666666,
+                794.6666666666666,
+                1015.3333333333333,
+                832.0
+            ],
+            "text_updated": "FOLLOWING",
+            "font_size": 9.054958895200002,
+            "id": "4158_16"
+        },
+        {
+            "ancestors": [
+                "android.widget.LinearLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.support.design.widget.TabLayout$TabView",
+            "bounds": [
+                385,
+                728,
+                690,
+                896
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "sound",
+            "bg_color": "#FFFFFF",
+            "text_color": "#E05A1B",
+            "bounds_text": [
+                443.6666666666667,
+                794.6666666666666,
+                633.0,
+                832.0
+            ],
+            "text_updated": "SOUNDS",
+            "font_size": 9.060958134851493,
+            "id": "4158_17"
+        },
+        {
+            "ancestors": [
+                "android.widget.LinearLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.support.design.widget.TabLayout$TabView",
+            "bounds": [
+                133,
+                728,
+                385,
+                896
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "info",
+            "bg_color": "#FFFFFF",
+            "text_color": "#727272",
+            "bounds_text": [
+                207.66666666666666,
+                794.6666666666666,
+                311.66666666666663,
+                832.0
+            ],
+            "text_updated": "INFO",
+            "font_size": 8.80404143318046,
+            "id": "4158_18"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "4158_19"
+        },
+        {
+            "text": "Profile",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.soundcloud.android.view.CustomFontTextView",
+            "bounds": [
+                196,
+                136,
+                403,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#343434",
+            "bounds_updated": [
+                201.33333333333334,
+                162.66666666666666,
+                398.66666666666663,
+                213.33333333333331
+            ],
+            "text_updated": "Profile",
+            "font_size": 13.20480123112321,
+            "id": "4158_20"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                896,
+                1440,
+                2392
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "4158_21",
+            "ui_comp_ids": [
+                "4158_0",
+                "4158_1",
+                "4158_2",
+                "4158_3",
+                "4158_4",
+                "4158_5",
+                "4158_6",
+                "4158_7",
+                "4158_8",
+                "4158_9"
+            ],
+            "ui_comp_group_ids": [
+                "4158_22",
+                "4158_26"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1112,
+                1440,
+                2392
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "4158_22",
+            "ui_comp_ids": [
+                "4158_0",
+                "4158_1",
+                "4158_2",
+                "4158_3",
+                "4158_4",
+                "4158_5",
+                "4158_6",
+                "4158_7",
+                "4158_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                896
+            ],
+            "class": "android.support.design.widget.AppBarLayout",
+            "bg_color": "#FFFFFF",
+            "id": "4158_23",
+            "ui_comp_ids": [
+                "4158_10",
+                "4158_11",
+                "4158_12",
+                "4158_13",
+                "4158_14",
+                "4158_15",
+                "4158_16",
+                "4158_17",
+                "4158_18"
+            ],
+            "ui_comp_group_ids": [
+                "4158_24",
+                "4158_27"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                728
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "4158_24",
+            "ui_comp_ids": [
+                "4158_10",
+                "4158_11",
+                "4158_12",
+                "4158_13",
+                "4158_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "com.soundcloud.android.view.CustomFontTitleToolbar",
+            "bg_color": "#FFFFFF",
+            "id": "4158_25",
+            "ui_comp_ids": [
+                "4158_19",
+                "4158_20"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                956,
+                1440,
+                1112
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "4158_26",
+            "ui_comp_ids": [
+                "4158_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Multi-Tab",
+            "bounds": [
+                133,
+                728,
+                1440,
+                896
+            ],
+            "class": "android.support.design.widget.TabLayout$SlidingTabStrip",
+            "bg_color": "#FFFFFF",
+            "id": "4158_27",
+            "ui_comp_ids": [
+                "4158_15",
+                "4158_16",
+                "4158_17",
+                "4158_18"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

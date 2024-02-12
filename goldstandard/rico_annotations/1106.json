@@ -1,0 +1,420 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "net.one97.paytm:id/viewpager_image",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                67,
+                1402,
+                1373,
+                2167
+            ],
+            "componentLabel": "Image",
+            "id": "1106_0"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "net.one97.paytm:id/page_indicator",
+            "clickable": false,
+            "class": "net.one97.paytm.widget.CirclePageIndicator",
+            "bounds": [
+                67,
+                2121,
+                1373,
+                2146
+            ],
+            "componentLabel": "Pager Indicator",
+            "id": "1106_1"
+        },
+        {
+            "text": "To",
+            "resource-id": "net.one97.paytm:id/destination",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "net.one97.paytm.widget.RoboTextView",
+            "bounds": [
+                1301,
+                566,
+                1373,
+                652
+            ],
+            "componentLabel": "Text",
+            "text_color": "#4A4A4A",
+            "bounds_updated": [
+                1302.3333333333333,
+                588.6666666666666,
+                1369.0,
+                635.3333333333334
+            ],
+            "text_updated": "TO",
+            "font_size": 10.581309786607802,
+            "id": "1106_2"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                681,
+                570,
+                758,
+                647
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Icon",
+            "id": "1106_3"
+        },
+        {
+            "text": "From",
+            "resource-id": "net.one97.paytm:id/source",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "net.one97.paytm.widget.RoboTextView",
+            "bounds": [
+                67,
+                566,
+                215,
+                652
+            ],
+            "componentLabel": "Text",
+            "text_color": "#4A4A4A",
+            "bounds_updated": [
+                72.33333333333333,
+                588.6666666666666,
+                211.0,
+                635.3333333333334
+            ],
+            "text_updated": "From",
+            "font_size": 11.970397192180032,
+            "id": "1106_4"
+        },
+        {
+            "text": "Search Buses",
+            "resource-id": "net.one97.paytm:id/proceed_btn",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "net.one97.paytm.widget.RoboButton",
+            "bounds": [
+                67,
+                1129,
+                1373,
+                1332
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#00BBF2",
+            "text_color": "#E8F7FC",
+            "bounds_text": [
+                76.33333333333333,
+                1129.0,
+                1365.6666666666665,
+                1332
+            ],
+            "text_updated": "Search Buses",
+            "font_size": 17.62888675388226,
+            "id": "1106_5"
+        },
+        {
+            "resource-id": "net.one97.paytm:id/journey_date",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                67,
+                770,
+                1373,
+                1083
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "today",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                67,
+                770,
+                1373,
+                1083
+            ],
+            "text_updated": "today",
+            "font_size": 12,
+            "id": "1106_6"
+        },
+        {
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Hotels",
+            "bounds": [
+                1177,
+                326,
+                1342,
+                402
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "componentLabel": "Text",
+            "text_color": "#8B8B8B",
+            "bounds_updated": [
+                1179.6666666666667,
+                346.0,
+                1339.6666666666667,
+                387.3333333333333
+            ],
+            "text_updated": "Hotels",
+            "font_size": 11.022810890360567,
+            "id": "1106_7"
+        },
+        {
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Trains",
+            "bounds": [
+                821,
+                326,
+                978,
+                402
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "componentLabel": "Text",
+            "text_color": "#8F8F8F",
+            "bounds_updated": [
+                822.3333333333334,
+                346.0,
+                975.6666666666666,
+                387.3333333333333
+            ],
+            "text_updated": "Trains",
+            "font_size": 11.258470520903945,
+            "id": "1106_8"
+        },
+        {
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Bus",
+            "bounds": [
+                492,
+                326,
+                588,
+                402
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "componentLabel": "Text",
+            "text_color": "#113373",
+            "bounds_updated": [
+                496.0,
+                347.3333333333333,
+                585.3333333333334,
+                387.3333333333333
+            ],
+            "text_updated": "Bus",
+            "font_size": 10.581309786607777,
+            "id": "1106_9"
+        },
+        {
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Flights",
+            "bounds": [
+                94,
+                326,
+                266,
+                402
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "componentLabel": "Text",
+            "text_color": "#909090",
+            "bounds_updated": [
+                98.0,
+                347.3333333333333,
+                264.66666666666663,
+                398.0
+            ],
+            "text_updated": "Flights",
+            "font_size": 10.950113921469542,
+            "id": "1106_10"
+        },
+        {
+            "iconClass": "shop",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "net.one97.paytm:id/icon_cart",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1314,
+                140,
+                1398,
+                224
+            ],
+            "componentLabel": "Icon",
+            "id": "1106_11"
+        },
+        {
+            "text": "Travel",
+            "resource-id": "net.one97.paytm:id/travel_title_text",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "net.one97.paytm.widget.RoboTextView",
+            "bounds": [
+                617,
+                125,
+                853,
+                239
+            ],
+            "componentLabel": "Text",
+            "text_color": "#17294D",
+            "bounds_updated": [
+                618.3333333333334,
+                154.33333333333334,
+                847.6666666666666,
+                215.66666666666666
+            ],
+            "text_updated": "Travel",
+            "font_size": 14.077330171491367,
+            "id": "1106_12"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                196,
+                127,
+                198,
+                236
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "1106_13"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "1106_14"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                67,
+                448,
+                1373,
+                770
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "1106_15",
+            "ui_comp_ids": [
+                "1106_2",
+                "1106_3",
+                "1106_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.ActionBarContainer",
+            "bg_color": "#FFFFFF",
+            "id": "1106_16",
+            "ui_comp_ids": [
+                "1106_11",
+                "1106_12",
+                "1106_13",
+                "1106_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Multi-Tab",
+            "bounds": [
+                0,
+                280,
+                1440,
+                448
+            ],
+            "class": "android.support.design.widget.TabLayout$SlidingTabStrip",
+            "bg_color": "#FAFAFA",
+            "id": "1106_17",
+            "ui_comp_ids": [
+                "1106_7",
+                "1106_8",
+                "1106_9",
+                "1106_10"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

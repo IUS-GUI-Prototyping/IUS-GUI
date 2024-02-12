@@ -1,0 +1,728 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "iconClass": "help",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                70,
+                1235,
+                140,
+                1305
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Icon",
+            "id": "14616_0"
+        },
+        {
+            "iconClass": "help",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                70,
+                1002,
+                140,
+                1072
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Icon",
+            "id": "14616_1"
+        },
+        {
+            "text": "United States",
+            "resource-id": "com.ehi.enterprise.android:id/fr_settings_region_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                70,
+                1844,
+                1330,
+                1892
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1D1B1C",
+            "bounds_updated": [
+                74.0,
+                1853.3333333333333,
+                308.66666666666663,
+                1884.0
+            ],
+            "text_updated": "United States",
+            "font_size": 6.878235001855304,
+            "id": "14616_2"
+        },
+        {
+            "text": "Country of Residence",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                70,
+                1780,
+                1330,
+                1844
+            ],
+            "componentLabel": "Text",
+            "text_color": "#100E0F",
+            "bounds_updated": [
+                74.0,
+                1793.3333333333333,
+                570.0,
+                1842.6666666666667
+            ],
+            "text_updated": "Country of Residence",
+            "font_size": 10.24899712786916,
+            "id": "14616_3"
+        },
+        {
+            "iconClass": "help",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                70,
+                1468,
+                140,
+                1538
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Icon",
+            "id": "14616_4"
+        },
+        {
+            "text": "",
+            "resource-id": "com.ehi.enterprise.android:id/check_box",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.SwitchCompat",
+            "bounds": [
+                1204,
+                1223,
+                1370,
+                1318
+            ],
+            "componentLabel": "On/Off Switch",
+            "id": "14616_5"
+        },
+        {
+            "text": "Save Search History",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                193,
+                1238,
+                1204,
+                1302
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                197.0,
+                1251.3333333333333,
+                670.3333333333333,
+                1300.6666666666667
+            ],
+            "text_updated": "Save Search History",
+            "font_size": 10.332401482871216,
+            "id": "14616_6"
+        },
+        {
+            "text": "",
+            "resource-id": "com.ehi.enterprise.android:id/check_box",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.SwitchCompat",
+            "bounds": [
+                1204,
+                990,
+                1370,
+                1085
+            ],
+            "componentLabel": "On/Off Switch",
+            "id": "14616_7"
+        },
+        {
+            "text": "Data Collection",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                193,
+                1005,
+                1204,
+                1069
+            ],
+            "componentLabel": "Text",
+            "text_color": "#0E0C0D",
+            "bounds_updated": [
+                197.0,
+                1018.3333333333334,
+                545.0,
+                1058.3333333333333
+            ],
+            "text_updated": "Data Collection",
+            "font_size": 10.026473150474052,
+            "id": "14616_8"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1330,
+                2195,
+                1370,
+                2265
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Image",
+            "id": "14616_9"
+        },
+        {
+            "text": "Privacy Policy",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                70,
+                2198,
+                1330,
+                2262
+            ],
+            "componentLabel": "Text",
+            "text_color": "#0D0B0C",
+            "bounds_updated": [
+                75.33333333333333,
+                2212.6666666666665,
+                399.3333333333333,
+                2260.6666666666665
+            ],
+            "text_updated": "Privacy Policy",
+            "font_size": 10.494099692039354,
+            "id": "14616_10"
+        },
+        {
+            "text": "1.7.2.114",
+            "resource-id": "com.ehi.enterprise.android:id/settings_version_number",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1181,
+                2005,
+                1370,
+                2061
+            ],
+            "componentLabel": "Text",
+            "text_color": "#0E0E0E",
+            "bounds_updated": [
+                1186.3333333333333,
+                2017.0,
+                1367.6666666666667,
+                2050.3333333333335
+            ],
+            "text_updated": "1.7.2.114",
+            "font_size": 8.161591030128598,
+            "id": "14616_11"
+        },
+        {
+            "text": "Version",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                70,
+                2001,
+                1181,
+                2065
+            ],
+            "componentLabel": "Text",
+            "text_color": "#0E0E0E",
+            "bounds_updated": [
+                71.33333333333333,
+                2014.3333333333333,
+                244.66666666666666,
+                2054.3333333333335
+            ],
+            "text_updated": "Version",
+            "font_size": 10.33631495446754,
+            "id": "14616_12"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1330,
+                1801,
+                1370,
+                1871
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Image",
+            "id": "14616_13"
+        },
+        {
+            "text": "Clear Personal Data",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                193,
+                1471,
+                1370,
+                1535
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2E865C",
+            "bounds_updated": [
+                195.66666666666666,
+                1484.3333333333333,
+                662.3333333333333,
+                1524.3333333333333
+            ],
+            "text_updated": "Clear Personal Data",
+            "font_size": 10.349372019040326,
+            "id": "14616_14"
+        },
+        {
+            "text": "",
+            "resource-id": "com.ehi.enterprise.android:id/check_box",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.SwitchCompat",
+            "bounds": [
+                1204,
+                455,
+                1370,
+                550
+            ],
+            "componentLabel": "On/Off Switch",
+            "id": "14616_15"
+        },
+        {
+            "text": "Auto-Save",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                70,
+                469,
+                1440,
+                535
+            ],
+            "componentLabel": "Text",
+            "text_color": "#030000",
+            "bounds_updated": [
+                71.33333333333333,
+                482.3333333333333,
+                326.0,
+                522.3333333333334
+            ],
+            "text_updated": "Auto-Save",
+            "font_size": 10.839862066975435,
+            "id": "14616_16"
+        },
+        {
+            "text": "ABOUT THIS APP",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                1618,
+                1440,
+                1740
+            ],
+            "componentLabel": "Text",
+            "text_color": "#120C0E",
+            "bounds_updated": [
+                70.66666666666666,
+                1659.3333333333333,
+                486.66666666666663,
+                1698.0
+            ],
+            "text_updated": "ABOUT THIS APP",
+            "font_size": 11.011490349238684,
+            "id": "14616_17"
+        },
+        {
+            "text": "Enabling this option will give the app permission to save your email address, first and last name, and phone number to use for future reservations.",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                681,
+                1440,
+                841
+            ],
+            "componentLabel": "Text",
+            "text_color": "#161415",
+            "bounds_updated": [
+                72.0,
+                690.3333333333334,
+                1264.0,
+                833.0
+            ],
+            "text_updated": "Enabling this option will give the app permission to save your email\naddress, first and last name, and phone number to use for future\nreservations.",
+            "font_size": 7.0572025423352125,
+            "id": "14616_18"
+        },
+        {
+            "text": "PRIVACY",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                284,
+                1440,
+                406
+            ],
+            "componentLabel": "Text",
+            "text_color": "#110D0E",
+            "bounds_updated": [
+                73.33333333333333,
+                325.3333333333333,
+                282.66666666666663,
+                365.3333333333333
+            ],
+            "text_updated": "PRIVACY",
+            "font_size": 11.009432069034707,
+            "id": "14616_19"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "14616_20"
+        },
+        {
+            "text": "Settings",
+            "resource-id": "com.ehi.enterprise.android:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                252,
+                146,
+                475,
+                218
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFA",
+            "bounds_updated": [
+                254.66666666666666,
+                159.33333333333334,
+                472.0,
+                215.33333333333331
+            ],
+            "text_updated": "Settings",
+            "font_size": 11.467012306674492,
+            "id": "14616_21"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#159A59",
+            "id": "14616_22",
+            "ui_comp_ids": [
+                "14616_20",
+                "14616_21"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2134,
+                1440,
+                2327
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "14616_23",
+            "ui_comp_ids": [
+                "14616_9",
+                "14616_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1937,
+                1440,
+                2130
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "14616_24",
+            "ui_comp_ids": [
+                "14616_11",
+                "14616_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1740,
+                1440,
+                1933
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "14616_25",
+            "ui_comp_ids": [
+                "14616_2",
+                "14616_3",
+                "14616_13"
+            ],
+            "ui_comp_group_ids": [
+                "14616_32"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1407,
+                1440,
+                1600
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "14616_26",
+            "ui_comp_ids": [
+                "14616_4",
+                "14616_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1174,
+                1440,
+                1367
+            ],
+            "class": "com.ehi.enterprise.android.ui.widget.CompoundRowView",
+            "bg_color": "#FFFFFF",
+            "id": "14616_27",
+            "ui_comp_ids": [
+                "14616_0",
+                "14616_5",
+                "14616_6"
+            ],
+            "ui_comp_group_ids": [
+                "14616_30"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                941,
+                1440,
+                1134
+            ],
+            "class": "com.ehi.enterprise.android.ui.widget.CompoundRowView",
+            "bg_color": "#FFFFFF",
+            "id": "14616_28",
+            "ui_comp_ids": [
+                "14616_1",
+                "14616_7",
+                "14616_8"
+            ],
+            "ui_comp_group_ids": [
+                "14616_31"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                406,
+                1440,
+                599
+            ],
+            "class": "com.ehi.enterprise.android.ui.widget.CompoundRowView",
+            "bg_color": "#FFFFFF",
+            "id": "14616_29",
+            "ui_comp_ids": [
+                "14616_15",
+                "14616_16"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                18,
+                1174,
+                1370,
+                1367
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "14616_30",
+            "ui_comp_ids": [
+                "14616_0",
+                "14616_5",
+                "14616_6"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                18,
+                941,
+                1370,
+                1134
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "14616_31",
+            "ui_comp_ids": [
+                "14616_1",
+                "14616_7",
+                "14616_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1758,
+                1330,
+                1915
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "14616_32",
+            "ui_comp_ids": [
+                "14616_2",
+                "14616_3"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

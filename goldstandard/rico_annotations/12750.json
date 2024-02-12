@@ -1,0 +1,889 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "Request a Bible Study",
+            "resource-id": "org.jw.jwlanguage:id/linkName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1267,
+                2193,
+                1440,
+                2371
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                1267,
+                2193,
+                1440,
+                2371
+            ],
+            "text_updated": "Request a Bible Study",
+            "font_size": 12,
+            "id": "12750_0"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/linkLogo",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1162,
+                2229,
+                1267,
+                2334
+            ],
+            "componentLabel": "Image",
+            "id": "12750_1"
+        },
+        {
+            "text": "Other Publications",
+            "resource-id": "org.jw.jwlanguage:id/linkName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                217,
+                2193,
+                731,
+                2371
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#222222",
+            "bounds_text": [
+                275.6666666666667,
+                2265.0,
+                673.0,
+                2301.0
+            ],
+            "text_updated": "Other Publications",
+            "font_size": 9.563712602748847,
+            "id": "12750_2"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/linkLogo",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                112,
+                2229,
+                217,
+                2334
+            ],
+            "componentLabel": "Image",
+            "id": "12750_3"
+        },
+        {
+            "text": "More on JW.ORG",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                42,
+                1981,
+                584,
+                2172
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                42,
+                1981,
+                584,
+                2172
+            ],
+            "text_updated": "More on JW.ORG",
+            "font_size": 12,
+            "id": "12750_4"
+        },
+        {
+            "iconClass": "visibility",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/videoIcon",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1260,
+                1744,
+                1428,
+                1940
+            ],
+            "componentLabel": "Icon",
+            "id": "12750_5"
+        },
+        {
+            "text": "Why Study the Bible?",
+            "resource-id": "org.jw.jwlanguage:id/videoName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                756,
+                1725,
+                1260,
+                1960
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#242424",
+            "bounds_text": [
+                813.3333333333334,
+                1797.0,
+                1120.0,
+                1890.3333333333333
+            ],
+            "text_updated": "Why Study the\nBible?",
+            "font_size": 9.108680697868953,
+            "id": "12750_6"
+        },
+        {
+            "iconClass": "play",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/videoPlayIcon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                756,
+                1025,
+                854,
+                1123
+            ],
+            "componentLabel": "Icon",
+            "id": "12750_7"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/videoLogo",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                756,
+                1025,
+                1428,
+                1725
+            ],
+            "componentLabel": "Image",
+            "id": "12750_8"
+        },
+        {
+            "iconClass": "visibility",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/videoIcon",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                560,
+                1744,
+                728,
+                1940
+            ],
+            "componentLabel": "Icon",
+            "id": "12750_9"
+        },
+        {
+            "text": "What Happens at a Bible Study?",
+            "resource-id": "org.jw.jwlanguage:id/videoName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1725,
+                560,
+                1960
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#202020",
+            "bounds_text": [
+                113.33333333333333,
+                1798.3333333333333,
+                484.0,
+                1901.0
+            ],
+            "text_updated": "What Happens at\na Bible Study?",
+            "font_size": 9.350025486474317,
+            "id": "12750_10"
+        },
+        {
+            "iconClass": "play",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/videoPlayIcon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                1025,
+                154,
+                1123
+            ],
+            "componentLabel": "Icon",
+            "id": "12750_11"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/videoLogo",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                1025,
+                728,
+                1725
+            ],
+            "componentLabel": "Image",
+            "id": "12750_12"
+        },
+        {
+            "text": "Videos",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                42,
+                813,
+                270,
+                1004
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1E1E1E",
+            "bounds_updated": [
+                56.666666666666664,
+                921.0,
+                266.0,
+                971.6666666666666
+            ],
+            "text_updated": "Videos",
+            "font_size": 12.823855075510709,
+            "id": "12750_13"
+        },
+        {
+            "text": "0.7 MB",
+            "resource-id": "org.jw.jwlanguage:id/document_size",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1247,
+                696,
+                1428,
+                792
+            ],
+            "componentLabel": "Text",
+            "text_color": "#757575",
+            "bounds_updated": [
+                1263.0,
+                700.0,
+                1371.0,
+                726.6666666666666
+            ],
+            "text_updated": "0.7 MB",
+            "font_size": 5.610334396206365,
+            "id": "12750_14"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/document_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1274,
+                563,
+                1428,
+                696
+            ],
+            "componentLabel": "Image",
+            "id": "12750_15"
+        },
+        {
+            "text": "Peace, Security & Unity",
+            "resource-id": "org.jw.jwlanguage:id/document_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                756,
+                563,
+                1247,
+                781
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#212121",
+            "bounds_text": [
+                814.6666666666666,
+                633.6666666666666,
+                1132.0,
+                723.0
+            ],
+            "text_updated": "Peace, Security &\nUnity",
+            "font_size": 7.48617416616917,
+            "id": "12750_16"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/document_logo",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                756,
+                448,
+                1428,
+                563
+            ],
+            "componentLabel": "Image",
+            "id": "12750_17"
+        },
+        {
+            "text": "0.2 MB",
+            "resource-id": "org.jw.jwlanguage:id/document_size",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                547,
+                696,
+                728,
+                792
+            ],
+            "componentLabel": "Text",
+            "text_color": "#777777",
+            "bounds_updated": [
+                563.0,
+                701.3333333333334,
+                671.0,
+                726.6666666666666
+            ],
+            "text_updated": "0.2 MB",
+            "font_size": 5.610334396206365,
+            "id": "12750_18"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/document_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                574,
+                563,
+                728,
+                696
+            ],
+            "componentLabel": "Image",
+            "id": "12750_19"
+        },
+        {
+            "text": "Simple Announcements",
+            "resource-id": "org.jw.jwlanguage:id/document_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                563,
+                547,
+                781
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#242424",
+            "bounds_text": [
+                113.33333333333333,
+                633.6666666666666,
+                414.66666666666663,
+                713.6666666666666
+            ],
+            "text_updated": "Simple\nAnnouncements",
+            "font_size": 7.765090121473918,
+            "id": "12750_20"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/document_logo",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                56,
+                448,
+                728,
+                563
+            ],
+            "componentLabel": "Image",
+            "id": "12750_21"
+        },
+        {
+            "text": "Downloaded",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                294,
+                331,
+                622,
+                397
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BCEDC0",
+            "bounds_updated": [
+                298.0,
+                348.3333333333333,
+                620.6666666666666,
+                384.3333333333333
+            ],
+            "text_updated": "DOWNLOADED",
+            "font_size": 9.586789701963907,
+            "id": "12750_22"
+        },
+        {
+            "ancestors": [
+                "android.widget.LinearLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.support.design.widget.TabLayout$TabView",
+            "bounds": [
+                0,
+                280,
+                252,
+                448
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "all",
+            "bg_color": "#29B24A",
+            "text_color": "#FEFFF3",
+            "bounds_text": [
+                82.66666666666666,
+                348.0,
+                168.0,
+                382.66666666666663
+            ],
+            "text_updated": "ALL",
+            "font_size": 10.581309786607823,
+            "id": "12750_23"
+        },
+        {
+            "iconClass": "search",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.jw.jwlanguage:id/search_button",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1132,
+                98,
+                1300,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "12750_24"
+        },
+        {
+            "iconClass": "more",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatImageView",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1300,
+                98,
+                1440,
+                266
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton",
+            "componentLabel": "Icon",
+            "id": "12750_25"
+        },
+        {
+            "iconClass": "refresh",
+            "resource-id": "org.jw.jwlanguage:id/action_content_updates",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                964,
+                98,
+                1132,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "12750_26"
+        },
+        {
+            "iconClass": "menu",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "componentLabel": "Icon",
+            "id": "12750_27"
+        },
+        {
+            "text": "Home",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                252,
+                135,
+                441,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFAFF",
+            "bounds_updated": [
+                252,
+                135,
+                441,
+                228
+            ],
+            "text_updated": "Home",
+            "font_size": 12,
+            "id": "12750_28"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                42,
+                1004,
+                1440,
+                1981
+            ],
+            "class": "android.support.v7.widget.RecyclerView",
+            "bg_color": "#FFFFFF",
+            "id": "12750_29",
+            "ui_comp_ids": [
+                "12750_5",
+                "12750_6",
+                "12750_7",
+                "12750_8",
+                "12750_9",
+                "12750_10",
+                "12750_11",
+                "12750_12"
+            ],
+            "ui_comp_group_ids": [
+                "12750_30",
+                "12750_31"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                42,
+                1004,
+                742,
+                1981
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12750_30",
+            "ui_comp_ids": [
+                "12750_9",
+                "12750_10",
+                "12750_11",
+                "12750_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                742,
+                1004,
+                1440,
+                1981
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12750_31",
+            "ui_comp_ids": [
+                "12750_5",
+                "12750_6",
+                "12750_7",
+                "12750_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                42,
+                448,
+                1440,
+                813
+            ],
+            "class": "android.support.v7.widget.RecyclerView",
+            "bg_color": "#FFFFFF",
+            "id": "12750_32",
+            "ui_comp_ids": [
+                "12750_14",
+                "12750_15",
+                "12750_16",
+                "12750_17",
+                "12750_18",
+                "12750_19",
+                "12750_20",
+                "12750_21"
+            ],
+            "ui_comp_group_ids": [
+                "12750_35",
+                "12750_36"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                42,
+                2172,
+                1440,
+                2392
+            ],
+            "class": "android.support.v7.widget.RecyclerView",
+            "bg_color": "#FFFFFF",
+            "id": "12750_33",
+            "ui_comp_ids": [
+                "12750_0",
+                "12750_1",
+                "12750_2",
+                "12750_3"
+            ],
+            "ui_comp_group_ids": [
+                "12750_38",
+                "12750_39"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#29B24A",
+            "id": "12750_34",
+            "ui_comp_ids": [
+                "12750_24",
+                "12750_25",
+                "12750_26",
+                "12750_27",
+                "12750_28"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                42,
+                448,
+                742,
+                813
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12750_35",
+            "ui_comp_ids": [
+                "12750_18",
+                "12750_19",
+                "12750_20",
+                "12750_21"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                742,
+                448,
+                1440,
+                813
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12750_36",
+            "ui_comp_ids": [
+                "12750_14",
+                "12750_15",
+                "12750_16",
+                "12750_17"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Multi-Tab",
+            "bounds": [
+                0,
+                280,
+                1440,
+                448
+            ],
+            "class": "android.support.design.widget.TabLayout$SlidingTabStrip",
+            "bg_color": "#29B24A",
+            "id": "12750_37",
+            "ui_comp_ids": [
+                "12750_22",
+                "12750_23"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                42,
+                2172,
+                1092,
+                2392
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12750_38",
+            "ui_comp_ids": [
+                "12750_2",
+                "12750_3"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                1092,
+                2172,
+                1440,
+                2392
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12750_39",
+            "ui_comp_ids": [
+                "12750_0",
+                "12750_1"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

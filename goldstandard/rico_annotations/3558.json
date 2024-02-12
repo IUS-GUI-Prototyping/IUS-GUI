@@ -1,0 +1,548 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "hk.hkbc.epodcast:id/episode_play_download",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1140,
+                2347,
+                1387,
+                2392
+            ],
+            "componentLabel": "Image",
+            "id": "3558_0"
+        },
+        {
+            "text": "13.19 MB",
+            "resource-id": "hk.hkbc.epodcast:id/episode_size",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1158,
+                2263,
+                1369,
+                2329
+            ],
+            "componentLabel": "Text",
+            "text_color": "#8F8F8F",
+            "bounds_updated": [
+                1163.3333333333333,
+                2279.0,
+                1366.0,
+                2313.6666666666665
+            ],
+            "text_updated": "13.19 MB",
+            "font_size": 8.55008210180624,
+            "id": "3558_1"
+        },
+        {
+            "text": "Being sympathetic, chocolate, places in a city, ways of wasting time, Carolina has lunch with Jamie's parents, a joke, the present continuous, 'portmanteau' words.",
+            "resource-id": "hk.hkbc.epodcast:id/episode_description",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                75,
+                2292,
+                1122,
+                2392
+            ],
+            "componentLabel": "Text",
+            "text_color": "#989898",
+            "bounds_updated": [
+                75,
+                2292,
+                1122,
+                2392
+            ],
+            "text_updated": "Being sympathetic, chocolate, places in a city, ways of wasting time, Carolina has lunch with Jamie's parents, a joke, the present continuous, 'portmanteau' words.",
+            "font_size": 12,
+            "id": "3558_2"
+        },
+        {
+            "text": "Episode 4",
+            "resource-id": "hk.hkbc.epodcast:id/episode_name",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                75,
+                2181,
+                1122,
+                2274
+            ],
+            "componentLabel": "Text",
+            "text_color": "#282828",
+            "bounds_updated": [
+                80.33333333333333,
+                2205.0,
+                376.3333333333333,
+                2269.0
+            ],
+            "text_updated": "Episode 4",
+            "font_size": 12.761947377841416,
+            "id": "3558_3"
+        },
+        {
+            "ancestors": [
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                1725,
+                1440,
+                2124
+            ],
+            "clickable": true,
+            "class": "com.google.android.gms.ads.internal.webview.m",
+            "componentLabel": "Web View",
+            "id": "3558_4"
+        },
+        {
+            "iconClass": "file_download",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "hk.hkbc.epodcast:id/episode_play_download",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1140,
+                1431,
+                1387,
+                1586
+            ],
+            "componentLabel": "Icon",
+            "id": "3558_5"
+        },
+        {
+            "text": "13.28 MB",
+            "resource-id": "hk.hkbc.epodcast:id/episode_size",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1158,
+                1347,
+                1369,
+                1413
+            ],
+            "componentLabel": "Text",
+            "text_color": "#969696",
+            "bounds_updated": [
+                1163.3333333333333,
+                1365.6666666666667,
+                1366.0,
+                1400.3333333333333
+            ],
+            "text_updated": "13.28 MB",
+            "font_size": 8.518183828300266,
+            "id": "3558_6"
+        },
+        {
+            "text": "Asking for and giving advice, meditation, things and places in airports, space exploration, Carolina meets Jamie's parents, a joke, 'too' and 'very'.",
+            "resource-id": "hk.hkbc.epodcast:id/episode_description",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                75,
+                1376,
+                1122,
+                1650
+            ],
+            "componentLabel": "Text",
+            "text_color": "#929292",
+            "bounds_updated": [
+                75,
+                1397.3333333333333,
+                1075.0,
+                1648.0
+            ],
+            "text_updated": "Asking for and giving advice, meditation,\nthings and places in airports, space\nexploration, Carolina meets Jamie's\nparents, a joke, \u2018too\u2019 and \u2018very\u2019.",
+            "font_size": 10.152906548933041,
+            "id": "3558_7"
+        },
+        {
+            "text": "Episode 3",
+            "resource-id": "hk.hkbc.epodcast:id/episode_name",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                75,
+                1265,
+                1122,
+                1358
+            ],
+            "componentLabel": "Text",
+            "text_color": "#282828",
+            "bounds_updated": [
+                80.33333333333333,
+                1289.0,
+                371.0,
+                1355.6666666666667
+            ],
+            "text_updated": "Episode 3",
+            "font_size": 12.563783760547606,
+            "id": "3558_8"
+        },
+        {
+            "iconClass": "file_download",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "hk.hkbc.epodcast:id/episode_play_download",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1140,
+                951,
+                1387,
+                1106
+            ],
+            "componentLabel": "Icon",
+            "id": "3558_9"
+        },
+        {
+            "text": "14.7 MB",
+            "resource-id": "hk.hkbc.epodcast:id/episode_size",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1172,
+                867,
+                1355,
+                933
+            ],
+            "componentLabel": "Text",
+            "text_color": "#979797",
+            "bounds_updated": [
+                1174.6666666666667,
+                885.6666666666666,
+                1350.6666666666667,
+                920.3333333333334
+            ],
+            "text_updated": "14.7 MB",
+            "font_size": 8.614422369389255,
+            "id": "3558_10"
+        },
+        {
+            "text": "Talking about restaurants, Einstein, verb collocations, shopping, Carolina speaks to her tutor, a joke, 'say' and 'tell'.",
+            "resource-id": "hk.hkbc.epodcast:id/episode_description",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                75,
+                929,
+                1122,
+                1137
+            ],
+            "componentLabel": "Text",
+            "text_color": "#8F8F8F",
+            "bounds_updated": [
+                77.66666666666667,
+                950.3333333333334,
+                1115.0,
+                1134.3333333333333
+            ],
+            "text_updated": "Talking about restaurants, Einstein, verb\ncollocations, shopping, Carolina speaks to\nher tutor, a joke, 'say' and \u2018tell\u2019.",
+            "font_size": 10.361215673430966,
+            "id": "3558_11"
+        },
+        {
+            "text": "Episode 2",
+            "resource-id": "hk.hkbc.epodcast:id/episode_name",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                75,
+                818,
+                1122,
+                911
+            ],
+            "componentLabel": "Text",
+            "text_color": "#282828",
+            "bounds_updated": [
+                80.33333333333333,
+                842.0,
+                373.66666666666663,
+                906.0
+            ],
+            "text_updated": "Episode 2",
+            "font_size": 12.635020731465369,
+            "id": "3558_12"
+        },
+        {
+            "text": "Talking about birthdays, knitting, family quiz, favourite food, Carolina goes shoe shopping, pronouns, uses of 'poor' and 'old'.",
+            "resource-id": "hk.hkbc.epodcast:id/episode_description",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                75,
+                416,
+                1106,
+                690
+            ],
+            "componentLabel": "Text",
+            "text_color": "#939393",
+            "bounds_updated": [
+                77.66666666666667,
+                437.3333333333333,
+                1053.6666666666665,
+                674.6666666666666
+            ],
+            "text_updated": "Talking about birthdays, knitting, family\nquiz, favourite food, Carolina goes shoe\nshopping, pronouns, uses of \u2018poor\u2019 and\n\u2018old\u2019.",
+            "font_size": 10.254972918853063,
+            "id": "3558_13"
+        },
+        {
+            "text": "Episode 1",
+            "resource-id": "hk.hkbc.epodcast:id/episode_name",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                75,
+                305,
+                1106,
+                398
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1F1F1F",
+            "bounds_updated": [
+                80.33333333333333,
+                331.6666666666667,
+                360.3333333333333,
+                395.66666666666663
+            ],
+            "text_updated": "Episode 1",
+            "font_size": 12.153789551140546,
+            "id": "3558_14"
+        },
+        {
+            "text": "Series 2",
+            "resource-id": "android:id/action_bar_title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                67,
+                125,
+                289,
+                210
+            ],
+            "componentLabel": "Text",
+            "text_color": "#84A940",
+            "bounds_updated": [
+                69.66666666666667,
+                146.33333333333334,
+                288.3333333333333,
+                194.33333333333331
+            ],
+            "text_updated": "Series 2",
+            "font_size": 11.527691258345357,
+            "id": "3558_15"
+        },
+        {
+            "iconClass": "edit",
+            "resource-id": "hk.hkbc.epodcast:id/action_edit_episode",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.android.internal.view.menu.ActionMenuItemView",
+            "bounds": [
+                1244,
+                84,
+                1440,
+                252
+            ],
+            "componentLabel": "Icon",
+            "id": "3558_16"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/up",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                0,
+                126,
+                65,
+                210
+            ],
+            "componentLabel": "Icon",
+            "id": "3558_17"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                252,
+                1440,
+                761
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "3558_18",
+            "ui_comp_ids": [
+                "3558_13",
+                "3558_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1212,
+                1440,
+                1721
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "3558_19",
+            "ui_comp_ids": [
+                "3558_5",
+                "3558_6",
+                "3558_7",
+                "3558_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                765,
+                1440,
+                1208
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#F9F9F9",
+            "id": "3558_20",
+            "ui_comp_ids": [
+                "3558_9",
+                "3558_10",
+                "3558_11",
+                "3558_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1725,
+                1440,
+                2124
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#F2F2F2",
+            "id": "3558_21",
+            "ui_comp_ids": [
+                "3558_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                2128,
+                1440,
+                2392
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "3558_22",
+            "ui_comp_ids": [
+                "3558_0",
+                "3558_1",
+                "3558_2",
+                "3558_3"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "com.android.internal.widget.ActionBarContainer",
+            "bg_color": "#F9F9F9",
+            "id": "3558_23",
+            "ui_comp_ids": [
+                "3558_15",
+                "3558_16",
+                "3558_17"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

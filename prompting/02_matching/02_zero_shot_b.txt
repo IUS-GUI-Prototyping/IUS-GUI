@@ -1,0 +1,7 @@
+You are given a user story in the context of a graphical user interface. In addition to the user story, you are also given a textual representation of a graphical user interface. The GUI is organized as a two-level bullet point list, the outer points representing layouting groups and the inner points the user interface features contained in that layouting group. Each feature is represented in the following abstract pattern: 'text' (ui component type) (semantic description of ui component) (id), the 'text' being the visual text of the component and the 'id' being a number identifying each component. Your task is to extract a list of ids belonging to all user interface components that are requried to fulfill the user story. Make sure to extract all components, e.g. also labels that provide information to the user and are part of a feature. Do not provide any explanation. As your output, write a python list of the ids. 
+
+user story: 'PLACEHOLDER_US' 
+
+graphical user interface description: PLACEHOLDER_GUI 
+
+output:

@@ -1,0 +1,760 @@
+{
+    "bg_color": "#101417",
+    "ui_comps": [
+        {
+            "text": "Delay in typing",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                2337,
+                490,
+                2392
+            ],
+            "componentLabel": "Text",
+            "text_color": "#535458",
+            "bounds_updated": [
+                86.66666666666667,
+                2358.3333333333335,
+                486.66666666666663,
+                2392
+            ],
+            "text_updated": "DNalay in tuning",
+            "font_size": 9.91979396615158,
+            "id": "570_0"
+        },
+        {
+            "text": "Automatic (Clear only)\nKeyword stored to history after pressing Clear button.",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                2170,
+                1246,
+                2293
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D3D7E0",
+            "bounds_updated": [
+                84,
+                2186.0,
+                1241.3333333333333,
+                2290.0
+            ],
+            "text_updated": "Automatic (Clear only)\nKeyword stored to history after pressing Clear button.",
+            "font_size": 8.465442776254589,
+            "id": "570_1"
+        },
+        {
+            "text": "History type",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                2085,
+                419,
+                2170
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FBFFFF",
+            "bounds_updated": [
+                86.66666666666667,
+                2106.3333333333335,
+                414.66666666666663,
+                2165.0
+            ],
+            "text_updated": "History type",
+            "font_size": 11.372009547910038,
+            "id": "570_2"
+        },
+        {
+            "text": "History",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                56,
+                1950,
+                1384,
+                2062
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C2C3C5",
+            "bounds_updated": [
+                88.0,
+                1990.0,
+                285.3333333333333,
+                2027.3333333333333
+            ],
+            "text_updated": "HISTORY",
+            "font_size": 9.424774860583488,
+            "id": "570_3"
+        },
+        {
+            "text": "Light",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                1845,
+                192,
+                1911
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BCBFC4",
+            "bounds_updated": [
+                86.66666666666667,
+                1861.0,
+                188.0,
+                1906.3333333333333
+            ],
+            "text_updated": "Light",
+            "font_size": 7.763883478336123,
+            "id": "570_4"
+        },
+        {
+            "text": "Background color",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                1760,
+                575,
+                1845
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FCFFFF",
+            "bounds_updated": [
+                84,
+                1760,
+                575,
+                1845
+            ],
+            "text_updated": "Background color",
+            "font_size": 12,
+            "id": "570_5"
+        },
+        {
+            "text": "Large",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                1619,
+                207,
+                1685
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BEC1C6",
+            "bounds_updated": [
+                86.66666666666667,
+                1637.6666666666667,
+                204.0,
+                1683.0
+            ],
+            "text_updated": "Large",
+            "font_size": 8.128646437435282,
+            "id": "570_6"
+        },
+        {
+            "text": "Font size",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                1534,
+                337,
+                1619
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FCFFFF",
+            "bounds_updated": [
+                86.66666666666667,
+                1555.3333333333333,
+                334.66666666666663,
+                1603.3333333333333
+            ],
+            "text_updated": "Font size",
+            "font_size": 11.877020579648217,
+            "id": "570_7"
+        },
+        {
+            "text": "Appearance",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                56,
+                1384,
+                1384,
+                1496
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C7CACF",
+            "bounds_updated": [
+                85.33333333333333,
+                1424.0,
+                400.0,
+                1458.6666666666667
+            ],
+            "text_updated": "APPEARANCE",
+            "font_size": 10.008187626289168,
+            "id": "570_8"
+        },
+        {
+            "text": "Show context menu (Find|Copy) on Short click",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                1279,
+                1087,
+                1345
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C6CACD",
+            "bounds_updated": [
+                84,
+                1295.0,
+                1084.0,
+                1340.3333333333333
+            ],
+            "text_updated": "Show context menu (Find|Copy) on Short click",
+            "font_size": 8.657100809418687,
+            "id": "570_9"
+        },
+        {
+            "text": "Show context menu",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                1194,
+                639,
+                1279
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FCFFFF",
+            "bounds_updated": [
+                84,
+                1215.3333333333333,
+                633.3333333333333,
+                1260.6666666666667
+            ],
+            "text_updated": "Show context menu",
+            "font_size": 11.724163674404325,
+            "id": "570_10"
+        },
+        {
+            "text": "",
+            "resource-id": "android:id/checkbox",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.CheckBox",
+            "bounds": [
+                1209,
+                988,
+                1321,
+                1100
+            ],
+            "componentLabel": "Checkbox",
+            "id": "570_11"
+        },
+        {
+            "text": "Enables soft keyboard suggestions.",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                1053,
+                857,
+                1119
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C4C5C9",
+            "bounds_updated": [
+                86.66666666666667,
+                1069.0,
+                852.0,
+                1114.3333333333333
+            ],
+            "text_updated": "Enables soft keyboard suggestions.",
+            "font_size": 8.569945648101715,
+            "id": "570_12"
+        },
+        {
+            "text": "Enable suggestions",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                968,
+                629,
+                1053
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FCFFFF",
+            "bounds_updated": [
+                86.66666666666667,
+                989.3333333333334,
+                625.3333333333333,
+                1048.0
+            ],
+            "text_updated": "Enable suggestions",
+            "font_size": 11.731209923262893,
+            "id": "570_13"
+        },
+        {
+            "text": "",
+            "resource-id": "android:id/checkbox",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.CheckBox",
+            "bounds": [
+                1209,
+                762,
+                1321,
+                874
+            ],
+            "componentLabel": "Checkbox",
+            "id": "570_14"
+        },
+        {
+            "text": "Searches dictionary in both directions.",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                827,
+                918,
+                893
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C8C9CB",
+            "bounds_updated": [
+                84,
+                843.0,
+                913.3333333333333,
+                891.0
+            ],
+            "text_updated": "Searches dictionary in both directions.",
+            "font_size": 8.52614877717331,
+            "id": "570_15"
+        },
+        {
+            "text": "Bidirectional search",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                742,
+                634,
+                827
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FEFFFF",
+            "bounds_updated": [
+                86.66666666666667,
+                766.0,
+                628.0,
+                811.3333333333334
+            ],
+            "text_updated": "Bidirectional search",
+            "font_size": 11.614376209987267,
+            "id": "570_16"
+        },
+        {
+            "text": "General Preferences",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                56,
+                592,
+                1384,
+                704
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C2C3C5",
+            "bounds_updated": [
+                85.33333333333333,
+                632.0,
+                640.0,
+                666.6666666666666
+            ],
+            "text_updated": "GENERAL PREFERENCES",
+            "font_size": 9.489270727681323,
+            "id": "570_17"
+        },
+        {
+            "text": "System default",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                487,
+                411,
+                553
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C8C9CB",
+            "bounds_updated": [
+                84,
+                503.0,
+                409.3333333333333,
+                548.3333333333334
+            ],
+            "text_updated": "System default",
+            "font_size": 8.455368766627041,
+            "id": "570_18"
+        },
+        {
+            "text": "UI Language",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                402,
+                433,
+                487
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F2F3F5",
+            "bounds_updated": [
+                86.66666666666667,
+                423.3333333333333,
+                430.66666666666663,
+                482.0
+            ],
+            "text_updated": "Ul Language",
+            "font_size": 11.649314646542413,
+            "id": "570_19"
+        },
+        {
+            "text": "Language Preferences",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                56,
+                252,
+                1384,
+                364
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C3C5C4",
+            "bounds_updated": [
+                88.0,
+                292.0,
+                677.3333333333333,
+                329.3333333333333
+            ],
+            "text_updated": "LANGUAGE PREFERENCES",
+            "font_size": 9.312716206238731,
+            "id": "570_20"
+        },
+        {
+            "text": "DIC-o French-English Dictionary",
+            "resource-id": "android:id/action_bar_title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                169,
+                125,
+                1045,
+                210
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                174.33333333333334,
+                146.33333333333334,
+                1043.6666666666665,
+                205.0
+            ],
+            "text_updated": "DIC-o French-English Dictionary",
+            "font_size": 11.666275463157016,
+            "id": "570_21"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/home",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                43,
+                112,
+                155,
+                224
+            ],
+            "componentLabel": "Image",
+            "id": "570_22"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                2064,
+                1384,
+                2314
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#242831",
+            "id": "570_23",
+            "ui_comp_ids": [
+                "570_1",
+                "570_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                366,
+                1384,
+                590
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#090A0C",
+            "id": "570_24",
+            "ui_comp_ids": [
+                "570_18",
+                "570_19"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                706,
+                1384,
+                930
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#0D0E10",
+            "id": "570_25",
+            "ui_comp_ids": [
+                "570_14",
+                "570_15",
+                "570_16"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                932,
+                1384,
+                1156
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#101417",
+            "id": "570_26",
+            "ui_comp_ids": [
+                "570_11",
+                "570_12",
+                "570_13"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                1158,
+                1384,
+                1382
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#13171A",
+            "id": "570_27",
+            "ui_comp_ids": [
+                "570_9",
+                "570_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                1498,
+                1384,
+                1722
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#1C1F24",
+            "id": "570_28",
+            "ui_comp_ids": [
+                "570_6",
+                "570_7"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                1724,
+                1384,
+                1948
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#1E2327",
+            "id": "570_29",
+            "ui_comp_ids": [
+                "570_4",
+                "570_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "com.android.internal.widget.ActionBarContainer",
+            "bg_color": "#030303",
+            "id": "570_30",
+            "ui_comp_ids": [
+                "570_21",
+                "570_22"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                2316,
+                1384,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#282C35",
+            "id": "570_31",
+            "ui_comp_ids": [
+                "570_0"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

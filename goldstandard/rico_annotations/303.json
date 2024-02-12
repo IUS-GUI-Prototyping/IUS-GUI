@@ -1,0 +1,592 @@
+{
+    "bg_color": "#F3F3F3",
+    "ui_comps": [
+        {
+            "text": "0/5",
+            "resource-id": "com.sololearn.javascript:id/module_counts",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1047,
+                2197,
+                1112,
+                2254
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6E6E6E",
+            "bounds_updated": [
+                1049.6666666666667,
+                2211.6666666666665,
+                1111.0,
+                2245.0
+            ],
+            "text_updated": "0/5",
+            "font_size": 8.454508770680492,
+            "id": "303_0"
+        },
+        {
+            "iconClass": "settings",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.sololearn.javascript:id/module_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                975,
+                1855,
+                1185,
+                2065
+            ],
+            "componentLabel": "Icon",
+            "id": "303_1"
+        },
+        {
+            "text": "Functions",
+            "resource-id": "com.sololearn.javascript:id/module_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                957,
+                2121,
+                1202,
+                2197
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6D6D6D",
+            "bounds_updated": [
+                961.0,
+                2141.0,
+                1198.3333333333333,
+                2181.0
+            ],
+            "text_updated": "Functions",
+            "font_size": 10.899240257945932,
+            "id": "303_2"
+        },
+        {
+            "text": "0/8",
+            "resource-id": "com.sololearn.javascript:id/module_counts",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                327,
+                2263,
+                392,
+                2320
+            ],
+            "componentLabel": "Text",
+            "text_color": "#696969",
+            "bounds_updated": [
+                329.6666666666667,
+                2277.6666666666665,
+                389.6666666666667,
+                2311.0
+            ],
+            "text_updated": "0/8",
+            "font_size": 7.912680892813336,
+            "id": "303_3"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.sololearn.javascript:id/module_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                255,
+                1855,
+                465,
+                2065
+            ],
+            "componentLabel": "Image",
+            "id": "303_4"
+        },
+        {
+            "text": "Conditionals and Loops",
+            "resource-id": "com.sololearn.javascript:id/module_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                70,
+                2121,
+                650,
+                2263
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6E6E6E",
+            "bounds_updated": [
+                154.0,
+                2139.6666666666665,
+                566.0,
+                2258.3333333333335
+            ],
+            "text_updated": "Conditionals and\nLoops",
+            "font_size": 10.752766525929262,
+            "id": "303_5"
+        },
+        {
+            "text": "Take a Shortcut",
+            "resource-id": "com.sololearn.javascript:id/shortcut_button",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                436,
+                1582,
+                1004,
+                1750
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#8BC24A",
+            "text_color": "#F3F3F3",
+            "bounds_text": [
+                506.66666666666663,
+                1650.0,
+                933.3333333333333,
+                1686.0
+            ],
+            "text_updated": "TAKE A SHORTCUT",
+            "font_size": 10.272500271414616,
+            "id": "303_6"
+        },
+        {
+            "text": "0/7",
+            "resource-id": "com.sololearn.javascript:id/module_counts",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                687,
+                1441,
+                752,
+                1498
+            ],
+            "componentLabel": "Text",
+            "text_color": "#757575",
+            "bounds_updated": [
+                689.6666666666666,
+                1455.6666666666667,
+                751.0,
+                1489.0
+            ],
+            "text_updated": "0/7",
+            "font_size": 8.378551591540248,
+            "id": "303_7"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.sololearn.javascript:id/module_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                615,
+                1099,
+                825,
+                1309
+            ],
+            "componentLabel": "Image",
+            "id": "303_8"
+        },
+        {
+            "text": "Basic Concepts",
+            "resource-id": "com.sololearn.javascript:id/module_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                526,
+                1365,
+                913,
+                1441
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6B6B6B",
+            "bounds_updated": [
+                531.3333333333334,
+                1385.0,
+                911.3333333333333,
+                1437.0
+            ],
+            "text_updated": "Basic Concepts",
+            "font_size": 10.903528136013318,
+            "id": "303_9"
+        },
+        {
+            "text": "0/5",
+            "resource-id": "com.sololearn.javascript:id/module_counts",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                430,
+                881,
+                495,
+                938
+            ],
+            "componentLabel": "Text",
+            "text_color": "#707070",
+            "bounds_updated": [
+                432.6666666666667,
+                895.6666666666666,
+                494.0,
+                929.0
+            ],
+            "text_updated": "0/5",
+            "font_size": 8.45450877068057,
+            "id": "303_10"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.sololearn.javascript:id/module_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                615,
+                539,
+                825,
+                749
+            ],
+            "componentLabel": "Image",
+            "id": "303_11"
+        },
+        {
+            "text": "Overview",
+            "resource-id": "com.sololearn.javascript:id/module_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                606,
+                805,
+                834,
+                881
+            ],
+            "componentLabel": "Text",
+            "text_color": "#696969",
+            "bounds_updated": [
+                610.0,
+                823.6666666666666,
+                832.6666666666666,
+                865.0
+            ],
+            "text_updated": "Overview",
+            "font_size": 10.39039039039039,
+            "id": "303_12"
+        },
+        {
+            "text": "LEARN",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                283,
+                331,
+                437,
+                397
+            ],
+            "componentLabel": "Text",
+            "text_color": "#E6FFFF",
+            "bounds_updated": [
+                287.0,
+                348.3333333333333,
+                433.66666666666663,
+                383.0
+            ],
+            "text_updated": "LEARN",
+            "font_size": 9.807170864959105,
+            "id": "303_13"
+        },
+        {
+            "ancestors": [
+                "android.widget.LinearLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.support.design.widget.TabLayout$TabView",
+            "bounds": [
+                720,
+                280,
+                1440,
+                448
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "play",
+            "bg_color": "#00BCD5",
+            "text_color": "#A6EDFF",
+            "bounds_text": [
+                720,
+                280,
+                1440,
+                448
+            ],
+            "text_updated": "play",
+            "font_size": 12,
+            "id": "303_14"
+        },
+        {
+            "text": "JavaScript Tutorial",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                210,
+                135,
+                799,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#DFFFFF",
+            "bounds_updated": [
+                211.33333333333334,
+                159.0,
+                794.0,
+                224.33333333333331
+            ],
+            "text_updated": "JavaScript Tutorial",
+            "font_size": 12.972332345067569,
+            "id": "303_15"
+        },
+        {
+            "iconClass": "menu",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "componentLabel": "Icon",
+            "id": "303_16"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                448,
+                1440,
+                2392
+            ],
+            "class": "com.sololearn.app.fragments.PagerFragment$1",
+            "bg_color": "#F3F3F3",
+            "id": "303_17",
+            "ui_comp_ids": [
+                "303_0",
+                "303_1",
+                "303_2",
+                "303_3",
+                "303_4",
+                "303_5",
+                "303_6",
+                "303_7",
+                "303_8",
+                "303_9",
+                "303_10",
+                "303_11",
+                "303_12"
+            ],
+            "ui_comp_group_ids": [
+                "303_18",
+                "303_19",
+                "303_20",
+                "303_21",
+                "303_23"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                70,
+                1799,
+                650,
+                2355
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F3F3F3",
+            "id": "303_18",
+            "ui_comp_ids": [
+                "303_3",
+                "303_4",
+                "303_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                790,
+                1799,
+                1370,
+                2355
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F3F3F3",
+            "id": "303_19",
+            "ui_comp_ids": [
+                "303_0",
+                "303_1",
+                "303_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                430,
+                483,
+                1010,
+                973
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F3F3F3",
+            "id": "303_20",
+            "ui_comp_ids": [
+                "303_10",
+                "303_11",
+                "303_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                430,
+                1043,
+                1010,
+                1533
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F3F3F3",
+            "id": "303_21",
+            "ui_comp_ids": [
+                "303_7",
+                "303_8",
+                "303_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#00BCD5",
+            "id": "303_22",
+            "ui_comp_ids": [
+                "303_15",
+                "303_16"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1568,
+                1440,
+                1764
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#F3F3F3",
+            "id": "303_23",
+            "ui_comp_ids": [
+                "303_6"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Multi-Tab",
+            "bounds": [
+                0,
+                280,
+                1440,
+                448
+            ],
+            "class": "android.support.design.widget.TabLayout$SlidingTabStrip",
+            "bg_color": "#00BCD5",
+            "id": "303_24",
+            "ui_comp_ids": [
+                "303_13",
+                "303_14"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

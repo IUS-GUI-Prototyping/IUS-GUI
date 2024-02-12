@@ -1,0 +1,425 @@
+{
+    "bg_color": "#E8E8E8",
+    "ui_comps": [
+        {
+            "text": "The Arnold Press is a variation of a standard military press that allows it to also target the rotator cuffs. It targets both your front and side deltoids.\n\nSteps: Sit on a flat bench, feet pointed forward and abs tight. Using an underhanded grip, grasp a dumbbell in each hand with elbows bent and palms facing in slightly below shoulder level. Using a steady controlled motion, raise the dumbbells while rotating your shoulders and turning your thumbs in to face each other.\n\nUsing a controlled motion, lower the dumbbells in the reverse manner to the starting position.\n\nTips: Avoid the Arnold Press if you are experiencing shoulder pain. Beginners should try this exercise with light weight to master the correct form. For most people, the rotator cuffs are underused. Keeping the weights light as you master the Arnold Press will help avoid injury.",
+            "resource-id": "com.std.fitness.point:id/tvExerciseDetailDescription",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                704,
+                1440,
+                2049
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#E8E8E8",
+            "text_color": "#4A4A4A",
+            "bounds_text": [
+                56.0,
+                752.0,
+                1381.3333333333333,
+                2049
+            ],
+            "text_updated": "The Arnold Press is a variation of a standard\nmilitary press that allows it to also target the\nrotator cuffs. It targets both your front and side\ndeltoids.\n\nSteps: Sit on a flat bench, feet pointed forward\n\nand abs tight. Using an underhanded grip, grasp\n\na dumbbell in each hand with elbows bent and\npalms facing in slightly below shoulder level. Using\na steady controlled motion, raise the dumbbells\nwhile rotating your shoulders and turning your\nthumbs in to face each other.\n\nUsing a controlled motion, lower the dumbbells in\nthe reverse manner to the starting position.\n\nTips: Avoid the Arnold Press if you are\nexperiencing shoulder pain. Beginners should\ntry thic ayarcice with liqht weaiaht to macter the",
+            "font_size": 11.213961431129993,
+            "id": "9525_0"
+        },
+        {
+            "text": "Description",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1044,
+                597,
+                1355,
+                663
+            ],
+            "componentLabel": "Text",
+            "text_color": "#545454",
+            "bounds_updated": [
+                1048.0,
+                614.3333333333334,
+                1352.0,
+                649.0
+            ],
+            "text_updated": "DESCRIPTION",
+            "font_size": 10.008132915069135,
+            "id": "9525_1"
+        },
+        {
+            "text": "Muscle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                624,
+                597,
+                816,
+                663
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A9A9A9",
+            "bounds_updated": [
+                626.6666666666666,
+                614.3333333333334,
+                814.6666666666666,
+                649.0
+            ],
+            "text_updated": "MUSCLE",
+            "font_size": 10.205564166392683,
+            "id": "9525_2"
+        },
+        {
+            "text": "Image",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                164,
+                597,
+                315,
+                663
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A7A7A7",
+            "bounds_updated": [
+                168.0,
+                613.0,
+                313.3333333333333,
+                649.0
+            ],
+            "text_updated": "IMAGE",
+            "font_size": 9.996701428535175,
+            "id": "9525_3"
+        },
+        {
+            "text": "Shoulders",
+            "resource-id": "com.std.fitness.point:id/tvExerciseDetailMuscle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.cengalabs.flatui.FlatTextView",
+            "bounds": [
+                35,
+                455,
+                1405,
+                560
+            ],
+            "componentLabel": "Text",
+            "text_color": "#555555",
+            "bounds_updated": [
+                592.3333333333333,
+                487.0,
+                851.0,
+                531.0
+            ],
+            "text_updated": "Shoulders",
+            "font_size": 11.30862177219793,
+            "id": "9525_4"
+        },
+        {
+            "text": "Arnold Dumbbell Press",
+            "resource-id": "com.std.fitness.point:id/tvExerciseDetailName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.cengalabs.flatui.FlatTextView",
+            "bounds": [
+                35,
+                315,
+                1405,
+                420
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F25729",
+            "bounds_updated": [
+                417.66666666666663,
+                348.3333333333333,
+                1023.0,
+                392.3333333333333
+            ],
+            "text_updated": "Arnold Dumbbell Press",
+            "font_size": 11.521624568637879,
+            "id": "9525_5"
+        },
+        {
+            "text": "More",
+            "resource-id": "com.std.fitness.point:id/tab_more",
+            "ancestors": [
+                "android.widget.RadioButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatRadioButton",
+            "bounds": [
+                1183,
+                2049,
+                1440,
+                2213
+            ],
+            "componentLabel": "Radio Button",
+            "id": "9525_6"
+        },
+        {
+            "text": "Body Stats",
+            "resource-id": "com.std.fitness.point:id/tab_bodyStats",
+            "ancestors": [
+                "android.widget.RadioButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatRadioButton",
+            "bounds": [
+                851,
+                2049,
+                1183,
+                2213
+            ],
+            "componentLabel": "Radio Button",
+            "id": "9525_7"
+        },
+        {
+            "text": "Logs",
+            "resource-id": "com.std.fitness.point:id/tab_logs",
+            "ancestors": [
+                "android.widget.RadioButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatRadioButton",
+            "bounds": [
+                595,
+                2049,
+                851,
+                2213
+            ],
+            "componentLabel": "Radio Button",
+            "id": "9525_8"
+        },
+        {
+            "text": "Workout",
+            "resource-id": "com.std.fitness.point:id/tab_workout",
+            "ancestors": [
+                "android.widget.RadioButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatRadioButton",
+            "bounds": [
+                309,
+                2049,
+                595,
+                2213
+            ],
+            "componentLabel": "Radio Button",
+            "id": "9525_9"
+        },
+        {
+            "text": "Exercises",
+            "resource-id": "com.std.fitness.point:id/tab_exercises",
+            "ancestors": [
+                "android.widget.RadioButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatRadioButton",
+            "bounds": [
+                0,
+                2049,
+                309,
+                2213
+            ],
+            "componentLabel": "Radio Button",
+            "id": "9525_10"
+        },
+        {
+            "ancestors": [
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                160,
+                2217,
+                1280,
+                2392
+            ],
+            "clickable": true,
+            "class": "com.google.android.gms.ads.internal.webview.o",
+            "componentLabel": "Web View",
+            "id": "9525_11"
+        },
+        {
+            "iconClass": "more",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatImageView",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1300,
+                98,
+                1440,
+                266
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton",
+            "componentLabel": "Icon",
+            "id": "9525_12"
+        },
+        {
+            "text": "Exercise Details",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                56,
+                135,
+                555,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#555555",
+            "bounds_updated": [
+                61.333333333333336,
+                159.0,
+                552.0,
+                211.0
+            ],
+            "text_updated": "Exercise Details",
+            "font_size": 12.643446645955379,
+            "id": "9525_13"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                2049
+            ],
+            "class": "com.fitness.point.SmoothViewPager",
+            "bg_color": "#E8E8E8",
+            "id": "9525_14",
+            "ui_comp_ids": [
+                "9525_0",
+                "9525_1",
+                "9525_2",
+                "9525_3",
+                "9525_4",
+                "9525_5"
+            ],
+            "ui_comp_group_ids": [
+                "9525_17"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#F0F0F0",
+            "id": "9525_15",
+            "ui_comp_ids": [
+                "9525_12",
+                "9525_13"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2049,
+                1440,
+                2217
+            ],
+            "class": "android.widget.RadioGroup",
+            "bg_color": "#F0F0F0",
+            "id": "9525_16",
+            "ui_comp_ids": [
+                "9525_6",
+                "9525_7",
+                "9525_8",
+                "9525_9",
+                "9525_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Multi-Tab",
+            "bounds": [
+                0,
+                560,
+                1440,
+                700
+            ],
+            "class": "android.support.design.widget.TabLayout$SlidingTabStrip",
+            "bg_color": "#E8E8E8",
+            "id": "9525_17",
+            "ui_comp_ids": [
+                "9525_1",
+                "9525_2",
+                "9525_3"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

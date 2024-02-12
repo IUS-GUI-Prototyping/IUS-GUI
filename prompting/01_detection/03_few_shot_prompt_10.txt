@@ -1,0 +1,565 @@
+You are given a user story in the context of a graphical user interface. In addition to the user story, you are also given a textual representation of a graphical user interface. The GUI is organized as a two-level bullet point list, the outer points representing layouting groups and the inner points the user interface features contained in that layouting group. Each feature is represented in the following abstract pattern: 'text' (ui component type) (semantic description of ui component), the 'text' being the visual text of the component. Your task is to determine if the user story is already implemented in the given user interface or not. Do not provide any explanation. As your prediction, write '1' if the user story is already implemented otherwise write '0'. 
+
+user story: 'As a user i want to be able to read news about transfer of player so I know which player changed to which team' 
+
+graphical user interface description: - Toolbar
+	- "menu" (Icon)
+	- "date range" (Icon) (home all matches)
+	- "star" (Icon) (home favorites matches)
+	- "more" (Icon)
+	- "location crosshair" (Icon) (livescore)
+- Layout
+	- (Pager Indicator) (indicator)
+- List Item
+	- "news" (Button) (news)
+	- (Image) (image covers)
+	- (Image)
+	- "Covers" (Label)
+- Layout
+	- "search" (Icon) (fab search)
+- Card
+	- (Image) (news picture)
+	- "Aguero stars as Manchester City sink Monaco in thriller" (Label) (news title)
+- Layout
+	- "AdChoices" (Button) (native Ad Advice)
+	- "SPONSORED" (Button) (native Ad Advice Tv)
+	- "Install App" (Button) (native Ad Call To)
+- Card
+	- "Spotify Music" (Button) (native Ad Title)
+	- (Image) (native Ad)
+	- "Instant access to millions of songs." (Button) (native Ad Body)
+- List Item
+	- "more" (Icon) (competition actions iv)
+	- "LA LIGA" (Label) (game List Header Txt)
+	- "national flag" (Icon) (game List Header Flag)
+	- "In 11 hours" (Label) (game)
+	- "beIN LaLiga" (Label) (channel tv)
+	- "22" (Label) (num comments)
+	- (Image) (comments bg)
+	- "Valencia" (Label) (local name)
+	- (Image) (local shield)
+	- (Image) (visitor shield)
+	- "Real Madrid" (Label) (visitor name)
+	- "5:45PM" (Label) (score or date tv)
+- List Item
+	- "more" (Icon) (competition actions iv)
+	- "UCL" (Label) (game List Header Txt)
+	- "emoji" (Icon) (game List Header Flag)
+	- "In 13 hours" (Label) (game)
+	- "beIN Sports" (Label) (channel tv)
+	- "12" (Label) (num comments)
+	- (Image) (comments bg)
+	- "Sevilla" (Label) (local name)
+	- (Image) (local shield)
+	- (Image) (visitor shield)
+	- "Leicester" (Label) (visitor name)
+	- "7:45PM" (Label) (score or date tv)
+- List Item
+	- "In 13 hours" (Label) (game)
+	- "beIN Sports, beIN MAX 1" (Label) (channel tv)
+	- "4" (Label) (num comments)
+	- (Image) (comments bg)
+	- "Porto" (Label) (local name)
+	- "avatar" (Icon) (local shield)
+	- (Image) (visitor shield)
+	- "Juventus" (Label) (visitor name)
+	- "7:45PM" (Label) (score or date tv)
+- Layout
+	- (Advertisement) (ad Generic)
+ 
+
+prediction:0
+
+user story: 'AS a enduser, i want to have a dispaly option at where i can see the total value of my current portfolio so that i have a complete overview over my finacial situation.' 
+
+graphical user interface description: - Toolbar
+	- (Image) (chart)
+	- (Image) (news)
+	- "add" (Icon) (new)
+	- "more" (Icon)
+	- "Blockfolio" (Label) (title)
+- Layout
+	- (Image) (change Fiat)
+	- (Image) (change Type)
+- Layout
+	- "Total Portfolio Value" (Label) (total Portfolio Value)
+	- (Image) (change 1)
+	- (Image) (change Fiat)
+- Layout
+	- "24hr Change" (Label) (twenty Four Hour String)
+	- (Image) (change 2)
+	- (Image) (change Type)
+- Layout
+	- ".0" (Label) (total Value)
+	- "$" (Label) (currency Symbol)
+- Layout
+	- "+$.0" (Label) (twenty Four Hour Value)
+	- (Image) (totalarrow)
+- Layout
+	- (Image) (coin)
+	- (Image) (holdings)
+	- (Image) (price)
+- Layout
+	- (Image) (place Holder)
+	- "Price" (Label) (price TV)
+- Layout
+	- "Coin" (Label) (coin TV)
+	- "Holdings" (Label) (holdings TV)
+	- "Price" (Label) (price TV)
+	- "Alert" (Label) (alert TV)
+- List Item
+	- (Image) (alert)
+	- "$1,790.10" (Label) (coin Price)
+	- "notifications" (Icon) (alert)
+	- (Image) ()
+	- "arrow upward" (Icon) (arrow)
+	- "BTC" (Label) (coin Name)
+	- "+7.10" (Label) (price Change TV)
+- List Item
+	- (Image) (alert)
+	- "$88.67" (Label) (coin Price)
+	- "notifications" (Icon) (alert)
+	- (Image) ()
+	- "arrow downward" (Icon) (arrow)
+	- "ETH" (Label) (coin Name)
+	- "-2.27" (Label) (price Change TV)
+- List Item
+	- (Image) (alert)
+	- "notifications" (Icon) (alert)
+	- (Image) ()
+	- "$.31931818" (Label) (coin Price)
+	- "arrow upward" (Icon) (arrow)
+	- "XRP" (Label) (coin Name)
+	- "+.07668056" (Label) (price Change TV)
+- List Item
+	- (Image) (alert)
+	- "$23.72" (Label) (coin Price)
+	- "notifications" (Icon) (alert)
+	- (Image) ()
+	- "arrow downward" (Icon) (arrow)
+	- "LTC" (Label) (coin Name)
+	- "-2.58" (Label) (price Change TV)
+- List Item
+	- (Image) (alert)
+	- "$26.83" (Label) (coin Price)
+	- "avatar" (Icon) (alert)
+	- "email" (Icon) ()
+	- "arrow downward" (Icon) (arrow)
+	- "XMR" (Label) (coin Name)
+	- "-.76280375" (Label) (price Change TV)
+- List Item
+	- "add" (Icon) (add coin)
+	- "add coin" (Label) (add info tv)
+ 
+
+prediction:1
+
+user story: 'As a user I want to search for games or clubs to find the clubs of my choice quickly' 
+
+graphical user interface description: - Toolbar
+	- "menu" (Icon)
+	- "date range" (Icon) (home all matches)
+	- "star" (Icon) (home favorites matches)
+	- "more" (Icon)
+	- "location crosshair" (Icon) (livescore)
+- Layout
+	- (Pager Indicator) (indicator)
+- List Item
+	- "news" (Button) (news)
+	- "follow" (Icon) (image covers)
+	- (Image) (image covers)
+	- (Image)
+	- (Image)
+	- "Transfers" (Label)
+	- "Covers" (Label)
+- Layout
+	- "search" (Icon) (fab search)
+- Card
+	- (Image) (news picture)
+	- "Aguero stars as Manchester City sink Monaco in thriller" (Label) (news title)
+- Layout
+	- "AdChoices" (Button) (native Ad Advice)
+	- "SPONSORED" (Button) (native Ad Advice Tv)
+	- "Install App" (Button) (native Ad Call To)
+- Card
+	- "Spotify Music" (Button) (native Ad Title)
+	- (Image) (native Ad)
+	- "Instant access to millions of songs." (Button) (native Ad Body)
+- List Item
+	- "more" (Icon) (competition actions iv)
+	- "LA LIGA" (Label) (game List Header Txt)
+	- "national flag" (Icon) (game List Header Flag)
+	- "In 11 hours" (Label) (game)
+	- "beIN LaLiga" (Label) (channel tv)
+	- "22" (Label) (num comments)
+	- (Image) (comments bg)
+	- "Valencia" (Label) (local name)
+	- (Image) (local shield)
+	- (Image) (visitor shield)
+	- "Real Madrid" (Label) (visitor name)
+	- "5:45PM" (Label) (score or date tv)
+- List Item
+	- "more" (Icon) (competition actions iv)
+	- "UCL" (Label) (game List Header Txt)
+	- "emoji" (Icon) (game List Header Flag)
+	- "In 13 hours" (Label) (game)
+	- "beIN Sports" (Label) (channel tv)
+	- "12" (Label) (num comments)
+	- (Image) (comments bg)
+	- "Sevilla" (Label) (local name)
+	- (Image) (local shield)
+	- (Image) (visitor shield)
+	- "Leicester" (Label) (visitor name)
+	- "7:45PM" (Label) (score or date tv)
+- List Item
+	- "In 13 hours" (Label) (game)
+	- "beIN Sports, beIN MAX 1" (Label) (channel tv)
+	- "4" (Label) (num comments)
+	- (Image) (comments bg)
+	- "Porto" (Label) (local name)
+	- "avatar" (Icon) (local shield)
+	- (Image) (visitor shield)
+	- "Juventus" (Label) (visitor name)
+	- "7:45PM" (Label) (score or date tv)
+- Layout
+	- (Advertisement) (ad Generic)
+ 
+
+prediction:1
+
+user story: 'As a user I want to add ingredients to a shopping list so that it is easier for me to go shopping and buy everything I need for the cooking.' 
+
+graphical user interface description: - Toolbar
+	- "arrow backward" (Icon)
+	- (Image) (search)
+	- "Chicken Quinoa Veggie Power Bowl" (Label)
+- List Item
+	- (Image) (mainimg)
+	- (Image) (transparent)
+	- "Chicken Quinoa Veggie Power Bowl" (Label) (maintitle)
+	- "favorite" (Icon) (imagefav1sd)
+	- "45 minutes" (Label) (timetext)
+- List Item
+	- "date range" (Icon) (mealplanner)
+	- "Schedule a meal plan" (Label) (mealplanner)
+- Layout
+	- (Image) (fab)
+- List Item
+	- "Ingredients required" (Label) (subtitle)
+	- (Image) (add all img)
+	- "Add all" (Label) (add all txt)
+- List Item
+	- (Image) (image Plus)
+	- "1 lb. fresh chicken tenderloin (cut into cubes)" (Label) (ingretext POP)
+- List Item
+	- (Image) (image Plus)
+	- "3 cups fresh spinach" (Label) (ingretext POP)
+- Layout
+	- "all" (Button) (snackbar)
+	- "You can now save your favourites offline" (Label) (snackbar)
+- List Item
+	- (Image) (image Plus)
+	- "1 15.5 oz Beans rinsed" (Label) (ingretext POP)
+ 
+
+prediction:1
+
+user story: 'AS a enduser, i want to have an add coin button, to add new coins to my portfolio.' 
+
+graphical user interface description: - Toolbar
+	- (Image) (chart)
+	- (Image) (news)
+	- "add" (Icon) (new)
+	- "more" (Icon)
+	- "Blockfolio" (Label) (title)
+- Layout
+	- (Image) (change Fiat)
+	- (Image) (change Type)
+- Layout
+	- "Total Portfolio Value" (Label) (total Portfolio Value)
+	- (Image) (change 1)
+	- (Image) (change Fiat)
+- Layout
+	- "24hr Change" (Label) (twenty Four Hour String)
+	- (Image) (change 2)
+	- (Image) (change Type)
+- Layout
+	- ".0" (Label) (total Value)
+	- "$" (Label) (currency Symbol)
+- Layout
+	- "+$.0" (Label) (twenty Four Hour Value)
+	- (Image) (totalarrow)
+- Layout
+	- (Image) (coin)
+	- (Image) (holdings)
+	- (Image) (price)
+- Layout
+	- (Image) (place Holder)
+	- "Price" (Label) (price TV)
+- Layout
+	- "Coin" (Label) (coin TV)
+	- "Holdings" (Label) (holdings TV)
+	- "Price" (Label) (price TV)
+	- "Alert" (Label) (alert TV)
+- List Item
+	- (Image) (alert)
+	- "$1,790.10" (Label) (coin Price)
+	- "notifications" (Icon) (alert)
+	- (Image) ()
+	- "arrow upward" (Icon) (arrow)
+	- "BTC" (Label) (coin Name)
+	- "+7.10" (Label) (price Change TV)
+- List Item
+	- (Image) (alert)
+	- "$88.67" (Label) (coin Price)
+	- "notifications" (Icon) (alert)
+	- (Image) ()
+	- "arrow downward" (Icon) (arrow)
+	- "ETH" (Label) (coin Name)
+	- "-2.27" (Label) (price Change TV)
+- List Item
+	- (Image) (alert)
+	- "notifications" (Icon) (alert)
+	- (Image) ()
+	- "$.31931818" (Label) (coin Price)
+	- "arrow upward" (Icon) (arrow)
+	- "XRP" (Label) (coin Name)
+	- "+.07668056" (Label) (price Change TV)
+- List Item
+	- (Image) (alert)
+	- "$23.72" (Label) (coin Price)
+	- "notifications" (Icon) (alert)
+	- (Image) ()
+	- "arrow downward" (Icon) (arrow)
+	- "LTC" (Label) (coin Name)
+	- "-2.58" (Label) (price Change TV)
+- List Item
+	- (Image) (alert)
+	- "$26.83" (Label) (coin Price)
+	- "avatar" (Icon) (alert)
+	- "email" (Icon) ()
+	- "arrow downward" (Icon) (arrow)
+	- "XMR" (Label) (coin Name)
+	- "-.76280375" (Label) (price Change TV)
+ 
+
+prediction:0
+
+user story: 'As a user, I want to see a picture of the food so that I can imagine what it will look like and judge whether I would like it.' 
+
+graphical user interface description: - Toolbar
+	- "arrow backward" (Icon)
+	- (Image) (search)
+	- "Chicken Quinoa Veggie Power Bowl" (Label)
+- List Item
+	- (Image) (transparent)
+	- "Chicken Quinoa Veggie Power Bowl" (Label) (maintitle)
+	- "favorite" (Icon) (imagefav1sd)
+	- "45 minutes" (Label) (timetext)
+- List Item
+	- "date range" (Icon) (mealplanner)
+	- "Schedule a meal plan" (Label) (mealplanner)
+- Layout
+	- (Image) (fab)
+- List Item
+	- "Ingredients required" (Label) (subtitle)
+	- (Image) (add all img)
+	- "Add all" (Label) (add all txt)
+- List Item
+	- (Image) (image Plus)
+	- "1 lb. fresh chicken tenderloin (cut into cubes)" (Label) (ingretext POP)
+- List Item
+	- (Image) (image Plus)
+	- "3 cups fresh spinach" (Label) (ingretext POP)
+- Layout
+	- "all" (Button) (snackbar)
+	- "You can now save your favourites offline" (Label) (snackbar)
+- List Item
+	- (Image) (image Plus)
+	- "1 15.5 oz Beans rinsed" (Label) (ingretext POP)
+ 
+
+prediction:0
+
+user story: 'As a user, I want to be able to save a particular meal for later, so that I don't have to search for it again and can just find it on my favourites page.' 
+
+graphical user interface description: - Toolbar
+	- "arrow backward" (Icon)
+	- (Image) (search)
+	- "Chicken Quinoa Veggie Power Bowl" (Label)
+- List Item
+	- (Image) (mainimg)
+	- (Image) (transparent)
+	- "Chicken Quinoa Veggie Power Bowl" (Label) (maintitle)
+	- "favorite" (Icon) (imagefav1sd)
+	- "45 minutes" (Label) (timetext)
+- List Item
+	- "date range" (Icon) (mealplanner)
+	- "Schedule a meal plan" (Label) (mealplanner)
+- Layout
+	- (Image) (fab)
+- List Item
+	- "Ingredients required" (Label) (subtitle)
+	- (Image) (add all img)
+	- "Add all" (Label) (add all txt)
+- List Item
+	- (Image) (image Plus)
+	- "1 lb. fresh chicken tenderloin (cut into cubes)" (Label) (ingretext POP)
+- List Item
+	- (Image) (image Plus)
+	- "3 cups fresh spinach" (Label) (ingretext POP)
+- Layout
+	- "all" (Button) (snackbar)
+	- "You can now save your favourites offline" (Label) (snackbar)
+- List Item
+	- (Image) (image Plus)
+	- "1 15.5 oz Beans rinsed" (Label) (ingretext POP)
+ 
+
+prediction:1
+
+user story: 'As a user I want to see the games of yesterday and tomorrow to anticipate future games and see the history of games of my clubs' 
+
+graphical user interface description: - Toolbar
+	- "menu" (Icon)
+	- "date range" (Icon) (home all matches)
+	- "star" (Icon) (home favorites matches)
+	- "more" (Icon)
+	- "location crosshair" (Icon) (livescore)
+- Layout
+	- (Pager Indicator) (indicator)
+- List Item
+	- "news" (Button) (news)
+	- "follow" (Icon) (image covers)
+	- (Image) (image covers)
+	- (Image)
+	- (Image)
+	- "Transfers" (Label)
+	- "Covers" (Label)
+- Layout
+	- "search" (Icon) (fab search)
+- Card
+	- (Image) (news picture)
+	- "Aguero stars as Manchester City sink Monaco in thriller" (Label) (news title)
+- Layout
+	- "AdChoices" (Button) (native Ad Advice)
+	- "SPONSORED" (Button) (native Ad Advice Tv)
+	- "Install App" (Button) (native Ad Call To)
+- Card
+	- "Spotify Music" (Button) (native Ad Title)
+	- (Image) (native Ad)
+	- "Instant access to millions of songs." (Button) (native Ad Body)
+- List Item
+	- "more" (Icon) (competition actions iv)
+	- "LA LIGA" (Label) (game List Header Txt)
+	- "national flag" (Icon) (game List Header Flag)
+	- "In 11 hours" (Label) (game)
+	- "beIN LaLiga" (Label) (channel tv)
+	- "22" (Label) (num comments)
+	- (Image) (comments bg)
+	- "Valencia" (Label) (local name)
+	- (Image) (local shield)
+	- (Image) (visitor shield)
+	- "Real Madrid" (Label) (visitor name)
+	- "5:45PM" (Label) (score or date tv)
+- List Item
+	- "more" (Icon) (competition actions iv)
+	- "UCL" (Label) (game List Header Txt)
+	- "emoji" (Icon) (game List Header Flag)
+	- "In 13 hours" (Label) (game)
+	- "beIN Sports" (Label) (channel tv)
+	- "12" (Label) (num comments)
+	- (Image) (comments bg)
+	- "Sevilla" (Label) (local name)
+	- (Image) (local shield)
+	- (Image) (visitor shield)
+	- "Leicester" (Label) (visitor name)
+	- "7:45PM" (Label) (score or date tv)
+- List Item
+	- "In 13 hours" (Label) (game)
+	- "beIN Sports, beIN MAX 1" (Label) (channel tv)
+	- "4" (Label) (num comments)
+	- (Image) (comments bg)
+	- "Porto" (Label) (local name)
+	- "avatar" (Icon) (local shield)
+	- (Image) (visitor shield)
+	- "Juventus" (Label) (visitor name)
+	- "7:45PM" (Label) (score or date tv)
+- Layout
+	- (Advertisement) (ad Generic)
+ 
+
+prediction:1
+
+user story: 'As a user I want to know how long it will take me to cook the selected meal so that I can integrate it in my current week.' 
+
+graphical user interface description: - Toolbar
+	- "arrow backward" (Icon)
+	- (Image) (search)
+	- "Chicken Quinoa Veggie Power Bowl" (Label)
+- List Item
+	- (Image) (mainimg)
+	- (Image) (transparent)
+	- "Chicken Quinoa Veggie Power Bowl" (Label) (maintitle)
+	- "favorite" (Icon) (imagefav1sd)
+- List Item
+	- "date range" (Icon) (mealplanner)
+	- "Schedule a meal plan" (Label) (mealplanner)
+- Layout
+	- (Image) (fab)
+- List Item
+	- "Ingredients required" (Label) (subtitle)
+	- (Image) (add all img)
+	- "Add all" (Label) (add all txt)
+- List Item
+	- (Image) (image Plus)
+	- "1 lb. fresh chicken tenderloin (cut into cubes)" (Label) (ingretext POP)
+- List Item
+	- (Image) (image Plus)
+	- "3 cups fresh spinach" (Label) (ingretext POP)
+- Layout
+	- "all" (Button) (snackbar)
+	- "You can now save your favourites offline" (Label) (snackbar)
+- List Item
+	- (Image) (image Plus)
+	- "1 15.5 oz Beans rinsed" (Label) (ingretext POP)
+ 
+
+prediction:0
+
+user story: 'As a student, I want to access the lesson again so that I can see what mistakes I made.' 
+
+graphical user interface description: - Layout
+	- "You're brilliant!" (Label) (tv Expression)
+	- (Image) (iv Character)
+	- "CURIOUS KID" (Label) (tv Level)
+- Layout
+	- "53,718" (Label) (tv Earned Points)
+	- "EARNED POINTS" (Label) (tv Earned Points Str)
+- Layout
+	- "53,718" (Label) (tv Highest Points)
+	- "HIGHEST POINTS" (Label) (tv Highest Points Str)
+- Layout
+	- "2,96,282" (Label) (tv Required Points For Next Level)
+	- "UNTIL NEXT LEVEL" (Label) (tv Next Level Str)
+- Layout
+	- "home" (Icon) (Home)
+	- "home" (Button) (tv Home)
+- Layout
+	- (Image) (Play Again)
+	- "PLAY AGAIN" (Button) (tv Play Again)
+- Layout
+	- (Image) (Play Next Chapter)
+	- "PLAY NEXT" (Button) (tv Play Next)
+- Layout
+	- "share" (Icon) (Share)
+	- "share" (Button) (tv Share)
+ 
+
+prediction:1 
+
+user story: 'PLACEHOLDER_US' 
+
+graphical user interface description: PLACEHOLDER_GUI 
+
+prediction:

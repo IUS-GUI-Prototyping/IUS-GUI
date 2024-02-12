@@ -1,0 +1,1804 @@
+{
+    "bg_color": "#FAFAFA",
+    "ui_comps": [
+        {
+            "text": "82",
+            "resource-id": "holoduke.soccer_gen:id/match_stats_text_away",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1208,
+                2116,
+                1404,
+                2173
+            ],
+            "componentLabel": "Text",
+            "text_color": "#767676",
+            "bounds_updated": [
+                1210.6666666666667,
+                2130.6666666666665,
+                1254.6666666666667,
+                2161.3333333333335
+            ],
+            "text_updated": "82",
+            "font_size": 6.835239815372254,
+            "id": "5481_0"
+        },
+        {
+            "text": "Goals for",
+            "resource-id": "holoduke.soccer_gen:id/match_stats_text_type",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                231,
+                2116,
+                1208,
+                2173
+            ],
+            "componentLabel": "Text",
+            "text_color": "#747474",
+            "bounds_updated": [
+                636.3333333333333,
+                2130.6666666666665,
+                805.6666666666666,
+                2161.3333333333335
+            ],
+            "text_updated": "Goals for",
+            "font_size": 7.934044785802303,
+            "id": "5481_1"
+        },
+        {
+            "text": "55",
+            "resource-id": "holoduke.soccer_gen:id/match_stats_text_home",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                36,
+                2116,
+                231,
+                2173
+            ],
+            "componentLabel": "Text",
+            "text_color": "#737373",
+            "bounds_updated": [
+                186.66666666666666,
+                2130.6666666666665,
+                229.33333333333331,
+                2161.3333333333335
+            ],
+            "text_updated": "55",
+            "font_size": 6.857641562708593,
+            "id": "5481_2"
+        },
+        {
+            "text": "26",
+            "resource-id": "holoduke.soccer_gen:id/match_stats_text_away",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1208,
+                1962,
+                1404,
+                2019
+            ],
+            "componentLabel": "Text",
+            "text_color": "#707070",
+            "bounds_updated": [
+                1209.3333333333333,
+                1975.3333333333333,
+                1253.3333333333333,
+                2007.3333333333333
+            ],
+            "text_updated": "26",
+            "font_size": 6.942270385979072,
+            "id": "5481_3"
+        },
+        {
+            "text": "Win",
+            "resource-id": "holoduke.soccer_gen:id/match_stats_text_type",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                231,
+                1962,
+                1208,
+                2019
+            ],
+            "componentLabel": "Text",
+            "text_color": "#747474",
+            "bounds_updated": [
+                685.6666666666666,
+                1976.6666666666667,
+                752.3333333333333,
+                2006.0
+            ],
+            "text_updated": "Win",
+            "font_size": 7.277739338626965,
+            "id": "5481_4"
+        },
+        {
+            "text": "14",
+            "resource-id": "holoduke.soccer_gen:id/match_stats_text_home",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                36,
+                1962,
+                231,
+                2019
+            ],
+            "componentLabel": "Text",
+            "text_color": "#787878",
+            "bounds_updated": [
+                186.66666666666666,
+                1976.6666666666667,
+                229.33333333333331,
+                2006.0
+            ],
+            "text_updated": "14",
+            "font_size": 6.74812190906452,
+            "id": "5481_5"
+        },
+        {
+            "iconClass": "av_forward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1352,
+                1864,
+                1408,
+                1920
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Icon",
+            "id": "5481_6"
+        },
+        {
+            "text": "Head 2 Head",
+            "resource-id": "holoduke.soccer_gen:id/h2htitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                1843,
+                1422,
+                1955
+            ],
+            "componentLabel": "Text",
+            "text_color": "#757575",
+            "bounds_updated": [
+                579.3333333333333,
+                1884.3333333333333,
+                860.6666666666666,
+                1917.6666666666667
+            ],
+            "text_updated": "HEAD 2 HEAD",
+            "font_size": 8.821590084817435,
+            "id": "5481_7"
+        },
+        {
+            "text": "290 Votes",
+            "resource-id": "holoduke.soccer_gen:id/vote_away_click",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                958,
+                1724,
+                1418,
+                1803
+            ],
+            "componentLabel": "Text",
+            "text_color": "#717171",
+            "bounds_updated": [
+                1095.3333333333333,
+                1749.3333333333333,
+                1282.0,
+                1781.3333333333333
+            ],
+            "text_updated": "290 Votes",
+            "font_size": 7.962208764701944,
+            "id": "5481_8"
+        },
+        {
+            "text": "68 Votes",
+            "resource-id": "holoduke.soccer_gen:id/vote_draw_click",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                490,
+                1724,
+                950,
+                1803
+            ],
+            "componentLabel": "Text",
+            "text_color": "#737373",
+            "bounds_updated": [
+                639.3333333333333,
+                1750.6666666666667,
+                800.6666666666666,
+                1781.3333333333333
+            ],
+            "text_updated": "68 Votes",
+            "font_size": 7.744002486300193,
+            "id": "5481_9"
+        },
+        {
+            "text": "207 Votes",
+            "resource-id": "holoduke.soccer_gen:id/vote_home_click",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                22,
+                1724,
+                482,
+                1803
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6E6E6E",
+            "bounds_updated": [
+                159.33333333333331,
+                1749.3333333333333,
+                346.0,
+                1781.3333333333333
+            ],
+            "text_updated": "207 Votes",
+            "font_size": 7.962208764701944,
+            "id": "5481_10"
+        },
+        {
+            "text": "Manchester United",
+            "resource-id": "holoduke.soccer_gen:id/vote_away_button",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                965,
+                1580,
+                1411,
+                1720
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#409BCA",
+            "text_color": "#E7EDE9",
+            "bounds_text": [
+                1053.0,
+                1612.0,
+                1325.0,
+                1692.0
+            ],
+            "text_updated": "MANCHESTER\nUNITED",
+            "font_size": 8.520971302428253,
+            "id": "5481_11"
+        },
+        {
+            "text": "Draw",
+            "resource-id": "holoduke.soccer_gen:id/vote_draw_button",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                497,
+                1580,
+                943,
+                1720
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#409BCA",
+            "text_color": "#D6FAFF",
+            "bounds_text": [
+                665.0,
+                1636.0,
+                778.3333333333333,
+                1666.6666666666667
+            ],
+            "text_updated": "DRAW",
+            "font_size": 7.83071883933396,
+            "id": "5481_12"
+        },
+        {
+            "text": "Arsenal",
+            "resource-id": "holoduke.soccer_gen:id/vote_home_button",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                29,
+                1580,
+                475,
+                1720
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#409BCA",
+            "text_color": "#E5F0FF",
+            "bounds_text": [
+                159.66666666666666,
+                1636.0,
+                342.3333333333333,
+                1666.6666666666667
+            ],
+            "text_updated": "ARSENAL",
+            "font_size": 8.625516190384278,
+            "id": "5481_13"
+        },
+        {
+            "text": "Vote on the outcome",
+            "resource-id": "holoduke.soccer_gen:id/vote_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                1440,
+                1422,
+                1552
+            ],
+            "componentLabel": "Text",
+            "text_color": "#767676",
+            "bounds_updated": [
+                464.66666666666663,
+                1481.3333333333333,
+                975.3333333333333,
+                1514.6666666666667
+            ],
+            "text_updated": "VOTE ON THE OUTCOME",
+            "font_size": 9.22656667372262,
+            "id": "5481_14"
+        },
+        {
+            "text": "49",
+            "resource-id": "holoduke.soccer_gen:id/points_visitor",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1337,
+                1325,
+                1422,
+                1378
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6F6F6F",
+            "bounds_updated": [
+                1338.3333333333333,
+                1338.3333333333333,
+                1378.3333333333333,
+                1366.3333333333333
+            ],
+            "text_updated": "49",
+            "font_size": 5.754231052244359,
+            "id": "5481_15"
+        },
+        {
+            "text": "+17",
+            "resource-id": "holoduke.soccer_gen:id/goaldiff_visitor",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1249,
+                1325,
+                1337,
+                1378
+            ],
+            "componentLabel": "Text",
+            "text_color": "#727272",
+            "bounds_updated": [
+                1249,
+                1325,
+                1337,
+                1378
+            ],
+            "text_updated": "+17",
+            "font_size": 12,
+            "id": "5481_16"
+        },
+        {
+            "text": "3",
+            "resource-id": "holoduke.soccer_gen:id/totallost_visitor",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1161,
+                1325,
+                1249,
+                1378
+            ],
+            "componentLabel": "Text",
+            "text_color": "#737373",
+            "bounds_updated": [
+                1161,
+                1325,
+                1249,
+                1378
+            ],
+            "text_updated": "3",
+            "font_size": 12,
+            "id": "5481_17"
+        },
+        {
+            "text": "10",
+            "resource-id": "holoduke.soccer_gen:id/totaldraw_visitor",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1073,
+                1325,
+                1161,
+                1378
+            ],
+            "componentLabel": "Text",
+            "text_color": "#757575",
+            "bounds_updated": [
+                1075.6666666666667,
+                1338.3333333333333,
+                1114.3333333333333,
+                1367.6666666666667
+            ],
+            "text_updated": "10",
+            "font_size": 5.38895492537883,
+            "id": "5481_18"
+        },
+        {
+            "text": "13",
+            "resource-id": "holoduke.soccer_gen:id/totalwon_visitor",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                985,
+                1325,
+                1073,
+                1378
+            ],
+            "componentLabel": "Text",
+            "text_color": "#767676",
+            "bounds_updated": [
+                987.6666666666666,
+                1338.3333333333333,
+                1026.3333333333333,
+                1367.6666666666667
+            ],
+            "text_updated": "13",
+            "font_size": 5.268202486745496,
+            "id": "5481_19"
+        },
+        {
+            "text": "26",
+            "resource-id": "holoduke.soccer_gen:id/matchpoints_visitor",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                897,
+                1325,
+                985,
+                1378
+            ],
+            "componentLabel": "Text",
+            "text_color": "#727272",
+            "bounds_updated": [
+                898.3333333333334,
+                1338.3333333333333,
+                938.3333333333334,
+                1367.6666666666667
+            ],
+            "text_updated": "26",
+            "font_size": 5.636497424576858,
+            "id": "5481_20"
+        },
+        {
+            "text": "Manchester United",
+            "resource-id": "holoduke.soccer_gen:id/name_visitor",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                154,
+                1299,
+                897,
+                1404
+            ],
+            "componentLabel": "Text",
+            "text_color": "#747474",
+            "bounds_updated": [
+                156.66666666666666,
+                1337.6666666666667,
+                502.0,
+                1369.6666666666667
+            ],
+            "text_updated": "Manchester United",
+            "font_size": 7.627760976916887,
+            "id": "5481_21"
+        },
+        {
+            "text": "6",
+            "resource-id": "holoduke.soccer_gen:id/rank_visitor",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                28,
+                1299,
+                98,
+                1404
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6E6E6E",
+            "bounds_updated": [
+                28,
+                1299,
+                98,
+                1404
+            ],
+            "text_updated": "6",
+            "font_size": 12,
+            "id": "5481_22"
+        },
+        {
+            "text": "50",
+            "resource-id": "holoduke.soccer_gen:id/points_local",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1337,
+                1220,
+                1422,
+                1273
+            ],
+            "componentLabel": "Text",
+            "text_color": "#747474",
+            "bounds_updated": [
+                1339.6666666666667,
+                1234.6666666666667,
+                1378.3333333333333,
+                1262.6666666666667
+            ],
+            "text_updated": "50",
+            "font_size": 5.5097073640119145,
+            "id": "5481_23"
+        },
+        {
+            "text": "+24",
+            "resource-id": "holoduke.soccer_gen:id/goaldiff_local",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1249,
+                1220,
+                1337,
+                1273
+            ],
+            "componentLabel": "Text",
+            "text_color": "#727272",
+            "bounds_updated": [
+                1250.3333333333333,
+                1238.6666666666667,
+                1314.3333333333333,
+                1262.6666666666667
+            ],
+            "text_updated": "+24",
+            "font_size": 5.209713024282564,
+            "id": "5481_24"
+        },
+        {
+            "text": "6",
+            "resource-id": "holoduke.soccer_gen:id/totallost_local",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1161,
+                1220,
+                1249,
+                1273
+            ],
+            "componentLabel": "Text",
+            "text_color": "#737373",
+            "bounds_updated": [
+                1161,
+                1220,
+                1249,
+                1273
+            ],
+            "text_updated": "6",
+            "font_size": 12,
+            "id": "5481_25"
+        },
+        {
+            "text": "5",
+            "resource-id": "holoduke.soccer_gen:id/totaldraw_local",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1073,
+                1220,
+                1161,
+                1273
+            ],
+            "componentLabel": "Text",
+            "text_color": "#787878",
+            "bounds_updated": [
+                1073,
+                1220,
+                1161,
+                1273
+            ],
+            "text_updated": "5",
+            "font_size": 12,
+            "id": "5481_26"
+        },
+        {
+            "text": "15",
+            "resource-id": "holoduke.soccer_gen:id/totalwon_local",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                985,
+                1220,
+                1073,
+                1273
+            ],
+            "componentLabel": "Text",
+            "text_color": "#767676",
+            "bounds_updated": [
+                987.6666666666666,
+                1234.6666666666667,
+                1027.6666666666667,
+                1262.6666666666667
+            ],
+            "text_updated": "15",
+            "font_size": 5.754231052244237,
+            "id": "5481_27"
+        },
+        {
+            "text": "26",
+            "resource-id": "holoduke.soccer_gen:id/matchpoints_local",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                897,
+                1220,
+                985,
+                1273
+            ],
+            "componentLabel": "Text",
+            "text_color": "#717171",
+            "bounds_updated": [
+                898.3333333333334,
+                1233.3333333333333,
+                938.3333333333334,
+                1262.6666666666667
+            ],
+            "text_updated": "26",
+            "font_size": 5.636497424576858,
+            "id": "5481_28"
+        },
+        {
+            "text": "Arsenal",
+            "resource-id": "holoduke.soccer_gen:id/name_local",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                154,
+                1194,
+                897,
+                1299
+            ],
+            "componentLabel": "Text",
+            "text_color": "#727272",
+            "bounds_updated": [
+                154,
+                1232.6666666666667,
+                291.3333333333333,
+                1263.3333333333333
+            ],
+            "text_updated": "Arsenal",
+            "font_size": 7.487579424544658,
+            "id": "5481_29"
+        },
+        {
+            "text": "5",
+            "resource-id": "holoduke.soccer_gen:id/rank_local",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                28,
+                1194,
+                98,
+                1299
+            ],
+            "componentLabel": "Text",
+            "text_color": "#727272",
+            "bounds_updated": [
+                28,
+                1194,
+                98,
+                1299
+            ],
+            "text_updated": "5",
+            "font_size": 12,
+            "id": "5481_30"
+        },
+        {
+            "text": "Pts",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1337,
+                1123,
+                1422,
+                1176
+            ],
+            "componentLabel": "Text",
+            "text_color": "#7F7F7F",
+            "bounds_updated": [
+                1339.6666666666667,
+                1137.6666666666667,
+                1409.0,
+                1165.6666666666667
+            ],
+            "text_updated": "PTS",
+            "font_size": 8.159360874592675,
+            "id": "5481_31"
+        },
+        {
+            "text": "GD",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1249,
+                1123,
+                1337,
+                1176
+            ],
+            "componentLabel": "Text",
+            "text_color": "#7E7E7E",
+            "bounds_updated": [
+                1250.3333333333333,
+                1137.6666666666667,
+                1299.6666666666667,
+                1165.6666666666667
+            ],
+            "text_updated": "GD",
+            "font_size": 5.77585559610155,
+            "id": "5481_32"
+        },
+        {
+            "text": "L",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1161,
+                1123,
+                1249,
+                1176
+            ],
+            "componentLabel": "Text",
+            "text_color": "#858585",
+            "bounds_updated": [
+                1161,
+                1123,
+                1249,
+                1176
+            ],
+            "text_updated": "L",
+            "font_size": 12,
+            "id": "5481_33"
+        },
+        {
+            "text": "D",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1073,
+                1123,
+                1161,
+                1176
+            ],
+            "componentLabel": "Text",
+            "text_color": "#828282",
+            "bounds_updated": [
+                1073,
+                1123,
+                1161,
+                1176
+            ],
+            "text_updated": "D",
+            "font_size": 12,
+            "id": "5481_34"
+        },
+        {
+            "text": "W",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                985,
+                1123,
+                1073,
+                1176
+            ],
+            "componentLabel": "Text",
+            "text_color": "#848484",
+            "bounds_updated": [
+                985,
+                1123,
+                1073,
+                1176
+            ],
+            "text_updated": "W",
+            "font_size": 12,
+            "id": "5481_35"
+        },
+        {
+            "text": "GP",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                897,
+                1123,
+                985,
+                1176
+            ],
+            "componentLabel": "Text",
+            "text_color": "#808080",
+            "bounds_updated": [
+                898.3333333333334,
+                1137.6666666666667,
+                947.6666666666666,
+                1165.6666666666667
+            ],
+            "text_updated": "GP",
+            "font_size": 7.409710020873736,
+            "id": "5481_36"
+        },
+        {
+            "text": "rank",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                28,
+                1106,
+                897,
+                1194
+            ],
+            "componentLabel": "Text",
+            "text_color": "#7B7B7B",
+            "bounds_updated": [
+                37.33333333333333,
+                1138.0,
+                138.66666666666666,
+                1166.0
+            ],
+            "text_updated": "RANK",
+            "font_size": 7.830306209428875,
+            "id": "5481_37"
+        },
+        {
+            "iconClass": "av_forward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1352,
+                1022,
+                1408,
+                1078
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Icon",
+            "id": "5481_38"
+        },
+        {
+            "text": "Standings : Premier League",
+            "resource-id": "holoduke.soccer_gen:id/table_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                1001,
+                1422,
+                1113
+            ],
+            "componentLabel": "Text",
+            "text_color": "#777777",
+            "bounds_updated": [
+                396.66666666666663,
+                1041.0,
+                1044.6666666666665,
+                1075.6666666666667
+            ],
+            "text_updated": "STANDINGS : PREMIER LEAGUE",
+            "font_size": 9.244088336558294,
+            "id": "5481_39"
+        },
+        {
+            "text": "Emirates Stadium (London)",
+            "resource-id": "holoduke.soccer_gen:id/matchinfo_stage",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                483,
+                891,
+                957,
+                944
+            ],
+            "componentLabel": "Text",
+            "text_color": "#707070",
+            "bounds_updated": [
+                485.6666666666667,
+                905.6666666666666,
+                953.6666666666666,
+                941.6666666666666
+            ],
+            "text_updated": "Emirates Stadium (London)",
+            "font_size": 6.757482563222074,
+            "id": "5481_40"
+        },
+        {
+            "text": " - Premier League",
+            "resource-id": "holoduke.soccer_gen:id/matchinfo_league",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                672,
+                781,
+                1076,
+                886
+            ],
+            "componentLabel": "Text",
+            "text_color": "#777777",
+            "bounds_updated": [
+                684.0,
+                834.3333333333334,
+                1074.6666666666665,
+                851.6666666666666
+            ],
+            "text_updated": "- PREMIER LEAGUE",
+            "font_size": 9.180581498462294,
+            "id": "5481_41"
+        },
+        {
+            "text": "England",
+            "resource-id": "holoduke.soccer_gen:id/matchinfo_country",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                464,
+                781,
+                672,
+                886
+            ],
+            "componentLabel": "Text",
+            "text_color": "#767676",
+            "bounds_updated": [
+                468.0,
+                818.3333333333334,
+                669.3333333333333,
+                851.6666666666666
+            ],
+            "text_updated": "ENGLAND",
+            "font_size": 8.964668929085246,
+            "id": "5481_42"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "holoduke.soccer_gen:id/matchinfo_countryimage",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                382,
+                781,
+                446,
+                886
+            ],
+            "componentLabel": "Image",
+            "id": "5481_43"
+        },
+        {
+            "text": "Manchester United",
+            "resource-id": "holoduke.soccer_gen:id/matchinfo_titlevisitor",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                877,
+                452,
+                1440,
+                578
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#EEEEEE",
+            "text_color": "#343434",
+            "bounds_text": [
+                955.6666666666666,
+                498.6666666666667,
+                1361.0,
+                534.6666666666666
+            ],
+            "text_updated": "Manchester United",
+            "font_size": 9.456170684761695,
+            "id": "5481_44"
+        },
+        {
+            "iconClass": "globe",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "holoduke.soccer_gen:id/matchinfo_imagevisitor",
+            "clickable": true,
+            "class": "de.hdodenhof.circleimageview.CircleImageView",
+            "bounds": [
+                1071,
+                287,
+                1246,
+                462
+            ],
+            "componentLabel": "Icon",
+            "id": "5481_45"
+        },
+        {
+            "text": "10:00",
+            "resource-id": "holoduke.soccer_gen:id/matchinfo_scoretime",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                562,
+                395,
+                877,
+                463
+            ],
+            "componentLabel": "Text",
+            "text_color": "#747474",
+            "bounds_updated": [
+                562,
+                395,
+                877,
+                463
+            ],
+            "text_updated": "10:00",
+            "font_size": 12,
+            "id": "5481_46"
+        },
+        {
+            "text": "5/6/17",
+            "resource-id": "holoduke.soccer_gen:id/matchinfo_date",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                562,
+                309,
+                877,
+                366
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FDFDFD",
+            "text_color": "#313131",
+            "bounds_text": [
+                656.6666666666666,
+                323.6666666666667,
+                780.6666666666666,
+                357.0
+            ],
+            "text_updated": "5/6/17",
+            "font_size": 8.340573001970125,
+            "id": "5481_47"
+        },
+        {
+            "text": "Arsenal",
+            "resource-id": "holoduke.soccer_gen:id/matchinfo_titlehome",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                452,
+                562,
+                578
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#F1F1F1",
+            "text_color": "#373737",
+            "bounds_text": [
+                198.66666666666666,
+                498.6666666666667,
+                360.0,
+                534.6666666666666
+            ],
+            "text_updated": "Arsenal",
+            "font_size": 9.418508525695174,
+            "id": "5481_48"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "holoduke.soccer_gen:id/matchinfo_imagehome",
+            "clickable": true,
+            "class": "de.hdodenhof.circleimageview.CircleImageView",
+            "bounds": [
+                193,
+                287,
+                368,
+                462
+            ],
+            "componentLabel": "Image",
+            "id": "5481_49"
+        },
+        {
+            "text": "MATCH INFO",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                214,
+                629,
+                505,
+                695
+            ],
+            "componentLabel": "Text",
+            "text_color": "#141414",
+            "bounds_updated": [
+                218.0,
+                646.3333333333334,
+                503.3333333333333,
+                681.0
+            ],
+            "text_updated": "MATCH INFO",
+            "font_size": 10.217781392406698,
+            "id": "5481_50"
+        },
+        {
+            "ancestors": [
+                "android.widget.LinearLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.support.design.widget.TabLayout$i",
+            "bounds": [
+                720,
+                578,
+                1440,
+                746
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "comment",
+            "bg_color": "#FDFDFD",
+            "text_color": "#727272",
+            "bounds_text": [
+                720,
+                644.6666666666666,
+                1440.0,
+                746
+            ],
+            "text_updated": "COMMENTS",
+            "font_size": 16.36333905649579,
+            "id": "5481_51"
+        },
+        {
+            "iconClass": "share",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "holoduke.soccer_gen:id/image",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                894,
+                126,
+                1006,
+                238
+            ],
+            "componentLabel": "Icon",
+            "id": "5481_52"
+        },
+        {
+            "iconClass": "search",
+            "resource-id": "holoduke.soccer_gen:id/menu_item_search",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1244,
+                98,
+                1440,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "5481_53"
+        },
+        {
+            "iconClass": "refresh",
+            "resource-id": "holoduke.soccer_gen:id/refresh",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1048,
+                98,
+                1244,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "5481_54"
+        },
+        {
+            "iconClass": "notifications",
+            "resource-id": "holoduke.soccer_gen:id/subscribe",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                656,
+                98,
+                852,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "5481_55"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "componentLabel": "Image",
+            "id": "5481_56"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                746,
+                1440,
+                2392
+            ],
+            "class": "android.support.v4.view.ViewPager",
+            "bg_color": "#FAFAFA",
+            "id": "5481_57",
+            "ui_comp_ids": [
+                "5481_0",
+                "5481_1",
+                "5481_2",
+                "5481_3",
+                "5481_4",
+                "5481_5",
+                "5481_6",
+                "5481_7",
+                "5481_8",
+                "5481_9",
+                "5481_10",
+                "5481_11",
+                "5481_12",
+                "5481_13",
+                "5481_14",
+                "5481_15",
+                "5481_16",
+                "5481_17",
+                "5481_18",
+                "5481_19",
+                "5481_20",
+                "5481_21",
+                "5481_22",
+                "5481_23",
+                "5481_24",
+                "5481_25",
+                "5481_26",
+                "5481_27",
+                "5481_28",
+                "5481_29",
+                "5481_30",
+                "5481_31",
+                "5481_32",
+                "5481_33",
+                "5481_34",
+                "5481_35",
+                "5481_36",
+                "5481_37",
+                "5481_38",
+                "5481_39",
+                "5481_40",
+                "5481_41",
+                "5481_42",
+                "5481_43"
+            ],
+            "ui_comp_group_ids": [
+                "5481_58",
+                "5481_59",
+                "5481_60",
+                "5481_61",
+                "5481_64"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                746,
+                1440,
+                2281
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "5481_58",
+            "ui_comp_ids": [
+                "5481_0",
+                "5481_1",
+                "5481_2",
+                "5481_3",
+                "5481_4",
+                "5481_5",
+                "5481_6",
+                "5481_7",
+                "5481_8",
+                "5481_9",
+                "5481_10",
+                "5481_11",
+                "5481_12",
+                "5481_13",
+                "5481_14",
+                "5481_15",
+                "5481_16",
+                "5481_17",
+                "5481_18",
+                "5481_19",
+                "5481_20",
+                "5481_21",
+                "5481_22",
+                "5481_23",
+                "5481_24",
+                "5481_25",
+                "5481_26",
+                "5481_27",
+                "5481_28",
+                "5481_29",
+                "5481_30",
+                "5481_31",
+                "5481_32",
+                "5481_33",
+                "5481_34",
+                "5481_35",
+                "5481_36",
+                "5481_37",
+                "5481_38",
+                "5481_39",
+                "5481_40",
+                "5481_41",
+                "5481_42",
+                "5481_43"
+            ],
+            "ui_comp_group_ids": [
+                "5481_59",
+                "5481_60",
+                "5481_61",
+                "5481_64"
+            ]
+        },
+        {
+            "componentLabel": "Card",
+            "bounds": [
+                18,
+                1843,
+                1422,
+                2263
+            ],
+            "class": "android.support.v7.widget.CardView",
+            "bg_color": "#FAFAFA",
+            "id": "5481_59",
+            "ui_comp_ids": [
+                "5481_0",
+                "5481_1",
+                "5481_2",
+                "5481_3",
+                "5481_4",
+                "5481_5",
+                "5481_6",
+                "5481_7"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Card",
+            "bounds": [
+                18,
+                1001,
+                1422,
+                1404
+            ],
+            "class": "android.support.v7.widget.CardView",
+            "bg_color": "#FAFAFA",
+            "id": "5481_60",
+            "ui_comp_ids": [
+                "5481_15",
+                "5481_16",
+                "5481_17",
+                "5481_18",
+                "5481_19",
+                "5481_20",
+                "5481_21",
+                "5481_22",
+                "5481_23",
+                "5481_24",
+                "5481_25",
+                "5481_26",
+                "5481_27",
+                "5481_28",
+                "5481_29",
+                "5481_30",
+                "5481_31",
+                "5481_32",
+                "5481_33",
+                "5481_34",
+                "5481_35",
+                "5481_36",
+                "5481_37",
+                "5481_38",
+                "5481_39"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Card",
+            "bounds": [
+                18,
+                1440,
+                1422,
+                1807
+            ],
+            "class": "android.support.v7.widget.CardView",
+            "bg_color": "#FAFAFA",
+            "id": "5481_61",
+            "ui_comp_ids": [
+                "5481_8",
+                "5481_9",
+                "5481_10",
+                "5481_11",
+                "5481_12",
+                "5481_13",
+                "5481_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                578
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F7F7F7",
+            "id": "5481_62",
+            "ui_comp_ids": [
+                "5481_44",
+                "5481_45",
+                "5481_46",
+                "5481_47",
+                "5481_48",
+                "5481_49"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#FFFFFF",
+            "id": "5481_63",
+            "ui_comp_ids": [
+                "5481_52",
+                "5481_53",
+                "5481_54",
+                "5481_55",
+                "5481_56"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Card",
+            "bounds": [
+                18,
+                781,
+                1422,
+                965
+            ],
+            "class": "android.support.v7.widget.CardView",
+            "bg_color": "#FAFAFA",
+            "id": "5481_64",
+            "ui_comp_ids": [
+                "5481_40",
+                "5481_41",
+                "5481_42",
+                "5481_43"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                578,
+                1440,
+                746
+            ],
+            "class": "android.support.design.widget.TabLayout",
+            "bg_color": "#FDFDFD",
+            "id": "5481_65",
+            "ui_comp_ids": [
+                "5481_50",
+                "5481_51"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

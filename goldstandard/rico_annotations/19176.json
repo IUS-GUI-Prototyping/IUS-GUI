@@ -1,0 +1,768 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "Recorded Measurements",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/txtDay",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                11,
+                1474,
+                590,
+                1540
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                43.0,
+                1490.0,
+                588.3333333333333,
+                1526.0
+            ],
+            "text_updated": "Recorded Measurements",
+            "font_size": 9.682645766247443,
+            "id": "19176_0"
+        },
+        {
+            "text": "175.2 lbs",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/txtWeight",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1165,
+                1376,
+                1394,
+                1442
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                1197.0,
+                1393.3333333333333,
+                1391.6666666666667,
+                1429.3333333333333
+            ],
+            "text_updated": "175.2 Ibs",
+            "font_size": 9.221911199107875,
+            "id": "19176_1"
+        },
+        {
+            "text": "Day 1 (Starting Weight)",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/txtDay",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                11,
+                1376,
+                550,
+                1442
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                43.0,
+                1393.3333333333333,
+                548.3333333333333,
+                1438.6666666666667
+            ],
+            "text_updated": "Day 1 (Starting Weight)",
+            "font_size": 9.378328561332948,
+            "id": "19176_2"
+        },
+        {
+            "text": "Recorded Weights",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/txtDay",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                11,
+                1278,
+                440,
+                1344
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                43.0,
+                1295.3333333333333,
+                439.0,
+                1340.6666666666667
+            ],
+            "text_updated": "Recorded Weights",
+            "font_size": 9.689388364885048,
+            "id": "19176_3"
+        },
+        {
+            "text": "Inches Graph",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/radioInches",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.RadioButton",
+            "bounds": [
+                724,
+                1149,
+                1163,
+                1261
+            ],
+            "componentLabel": "Radio Button",
+            "id": "19176_4"
+        },
+        {
+            "text": "Weight Graph",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/radioWeight",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.RadioButton",
+            "bounds": [
+                242,
+                1149,
+                689,
+                1261
+            ],
+            "componentLabel": "Radio Button",
+            "id": "19176_5"
+        },
+        {
+            "text": "Enter Weight",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                844,
+                685,
+                1141,
+                756
+            ],
+            "componentLabel": "Text",
+            "text_color": "#EBFFFF",
+            "bounds_updated": [
+                848.0,
+                702.3333333333334,
+                1140.0,
+                753.0
+            ],
+            "text_updated": "Enter Weight",
+            "font_size": 9.936194018567242,
+            "id": "19176_6"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                736,
+                679,
+                834,
+                763
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "19176_7"
+        },
+        {
+            "text": "Enter Inches",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                399,
+                685,
+                690,
+                756
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F1FFFF",
+            "bounds_updated": [
+                403.0,
+                702.3333333333334,
+                688.3333333333333,
+                741.0
+            ],
+            "text_updated": "Enter Inches",
+            "font_size": 10.069065231142623,
+            "id": "19176_8"
+        },
+        {
+            "iconClass": "avatar",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                291,
+                679,
+                389,
+                763
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Icon",
+            "id": "19176_9"
+        },
+        {
+            "iconClass": "play",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/nextdate",
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "bounds": [
+                1334,
+                463,
+                1422,
+                551
+            ],
+            "componentLabel": "Icon",
+            "id": "19176_10"
+        },
+        {
+            "text": "Friday, Feb 17 2017",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/dateLabel",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                505,
+                474,
+                934,
+                540
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#4C4C4C",
+            "bounds_text": [
+                507.6666666666667,
+                490.0,
+                931.6666666666666,
+                535.3333333333334
+            ],
+            "text_updated": "Friday, Feb 17 2017",
+            "font_size": 9.459508239965572,
+            "id": "19176_11"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/prevdate",
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "bounds": [
+                18,
+                463,
+                106,
+                551
+            ],
+            "componentLabel": "Icon",
+            "id": "19176_12"
+        },
+        {
+            "text": "Day 2",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/dayLabel",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                0,
+                573,
+                1440,
+                639
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FBD302",
+            "text_color": "#0A0000",
+            "bounds_text": [
+                661.3333333333333,
+                590.3333333333334,
+                780.0,
+                635.6666666666666
+            ],
+            "text_updated": "Day 2",
+            "font_size": 8.800464998361374,
+            "id": "19176_13"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/imgPromoFlag",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                634,
+                0,
+                806,
+                26
+            ],
+            "componentLabel": "Image",
+            "id": "19176_14"
+        },
+        {
+            "text": "Community",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/tabText",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                914,
+                389,
+                1106,
+                432
+            ],
+            "componentLabel": "Text",
+            "text_color": "#333333",
+            "bounds_updated": [
+                914,
+                399.6666666666667,
+                1104.6666666666667,
+                423.6666666666667
+            ],
+            "text_updated": "COMMUNITY",
+            "font_size": 5.326672088610046,
+            "id": "19176_15"
+        },
+        {
+            "iconClass": "chat",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/tabIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                954,
+                277,
+                1066,
+                389
+            ],
+            "componentLabel": "Icon",
+            "id": "19176_16"
+        },
+        {
+            "text": "Progress",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/tabText",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                642,
+                389,
+                805,
+                432
+            ],
+            "componentLabel": "Text",
+            "text_color": "#363636",
+            "bounds_updated": [
+                642,
+                389,
+                805,
+                432
+            ],
+            "text_updated": "Progress",
+            "font_size": 12,
+            "id": "19176_17"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/tabIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                667,
+                277,
+                779,
+                389
+            ],
+            "componentLabel": "Image",
+            "id": "19176_18"
+        },
+        {
+            "text": "Food List",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/tabText",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                358,
+                389,
+                515,
+                432
+            ],
+            "componentLabel": "Text",
+            "text_color": "#323232",
+            "bounds_updated": [
+                360.6666666666667,
+                399.6666666666667,
+                515.3333333333333,
+                423.6666666666667
+            ],
+            "text_updated": "FOOD LIST",
+            "font_size": 4.535118327043126,
+            "id": "19176_19"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/tabIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                380,
+                277,
+                492,
+                389
+            ],
+            "componentLabel": "Image",
+            "id": "19176_20"
+        },
+        {
+            "text": "Tracker",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/tabText",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                79,
+                389,
+                220,
+                432
+            ],
+            "componentLabel": "Text",
+            "text_color": "#323232",
+            "bounds_updated": [
+                80.33333333333333,
+                399.6666666666667,
+                220.33333333333331,
+                423.6666666666667
+            ],
+            "text_updated": "TRACKER",
+            "font_size": 5.199201093240845,
+            "id": "19176_21"
+        },
+        {
+            "iconClass": "dashboard",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/tabIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                93,
+                277,
+                205,
+                389
+            ],
+            "componentLabel": "Icon",
+            "id": "19176_22"
+        },
+        {
+            "text": "21 Day Tracker",
+            "resource-id": "android:id/action_bar_title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                194,
+                152,
+                471,
+                209
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                195.33333333333334,
+                166.66666666666666,
+                470.0,
+                206.66666666666666
+            ],
+            "text_updated": "21 Day Tracker",
+            "font_size": 7.601578700916443,
+            "id": "19176_23"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/home",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                43,
+                112,
+                180,
+                249
+            ],
+            "componentLabel": "Image",
+            "id": "19176_24"
+        },
+        {
+            "ancestors": [
+                "android.widget.LinearLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "com.android.internal.widget.ScrollingTabContainerView$TabView",
+            "bounds": [
+                1155,
+                277,
+                1440,
+                445
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "settings",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                1223.0,
+                287.6666666666667,
+                1372.3333333333333,
+                423.66666666666663
+            ],
+            "text_updated": "O\n\nSETTINGS",
+            "font_size": 5.176625133956574,
+            "id": "19176_25"
+        },
+        {
+            "iconClass": "add",
+            "resource-id": "com.cubesol.twentyonedaycontainer:id/action_add",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.android.internal.view.menu.ActionMenuItemView",
+            "bounds": [
+                1244,
+                84,
+                1440,
+                277
+            ],
+            "componentLabel": "Icon",
+            "id": "19176_26"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                643,
+                1440,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "19176_27",
+            "ui_comp_ids": [
+                "19176_0",
+                "19176_1",
+                "19176_2",
+                "19176_3",
+                "19176_4",
+                "19176_5",
+                "19176_6",
+                "19176_7",
+                "19176_8",
+                "19176_9"
+            ],
+            "ui_comp_group_ids": [
+                "19176_28",
+                "19176_31",
+                "19176_32",
+                "19176_33"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                643,
+                1440,
+                1261
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#5D6385",
+            "id": "19176_28",
+            "ui_comp_ids": [
+                "19176_4",
+                "19176_5",
+                "19176_6",
+                "19176_7",
+                "19176_8",
+                "19176_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                445
+            ],
+            "class": "com.android.internal.widget.ActionBarContainer",
+            "bg_color": "#FFFFFF",
+            "id": "19176_29",
+            "ui_comp_ids": [
+                "19176_15",
+                "19176_16",
+                "19176_17",
+                "19176_18",
+                "19176_19",
+                "19176_20",
+                "19176_21",
+                "19176_22",
+                "19176_23",
+                "19176_24",
+                "19176_25",
+                "19176_26"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                445,
+                1440,
+                569
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "19176_30",
+            "ui_comp_ids": [
+                "19176_10",
+                "19176_11",
+                "19176_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1263,
+                1440,
+                1359
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#F0F0F0",
+            "id": "19176_31",
+            "ui_comp_ids": [
+                "19176_3"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1361,
+                1440,
+                1457
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "19176_32",
+            "ui_comp_ids": [
+                "19176_1",
+                "19176_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1459,
+                1440,
+                1555
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#F0F0F0",
+            "id": "19176_33",
+            "ui_comp_ids": [
+                "19176_0"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

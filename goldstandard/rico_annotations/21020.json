@@ -1,0 +1,555 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "ancestors": [
+                "android.widget.RelativeLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "com.facebook.ads.AdView",
+            "bounds": [
+                160,
+                2213,
+                1280,
+                2388
+            ],
+            "clickable": false,
+            "children": [],
+            "componentLabel": "Advertisement",
+            "id": "21020_0"
+        },
+        {
+            "text": "",
+            "resource-id": "com.fsm.speech2text:id/edt_text2",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.fsm.speech2text.FEditText",
+            "bounds": [
+                720,
+                554,
+                1436,
+                1584
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FFFFFF",
+            "text_color": "#8B999C",
+            "bounds_text": [
+                720,
+                554,
+                1436,
+                1584
+            ],
+            "text_updated": "\f",
+            "font_size": 12,
+            "id": "21020_1"
+        },
+        {
+            "text": "",
+            "resource-id": "com.fsm.speech2text:id/edt_text1",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.fsm.speech2text.FEditText",
+            "bounds": [
+                4,
+                554,
+                720,
+                1584
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FFFFEB",
+            "text_color": "#888A87",
+            "bounds_text": [
+                4,
+                554,
+                720,
+                1584
+            ],
+            "text_updated": "\f",
+            "font_size": 12,
+            "id": "21020_2"
+        },
+        {
+            "text": "Search",
+            "resource-id": "com.fsm.speech2text:id/btn_search",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                720,
+                1925,
+                1436,
+                2069
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "search",
+            "bg_color": "#D3DEE4",
+            "text_color": "#000104",
+            "bounds_text": [
+                720,
+                1925,
+                1436,
+                2069
+            ],
+            "text_updated": "Search",
+            "font_size": 12,
+            "id": "21020_3"
+        },
+        {
+            "text": "Send",
+            "resource-id": "com.fsm.speech2text:id/btn_send",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                4,
+                1925,
+                720,
+                2069
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "delivery",
+            "bg_color": "#D3DEE4",
+            "text_color": "#000104",
+            "bounds_text": [
+                4,
+                1925,
+                720,
+                2069
+            ],
+            "text_updated": "Send",
+            "font_size": 12,
+            "id": "21020_4"
+        },
+        {
+            "text": "Clear",
+            "resource-id": "com.fsm.speech2text:id/btn_clear",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                958,
+                1781,
+                1436,
+                1925
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "delete",
+            "bg_color": "#D4DFE5",
+            "text_color": "#000105",
+            "bounds_text": [
+                968.6666666666666,
+                1781.0,
+                1427.3333333333333,
+                1925
+            ],
+            "text_updated": "Clear",
+            "font_size": 17.40421718519801,
+            "id": "21020_5"
+        },
+        {
+            "text": "Paste",
+            "resource-id": "com.fsm.speech2text:id/btn_paste",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                481,
+                1781,
+                958,
+                1925
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "paste",
+            "bg_color": "#E6EBEE",
+            "text_color": "#000104",
+            "bounds_text": [
+                490.3333333333333,
+                1781.0,
+                947.6666666666666,
+                1925
+            ],
+            "text_updated": "Paste",
+            "font_size": 17.310417783703098,
+            "id": "21020_6"
+        },
+        {
+            "text": "Copy",
+            "resource-id": "com.fsm.speech2text:id/btn_copy",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                4,
+                1781,
+                481,
+                1925
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "copy",
+            "bg_color": "#E6EBEE",
+            "text_color": "#000102",
+            "bounds_text": [
+                4,
+                1781,
+                481,
+                1925
+            ],
+            "text_updated": "Copy",
+            "font_size": 12,
+            "id": "21020_7"
+        },
+        {
+            "resource-id": "com.fsm.speech2text:id/spnDestLang",
+            "ancestors": [
+                "android.widget.AbsSpinner",
+                "android.widget.AdapterView",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Spinner",
+            "bounds": [
+                816,
+                1584,
+                1436,
+                1781
+            ],
+            "componentLabel": "Text Button",
+            "text": "EN\nEnglish",
+            "bg_color": "#C8D7DC",
+            "text_color": "#161F2E",
+            "bounds_text": [
+                816,
+                1584.0,
+                1436.0,
+                1781
+            ],
+            "text_updated": "EN\nEnglish",
+            "font_size": 12,
+            "id": "21020_8"
+        },
+        {
+            "text": "",
+            "resource-id": "com.fsm.speech2text:id/btn_swap",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                623,
+                1584,
+                816,
+                1781
+            ],
+            "componentLabel": "Image",
+            "id": "21020_9"
+        },
+        {
+            "resource-id": "com.fsm.speech2text:id/spnSourceLang",
+            "ancestors": [
+                "android.widget.AbsSpinner",
+                "android.widget.AdapterView",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Spinner",
+            "bounds": [
+                4,
+                1584,
+                623,
+                1781
+            ],
+            "componentLabel": "Text Button",
+            "text": "ES\nSpanish",
+            "bg_color": "#F1F5F6",
+            "text_color": "#20222E",
+            "bounds_text": [
+                4,
+                1584.0,
+                622.6666666666666,
+                1781
+            ],
+            "text_updated": "ES\nSpanish",
+            "font_size": 17.096665880823277,
+            "id": "21020_10"
+        },
+        {
+            "text": "Translate / Listen",
+            "resource-id": "com.fsm.speech2text:id/btn_listen",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                4,
+                2069,
+                1436,
+                2213
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#D0DDE3",
+            "text_color": "#000104",
+            "bounds_text": [
+                4,
+                2069.0,
+                1426.6666666666665,
+                2213
+            ],
+            "text_updated": "(9) Translate / Listen",
+            "font_size": 16.7213420143255,
+            "id": "21020_11"
+        },
+        {
+            "text": "Speak Now!",
+            "resource-id": "com.fsm.speech2text:id/btn_speak",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                4,
+                410,
+                1436,
+                554
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#D3DEE4",
+            "text_color": "#000104",
+            "bounds_text": [
+                13.333333333333332,
+                410.0,
+                1426.6666666666665,
+                554
+            ],
+            "text_updated": "Speak Now!",
+            "font_size": 18.090265572443833,
+            "id": "21020_12"
+        },
+        {
+            "text": "Ad-Free Pro Version on Google Play!",
+            "resource-id": "com.fsm.speech2text:id/btn_donate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                4,
+                256,
+                1436,
+                410
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#444444",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                320.0,
+                317.3333333333333,
+                1118.6666666666665,
+                362.66666666666663
+            ],
+            "text_updated": "Ad-Free Pro Version on Google Play!",
+            "font_size": 9.855433285199755,
+            "id": "21020_13"
+        },
+        {
+            "text": "Speech to Text Translator TTS",
+            "resource-id": "android:id/action_bar_title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                169,
+                125,
+                1011,
+                210
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F4F4F4",
+            "bounds_updated": [
+                171.66666666666666,
+                146.33333333333334,
+                1009.0,
+                205.0
+            ],
+            "text_updated": "Speech to Text Translator TTS",
+            "font_size": 12.003104908319155,
+            "id": "21020_14"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/home",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                43,
+                112,
+                155,
+                224
+            ],
+            "componentLabel": "Image",
+            "id": "21020_15"
+        },
+        {
+            "iconClass": "more",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1244,
+                84,
+                1440,
+                252
+            ],
+            "clickable": true,
+            "class": "android.widget.ActionMenuPresenter$OverflowMenuButton",
+            "componentLabel": "Icon",
+            "id": "21020_16"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                4,
+                554,
+                1436,
+                1584
+            ],
+            "class": "android.widget.TableRow",
+            "bg_color": "#FFFFFF",
+            "id": "21020_17",
+            "ui_comp_ids": [
+                "21020_1",
+                "21020_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                4,
+                1584,
+                1436,
+                1781
+            ],
+            "class": "android.widget.TableRow",
+            "bg_color": "#F1F5F6",
+            "id": "21020_18",
+            "ui_comp_ids": [
+                "21020_8",
+                "21020_9",
+                "21020_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "com.android.internal.widget.ActionBarContainer",
+            "bg_color": "#222222",
+            "id": "21020_19",
+            "ui_comp_ids": [
+                "21020_14",
+                "21020_15",
+                "21020_16"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                4,
+                1925,
+                1436,
+                2069
+            ],
+            "class": "android.widget.TableRow",
+            "bg_color": "#D3DEE4",
+            "id": "21020_20",
+            "ui_comp_ids": [
+                "21020_3",
+                "21020_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                4,
+                1781,
+                1436,
+                1925
+            ],
+            "class": "android.widget.TableRow",
+            "bg_color": "#E6EBEE",
+            "id": "21020_21",
+            "ui_comp_ids": [
+                "21020_5",
+                "21020_6",
+                "21020_7"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

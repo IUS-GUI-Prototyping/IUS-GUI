@@ -1,0 +1,864 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "iconClass": "add",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.mo2o.vueling:id/iv_customview_selector_pasajeros_mas",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1054,
+                1922,
+                1131,
+                1999
+            ],
+            "componentLabel": "Icon",
+            "id": "1990_0"
+        },
+        {
+            "text": "1",
+            "resource-id": "com.mo2o.vueling:id/tv_customview_selector_pasajeros_number",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                949,
+                1927,
+                977,
+                1993
+            ],
+            "componentLabel": "Text",
+            "text_color": "#666666",
+            "bounds_updated": [
+                949,
+                1927,
+                977,
+                1993
+            ],
+            "text_updated": "1",
+            "font_size": 12,
+            "id": "1990_1"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.mo2o.vueling:id/iv_customview_selector_pasajeros_menos",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                795,
+                1922,
+                872,
+                1999
+            ],
+            "componentLabel": "Image",
+            "id": "1990_2"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.mo2o.vueling:id/slide_inspirator_main_iv",
+            "clickable": false,
+            "class": "com.vueling.ui.customview.CropImageView",
+            "bounds": [
+                0,
+                280,
+                1440,
+                1271
+            ],
+            "componentLabel": "Image",
+            "id": "1990_3"
+        },
+        {
+            "text": "Adults",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                70,
+                1922,
+                795,
+                2000
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                70,
+                1940.6666666666667,
+                238.0,
+                1983.3333333333333
+            ],
+            "text_updated": "Adults",
+            "font_size": 11.359788359788347,
+            "id": "1990_4"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1325,
+                1946,
+                1343,
+                1981
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Image",
+            "id": "1990_5"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.mo2o.vueling:id/iv_fragment_search_child_infant",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1177,
+                1894,
+                1325,
+                2034
+            ],
+            "componentLabel": "Image",
+            "id": "1990_6"
+        },
+        {
+            "text": "30/12/2016",
+            "resource-id": "com.mo2o.vueling:id/txt_date_destino",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                773,
+                1757,
+                1370,
+                1835
+            ],
+            "componentLabel": "Text",
+            "text_color": "#585858",
+            "bounds_updated": [
+                775.6666666666666,
+                1759.6666666666667,
+                1191.6666666666665,
+                1831.6666666666667
+            ],
+            "text_updated": "-\u20ac\u00ab 30/12/2016",
+            "font_size": 11.543612384671986,
+            "id": "1990_7"
+        },
+        {
+            "text": "28/12/2016",
+            "resource-id": "com.mo2o.vueling:id/txt_date_origen",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                70,
+                1757,
+                685,
+                1835
+            ],
+            "componentLabel": "Text",
+            "text_color": "#626262",
+            "bounds_updated": [
+                72.66666666666667,
+                1759.6666666666667,
+                488.66666666666663,
+                1831.6666666666667
+            ],
+            "text_updated": "- 28/12/2016",
+            "font_size": 13.380370181694687,
+            "id": "1990_8"
+        },
+        {
+            "text": "From 64,99 EUR",
+            "resource-id": "com.mo2o.vueling:id/slide_inspirator_price_tv",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1007,
+                1117,
+                1352,
+                1183
+            ],
+            "componentLabel": "Text",
+            "text_color": "#532F00",
+            "bounds_updated": [
+                1009.6666666666666,
+                1133.0,
+                1348.3333333333333,
+                1175.6666666666667
+            ],
+            "text_updated": "From 44,99 EUR",
+            "font_size": 8.368384266585048,
+            "id": "1990_9"
+        },
+        {
+            "text": "A Coru\u00f1a",
+            "resource-id": "com.mo2o.vueling:id/slide_inspirator_station_tv",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1048,
+                1032,
+                1310,
+                1117
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3C2B00",
+            "bounds_updated": [
+                1048,
+                1032,
+                1310,
+                1117
+            ],
+            "text_updated": "A Coru\u00f1a",
+            "font_size": 12,
+            "id": "1990_10"
+        },
+        {
+            "resource-id": "com.mo2o.vueling:id/searchFlight_layout_promovy",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                725,
+                2052,
+                1405,
+                2206
+            ],
+            "componentLabel": "Text Button",
+            "text": "Discount code/My25% Voucher",
+            "bg_color": "#FFFFFF",
+            "text_color": "#2B2B2B",
+            "bounds_text": [
+                746.3333333333334,
+                2113.3333333333335,
+                1375.6666666666665,
+                2156.0
+            ],
+            "text_updated": "Discount code/My25% Voucher",
+            "font_size": 7.691820765058016,
+            "id": "1990_11"
+        },
+        {
+            "resource-id": "com.mo2o.vueling:id/discountLayout",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                35,
+                2052,
+                714,
+                2206
+            ],
+            "componentLabel": "Text Button",
+            "text": "Residents/Large family",
+            "bg_color": "#FFFFFF",
+            "text_color": "#353535",
+            "bounds_text": [
+                56.33333333333333,
+                2113.3333333333335,
+                517.6666666666666,
+                2156.0
+            ],
+            "text_updated": "Residents/Large family",
+            "font_size": 7.52096491774129,
+            "id": "1990_12"
+        },
+        {
+            "resource-id": "com.mo2o.vueling:id/searchFlight_button_dest",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                793,
+                1594,
+                1405,
+                1656
+            ],
+            "componentLabel": "Text Button",
+            "text": "Destination",
+            "bg_color": "#FFFFFF",
+            "text_color": "#5C5C5C",
+            "bounds_text": [
+                990.3333333333333,
+                1610.0,
+                1211.6666666666665,
+                1642.0
+            ],
+            "text_updated": "Destination",
+            "font_size": 6.76767585961196,
+            "id": "1990_13"
+        },
+        {
+            "iconClass": "compare",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.mo2o.vueling:id/changeOrigin_layout",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "bounds": [
+                646,
+                1565,
+                793,
+                1684
+            ],
+            "componentLabel": "Icon",
+            "id": "1990_14"
+        },
+        {
+            "resource-id": "com.mo2o.vueling:id/searchFlight_button_orig",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                35,
+                1594,
+                646,
+                1656
+            ],
+            "componentLabel": "Text Button",
+            "text": "Origin",
+            "bg_color": "#FFFFFF",
+            "text_color": "#656565",
+            "bounds_text": [
+                285.66666666666663,
+                1610.0,
+                397.66666666666663,
+                1652.6666666666667
+            ],
+            "text_updated": "Origin",
+            "font_size": 6.17565436770738,
+            "id": "1990_15"
+        },
+        {
+            "text": "Round trip",
+            "resource-id": "com.mo2o.vueling:id/searchFlight_radioButton_roundTrip",
+            "ancestors": [
+                "android.widget.RadioButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatRadioButton",
+            "bounds": [
+                725,
+                1400,
+                1405,
+                1546
+            ],
+            "componentLabel": "Radio Button",
+            "id": "1990_16"
+        },
+        {
+            "text": "Only outbound",
+            "resource-id": "com.mo2o.vueling:id/searchFlight_radioButton_oneWay",
+            "ancestors": [
+                "android.widget.RadioButton",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatRadioButton",
+            "bounds": [
+                35,
+                1400,
+                714,
+                1546
+            ],
+            "componentLabel": "Radio Button",
+            "id": "1990_17"
+        },
+        {
+            "resource-id": "com.mo2o.vueling:id/slide_inspirator_bullets_iv",
+            "ancestors": [
+                "android.widget.LinearLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.vueling.customComponent.PageIndicatorView",
+            "bounds": [
+                615,
+                1201,
+                825,
+                1271
+            ],
+            "componentLabel": "Pager Indicator",
+            "id": "1990_18"
+        },
+        {
+            "text": "Search",
+            "resource-id": "com.mo2o.vueling:id/searchFlight_button_continue",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                35,
+                2217,
+                1405,
+                2357
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "search",
+            "bg_color": "#E6B800",
+            "text_color": "#080000",
+            "bounds_text": [
+                624.3333333333333,
+                2267.6666666666665,
+                816.3333333333333,
+                2313.0
+            ],
+            "text_updated": "Search",
+            "font_size": 11.87049300956586,
+            "id": "1990_19"
+        },
+        {
+            "text": "Find your flight",
+            "resource-id": "com.mo2o.vueling:id/tv_searchflight_label",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                35,
+                1306,
+                1405,
+                1400
+            ],
+            "componentLabel": "Text",
+            "text_color": "#35342F",
+            "bounds_updated": [
+                37.666666666666664,
+                1324.6666666666667,
+                413.66666666666663,
+                1378.0
+            ],
+            "text_updated": "Find your flight",
+            "font_size": 10.565951184381511,
+            "id": "1990_20"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.mo2o.vueling:id/iv_background_image",
+            "clickable": false,
+            "class": "com.vueling.ui.customview.CropImageView",
+            "bounds": [
+                0,
+                280,
+                1440,
+                1271
+            ],
+            "componentLabel": "Image",
+            "id": "1990_21"
+        },
+        {
+            "text": "",
+            "resource-id": "com.mo2o.vueling:id/actionbar_menu_notifications",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1272,
+                98,
+                1440,
+                266
+            ],
+            "componentLabel": "Image",
+            "id": "1990_22"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                196,
+                129,
+                550,
+                234
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "1990_23"
+        },
+        {
+            "iconClass": "menu",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "1990_24"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1271,
+                1440,
+                2392
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "1990_25",
+            "ui_comp_ids": [
+                "1990_0",
+                "1990_1",
+                "1990_2",
+                "1990_4",
+                "1990_5",
+                "1990_6",
+                "1990_7",
+                "1990_8",
+                "1990_11",
+                "1990_12",
+                "1990_13",
+                "1990_14",
+                "1990_15",
+                "1990_16",
+                "1990_17",
+                "1990_19",
+                "1990_20"
+            ],
+            "ui_comp_group_ids": [
+                "1990_28",
+                "1990_29",
+                "1990_30",
+                "1990_31",
+                "1990_32",
+                "1990_33",
+                "1990_34",
+                "1990_36",
+                "1990_37"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                1271
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#AEC7E5",
+            "id": "1990_26",
+            "ui_comp_ids": [
+                "1990_9",
+                "1990_10",
+                "1990_18"
+            ],
+            "ui_comp_group_ids": [
+                "1990_35"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.ActionBarContainer",
+            "bg_color": "#F9FAF4",
+            "id": "1990_27",
+            "ui_comp_ids": [
+                "1990_22",
+                "1990_23",
+                "1990_24"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                2052,
+                1405,
+                2206
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "1990_28",
+            "ui_comp_ids": [
+                "1990_11",
+                "1990_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                1887,
+                1405,
+                2041
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "1990_29",
+            "ui_comp_ids": [
+                "1990_0",
+                "1990_1",
+                "1990_2",
+                "1990_4",
+                "1990_5",
+                "1990_6"
+            ],
+            "ui_comp_group_ids": [
+                "1990_33",
+                "1990_34",
+                "1990_36",
+                "1990_37"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                1722,
+                1405,
+                1876
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "1990_30",
+            "ui_comp_ids": [
+                "1990_7",
+                "1990_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                1557,
+                1405,
+                1711
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "1990_31",
+            "ui_comp_ids": [
+                "1990_13",
+                "1990_14",
+                "1990_15"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                1400,
+                1405,
+                1546
+            ],
+            "class": "android.widget.RadioGroup",
+            "bg_color": "#333333",
+            "id": "1990_32",
+            "ui_comp_ids": [
+                "1990_16",
+                "1990_17"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                1887,
+                1166,
+                2041
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "1990_33",
+            "ui_comp_ids": [
+                "1990_0",
+                "1990_1",
+                "1990_2",
+                "1990_4"
+            ],
+            "ui_comp_group_ids": [
+                "1990_34",
+                "1990_37"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                1887,
+                1166,
+                2035
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "1990_34",
+            "ui_comp_ids": [
+                "1990_0",
+                "1990_1",
+                "1990_2",
+                "1990_4"
+            ],
+            "ui_comp_group_ids": [
+                "1990_37"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                972,
+                997,
+                1387,
+                1218
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFCC00",
+            "id": "1990_35",
+            "ui_comp_ids": [
+                "1990_9",
+                "1990_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                1177,
+                1887,
+                1405,
+                2041
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "1990_36",
+            "ui_comp_ids": [
+                "1990_5",
+                "1990_6"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                795,
+                1922,
+                1131,
+                1999
+            ],
+            "class": "com.vueling.ui.customview.SelectorPasajeros",
+            "bg_color": "#FFFFFF",
+            "id": "1990_37",
+            "ui_comp_ids": [
+                "1990_0",
+                "1990_1",
+                "1990_2"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

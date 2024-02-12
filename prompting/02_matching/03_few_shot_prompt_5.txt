@@ -1,0 +1,358 @@
+You are given a user story in the context of a graphical user interface. In addition to the user story, you are also given a textual representation of a graphical user interface. The GUI is organized as a two-level bullet point list, the outer points representing layouting groups and the inner points the user interface features contained in that layouting group. Each feature is represented in the following abstract pattern: 'text' (ui component type) (semantic description of ui component) (id), the 'text' being the visual text of the component and the 'id' being a number identifying each component. Your task is to extract a list of ids belonging to all user interface components that are requried to fulfill the user story. Do not provide any explanation. As your output, write a python list of the ids. 
+
+user story: 'As a user i want to be able to read news about transfer of player so I know which player changed to which team' 
+
+graphical user interface description: - Toolbar
+	- "menu" (Icon) (id=55)
+	- "date range" (Icon) (home all matches) (id=54)
+	- "star" (Icon) (home favorites matches) (id=53)
+	- "more" (Icon) (id=52)
+	- "location crosshair" (Icon) (livescore) (id=51)
+- Layout
+	- (Pager Indicator) (indicator) (id=49)
+- List Item
+	- "news" (Button) (news) (id=47)
+	- "follow" (Icon) (image covers) (id=46)
+	- (Image) (image covers) (id=43)
+	- (Image) (id=42)
+	- (Image) (id=45)
+	- "Transfers" (Label) (id=44)
+	- "Covers" (Label) (id=41)
+- Layout
+	- "search" (Icon) (fab search) (id=48)
+- Card
+	- (Image) (news picture) (id=40)
+	- "Aguero stars as Manchester City sink Monaco in thriller" (Label) (news title) (id=39)
+- Layout
+	- "AdChoices" (Button) (native Ad Advice) (id=38)
+	- "SPONSORED" (Button) (native Ad Advice Tv) (id=37)
+	- "Install App" (Button) (native Ad Call To) (id=36)
+- Card
+	- "Spotify Music" (Button) (native Ad Title) (id=34)
+	- (Image) (native Ad) (id=35)
+	- "Instant access to millions of songs." (Button) (native Ad Body) (id=33)
+- List Item
+	- "more" (Icon) (competition actions iv) (id=21)
+	- "LA LIGA" (Label) (game List Header Txt) (id=22)
+	- "national flag" (Icon) (game List Header Flag) (id=23)
+	- "In 11 hours" (Label) (game) (id=32)
+	- "beIN LaLiga" (Label) (channel tv) (id=31)
+	- "22" (Label) (num comments) (id=29)
+	- (Image) (comments bg) (id=30)
+	- "Valencia" (Label) (local name) (id=28)
+	- (Image) (local shield) (id=25)
+	- (Image) (visitor shield) (id=24)
+	- "Real Madrid" (Label) (visitor name) (id=27)
+	- "5:45PM" (Label) (score or date tv) (id=26)
+- List Item
+	- "more" (Icon) (competition actions iv) (id=9)
+	- "UCL" (Label) (game List Header Txt) (id=10)
+	- "emoji" (Icon) (game List Header Flag) (id=11)
+	- "In 13 hours" (Label) (game) (id=20)
+	- "beIN Sports" (Label) (channel tv) (id=19)
+	- "12" (Label) (num comments) (id=17)
+	- (Image) (comments bg) (id=18)
+	- "Sevilla" (Label) (local name) (id=16)
+	- (Image) (local shield) (id=13)
+	- (Image) (visitor shield) (id=12)
+	- "Leicester" (Label) (visitor name) (id=15)
+	- "7:45PM" (Label) (score or date tv) (id=14)
+- List Item
+	- "In 13 hours" (Label) (game) (id=8)
+	- "beIN Sports, beIN MAX 1" (Label) (channel tv) (id=7)
+	- "4" (Label) (num comments) (id=5)
+	- (Image) (comments bg) (id=6)
+	- "Porto" (Label) (local name) (id=4)
+	- "avatar" (Icon) (local shield) (id=1)
+	- (Image) (visitor shield) (id=0)
+	- "Juventus" (Label) (visitor name) (id=3)
+	- "7:45PM" (Label) (score or date tv) (id=2)
+- Layout
+	- (Advertisement) (ad Generic) (id=50)
+ 
+
+output:[45, 46, 44]
+
+user story: 'AS a enduser, i want to have a dispaly option at where i can see the total value of my current portfolio so that i have a complete overview over my finacial situation.' 
+
+graphical user interface description: - Toolbar
+	- (Image) (chart) (id=60)
+	- (Image) (news) (id=59)
+	- "add" (Icon) (new) (id=58)
+	- "more" (Icon) (id=57)
+	- "Blockfolio" (Label) (title) (id=61)
+- Layout
+	- (Image) (change Fiat) (id=46)
+	- (Image) (change Type) (id=45)
+- Layout
+	- "Total Portfolio Value" (Label) (total Portfolio Value) (id=54)
+	- (Image) (change 1) (id=48)
+	- (Image) (change Fiat) (id=52)
+- Layout
+	- "24hr Change" (Label) (twenty Four Hour String) (id=56)
+	- (Image) (change 2) (id=47)
+	- (Image) (change Type) (id=53)
+- Layout
+	- ".0" (Label) (total Value) (id=51)
+	- "$" (Label) (currency Symbol) (id=50)
+- Layout
+	- "+$.0" (Label) (twenty Four Hour Value) (id=49)
+	- (Image) (totalarrow) (id=55)
+- Layout
+	- (Image) (coin) (id=41)
+	- (Image) (holdings) (id=40)
+	- (Image) (price) (id=39)
+- Layout
+	- (Image) (place Holder) (id=44)
+	- "Price" (Label) (price TV) (id=43)
+- Layout
+	- "Coin" (Label) (coin TV) (id=38)
+	- "Holdings" (Label) (holdings TV) (id=37)
+	- "Price" (Label) (price TV) (id=43)
+	- "Alert" (Label) (alert TV) (id=42)
+- List Item
+	- (Image) (alert) (id=30)
+	- "$1,790.10" (Label) (coin Price) (id=33)
+	- "notifications" (Icon) (alert) (id=31)
+	- (Image) () (id=36)
+	- "arrow upward" (Icon) (arrow) (id=32)
+	- "BTC" (Label) (coin Name) (id=35)
+	- "+7.10" (Label) (price Change TV) (id=34)
+- List Item
+	- (Image) (alert) (id=23)
+	- "$88.67" (Label) (coin Price) (id=26)
+	- "notifications" (Icon) (alert) (id=24)
+	- (Image) () (id=29)
+	- "arrow downward" (Icon) (arrow) (id=25)
+	- "ETH" (Label) (coin Name) (id=28)
+	- "-2.27" (Label) (price Change TV) (id=27)
+- List Item
+	- (Image) (alert) (id=16)
+	- "notifications" (Icon) (alert) (id=17)
+	- (Image) () (id=22)
+	- "$.31931818" (Label) (coin Price) (id=19)
+	- "arrow upward" (Icon) (arrow) (id=18)
+	- "XRP" (Label) (coin Name) (id=21)
+	- "+.07668056" (Label) (price Change TV) (id=20)
+- List Item
+	- (Image) (alert) (id=9)
+	- "$23.72" (Label) (coin Price) (id=12)
+	- "notifications" (Icon) (alert) (id=10)
+	- (Image) () (id=15)
+	- "arrow downward" (Icon) (arrow) (id=11)
+	- "LTC" (Label) (coin Name) (id=14)
+	- "-2.58" (Label) (price Change TV) (id=13)
+- List Item
+	- (Image) (alert) (id=2)
+	- "$26.83" (Label) (coin Price) (id=5)
+	- "avatar" (Icon) (alert) (id=3)
+	- "email" (Icon) () (id=8)
+	- "arrow downward" (Icon) (arrow) (id=4)
+	- "XMR" (Label) (coin Name) (id=7)
+	- "-.76280375" (Label) (price Change TV) (id=6)
+- List Item
+	- "add" (Icon) (add coin) (id=1)
+	- "add coin" (Label) (add info tv) (id=0)
+ 
+
+output:[51, 50, 54]
+
+user story: 'As a user I want to search for games or clubs to find the clubs of my choice quickly' 
+
+graphical user interface description: - Toolbar
+	- "menu" (Icon) (id=55)
+	- "date range" (Icon) (home all matches) (id=54)
+	- "star" (Icon) (home favorites matches) (id=53)
+	- "more" (Icon) (id=52)
+	- "location crosshair" (Icon) (livescore) (id=51)
+- Layout
+	- (Pager Indicator) (indicator) (id=49)
+- List Item
+	- "news" (Button) (news) (id=47)
+	- "follow" (Icon) (image covers) (id=46)
+	- (Image) (image covers) (id=43)
+	- (Image) (id=42)
+	- (Image) (id=45)
+	- "Transfers" (Label) (id=44)
+	- "Covers" (Label) (id=41)
+- Layout
+	- "search" (Icon) (fab search) (id=48)
+- Card
+	- (Image) (news picture) (id=40)
+	- "Aguero stars as Manchester City sink Monaco in thriller" (Label) (news title) (id=39)
+- Layout
+	- "AdChoices" (Button) (native Ad Advice) (id=38)
+	- "SPONSORED" (Button) (native Ad Advice Tv) (id=37)
+	- "Install App" (Button) (native Ad Call To) (id=36)
+- Card
+	- "Spotify Music" (Button) (native Ad Title) (id=34)
+	- (Image) (native Ad) (id=35)
+	- "Instant access to millions of songs." (Button) (native Ad Body) (id=33)
+- List Item
+	- "more" (Icon) (competition actions iv) (id=21)
+	- "LA LIGA" (Label) (game List Header Txt) (id=22)
+	- "national flag" (Icon) (game List Header Flag) (id=23)
+	- "In 11 hours" (Label) (game) (id=32)
+	- "beIN LaLiga" (Label) (channel tv) (id=31)
+	- "22" (Label) (num comments) (id=29)
+	- (Image) (comments bg) (id=30)
+	- "Valencia" (Label) (local name) (id=28)
+	- (Image) (local shield) (id=25)
+	- (Image) (visitor shield) (id=24)
+	- "Real Madrid" (Label) (visitor name) (id=27)
+	- "5:45PM" (Label) (score or date tv) (id=26)
+- List Item
+	- "more" (Icon) (competition actions iv) (id=9)
+	- "UCL" (Label) (game List Header Txt) (id=10)
+	- "emoji" (Icon) (game List Header Flag) (id=11)
+	- "In 13 hours" (Label) (game) (id=20)
+	- "beIN Sports" (Label) (channel tv) (id=19)
+	- "12" (Label) (num comments) (id=17)
+	- (Image) (comments bg) (id=18)
+	- "Sevilla" (Label) (local name) (id=16)
+	- (Image) (local shield) (id=13)
+	- (Image) (visitor shield) (id=12)
+	- "Leicester" (Label) (visitor name) (id=15)
+	- "7:45PM" (Label) (score or date tv) (id=14)
+- List Item
+	- "In 13 hours" (Label) (game) (id=8)
+	- "beIN Sports, beIN MAX 1" (Label) (channel tv) (id=7)
+	- "4" (Label) (num comments) (id=5)
+	- (Image) (comments bg) (id=6)
+	- "Porto" (Label) (local name) (id=4)
+	- "avatar" (Icon) (local shield) (id=1)
+	- (Image) (visitor shield) (id=0)
+	- "Juventus" (Label) (visitor name) (id=3)
+	- "7:45PM" (Label) (score or date tv) (id=2)
+- Layout
+	- (Advertisement) (ad Generic) (id=50)
+ 
+
+output:[48]
+
+user story: 'As a user I want to add ingredients to a shopping list so that it is easier for me to go shopping and buy everything I need for the cooking.' 
+
+graphical user interface description: - Toolbar
+	- "arrow backward" (Icon) (id=17)
+	- (Image) (search) (id=16)
+	- "Chicken Quinoa Veggie Power Bowl" (Label) (id=18)
+- List Item
+	- (Image) (mainimg) (id=15)
+	- (Image) (transparent) (id=14)
+	- "Chicken Quinoa Veggie Power Bowl" (Label) (maintitle) (id=12)
+	- "favorite" (Icon) (imagefav1sd) (id=11)
+	- "45 minutes" (Label) (timetext) (id=13)
+- List Item
+	- "date range" (Icon) (mealplanner) (id=9)
+	- "Schedule a meal plan" (Label) (mealplanner) (id=10)
+- Layout
+	- (Image) (fab) (id=21)
+- List Item
+	- "Ingredients required" (Label) (subtitle) (id=8)
+	- (Image) (add all img) (id=6)
+	- "Add all" (Label) (add all txt) (id=7)
+- List Item
+	- (Image) (image Plus) (id=4)
+	- "1 lb. fresh chicken tenderloin (cut into cubes)" (Label) (ingretext POP) (id=5)
+- List Item
+	- (Image) (image Plus) (id=2)
+	- "3 cups fresh spinach" (Label) (ingretext POP) (id=3)
+- Layout
+	- "all" (Button) (snackbar) (id=19)
+	- "You can now save your favourites offline" (Label) (snackbar) (id=20)
+- List Item
+	- (Image) (image Plus) (id=0)
+	- "1 15.5 oz Beans rinsed" (Label) (ingretext POP) (id=1)
+ 
+
+output:[4, 2]
+
+user story: 'AS a enduser, i want to have an add coin button, to add new coins to my portfolio.' 
+
+graphical user interface description: - Toolbar
+	- (Image) (chart) (id=60)
+	- (Image) (news) (id=59)
+	- "add" (Icon) (new) (id=58)
+	- "more" (Icon) (id=57)
+	- "Blockfolio" (Label) (title) (id=61)
+- Layout
+	- (Image) (change Fiat) (id=46)
+	- (Image) (change Type) (id=45)
+- Layout
+	- "Total Portfolio Value" (Label) (total Portfolio Value) (id=54)
+	- (Image) (change 1) (id=48)
+	- (Image) (change Fiat) (id=52)
+- Layout
+	- "24hr Change" (Label) (twenty Four Hour String) (id=56)
+	- (Image) (change 2) (id=47)
+	- (Image) (change Type) (id=53)
+- Layout
+	- ".0" (Label) (total Value) (id=51)
+	- "$" (Label) (currency Symbol) (id=50)
+- Layout
+	- "+$.0" (Label) (twenty Four Hour Value) (id=49)
+	- (Image) (totalarrow) (id=55)
+- Layout
+	- (Image) (coin) (id=41)
+	- (Image) (holdings) (id=40)
+	- (Image) (price) (id=39)
+- Layout
+	- (Image) (place Holder) (id=44)
+	- "Price" (Label) (price TV) (id=43)
+- Layout
+	- "Coin" (Label) (coin TV) (id=38)
+	- "Holdings" (Label) (holdings TV) (id=37)
+	- "Price" (Label) (price TV) (id=43)
+	- "Alert" (Label) (alert TV) (id=42)
+- List Item
+	- (Image) (alert) (id=30)
+	- "$1,790.10" (Label) (coin Price) (id=33)
+	- "notifications" (Icon) (alert) (id=31)
+	- (Image) () (id=36)
+	- "arrow upward" (Icon) (arrow) (id=32)
+	- "BTC" (Label) (coin Name) (id=35)
+	- "+7.10" (Label) (price Change TV) (id=34)
+- List Item
+	- (Image) (alert) (id=23)
+	- "$88.67" (Label) (coin Price) (id=26)
+	- "notifications" (Icon) (alert) (id=24)
+	- (Image) () (id=29)
+	- "arrow downward" (Icon) (arrow) (id=25)
+	- "ETH" (Label) (coin Name) (id=28)
+	- "-2.27" (Label) (price Change TV) (id=27)
+- List Item
+	- (Image) (alert) (id=16)
+	- "notifications" (Icon) (alert) (id=17)
+	- (Image) () (id=22)
+	- "$.31931818" (Label) (coin Price) (id=19)
+	- "arrow upward" (Icon) (arrow) (id=18)
+	- "XRP" (Label) (coin Name) (id=21)
+	- "+.07668056" (Label) (price Change TV) (id=20)
+- List Item
+	- (Image) (alert) (id=9)
+	- "$23.72" (Label) (coin Price) (id=12)
+	- "notifications" (Icon) (alert) (id=10)
+	- (Image) () (id=15)
+	- "arrow downward" (Icon) (arrow) (id=11)
+	- "LTC" (Label) (coin Name) (id=14)
+	- "-2.58" (Label) (price Change TV) (id=13)
+- List Item
+	- (Image) (alert) (id=2)
+	- "$26.83" (Label) (coin Price) (id=5)
+	- "avatar" (Icon) (alert) (id=3)
+	- "email" (Icon) () (id=8)
+	- "arrow downward" (Icon) (arrow) (id=4)
+	- "XMR" (Label) (coin Name) (id=7)
+	- "-.76280375" (Label) (price Change TV) (id=6)
+- List Item
+	- "add" (Icon) (add coin) (id=1)
+	- "add coin" (Label) (add info tv) (id=0)
+ 
+
+output:[1, 0] 
+
+user story: 'PLACEHOLDER_US' 
+
+graphical user interface description: PLACEHOLDER_GUI 
+
+output:

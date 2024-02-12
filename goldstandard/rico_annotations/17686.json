@@ -1,0 +1,608 @@
+{
+    "bg_color": "#FAFAFA",
+    "ui_comps": [
+        {
+            "text": "Asthma attack",
+            "resource-id": "com.cube.arc.fa:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.cube.storm.ui.view.TextView",
+            "bounds": [
+                252,
+                2311,
+                613,
+                2387
+            ],
+            "componentLabel": "Text",
+            "text_color": "#232323",
+            "bounds_updated": [
+                253.33333333333334,
+                2331.0,
+                613.3333333333333,
+                2372.3333333333335
+            ],
+            "text_updated": "Asthma attack",
+            "font_size": 10.777532499386803,
+            "id": "17686_0"
+        },
+        {
+            "iconClass": "avatar",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.cube.arc.fa:id/image",
+            "clickable": false,
+            "class": "com.cube.storm.ui.view.ImageView",
+            "bounds": [
+                56,
+                2279,
+                196,
+                2392
+            ],
+            "componentLabel": "Icon",
+            "id": "17686_1"
+        },
+        {
+            "text": "Allergies / anaphylaxis",
+            "resource-id": "com.cube.arc.fa:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.cube.storm.ui.view.TextView",
+            "bounds": [
+                252,
+                2041,
+                815,
+                2117
+            ],
+            "componentLabel": "Text",
+            "text_color": "#212121",
+            "bounds_updated": [
+                253.33333333333334,
+                2061.0,
+                812.0,
+                2113.0
+            ],
+            "text_updated": "Allergies / anaphylaxis",
+            "font_size": 10.808773682637844,
+            "id": "17686_2"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.cube.arc.fa:id/image",
+            "clickable": false,
+            "class": "com.cube.storm.ui.view.ImageView",
+            "bounds": [
+                56,
+                2009,
+                196,
+                2149
+            ],
+            "componentLabel": "Image",
+            "id": "17686_3"
+        },
+        {
+            "text": "Learn first aid for...",
+            "resource-id": "com.cube.arc.fa:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.cube.storm.ui.view.TextView",
+            "bounds": [
+                56,
+                1845,
+                1384,
+                1911
+            ],
+            "componentLabel": "Text",
+            "text_color": "#616161",
+            "bounds_updated": [
+                58.666666666666664,
+                1861.0,
+                466.66666666666663,
+                1897.0
+            ],
+            "text_updated": "Learn first aid for...",
+            "font_size": 9.461686072515828,
+            "id": "17686_4"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.cube.arc.fa:id/image_view",
+            "clickable": false,
+            "class": "com.cube.storm.ui.view.ImageView",
+            "bounds": [
+                0,
+                1117,
+                1440,
+                1789
+            ],
+            "componentLabel": "Image",
+            "id": "17686_5"
+        },
+        {
+            "text": "Dismiss",
+            "resource-id": "com.cube.arc.fa:id/action_close",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                627,
+                893,
+                935,
+                1061
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "close",
+            "bg_color": "#FAFAFA",
+            "text_color": "#D41826",
+            "bounds_text": [
+                691.0,
+                961.0,
+                873.6666666666666,
+                997.0
+            ],
+            "text_updated": "DISMISS",
+            "font_size": 9.856795154808404,
+            "id": "17686_6"
+        },
+        {
+            "text": "Take me there now",
+            "resource-id": "com.cube.arc.fa:id/action",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                56,
+                893,
+                627,
+                1061
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FAFAFA",
+            "text_color": "#C71C2F",
+            "bounds_text": [
+                98.66666666666666,
+                961.0,
+                584.0,
+                997.0
+            ],
+            "text_updated": "TAKE ME THERE NOW",
+            "font_size": 9.990219145643882,
+            "id": "17686_7"
+        },
+        {
+            "text": "In case of an emergency, go to the emergency tab",
+            "resource-id": "com.cube.arc.fa:id/description",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                98,
+                672,
+                810,
+                801
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                98,
+                689.3333333333334,
+                743.3333333333333,
+                797.3333333333334
+            ],
+            "text_updated": "In case of an emergency, go to\nthe emergency tab",
+            "font_size": 9.084541186805167,
+            "id": "17686_8"
+        },
+        {
+            "text": "Emergency section",
+            "resource-id": "com.cube.arc.fa:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                98,
+                532,
+                810,
+                644
+            ],
+            "componentLabel": "Text",
+            "text_color": "#505050",
+            "bounds_updated": [
+                104.66666666666667,
+                561.3333333333334,
+                802.0,
+                638.6666666666666
+            ],
+            "text_updated": "Emergency section",
+            "font_size": 13.80633408603579,
+            "id": "17686_9"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.cube.arc.fa:id/action_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                810,
+                532,
+                1342,
+                865
+            ],
+            "componentLabel": "Image",
+            "id": "17686_10"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Hospital",
+            "bounds": [
+                1401,
+                280,
+                1440,
+                448
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "componentLabel": "Text",
+            "text_color": "#A81B23",
+            "bounds_updated": [
+                1401,
+                280,
+                1440,
+                448
+            ],
+            "text_updated": "Hospital",
+            "font_size": 12,
+            "id": "17686_11"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Quizzes",
+            "bounds": [
+                1064,
+                280,
+                1401,
+                448
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "componentLabel": "Text Button",
+            "bg_color": "#E90C1D",
+            "text_color": "#FFF5FF",
+            "bounds_text": [
+                1149.3333333333333,
+                349.3333333333333,
+                1316.0,
+                385.3333333333333
+            ],
+            "text_updated": "QUIZZES",
+            "font_size": 8.099738712420633,
+            "id": "17686_12"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Emergency",
+            "bounds": [
+                648,
+                280,
+                1064,
+                448
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "componentLabel": "Text Button",
+            "bg_color": "#E90C1D",
+            "text_color": "#FFFAFF",
+            "bounds_text": [
+                734.6666666666666,
+                349.3333333333333,
+                980.0,
+                381.3333333333333
+            ],
+            "text_updated": "EMERGENCY",
+            "font_size": 8.571223460578976,
+            "id": "17686_13"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Prepare",
+            "bounds": [
+                300,
+                280,
+                648,
+                448
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "componentLabel": "Text Button",
+            "bg_color": "#E90C1D",
+            "text_color": "#FFFDFF",
+            "bounds_text": [
+                386.66666666666663,
+                349.3333333333333,
+                562.6666666666666,
+                380.0
+            ],
+            "text_updated": "PREPARE",
+            "font_size": 8.601244230383296,
+            "id": "17686_14"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Learn",
+            "bounds": [
+                0,
+                280,
+                300,
+                448
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "componentLabel": "Text Button",
+            "bg_color": "#E90C1D",
+            "text_color": "#EBE5E9",
+            "bounds_text": [
+                86.66666666666666,
+                349.3333333333333,
+                213.33333333333331,
+                380.0
+            ],
+            "text_updated": "LEARN",
+            "font_size": 8.282259419559324,
+            "id": "17686_15"
+        },
+        {
+            "iconClass": "more",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatImageView",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1300,
+                98,
+                1440,
+                266
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton",
+            "componentLabel": "Icon",
+            "id": "17686_16"
+        },
+        {
+            "text": "Learn",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                56,
+                135,
+                234,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#EEFBFF",
+            "bounds_updated": [
+                61.333333333333336,
+                159.0,
+                229.33333333333331,
+                209.66666666666666
+            ],
+            "text_updated": "Learn",
+            "font_size": 12.45944146606399,
+            "id": "17686_17"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1117,
+                1440,
+                1789
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#857A76",
+            "id": "17686_18",
+            "ui_comp_ids": [
+                "17686_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Card",
+            "bounds": [
+                28,
+                476,
+                1412,
+                1089
+            ],
+            "class": "android.support.v7.widget.CardView",
+            "bg_color": "#FAFAFA",
+            "id": "17686_19",
+            "ui_comp_ids": [
+                "17686_6",
+                "17686_7",
+                "17686_8",
+                "17686_9",
+                "17686_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                84,
+                1440,
+                448
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#E90C1D",
+            "id": "17686_20",
+            "ui_comp_ids": [
+                "17686_11",
+                "17686_12",
+                "17686_13",
+                "17686_14",
+                "17686_15",
+                "17686_16",
+                "17686_17"
+            ],
+            "ui_comp_group_ids": [
+                "17686_22",
+                "17686_24"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1953,
+                1440,
+                2219
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "17686_21",
+            "ui_comp_ids": [
+                "17686_2",
+                "17686_3"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#E90C1D",
+            "id": "17686_22",
+            "ui_comp_ids": [
+                "17686_16",
+                "17686_17"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                2223,
+                1440,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "17686_23",
+            "ui_comp_ids": [
+                "17686_0",
+                "17686_1"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Multi-Tab",
+            "bounds": [
+                0,
+                280,
+                1440,
+                448
+            ],
+            "class": "com.cube.storm.ui.view.PagerSlidingTabStrip",
+            "bg_color": "#E90C1D",
+            "id": "17686_24",
+            "ui_comp_ids": [
+                "17686_11",
+                "17686_12",
+                "17686_13",
+                "17686_14",
+                "17686_15"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1789,
+                1440,
+                1953
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FAFAFA",
+            "id": "17686_25",
+            "ui_comp_ids": [
+                "17686_4"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

@@ -1,0 +1,1033 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.pri.android:id/feedItemFavoriteButton",
+            "clickable": true,
+            "class": "com.jacapps.view.ColorableImageButton",
+            "bounds": [
+                936,
+                1490,
+                1048,
+                1511
+            ],
+            "componentLabel": "Image",
+            "id": "25008_0"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.pri.android:id/feedItemDownloadButton",
+            "clickable": true,
+            "class": "com.jacapps.view.ColorableImageButton",
+            "bounds": [
+                1104,
+                1490,
+                1216,
+                1511
+            ],
+            "componentLabel": "Image",
+            "id": "25008_1"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.pri.android:id/feedItemShareButton",
+            "clickable": true,
+            "class": "com.jacapps.view.ColorableImageButton",
+            "bounds": [
+                1272,
+                1490,
+                1384,
+                1511
+            ],
+            "componentLabel": "Image",
+            "id": "25008_2"
+        },
+        {
+            "text": "06 Apr 2017",
+            "resource-id": "org.pri.android:id/feedItemDate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1490,
+                908,
+                1511
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                56,
+                1490,
+                908,
+                1511
+            ],
+            "text_updated": "06 Apr 2017",
+            "font_size": 12,
+            "id": "25008_3"
+        },
+        {
+            "text": "The U.S. Attacks Syria, Police Reform Under Trump, The Value of Libraries",
+            "resource-id": "org.pri.android:id/feedItemTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1315,
+                1384,
+                1372
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                57.333333333333336,
+                1328.3333333333333,
+                1380.0,
+                1367.0
+            ],
+            "text_updated": "The U.S. Attacks Syria, Police Reform Under Trump, The Value of Lib...",
+            "font_size": 8.064675629061208,
+            "id": "25008_4"
+        },
+        {
+            "iconClass": "star",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.pri.android:id/feedItemFavoriteButton",
+            "clickable": true,
+            "class": "com.jacapps.view.ColorableImageButton",
+            "bounds": [
+                936,
+                1169,
+                1048,
+                1281
+            ],
+            "componentLabel": "Icon",
+            "id": "25008_5"
+        },
+        {
+            "iconClass": "file_download",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.pri.android:id/feedItemDownloadButton",
+            "clickable": true,
+            "class": "com.jacapps.view.ColorableImageButton",
+            "bounds": [
+                1104,
+                1169,
+                1216,
+                1281
+            ],
+            "componentLabel": "Icon",
+            "id": "25008_6"
+        },
+        {
+            "iconClass": "share",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.pri.android:id/feedItemShareButton",
+            "clickable": true,
+            "class": "com.jacapps.view.ColorableImageButton",
+            "bounds": [
+                1272,
+                1169,
+                1384,
+                1281
+            ],
+            "componentLabel": "Icon",
+            "id": "25008_7"
+        },
+        {
+            "text": "09 Apr 2017",
+            "resource-id": "org.pri.android:id/feedItemDate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1169,
+                908,
+                1226
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                58.666666666666664,
+                1183.6666666666667,
+                282.66666666666663,
+                1222.3333333333333
+            ],
+            "text_updated": "09 Apr 2017",
+            "font_size": 7.532849784505418,
+            "id": "25008_8"
+        },
+        {
+            "text": "Coming up on today's show: From ISIS to Syria and Egypt, where does U.S. foreign policy in the Middle East go under the\u00a0Trump Administration? Is a hands off approach the only way to avoid further destabilizing the region? Former U.S. Ambassador Alberto F",
+            "resource-id": "org.pri.android:id/feedItemSubtitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1051,
+                1384,
+                1155
+            ],
+            "componentLabel": "Text",
+            "id": "25008_9"
+        },
+        {
+            "text": "Trump's Mid East Strategy, A Quest for Identity, Beyond Standing Rock",
+            "resource-id": "org.pri.android:id/feedItemTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                994,
+                1379,
+                1051
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                57.333333333333336,
+                1008.6666666666666,
+                1378.6666666666665,
+                1047.3333333333333
+            ],
+            "text_updated": "Trump's Mid East Strategy, A Quest for Identity, Beyond Standing Rock",
+            "font_size": 7.843401352131946,
+            "id": "25008_10"
+        },
+        {
+            "iconClass": "star",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.pri.android:id/feedItemFavoriteButton",
+            "clickable": true,
+            "class": "com.jacapps.view.ColorableImageButton",
+            "bounds": [
+                936,
+                848,
+                1048,
+                960
+            ],
+            "componentLabel": "Icon",
+            "id": "25008_11"
+        },
+        {
+            "iconClass": "file_download",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.pri.android:id/feedItemDownloadButton",
+            "clickable": true,
+            "class": "com.jacapps.view.ColorableImageButton",
+            "bounds": [
+                1104,
+                848,
+                1216,
+                960
+            ],
+            "componentLabel": "Icon",
+            "id": "25008_12"
+        },
+        {
+            "iconClass": "share",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.pri.android:id/feedItemShareButton",
+            "clickable": true,
+            "class": "com.jacapps.view.ColorableImageButton",
+            "bounds": [
+                1272,
+                848,
+                1384,
+                960
+            ],
+            "componentLabel": "Icon",
+            "id": "25008_13"
+        },
+        {
+            "text": "10 Apr 2017",
+            "resource-id": "org.pri.android:id/feedItemDate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                848,
+                908,
+                905
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                60.0,
+                862.6666666666666,
+                282.66666666666663,
+                901.3333333333334
+            ],
+            "text_updated": "10 Apr 2017",
+            "font_size": 7.420533115897358,
+            "id": "25008_14"
+        },
+        {
+            "text": "Coming up on today's show: Student loan companies like Navient are being accused of using predatory lending practices. Now, the attorneys general in Illinois and Washington and the Consumer Financial Protection Bureau are fighting for bad loans to be for",
+            "resource-id": "org.pri.android:id/feedItemSubtitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                730,
+                1384,
+                834
+            ],
+            "componentLabel": "Text",
+            "id": "25008_15"
+        },
+        {
+            "text": "Predatory Lending, An Alabama Shake Up, Enduring Police Reforms",
+            "resource-id": "org.pri.android:id/feedItemTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                673,
+                1333,
+                730
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                58.666666666666664,
+                687.6666666666666,
+                1330.6666666666665,
+                726.3333333333334
+            ],
+            "text_updated": "Predatory Lending, An Alabama Shake Up, Enduring Police Reforms",
+            "font_size": 8.01190294380348,
+            "id": "25008_16"
+        },
+        {
+            "text": "Comment Via Email",
+            "resource-id": "org.pri.android:id/buttonItemText",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1989,
+                1384,
+                2217
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                448.0,
+                2081.0,
+                992.0,
+                2127.6666666666665
+            ],
+            "text_updated": "Comment Via Email",
+            "font_size": 11.758646063281825,
+            "id": "25008_17"
+        },
+        {
+            "text": "Voice Memo",
+            "resource-id": "org.pri.android:id/buttonItemText",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1757,
+                1384,
+                1985
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                546.6666666666666,
+                1850.3333333333333,
+                893.3333333333333,
+                1895.6666666666667
+            ],
+            "text_updated": "Voice Memo",
+            "font_size": 12.142043755685764,
+            "id": "25008_18"
+        },
+        {
+            "text": "The Takeaway Social Feed",
+            "resource-id": "org.pri.android:id/buttonItemText",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1525,
+                1384,
+                1753
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                352.0,
+                1618.3333333333333,
+                1084.0,
+                1677.0
+            ],
+            "text_updated": "The Takeaway Social Feed",
+            "font_size": 11.925917884011467,
+            "id": "25008_19"
+        },
+        {
+            "text": "Downloads",
+            "resource-id": "org.pri.android:id/rssFeedButton3",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                941,
+                533,
+                1384,
+                645
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                1015.6666666666666,
+                573.0,
+                1309.0,
+                609.0
+            ],
+            "text_updated": "DOWNLOADS",
+            "font_size": 9.78040075485676,
+            "id": "25008_20"
+        },
+        {
+            "text": "Favorites",
+            "resource-id": "org.pri.android:id/rssFeedButton2",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                498,
+                533,
+                941,
+                645
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "favorites",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                498,
+                533.0,
+                940.6666666666666,
+                645
+            ],
+            "text_updated": "FAVORITES",
+            "font_size": 14.49155787293692,
+            "id": "25008_21"
+        },
+        {
+            "text": "All",
+            "resource-id": "org.pri.android:id/rssFeedAllButton",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                56,
+                533,
+                498,
+                645
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "all",
+            "bg_color": "#000000",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                234.66666666666666,
+                573.0,
+                320.0,
+                607.6666666666666
+            ],
+            "text_updated": "ALL",
+            "font_size": 10.581309786607823,
+            "id": "25008_22"
+        },
+        {
+            "text": "The Takeaway Latest Episodes",
+            "resource-id": "org.pri.android:id/rssFeedTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                289,
+                434,
+                1151,
+                519
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                290.3333333333333,
+                455.3333333333333,
+                1147.6666666666665,
+                514.0
+            ],
+            "text_updated": "The Takeaway Latest Episodes",
+            "font_size": 11.922126829821162,
+            "id": "25008_23"
+        },
+        {
+            "ancestors": [
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                160,
+                2217,
+                1280,
+                2392
+            ],
+            "clickable": true,
+            "class": "com.google.android.gms.ads.internal.webview.o",
+            "componentLabel": "Web View",
+            "id": "25008_24"
+        },
+        {
+            "text": "Live Stream",
+            "resource-id": "org.pri.android:id/audioPlayerTextView",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                211,
+                280,
+                1384,
+                420
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000005",
+            "bounds_updated": [
+                215.0,
+                334.6666666666667,
+                465.66666666666663,
+                369.3333333333333
+            ],
+            "text_updated": "Live Stream",
+            "font_size": 9.149668874172184,
+            "id": "25008_25"
+        },
+        {
+            "iconClass": "play",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "org.pri.android:id/audioPlayerPlayButton",
+            "clickable": true,
+            "class": "com.jacapps.view.ColorableImageButton",
+            "bounds": [
+                70,
+                294,
+                183,
+                406
+            ],
+            "componentLabel": "Icon",
+            "id": "25008_26"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                328,
+                84,
+                1112,
+                280
+            ],
+            "clickable": true,
+            "class": "com.android.volley.toolbox.NetworkImageView",
+            "componentLabel": "Image",
+            "id": "25008_27"
+        },
+        {
+            "iconClass": "menu",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "componentLabel": "Icon",
+            "id": "25008_28"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                420,
+                1440,
+                2217
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25008_29",
+            "ui_comp_ids": [
+                "25008_0",
+                "25008_1",
+                "25008_2",
+                "25008_3",
+                "25008_4",
+                "25008_5",
+                "25008_6",
+                "25008_7",
+                "25008_8",
+                "25008_9",
+                "25008_10",
+                "25008_11",
+                "25008_12",
+                "25008_13",
+                "25008_14",
+                "25008_15",
+                "25008_16",
+                "25008_17",
+                "25008_18",
+                "25008_19",
+                "25008_20",
+                "25008_21",
+                "25008_22",
+                "25008_23"
+            ],
+            "ui_comp_group_ids": [
+                "25008_30",
+                "25008_31",
+                "25008_32",
+                "25008_33",
+                "25008_34",
+                "25008_35",
+                "25008_36",
+                "25008_37",
+                "25008_38",
+                "25008_39",
+                "25008_42"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                420,
+                1440,
+                1511
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25008_30",
+            "ui_comp_ids": [
+                "25008_0",
+                "25008_1",
+                "25008_2",
+                "25008_3",
+                "25008_4",
+                "25008_5",
+                "25008_6",
+                "25008_7",
+                "25008_8",
+                "25008_9",
+                "25008_10",
+                "25008_11",
+                "25008_12",
+                "25008_13",
+                "25008_14",
+                "25008_15",
+                "25008_16",
+                "25008_20",
+                "25008_21",
+                "25008_22",
+                "25008_23"
+            ],
+            "ui_comp_group_ids": [
+                "25008_31",
+                "25008_34",
+                "25008_35",
+                "25008_39",
+                "25008_42"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                659,
+                1440,
+                1511
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25008_31",
+            "ui_comp_ids": [
+                "25008_0",
+                "25008_1",
+                "25008_2",
+                "25008_3",
+                "25008_4",
+                "25008_5",
+                "25008_6",
+                "25008_7",
+                "25008_8",
+                "25008_9",
+                "25008_10",
+                "25008_11",
+                "25008_12",
+                "25008_13",
+                "25008_14",
+                "25008_15",
+                "25008_16"
+            ],
+            "ui_comp_group_ids": [
+                "25008_34",
+                "25008_35",
+                "25008_39"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1511,
+                1440,
+                2217
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25008_32",
+            "ui_comp_ids": [
+                "25008_17",
+                "25008_18",
+                "25008_19"
+            ],
+            "ui_comp_group_ids": [
+                "25008_33",
+                "25008_36",
+                "25008_37",
+                "25008_38"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1525,
+                1440,
+                2217
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25008_33",
+            "ui_comp_ids": [
+                "25008_17",
+                "25008_18",
+                "25008_19"
+            ],
+            "ui_comp_group_ids": [
+                "25008_36",
+                "25008_37",
+                "25008_38"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                659,
+                1440,
+                976
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25008_34",
+            "ui_comp_ids": [
+                "25008_11",
+                "25008_12",
+                "25008_13",
+                "25008_14",
+                "25008_15",
+                "25008_16"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                980,
+                1440,
+                1297
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25008_35",
+            "ui_comp_ids": [
+                "25008_5",
+                "25008_6",
+                "25008_7",
+                "25008_8",
+                "25008_9",
+                "25008_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1525,
+                1440,
+                1753
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25008_36",
+            "ui_comp_ids": [
+                "25008_19"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1757,
+                1440,
+                1985
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25008_37",
+            "ui_comp_ids": [
+                "25008_18"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1989,
+                1440,
+                2217
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25008_38",
+            "ui_comp_ids": [
+                "25008_17"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1301,
+                1440,
+                1511
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25008_39",
+            "ui_comp_ids": [
+                "25008_0",
+                "25008_1",
+                "25008_2",
+                "25008_3",
+                "25008_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#FFFFFF",
+            "id": "25008_40",
+            "ui_comp_ids": [
+                "25008_27",
+                "25008_28"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                420
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#D5E2E8",
+            "id": "25008_41",
+            "ui_comp_ids": [
+                "25008_25",
+                "25008_26"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                533,
+                1440,
+                645
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "25008_42",
+            "ui_comp_ids": [
+                "25008_20",
+                "25008_21",
+                "25008_22"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

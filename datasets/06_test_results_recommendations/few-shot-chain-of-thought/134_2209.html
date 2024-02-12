@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{font-family:Arial,sans-serif;margin:0;padding:0;background-color:#f4f4f4;}
+.container{width:80%;margin:auto;overflow:hidden;}
+.location-info{background-color:white;margin:50px 0;padding:30px;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,0.1);}
+.location-info h2{margin-bottom:20px;color:#333;}
+.bookmark-btn{background:url('bookmark-icon.png') no-repeat;padding-left:20px;cursor:pointer;}
+.bookmark-btn.active{background:url('bookmark-icon-active.png') no-repeat;}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="location-info">
+    <h2>Place de la Concorde</h2>
+    <p>The Place de la Concorde is one of the major public squares in Paris, France. Measuring 8.64 hectares in area, it is the largest square in the French capital. It is located in the city's eighth arrondissement, at the eastern end of the Champs-Élysées.</p>
+    <button class="bookmark-btn">Bookmark</button>
+  </div>
+</div>
+</body>
+</html>
+
+In this implementation, we assume that the images 'bookmark-icon.png' and 'bookmark-icon-active.png' are present in the same directory as the HTML file. The 'Bookmark' button changes its look when the 'active' class is applied. This class can be applied using JavaScript when the button is clicked.

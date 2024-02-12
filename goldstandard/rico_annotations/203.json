@@ -1,0 +1,694 @@
+{
+    "bg_color": "#F4F4F4",
+    "ui_comps": [
+        {
+            "text": "Facebook",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                280,
+                2208,
+                553,
+                2293
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                285.3333333333333,
+                2230.6666666666665,
+                552.0,
+                2276.0
+            ],
+            "text_updated": "Facebook",
+            "font_size": 12.080539502222667,
+            "id": "203_0"
+        },
+        {
+            "iconClass": "facebook",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                84,
+                2167,
+                252,
+                2335
+            ],
+            "componentLabel": "Icon",
+            "id": "203_1"
+        },
+        {
+            "text": "Social Networks",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                56,
+                2025,
+                1384,
+                2137
+            ],
+            "componentLabel": "Text",
+            "text_color": "#333333",
+            "bounds_updated": [
+                85.33333333333333,
+                2063.6666666666665,
+                526.6666666666666,
+                2101.0
+            ],
+            "text_updated": "SOCIAL NETWORKS",
+            "font_size": 10.090085580467166,
+            "id": "203_2"
+        },
+        {
+            "text": "",
+            "resource-id": "android:id/checkbox",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.CheckBox",
+            "bounds": [
+                1209,
+                1813,
+                1321,
+                1925
+            ],
+            "componentLabel": "Checkbox",
+            "id": "203_3"
+        },
+        {
+            "text": "Submitting a report to Calorie Camp allows you to earn points and badges, and to leave comments on your own days.",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                1822,
+                1153,
+                2002
+            ],
+            "componentLabel": "Text",
+            "text_color": "#323232",
+            "bounds_updated": [
+                85.33333333333333,
+                1839.3333333333333,
+                1025.3333333333333,
+                1999.3333333333333
+            ],
+            "text_updated": "Submitting a report to Calorie Camp allows\nyou to earn points and badges, and to leave\ncomments on your own days.",
+            "font_size": 9.283734911464936,
+            "id": "203_4"
+        },
+        {
+            "text": "Redirect to Calorie Camp",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                1737,
+                778,
+                1822
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                89.33333333333333,
+                1758.3333333333333,
+                776.0,
+                1817.0
+            ],
+            "text_updated": "Redirect to Calorie Camp",
+            "font_size": 11.739794972971179,
+            "id": "203_5"
+        },
+        {
+            "text": "",
+            "resource-id": "android:id/checkbox",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.CheckBox",
+            "bounds": [
+                1209,
+                1476,
+                1321,
+                1588
+            ],
+            "componentLabel": "Checkbox",
+            "id": "203_6"
+        },
+        {
+            "text": "Making a day complete flags it as valid data point for our weekly and monthly analysis tool on the website (available on our website). Incomplete days are ignored.",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                1456,
+                1153,
+                1693
+            ],
+            "componentLabel": "Text",
+            "text_color": "#303030",
+            "bounds_updated": [
+                86.66666666666667,
+                1473.3333333333333,
+                1077.3333333333333,
+                1689.3333333333333
+            ],
+            "text_updated": "Making a day complete flags it as valid data\npoint for our weekly and monthly analysis tool\non the website (available on our website).\nIncomplete days are ignored.",
+            "font_size": 9.341007997659588,
+            "id": "203_7"
+        },
+        {
+            "text": "Show Complete Day",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                1371,
+                645,
+                1456
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                86.66666666666667,
+                1392.3333333333333,
+                644.0,
+                1452.3333333333333
+            ],
+            "text_updated": "Show Complete Day",
+            "font_size": 11.779745279709676,
+            "id": "203_8"
+        },
+        {
+            "text": "Foog Log Setting",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                56,
+                1236,
+                1384,
+                1348
+            ],
+            "componentLabel": "Text",
+            "text_color": "#333333",
+            "bounds_updated": [
+                86.66666666666666,
+                1276.0,
+                525.3333333333333,
+                1312.0
+            ],
+            "text_updated": "FOOG LOG SETTING",
+            "font_size": 9.830389154560587,
+            "id": "203_9"
+        },
+        {
+            "text": "We strongly encourage you to participate in Calorie Camp. But you also have option to change your home screen.",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                1033,
+                1321,
+                1213
+            ],
+            "componentLabel": "Text",
+            "text_color": "#323232",
+            "bounds_updated": [
+                85.33333333333333,
+                1049.0,
+                1241.3333333333333,
+                1199.6666666666667
+            ],
+            "text_updated": "We strongly encourage you to participate in Calorie\nCamp. But you also have option to change your home\nscreen.",
+            "font_size": 9.383604370198931,
+            "id": "203_10"
+        },
+        {
+            "text": "Default Home Screen",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                948,
+                677,
+                1033
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                89.33333333333333,
+                970.6666666666666,
+                673.3333333333333,
+                1016.0
+            ],
+            "text_updated": "Default Home Screen",
+            "font_size": 11.718326327779286,
+            "id": "203_11"
+        },
+        {
+            "text": "",
+            "resource-id": "android:id/checkbox",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.CheckBox",
+            "bounds": [
+                1209,
+                715,
+                1321,
+                827
+            ],
+            "componentLabel": "Checkbox",
+            "id": "203_12"
+        },
+        {
+            "text": "When there is a new version of Calorie Count on Google Play, a friendly reminder will pop up when you open the app.",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                724,
+                1153,
+                904
+            ],
+            "componentLabel": "Text",
+            "text_color": "#333333",
+            "bounds_updated": [
+                85.33333333333333,
+                741.3333333333334,
+                1141.3333333333333,
+                900.0
+            ],
+            "text_updated": "When there is a new version of Calorie Count on\nGoogle Play, a friendly reminder will pop up when\nyou open the app.",
+            "font_size": 9.283564118001204,
+            "id": "203_13"
+        },
+        {
+            "text": "Show Update Reminder",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                639,
+                738,
+                724
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                86.66666666666667,
+                660.3333333333334,
+                737.3333333333333,
+                719.0
+            ],
+            "text_updated": "Show Update Reminder",
+            "font_size": 11.818326704034892,
+            "id": "203_14"
+        },
+        {
+            "text": "",
+            "resource-id": "android:id/checkbox",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.CheckBox",
+            "bounds": [
+                1209,
+                435,
+                1321,
+                547
+            ],
+            "componentLabel": "Checkbox",
+            "id": "203_15"
+        },
+        {
+            "text": "Calorie Count displays a helpful Android notification that shows you the current day's stat.",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                472,
+                1153,
+                595
+            ],
+            "componentLabel": "Text",
+            "text_color": "#313131",
+            "bounds_updated": [
+                86.66666666666667,
+                488.0,
+                1148.0,
+                592.0
+            ],
+            "text_updated": "Calorie Count displays a helpful Android\nnotification that shows you the current day's stat.",
+            "font_size": 9.321936895551596,
+            "id": "203_16"
+        },
+        {
+            "text": "Show Notification",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                84,
+                387,
+                581,
+                472
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                86.66666666666667,
+                408.3333333333333,
+                577.3333333333333,
+                455.0
+            ],
+            "text_updated": "Show Notification",
+            "font_size": 11.943279247200156,
+            "id": "203_17"
+        },
+        {
+            "text": "Preferences",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                56,
+                252,
+                1384,
+                364
+            ],
+            "componentLabel": "Text",
+            "text_color": "#333333",
+            "bounds_updated": [
+                86.66666666666666,
+                292.0,
+                412.0,
+                328.0
+            ],
+            "text_updated": "PREFERENCES",
+            "font_size": 10.16238031392625,
+            "id": "203_18"
+        },
+        {
+            "text": "Preferences",
+            "resource-id": "android:id/action_bar_title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                169,
+                125,
+                502,
+                210
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                173.0,
+                146.33333333333334,
+                499.66666666666663,
+                193.0
+            ],
+            "text_updated": "Preferences",
+            "font_size": 11.83809820465246,
+            "id": "203_19"
+        },
+        {
+            "iconClass": "emoji",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/home",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                43,
+                112,
+                155,
+                224
+            ],
+            "componentLabel": "Icon",
+            "id": "203_20"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/up",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                0,
+                140,
+                56,
+                196
+            ],
+            "componentLabel": "Icon",
+            "id": "203_21"
+        },
+        {
+            "iconClass": "check",
+            "resource-id": "com.about.CalorieCount:id/menu_done",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.android.internal.view.menu.ActionMenuItemView",
+            "bounds": [
+                1244,
+                84,
+                1440,
+                252
+            ],
+            "componentLabel": "Icon",
+            "id": "203_22"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                1350,
+                1384,
+                1714
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F7F7F7",
+            "id": "203_23",
+            "ui_comp_ids": [
+                "203_6",
+                "203_7",
+                "203_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                618,
+                1384,
+                925
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F1F1F1",
+            "id": "203_24",
+            "ui_comp_ids": [
+                "203_12",
+                "203_13",
+                "203_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                927,
+                1384,
+                1234
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F4F4F4",
+            "id": "203_25",
+            "ui_comp_ids": [
+                "203_10",
+                "203_11"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                1716,
+                1384,
+                2023
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "203_26",
+            "ui_comp_ids": [
+                "203_3",
+                "203_4",
+                "203_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                366,
+                1384,
+                616
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "203_27",
+            "ui_comp_ids": [
+                "203_15",
+                "203_16",
+                "203_17"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                56,
+                2139,
+                1384,
+                2363
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "203_28",
+            "ui_comp_ids": [
+                "203_0",
+                "203_1"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "com.android.internal.widget.ActionBarContainer",
+            "bg_color": "#DDDDDD",
+            "id": "203_29",
+            "ui_comp_ids": [
+                "203_19",
+                "203_20",
+                "203_21",
+                "203_22"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

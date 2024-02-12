@@ -1,0 +1,881 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1338,
+                2169,
+                1422,
+                2253
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Icon",
+            "id": "6989_0"
+        },
+        {
+            "text": "Text to Speech Engine",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Des",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                2236,
+                466,
+                2298
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BBBBBB",
+            "bounds_updated": [
+                18,
+                2252.0,
+                463.3333333333333,
+                2297.3333333333335
+            ],
+            "text_updated": "Text to Speech Engine",
+            "font_size": 7.502815189622242,
+            "id": "6989_1"
+        },
+        {
+            "text": "Install TTS",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                2124,
+                282,
+                2200
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                23.333333333333332,
+                2145.3333333333335,
+                279.3333333333333,
+                2185.3333333333335
+            ],
+            "text_updated": "Install TTS",
+            "font_size": 10.378127299484914,
+            "id": "6989_2"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1338,
+                1958,
+                1422,
+                2042
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Icon",
+            "id": "6989_3"
+        },
+        {
+            "text": "Delete all cached images",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Des",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                2025,
+                524,
+                2087
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B6B6B6",
+            "bounds_updated": [
+                20.666666666666668,
+                2041.0,
+                522.0,
+                2086.3333333333335
+            ],
+            "text_updated": "Delete all cached images",
+            "font_size": 7.263094787883052,
+            "id": "6989_4"
+        },
+        {
+            "text": "Clear Cached Images (40 KB )",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                1913,
+                759,
+                1989
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                20.666666666666668,
+                1934.3333333333333,
+                754.0,
+                1989
+            ],
+            "text_updated": "Clear Cached Images (40 KB )",
+            "font_size": 10.26985100841499,
+            "id": "6989_5"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1338,
+                1747,
+                1422,
+                1831
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Icon",
+            "id": "6989_6"
+        },
+        {
+            "text": "Delete all cached sound files",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Des",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                1814,
+                595,
+                1876
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BCBCBC",
+            "bounds_updated": [
+                20.666666666666668,
+                1830.0,
+                591.3333333333333,
+                1864.6666666666667
+            ],
+            "text_updated": "Delete all cached sound files",
+            "font_size": 7.248230322852512,
+            "id": "6989_7"
+        },
+        {
+            "text": "Clear Cached Sound (14 KB)",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                1702,
+                720,
+                1778
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                20.666666666666668,
+                1720.6666666666667,
+                716.6666666666666,
+                1774.0
+            ],
+            "text_updated": "Clear Cached Sound (14 KB)",
+            "font_size": 10.337714512868661,
+            "id": "6989_8"
+        },
+        {
+            "text": "Font Size: 200%",
+            "resource-id": "com.grandsons.dictboxar:id/tvFontSizeTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                35,
+                1478,
+                414,
+                1549
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                37.666666666666664,
+                1496.6666666666667,
+                413.66666666666663,
+                1536.6666666666667
+            ],
+            "text_updated": "Font Size: 180%",
+            "font_size": 9.704867471388535,
+            "id": "6989_9"
+        },
+        {
+            "ancestors": [
+                "android.widget.SeekBar",
+                "android.widget.AbsSeekBar",
+                "android.widget.ProgressBar",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.grandsons.dictboxar:id/seekBar",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatSeekBar",
+            "bounds": [
+                18,
+                1602,
+                1422,
+                1665
+            ],
+            "componentLabel": "Slider",
+            "id": "6989_10"
+        },
+        {
+            "text": "",
+            "resource-id": "com.grandsons.dictboxar:id/switchButton",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.SwitchCompat",
+            "bounds": [
+                1239,
+                1289,
+                1405,
+                1384
+            ],
+            "componentLabel": "Input",
+            "id": "6989_11"
+        },
+        {
+            "text": "Enable Image Search on 3G network",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Des",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                1362,
+                1186,
+                1424
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B8B8B8",
+            "bounds_updated": [
+                20.666666666666668,
+                1378.0,
+                751.3333333333333,
+                1420.6666666666667
+            ],
+            "text_updated": "Enable Image Search on 3G network",
+            "font_size": 7.409555187134661,
+            "id": "6989_12"
+        },
+        {
+            "text": "3G Image Search",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                1250,
+                1422,
+                1326
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                20.666666666666668,
+                1268.6666666666667,
+                436.66666666666663,
+                1322.0
+            ],
+            "text_updated": "3G Image Search",
+            "font_size": 10.095998188713422,
+            "id": "6989_13"
+        },
+        {
+            "text": "",
+            "resource-id": "com.grandsons.dictboxar:id/switchButton",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.SwitchCompat",
+            "bounds": [
+                1239,
+                1078,
+                1405,
+                1173
+            ],
+            "componentLabel": "Input",
+            "id": "6989_14"
+        },
+        {
+            "text": "Word Suggestions for mistyped words",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Des",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                1151,
+                1186,
+                1213
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BBBBBB",
+            "bounds_updated": [
+                18,
+                1167.0,
+                794.0,
+                1209.6666666666667
+            ],
+            "text_updated": "Word Suggestions for mistyped words",
+            "font_size": 7.771246292376904,
+            "id": "6989_15"
+        },
+        {
+            "text": "Word Suggestions",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                1039,
+                1422,
+                1115
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                20.666666666666668,
+                1057.6666666666667,
+                468.66666666666663,
+                1111.0
+            ],
+            "text_updated": "Word Suggestions",
+            "font_size": 10.497372017239567,
+            "id": "6989_16"
+        },
+        {
+            "text": "",
+            "resource-id": "com.grandsons.dictboxar:id/switchButton",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.SwitchCompat",
+            "bounds": [
+                1239,
+                840,
+                1405,
+                935
+            ],
+            "componentLabel": "Input",
+            "id": "6989_17"
+        },
+        {
+            "text": "Automatically pronounce the word right after showing its meaning",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Des",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                886,
+                1186,
+                1002
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BBBBBB",
+            "bounds_updated": [
+                18,
+                902.0,
+                1167.3333333333333,
+                1000.6666666666666
+            ],
+            "text_updated": "Automatically pronounce the word right after showing its\nmeaning",
+            "font_size": 7.47381381000595,
+            "id": "6989_18"
+        },
+        {
+            "text": "Auto Pronounciation",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                774,
+                1422,
+                850
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                18,
+                795.3333333333334,
+                522.0,
+                835.3333333333334
+            ],
+            "text_updated": "Auto Pronounciation",
+            "font_size": 10.550369669574971,
+            "id": "6989_19"
+        },
+        {
+            "text": "",
+            "resource-id": "com.grandsons.dictboxar:id/switchButton",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.SwitchCompat",
+            "bounds": [
+                1239,
+                575,
+                1405,
+                670
+            ],
+            "componentLabel": "Input",
+            "id": "6989_20"
+        },
+        {
+            "text": "The app automatically shows meaning of the word in clipboard right after it opens",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Des",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                621,
+                1186,
+                737
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B8B8B8",
+            "bounds_updated": [
+                18,
+                637.0,
+                1087.3333333333333,
+                737
+            ],
+            "text_updated": "The app automatically shows meaning of the word in\nclipboard right after it opens",
+            "font_size": 7.462795581684934,
+            "id": "6989_21"
+        },
+        {
+            "text": "Auto Clipboard Lookup",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                509,
+                1422,
+                585
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                18,
+                527.6666666666666,
+                583.3333333333333,
+                581.0
+            ],
+            "text_updated": "Auto Clipboard Lookup",
+            "font_size": 10.542115167972288,
+            "id": "6989_22"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1338,
+                343,
+                1422,
+                427
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Icon",
+            "id": "6989_23"
+        },
+        {
+            "text": "Add/Remove/Reorder web dictionaries in the bottom bar",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Des",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                410,
+                1166,
+                472
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B9B9B9",
+            "bounds_updated": [
+                18,
+                426.0,
+                1164.6666666666665,
+                463.3333333333333
+            ],
+            "text_updated": "Add/Remove/Reorder web dictionaries in the bottom bar",
+            "font_size": 7.653534641399143,
+            "id": "6989_24"
+        },
+        {
+            "text": "Manage Web Dictionaries",
+            "resource-id": "com.grandsons.dictboxar:id/tv_Title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                18,
+                298,
+                654,
+                374
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                20.666666666666668,
+                316.6666666666667,
+                650.0,
+                370.0
+            ],
+            "text_updated": "Manage Web Dictionaries",
+            "font_size": 10.378207598958147,
+            "id": "6989_25"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "6989_26"
+        },
+        {
+            "text": "Preferences",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                210,
+                135,
+                591,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#EEFFFF",
+            "bounds_updated": [
+                212.66666666666666,
+                159.0,
+                588.6666666666666,
+                209.66666666666666
+            ],
+            "text_updated": "Preferences",
+            "font_size": 13.26975404317943,
+            "id": "6989_27"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                491,
+                1440,
+                755
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "6989_28",
+            "ui_comp_ids": [
+                "6989_20",
+                "6989_21",
+                "6989_22"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                756,
+                1440,
+                1020
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "6989_29",
+            "ui_comp_ids": [
+                "6989_17",
+                "6989_18",
+                "6989_19"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1443,
+                1440,
+                1683
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "6989_30",
+            "ui_comp_ids": [
+                "6989_9",
+                "6989_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                280,
+                1440,
+                490
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "6989_31",
+            "ui_comp_ids": [
+                "6989_23",
+                "6989_24",
+                "6989_25"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1021,
+                1440,
+                1231
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "6989_32",
+            "ui_comp_ids": [
+                "6989_14",
+                "6989_15",
+                "6989_16"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1232,
+                1440,
+                1442
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "6989_33",
+            "ui_comp_ids": [
+                "6989_11",
+                "6989_12",
+                "6989_13"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1684,
+                1440,
+                1894
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "6989_34",
+            "ui_comp_ids": [
+                "6989_6",
+                "6989_7",
+                "6989_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1895,
+                1440,
+                2105
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "6989_35",
+            "ui_comp_ids": [
+                "6989_3",
+                "6989_4",
+                "6989_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                2106,
+                1440,
+                2316
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "6989_36",
+            "ui_comp_ids": [
+                "6989_0",
+                "6989_1",
+                "6989_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.internal.widget.ActionBarContainer",
+            "bg_color": "#3598DB",
+            "id": "6989_37",
+            "ui_comp_ids": [
+                "6989_26",
+                "6989_27"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

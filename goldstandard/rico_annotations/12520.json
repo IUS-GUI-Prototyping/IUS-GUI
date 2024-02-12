@@ -1,0 +1,950 @@
+{
+    "bg_color": "#000000",
+    "ui_comps": [
+        {
+            "text": "Beat Count",
+            "resource-id": "gabriel.metronome:id/tvTimeCount",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                173,
+                1637,
+                398,
+                1699
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BBBBBB",
+            "bounds_updated": [
+                175.66666666666666,
+                1653.0,
+                397.0,
+                1685.0
+            ],
+            "text_updated": "Beat Count",
+            "font_size": 7.278318053152511,
+            "id": "12520_0"
+        },
+        {
+            "text": "OFF",
+            "resource-id": "gabriel.metronome:id/btFirstClick",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.ToggleButton",
+            "bounds": [
+                886,
+                1278,
+                1299,
+                1478
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#1E2327",
+            "text_color": "#FBFFFF",
+            "bounds_text": [
+                1056.6666666666667,
+                1363.3333333333333,
+                1128.6666666666667,
+                1395.3333333333333
+            ],
+            "text_updated": "OFF",
+            "font_size": 6.541819965661077,
+            "id": "12520_1"
+        },
+        {
+            "text": "First Beat Accent",
+            "resource-id": "gabriel.metronome:id/tvFirstClick",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                918,
+                1202,
+                1266,
+                1264
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C5C5C5",
+            "bounds_updated": [
+                923.3333333333334,
+                1218.0,
+                1264.6666666666665,
+                1250.0
+            ],
+            "text_updated": "First Beat Accent",
+            "font_size": 7.542714044957158,
+            "id": "12520_2"
+        },
+        {
+            "text": "Change          Sound Pack",
+            "resource-id": "gabriel.metronome:id/btSoundPack",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                447,
+                1275,
+                839,
+                1478
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#1E2327",
+            "text_color": "#FBFFFF",
+            "bounds_text": [
+                532.3333333333334,
+                1339.0,
+                751.0,
+                1419.0
+            ],
+            "text_updated": "Change\nSound Pack",
+            "font_size": 6.649003262538581,
+            "id": "12520_3"
+        },
+        {
+            "text": "electronic beat",
+            "resource-id": "gabriel.metronome:id/tvSoundPackValue",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                141,
+                1313,
+                400,
+                1429
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                170.33333333333334,
+                1337.0,
+                367.66666666666663,
+                1417.0
+            ],
+            "text_updated": "electronic\nbeat",
+            "font_size": 7.518326778050464,
+            "id": "12520_4"
+        },
+        {
+            "text": "Sound Pack",
+            "resource-id": "gabriel.metronome:id/tvSoundPack",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                150,
+                1202,
+                391,
+                1264
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B9B9B9",
+            "bounds_updated": [
+                152.66666666666666,
+                1218.0,
+                390.0,
+                1250.0
+            ],
+            "text_updated": "Sound Pack",
+            "font_size": 7.9543349348569565,
+            "id": "12520_5"
+        },
+        {
+            "text": "or tap the tempo here!",
+            "resource-id": "gabriel.metronome:id/btTapTempo",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                797,
+                435,
+                1319,
+                698
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#1E2327",
+            "text_color": "#FBFFFF",
+            "bounds_text": [
+                853.0,
+                560.3333333333334,
+                1261.0,
+                592.3333333333333
+            ],
+            "text_updated": "or tap the tempo here!",
+            "font_size": 5.478466000086559,
+            "id": "12520_6"
+        },
+        {
+            "text": "+",
+            "resource-id": "gabriel.metronome:id/btTempoPlus",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                573,
+                435,
+                797,
+                698
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#1E2327",
+            "text_color": "#FEFFFF",
+            "bounds_text": [
+                573,
+                435,
+                797,
+                698
+            ],
+            "text_updated": "+",
+            "font_size": 12,
+            "id": "12520_7"
+        },
+        {
+            "text": "-",
+            "resource-id": "gabriel.metronome:id/btTempoLess",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                349,
+                435,
+                573,
+                698
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#1E2327",
+            "text_color": "#F1F6FA",
+            "bounds_text": [
+                349,
+                435,
+                573,
+                698
+            ],
+            "text_updated": "-",
+            "font_size": 12,
+            "id": "12520_8"
+        },
+        {
+            "text": "Andante",
+            "resource-id": "gabriel.metronome:id/tvTempoDef",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                121,
+                616,
+                331,
+                663
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#000000",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                163.66666666666666,
+                626.6666666666666,
+                289.0,
+                653.3333333333334
+            ],
+            "text_updated": "Andante",
+            "font_size": 2.1349848744992155,
+            "id": "12520_9"
+        },
+        {
+            "text": "91 bpm",
+            "resource-id": "gabriel.metronome:id/tvTempoValue",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                121,
+                543,
+                321,
+                609
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#000000",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                123.66666666666667,
+                559.0,
+                283.66666666666663,
+                604.3333333333334
+            ],
+            "text_updated": "91 bpm",
+            "font_size": 8.066225165562942,
+            "id": "12520_10"
+        },
+        {
+            "text": "Tempo",
+            "resource-id": "gabriel.metronome:id/tvTempo",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                121,
+                470,
+                262,
+                532
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#000000",
+            "text_color": "#BFBFBF",
+            "bounds_text": [
+                123.66666666666667,
+                486.0,
+                262.3333333333333,
+                528.6666666666666
+            ],
+            "text_updated": "Tempo",
+            "font_size": 8.325646767354337,
+            "id": "12520_11"
+        },
+        {
+            "text": "Start Metronome",
+            "resource-id": "gabriel.metronome:id/btMetronome",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.ToggleButton",
+            "bounds": [
+                450,
+                1637,
+                1319,
+                1893
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FBFFFF",
+            "bounds_updated": [
+                698.0,
+                1749.0,
+                1068.6666666666665,
+                1783.6666666666667
+            ],
+            "text_updated": "Start Metronome",
+            "font_size": 8.7542310522443,
+            "id": "12520_12"
+        },
+        {
+            "ancestors": [
+                "android.widget.AbsSeekBar",
+                "android.widget.ProgressBar",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "gabriel.metronome:id/sbVolume",
+            "clickable": false,
+            "class": "android.widget.SeekBar",
+            "bounds": [
+                304,
+                1489,
+                1319,
+                1594
+            ],
+            "componentLabel": "Slider",
+            "id": "12520_13"
+        },
+        {
+            "text": "Volume:",
+            "resource-id": "gabriel.metronome:id/tvVolume",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                121,
+                1510,
+                286,
+                1572
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C4C4C4",
+            "bounds_updated": [
+                123.66666666666667,
+                1526.0,
+                283.66666666666663,
+                1560.6666666666667
+            ],
+            "text_updated": "Volume:",
+            "font_size": 7.216335540838884,
+            "id": "12520_14"
+        },
+        {
+            "resource-id": "gabriel.metronome:id/spBeatDivision",
+            "ancestors": [
+                "android.widget.AbsSpinner",
+                "android.widget.AdapterView",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Spinner",
+            "bounds": [
+                584,
+                1004,
+                1319,
+                1155
+            ],
+            "componentLabel": "Text Button",
+            "text": "in eighth notes               (2 notes)",
+            "bg_color": "#000000",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                584,
+                1004,
+                1319,
+                1155
+            ],
+            "text_updated": "in eighth notes               (2 notes)",
+            "font_size": 12,
+            "id": "12520_15"
+        },
+        {
+            "text": "Beat Subdivision",
+            "resource-id": "gabriel.metronome:id/tvBeatDivision",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                121,
+                1048,
+                459,
+                1110
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BFBFBF",
+            "bounds_updated": [
+                126.33333333333333,
+                1064.0,
+                457.0,
+                1098.6666666666667
+            ],
+            "text_updated": "Beat Subdivision",
+            "font_size": 7.251793459292316,
+            "id": "12520_16"
+        },
+        {
+            "resource-id": "gabriel.metronome:id/spBeatUnit",
+            "ancestors": [
+                "android.widget.AbsSpinner",
+                "android.widget.AdapterView",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Spinner",
+            "bounds": [
+                1021,
+                829,
+                1319,
+                980
+            ],
+            "componentLabel": "Text Button",
+            "text": " 4   -  Quarter note (tempo x1)",
+            "bg_color": "#000000",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                1021,
+                829,
+                1319,
+                980
+            ],
+            "text_updated": " 4   -  Quarter note (tempo x1)",
+            "font_size": 12,
+            "id": "12520_17"
+        },
+        {
+            "text": "/",
+            "resource-id": "gabriel.metronome:id/tvTimeSignatureBar",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                814,
+                829,
+                1021,
+                993
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BFBFBF",
+            "bounds_updated": [
+                814,
+                829,
+                1021,
+                993
+            ],
+            "text_updated": "/",
+            "font_size": 12,
+            "id": "12520_18"
+        },
+        {
+            "resource-id": "gabriel.metronome:id/spBeats",
+            "ancestors": [
+                "android.widget.AbsSpinner",
+                "android.widget.AdapterView",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Spinner",
+            "bounds": [
+                516,
+                829,
+                814,
+                980
+            ],
+            "componentLabel": "Text Button",
+            "text": " 5    notes per measure",
+            "bg_color": "#000000",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                516,
+                829,
+                814,
+                980
+            ],
+            "text_updated": " 5    notes per measure",
+            "font_size": 12,
+            "id": "12520_19"
+        },
+        {
+            "text": "Time Signature",
+            "resource-id": "gabriel.metronome:id/tvTimeSignature",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                121,
+                880,
+                428,
+                942
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BDBDBD",
+            "bounds_updated": [
+                123.66666666666667,
+                896.0,
+                427.66666666666663,
+                938.6666666666666
+            ],
+            "text_updated": "Time Signature",
+            "font_size": 7.408039967468344,
+            "id": "12520_20"
+        },
+        {
+            "resource-id": "gabriel.metronome:id/banner_adview",
+            "children": [],
+            "ancestors": [
+                "com.mobclix.android.sdk.MobclixAdView",
+                "android.widget.ViewFlipper",
+                "android.widget.ViewAnimator",
+                "android.widget.FrameLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.mobclix.android.sdk.MobclixMMABannerXLAdView",
+            "bounds": [
+                160,
+                2034,
+                1280,
+                2209
+            ],
+            "componentLabel": "Advertisement",
+            "id": "12520_21"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "gabriel.metronome:id/ivBannerOffline",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                195,
+                2034,
+                1245,
+                2209
+            ],
+            "componentLabel": "Image",
+            "id": "12520_22"
+        },
+        {
+            "text": "To support this app, please take some time to visit our sponsors regularly...",
+            "resource-id": "gabriel.metronome:id/tvSponsor",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                212,
+                1907,
+                1227,
+                2006
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C1C1C1",
+            "bounds_updated": [
+                249.33333333333331,
+                1920.3333333333333,
+                1188.0,
+                2003.0
+            ],
+            "text_updated": "To support this app, please take some time to visit our\n\u2018sponsors regularly.",
+            "font_size": 4.849712522754862,
+            "id": "12520_23"
+        },
+        {
+            "ancestors": [
+                "android.widget.AbsSeekBar",
+                "android.widget.ProgressBar",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "gabriel.metronome:id/sbTempo",
+            "clickable": false,
+            "class": "android.widget.SeekBar",
+            "bounds": [
+                121,
+                709,
+                1319,
+                818
+            ],
+            "componentLabel": "Slider",
+            "id": "12520_24"
+        },
+        {
+            "text": "Mobile Metronome",
+            "resource-id": "android:id/action_bar_title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                169,
+                125,
+                698,
+                210
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                169,
+                125,
+                698,
+                210
+            ],
+            "text_updated": "Mobile Metronome",
+            "font_size": 12,
+            "id": "12520_25"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/home",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                43,
+                112,
+                155,
+                224
+            ],
+            "componentLabel": "Image",
+            "id": "12520_26"
+        },
+        {
+            "iconClass": "more",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1244,
+                84,
+                1440,
+                252
+            ],
+            "clickable": true,
+            "class": "android.widget.ActionMenuPresenter$OverflowMenuButton",
+            "componentLabel": "Icon",
+            "id": "12520_27"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                121,
+                1202,
+                1319,
+                1478
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#000000",
+            "id": "12520_28",
+            "ui_comp_ids": [
+                "12520_1",
+                "12520_2",
+                "12520_3",
+                "12520_4",
+                "12520_5"
+            ],
+            "ui_comp_group_ids": [
+                "12520_36",
+                "12520_37"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                121,
+                435,
+                1319,
+                698
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#1E2327",
+            "id": "12520_29",
+            "ui_comp_ids": [
+                "12520_6",
+                "12520_7",
+                "12520_8",
+                "12520_9",
+                "12520_10",
+                "12520_11"
+            ],
+            "ui_comp_group_ids": [
+                "12520_31",
+                "12520_38"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                121,
+                1637,
+                1319,
+                1893
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#1E2327",
+            "id": "12520_30",
+            "ui_comp_ids": [
+                "12520_0",
+                "12520_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                349,
+                435,
+                1319,
+                698
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#1E2327",
+            "id": "12520_31",
+            "ui_comp_ids": [
+                "12520_6",
+                "12520_7",
+                "12520_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "com.android.internal.widget.ActionBarContainer",
+            "bg_color": "#030303",
+            "id": "12520_32",
+            "ui_comp_ids": [
+                "12520_25",
+                "12520_26",
+                "12520_27"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                121,
+                829,
+                1319,
+                993
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#000000",
+            "id": "12520_33",
+            "ui_comp_ids": [
+                "12520_17",
+                "12520_18",
+                "12520_19",
+                "12520_20"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                121,
+                1004,
+                1319,
+                1155
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#000000",
+            "id": "12520_34",
+            "ui_comp_ids": [
+                "12520_15",
+                "12520_16"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                121,
+                1489,
+                1319,
+                1594
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#000000",
+            "id": "12520_35",
+            "ui_comp_ids": [
+                "12520_13",
+                "12520_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                866,
+                1202,
+                1319,
+                1478
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#1E2327",
+            "id": "12520_36",
+            "ui_comp_ids": [
+                "12520_1",
+                "12520_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                121,
+                1202,
+                420,
+                1429
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#000000",
+            "id": "12520_37",
+            "ui_comp_ids": [
+                "12520_4",
+                "12520_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                121,
+                470,
+                331,
+                663
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#000000",
+            "id": "12520_38",
+            "ui_comp_ids": [
+                "12520_9",
+                "12520_10",
+                "12520_11"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

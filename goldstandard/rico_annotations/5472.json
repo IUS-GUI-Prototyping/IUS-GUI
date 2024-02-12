@@ -1,0 +1,1006 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "Activate Now",
+            "resource-id": "com.bloomberg.bbwa:id/activate_button",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontButton",
+            "bounds": [
+                720,
+                1930,
+                1356,
+                2098
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#848484",
+            "bounds_text": [
+                720,
+                1930,
+                1356,
+                2098
+            ],
+            "text_updated": "Activate Now",
+            "font_size": 12,
+            "id": "5472_0"
+        },
+        {
+            "text": "Already a print, Google Play or Bloomberg Anywhere Subscriber?",
+            "resource-id": "com.bloomberg.bbwa:id/subscription_activate_flavour_text",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                720,
+                1574,
+                1356,
+                1930
+            ],
+            "componentLabel": "Text",
+            "text_color": "#828282",
+            "bounds_updated": [
+                720,
+                1574,
+                1356,
+                1930
+            ],
+            "text_updated": "Already a print, Google Play or Bloomberg Anywhere Subscriber?",
+            "font_size": 12,
+            "id": "5472_1"
+        },
+        {
+            "text": "Subscribe Now",
+            "resource-id": "com.bloomberg.bbwa:id/subscription_button",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontButton",
+            "bounds": [
+                84,
+                1930,
+                720,
+                2098
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                84,
+                1930,
+                720,
+                2098
+            ],
+            "text_updated": "Subscribe Now",
+            "font_size": 12,
+            "id": "5472_2"
+        },
+        {
+            "text": "Subscribe to Bloomberg Businessweek+",
+            "resource-id": "com.bloomberg.bbwa:id/subscription_flavour_text",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                84,
+                1574,
+                720,
+                1930
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                84,
+                1574,
+                720,
+                1930
+            ],
+            "text_updated": "Subscribe to Bloomberg Businessweek+",
+            "font_size": 12,
+            "id": "5472_3"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.bloomberg.bbwa:id/cover_flow_issue_image",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                0,
+                723,
+                205,
+                1920
+            ],
+            "componentLabel": "Image",
+            "id": "5472_4"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.bloomberg.bbwa:id/cover_flow_issue_label",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                887,
+                723,
+                1174,
+                1014
+            ],
+            "componentLabel": "Image",
+            "id": "5472_5"
+        },
+        {
+            "text": "March 13, 2017",
+            "resource-id": "com.bloomberg.bbwa:id/cover_flow_issue_date",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                235,
+                598,
+                754,
+                695
+            ],
+            "componentLabel": "Text",
+            "text_color": "#303030",
+            "bounds_updated": [
+                235,
+                598,
+                754,
+                695
+            ],
+            "text_updated": "March 13, 2017",
+            "font_size": 12,
+            "id": "5472_6"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.bloomberg.bbwa:id/cover_flow_issue_image",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                264,
+                723,
+                1174,
+                1920
+            ],
+            "componentLabel": "Image",
+            "id": "5472_7"
+        },
+        {
+            "text": "",
+            "resource-id": "com.bloomberg.bbwa:id/cover_flow_next_month",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                948,
+                2172,
+                1405,
+                2245
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FFFFFF",
+            "text_color": "#808080",
+            "bounds_text": [
+                948,
+                2172,
+                1405,
+                2245
+            ],
+            "text_updated": "\f",
+            "font_size": 12,
+            "id": "5472_8"
+        },
+        {
+            "text": "March\n2017",
+            "resource-id": "com.bloomberg.bbwa:id/cover_flow_current_month",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                491,
+                2172,
+                948,
+                2308
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                491,
+                2172,
+                948,
+                2308
+            ],
+            "text_updated": "March\n2017",
+            "font_size": 12,
+            "id": "5472_9"
+        },
+        {
+            "text": "February\n2017",
+            "resource-id": "com.bloomberg.bbwa:id/cover_flow_previous_month",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                35,
+                2172,
+                491,
+                2308
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                35,
+                2172,
+                491,
+                2308
+            ],
+            "text_updated": "February\n2017",
+            "font_size": 12,
+            "id": "5472_10"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1300,
+                2263,
+                1384,
+                2347
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Icon",
+            "id": "5472_11"
+        },
+        {
+            "text": "Report a Problem",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                56,
+                2267,
+                545,
+                2343
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                58.666666666666664,
+                2281.6666666666665,
+                542.6666666666666,
+                2337.6666666666665
+            ],
+            "text_updated": "Reporta Problem",
+            "font_size": 12.206228449455416,
+            "id": "5472_12"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1300,
+                2047,
+                1384,
+                2131
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Icon",
+            "id": "5472_13"
+        },
+        {
+            "text": "Questions or Feedback",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                56,
+                2051,
+                704,
+                2127
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                57.333333333333336,
+                2064.3333333333335,
+                704.0,
+                2113.6666666666665
+            ],
+            "text_updated": "Questions or Feedback",
+            "font_size": 12.007942925576018,
+            "id": "5472_14"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1300,
+                1831,
+                1384,
+                1915
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Icon",
+            "id": "5472_15"
+        },
+        {
+            "text": "Tell a Friend",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                56,
+                1835,
+                386,
+                1911
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                57.333333333333336,
+                1849.6666666666667,
+                384.0,
+                1895.0
+            ],
+            "text_updated": "Tella Friend",
+            "font_size": 12.1942964898187,
+            "id": "5472_16"
+        },
+        {
+            "text": "Customer Service",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                56,
+                1660,
+                536,
+                1733
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                58.666666666666664,
+                1672.0,
+                534.6666666666666,
+                1718.6666666666667
+            ],
+            "text_updated": "Customer Service",
+            "font_size": 11.56077442014333,
+            "id": "5472_17"
+        },
+        {
+            "text": "",
+            "resource-id": "android:id/checkbox",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.CheckBox",
+            "bounds": [
+                1272,
+                1419,
+                1384,
+                1531
+            ],
+            "componentLabel": "Checkbox",
+            "id": "5472_18"
+        },
+        {
+            "text": "Allow auto-downloads via 3G/LTE",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                56,
+                1416,
+                887,
+                1534
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2F2F2F",
+            "bounds_updated": [
+                57.333333333333336,
+                1481.3333333333333,
+                885.3333333333333,
+                1528.0
+            ],
+            "text_updated": "Allow auto-downloads via 3G/LTE",
+            "font_size": 10.956692367576329,
+            "id": "5472_19"
+        },
+        {
+            "text": "",
+            "resource-id": "com.bloomberg.bbwa:id/styled_switch_preference",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.Switch",
+            "bounds": [
+                1048,
+                1077,
+                1384,
+                1175
+            ],
+            "componentLabel": "On/Off Switch",
+            "id": "5472_20"
+        },
+        {
+            "text": "New issues will be automatically downloaded if you are connected to Wifi.",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                56,
+                1052,
+                1020,
+                1276
+            ],
+            "componentLabel": "Text",
+            "text_color": "#333333",
+            "bounds_updated": [
+                57.333333333333336,
+                1117.3333333333333,
+                938.6666666666666,
+                1262.6666666666667
+            ],
+            "text_updated": "New issues will be automatically\ndownloaded if you are connected to\nWifi.",
+            "font_size": 10.747018865277017,
+            "id": "5472_21"
+        },
+        {
+            "text": "Auto-Download",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                56,
+                976,
+                500,
+                1052
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                56,
+                989.3333333333334,
+                497.3333333333333,
+                1036.0
+            ],
+            "text_updated": "Auto-Download",
+            "font_size": 12.119055127569796,
+            "id": "5472_22"
+        },
+        {
+            "text": "",
+            "resource-id": "com.bloomberg.bbwa:id/styled_switch_preference",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.Switch",
+            "bounds": [
+                1048,
+                610,
+                1384,
+                708
+            ],
+            "componentLabel": "On/Off Switch",
+            "id": "5472_23"
+        },
+        {
+            "text": "Issues older than 3 months that have not been viewed recently will be archived. You can download them again later if needed.",
+            "resource-id": "android:id/summary",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                56,
+                559,
+                1020,
+                836
+            ],
+            "componentLabel": "Text",
+            "text_color": "#313131",
+            "bounds_updated": [
+                57.333333333333336,
+                625.6666666666666,
+                950.6666666666666,
+                833.6666666666666
+            ],
+            "text_updated": "Issues older than 3 months that\nhave not been viewed recently will\nbe archived. You can download them\nagain later if needed.",
+            "font_size": 10.639319636746277,
+            "id": "5472_24"
+        },
+        {
+            "text": "Auto-Archive",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                56,
+                483,
+                433,
+                559
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                56,
+                497.6666666666667,
+                432.0,
+                543.0
+            ],
+            "text_updated": "Auto-Archive",
+            "font_size": 12.259640223568645,
+            "id": "5472_25"
+        },
+        {
+            "text": "Settings",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                56,
+                308,
+                274,
+                381
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                57.333333333333336,
+                320.0,
+                273.3333333333333,
+                377.3333333333333
+            ],
+            "text_updated": "Settings",
+            "font_size": 11.388003161365944,
+            "id": "5472_26"
+        },
+        {
+            "iconClass": "close",
+            "resource-id": "com.bloomberg.bbwa:id/menu_close",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.android.internal.view.menu.ActionMenuItemView",
+            "bounds": [
+                1244,
+                84,
+                1440,
+                252
+            ],
+            "componentLabel": "Icon",
+            "id": "5472_27"
+        },
+        {
+            "text": "Settings",
+            "resource-id": "com.bloomberg.bbwa:id/action_bar_panel_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bounds": [
+                0,
+                84,
+                303,
+                252
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                57.33333333333333,
+                145.33333333333331,
+                268.0,
+                197.33333333333331
+            ],
+            "text_updated": "Settings",
+            "font_size": 11.183927406895943,
+            "id": "5472_28"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                264,
+                252,
+                1440,
+                2392
+            ],
+            "class": "com.bloomberg.bbwa.customviews.CustomFontTextView",
+            "bg_color": "#FFFFFF",
+            "id": "5472_29",
+            "ui_comp_ids": [
+                "5472_0",
+                "5472_1",
+                "5472_5",
+                "5472_7",
+                "5472_8",
+                "5472_9",
+                "5472_11",
+                "5472_13",
+                "5472_15",
+                "5472_18",
+                "5472_20",
+                "5472_23"
+            ],
+            "ui_comp_group_ids": [
+                "5472_35"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                235,
+                252,
+                1204,
+                2392
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_30",
+            "ui_comp_ids": [
+                "5472_5",
+                "5472_6",
+                "5472_7",
+                "5472_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                70,
+                1560,
+                1370,
+                2112
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_31",
+            "ui_comp_ids": [
+                "5472_0",
+                "5472_1",
+                "5472_2",
+                "5472_3"
+            ],
+            "ui_comp_group_ids": [
+                "5472_35",
+                "5472_36"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                413,
+                1440,
+                906
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_32",
+            "ui_comp_ids": [
+                "5472_6",
+                "5472_23",
+                "5472_24",
+                "5472_25"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                906,
+                1440,
+                1346
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_33",
+            "ui_comp_ids": [
+                "5472_20",
+                "5472_21",
+                "5472_22"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1346,
+                1440,
+                1604
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_34",
+            "ui_comp_ids": [
+                "5472_18",
+                "5472_19"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                720,
+                1574,
+                1356,
+                2098
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_35",
+            "ui_comp_ids": [
+                "5472_0",
+                "5472_1"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                84,
+                1574,
+                720,
+                2098
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_36",
+            "ui_comp_ids": [
+                "5472_2",
+                "5472_3"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1765,
+                1440,
+                1981
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_37",
+            "ui_comp_ids": [
+                "5472_15",
+                "5472_16"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1981,
+                1440,
+                2197
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_38",
+            "ui_comp_ids": [
+                "5472_13",
+                "5472_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                2197,
+                1440,
+                2392
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_39",
+            "ui_comp_ids": [
+                "5472_11",
+                "5472_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "com.android.internal.widget.ActionBarContainer",
+            "bg_color": "#000000",
+            "id": "5472_40",
+            "ui_comp_ids": [
+                "5472_27",
+                "5472_28"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                252,
+                1440,
+                413
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_41",
+            "ui_comp_ids": [
+                "5472_26"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1604,
+                1440,
+                1765
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_42",
+            "ui_comp_ids": [
+                "5472_17"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                2172,
+                1405,
+                2308
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "5472_43",
+            "ui_comp_ids": [
+                "5472_8",
+                "5472_9",
+                "5472_10"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

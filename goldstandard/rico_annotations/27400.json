@@ -1,0 +1,704 @@
+{
+    "bg_color": "#F0F0F0",
+    "ui_comps": [
+        {
+            "iconClass": "close",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/search_close_btn",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1272,
+                294,
+                1412,
+                420
+            ],
+            "componentLabel": "Icon",
+            "id": "27400_0"
+        },
+        {
+            "text": "god",
+            "resource-id": "android:id/search_src_text",
+            "ancestors": [
+                "android.widget.AutoCompleteTextView",
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.SearchView$SearchAutoComplete",
+            "bounds": [
+                168,
+                294,
+                1272,
+                420
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                168,
+                294,
+                1272,
+                420
+            ],
+            "text_updated": "god",
+            "font_size": 12,
+            "id": "27400_1"
+        },
+        {
+            "iconClass": "search",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/search_mag_icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                56,
+                317,
+                168,
+                401
+            ],
+            "componentLabel": "Icon",
+            "id": "27400_2"
+        },
+        {
+            "text": "And God saw the light, that it was good: and God divided the light from the darkness.",
+            "resource-id": "yuku.alkitab.kjv:id/lSnippet",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                2109,
+                1384,
+                2266
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1F1F1F",
+            "bounds_updated": [
+                57.333333333333336,
+                2121.0,
+                1280.0,
+                2263.6666666666665
+            ],
+            "text_updated": "And God saw the light, that it was good: and\nGod divided the light from the darkness.",
+            "font_size": 11.69799832376387,
+            "id": "27400_3"
+        },
+        {
+            "text": "Genesis 1:4",
+            "resource-id": "yuku.alkitab.kjv:id/lReference",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                2008,
+                1384,
+                2109
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1F1F1F",
+            "bounds_updated": [
+                60.0,
+                2033.3333333333333,
+                444.0,
+                2089.3333333333335
+            ],
+            "text_updated": "Genesis 1:4",
+            "font_size": 13.058621535442727,
+            "id": "27400_4"
+        },
+        {
+            "text": "And God said, Let there be light: and there was light.",
+            "resource-id": "yuku.alkitab.kjv:id/lSnippet",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1735,
+                1384,
+                1892
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                57.333333333333336,
+                1748.3333333333333,
+                1348.0,
+                1891.0
+            ],
+            "text_updated": "And God said, Let there be light: and there was\nlight.",
+            "font_size": 11.664714509062286,
+            "id": "27400_5"
+        },
+        {
+            "text": "Genesis 1:3",
+            "resource-id": "yuku.alkitab.kjv:id/lReference",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1634,
+                1384,
+                1735
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1E1E1E",
+            "bounds_updated": [
+                60.0,
+                1658.0,
+                441.3333333333333,
+                1714.0
+            ],
+            "text_updated": "Genesis 1:3",
+            "font_size": 12.991604526255411,
+            "id": "27400_6"
+        },
+        {
+            "text": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
+            "resource-id": "yuku.alkitab.kjv:id/lSnippet",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1193,
+                1384,
+                1518
+            ],
+            "componentLabel": "Text",
+            "text_color": "#222222",
+            "bounds_updated": [
+                56,
+                1206.3333333333333,
+                1336.0,
+                1503.6666666666665
+            ],
+            "text_updated": "And the earth was without form, and void; and\ndarkness was upon the face of the deep. And\nthe Spirit of God moved upon the face of the\nwaters.",
+            "font_size": 11.696100073583516,
+            "id": "27400_7"
+        },
+        {
+            "text": "Genesis 1:2",
+            "resource-id": "yuku.alkitab.kjv:id/lReference",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1092,
+                1384,
+                1193
+            ],
+            "componentLabel": "Text",
+            "text_color": "#232323",
+            "bounds_updated": [
+                60.0,
+                1117.3333333333333,
+                442.66666666666663,
+                1173.3333333333333
+            ],
+            "text_updated": "Genesis 1:2",
+            "font_size": 13.009951111265215,
+            "id": "27400_8"
+        },
+        {
+            "text": "In the beginning God created the heaven and the earth.",
+            "resource-id": "yuku.alkitab.kjv:id/lSnippet",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                819,
+                1384,
+                976
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                56,
+                832.3333333333334,
+                1297.3333333333333,
+                961.6666666666666
+            ],
+            "text_updated": "In the beginning God created the heaven and\nthe earth.",
+            "font_size": 11.651443001828028,
+            "id": "27400_9"
+        },
+        {
+            "text": "Genesis 1:1",
+            "resource-id": "yuku.alkitab.kjv:id/lReference",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                718,
+                1384,
+                819
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                60.0,
+                743.3333333333334,
+                430.66666666666663,
+                799.3333333333334
+            ],
+            "text_updated": "Genesis 1:1",
+            "font_size": 12.783246822981924,
+            "id": "27400_10"
+        },
+        {
+            "text": "Genesis only",
+            "resource-id": "yuku.alkitab.kjv:id/cFilterSingleBook",
+            "ancestors": [
+                "android.widget.CheckBox",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatCheckBox",
+            "bounds": [
+                42,
+                550,
+                430,
+                662
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#303030",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                66.0,
+                575.3333333333334,
+                428.66666666666663,
+                638.0
+            ],
+            "text_updated": "| Genesis only",
+            "font_size": 11.166725614788254,
+            "id": "27400_11"
+        },
+        {
+            "iconClass": "book",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "yuku.alkitab.kjv:id/bEditFilter",
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "bounds": [
+                1272,
+                438,
+                1440,
+                606
+            ],
+            "componentLabel": "Icon",
+            "id": "27400_12"
+        },
+        {
+            "text": "New Test.",
+            "resource-id": "yuku.alkitab.kjv:id/cFilterNews",
+            "ancestors": [
+                "android.widget.CheckBox",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatCheckBox",
+            "bounds": [
+                375,
+                438,
+                704,
+                550
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#303030",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                491.0,
+                479.3333333333333,
+                700.3333333333333,
+                514.0
+            ],
+            "text_updated": "New Test.",
+            "font_size": 9.612401463220554,
+            "id": "27400_13"
+        },
+        {
+            "text": "Old Test.",
+            "resource-id": "yuku.alkitab.kjv:id/cFilterOlds",
+            "ancestors": [
+                "android.widget.CheckBox",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatCheckBox",
+            "bounds": [
+                42,
+                438,
+                347,
+                550
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#303030",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                156.66666666666666,
+                478.0,
+                342.0,
+                514.0
+            ],
+            "text_updated": "Old Test.",
+            "font_size": 9.492590218930735,
+            "id": "27400_14"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "27400_15"
+        },
+        {
+            "text": "Search",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                210,
+                135,
+                428,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FCFFFF",
+            "bounds_updated": [
+                211.33333333333334,
+                159.0,
+                423.3333333333333,
+                209.66666666666666
+            ],
+            "text_updated": "Search",
+            "font_size": 12.669415635803244,
+            "id": "27400_16"
+        },
+        {
+            "text": "Find in:",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                975,
+                84,
+                1188,
+                280
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C6D8DC",
+            "bounds_updated": [
+                1007.0,
+                165.33333333333331,
+                1157.6666666666667,
+                201.33333333333331
+            ],
+            "text_updated": "Find in:",
+            "font_size": 9.105714986509701,
+            "id": "27400_17"
+        },
+        {
+            "text": "KJV",
+            "resource-id": "yuku.alkitab.kjv:id/bVersion",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1188,
+                84,
+                1440,
+                280
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#465A65",
+            "text_color": "#FCFFFF",
+            "bounds_text": [
+                1188,
+                84,
+                1440,
+                280
+            ],
+            "text_updated": "KJV",
+            "font_size": 12,
+            "id": "27400_18"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                662,
+                1440,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F0F0F0",
+            "id": "27400_19",
+            "ui_comp_ids": [
+                "27400_3",
+                "27400_4",
+                "27400_5",
+                "27400_6",
+                "27400_7",
+                "27400_8",
+                "27400_9",
+                "27400_10"
+            ],
+            "ui_comp_group_ids": [
+                "27400_20",
+                "27400_21",
+                "27400_22",
+                "27400_23"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1036,
+                1440,
+                1574
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#F0F0F0",
+            "id": "27400_20",
+            "ui_comp_ids": [
+                "27400_7",
+                "27400_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                662,
+                1440,
+                1032
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#F2F2F2",
+            "id": "27400_21",
+            "ui_comp_ids": [
+                "27400_9",
+                "27400_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1578,
+                1440,
+                1948
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#F0F0F0",
+            "id": "27400_22",
+            "ui_comp_ids": [
+                "27400_5",
+                "27400_6"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1952,
+                1440,
+                2322
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#F0F0F0",
+            "id": "27400_23",
+            "ui_comp_ids": [
+                "27400_3",
+                "27400_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                438,
+                1440,
+                662
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#303030",
+            "id": "27400_24",
+            "ui_comp_ids": [
+                "27400_11",
+                "27400_12",
+                "27400_13",
+                "27400_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#465A65",
+            "id": "27400_25",
+            "ui_comp_ids": [
+                "27400_15",
+                "27400_16",
+                "27400_17",
+                "27400_18"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                438
+            ],
+            "class": "android.widget.SearchView",
+            "bg_color": "#303030",
+            "id": "27400_26",
+            "ui_comp_ids": [
+                "27400_0",
+                "27400_1",
+                "27400_2"
+            ],
+            "ui_comp_group_ids": [
+                "27400_27",
+                "27400_28"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                28,
+                294,
+                1412,
+                424
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#303030",
+            "id": "27400_27",
+            "ui_comp_ids": [
+                "27400_0",
+                "27400_1",
+                "27400_2"
+            ],
+            "ui_comp_group_ids": [
+                "27400_28"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                168,
+                294,
+                1412,
+                424
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#303030",
+            "id": "27400_28",
+            "ui_comp_ids": [
+                "27400_0",
+                "27400_1"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

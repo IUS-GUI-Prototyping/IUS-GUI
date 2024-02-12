@@ -1,0 +1,87 @@
+You are given a user story in the context of a graphical user interface, this user story is not yet implemented. In addition to the user story, you are also given a textual representation of a graphical user interface. The GUI is organized as a two-level bullet point list, the outer points representing layouting groups and the inner points the user interface features contained in that layouting group. Each feature is represented in the following abstract pattern: 'text' (ui component type) (semantic description of ui component), the 'text' being the visual text of the component. Your task implement the feature of the user story in HTML, for styling you can also use CSS. Make sure the generated code can directly be viewed in a browser. Create HTML code only for the user story, do not repeat the code for the entire GUI.  As for your HTML code generation, first write *html-code*: followed by the actual HTML code.
+
+user story: 'As a new resident in a city, i want to input my zip code and find the closest office depot so that i can establish where i can get my office supplies frem in my new city' 
+
+graphical user interface description: - Toolbar
+	- "search" (Icon) (search)
+	- "menu" (Icon) (home)
+	- "cart" (Icon) (cart imageview)
+	- "Store Results" (Label) (title)
+- List Item
+	- "Stores Near" (Label) (store locator stores near me caption)
+	- (Image) (store locator map loader)
+	- "20 Stores" (Label) (store locator store results)
+	- "Find Stores" (Button) (store locator find stores)
+- List Item
+	- "1." (Label) (storelocator item position)
+	- "SAN FRANCISCO,Store #6498" (Button) (storelocator address line1)
+	- "arrow forward" (Icon) (storelocator item navigator)
+	- "3700 GEARY BOULEVARD" (Label) (storelocator address line2)
+	- "3.24 miles" (Label) (storelocator mile)
+	- "SAN FRANCISCO, CA, 94118" (Label) (storelocator citystatezip)
+	- "(415) 831-1080" (Button) (storelocator phone contactinfo)
+	- (Image) (storelocator brand logo)
+	- "Store Hours: 08:00AM-09:00PM" (Label) (storelocator storehours)
+	- "Set as My Store" (Button) (storelocator setasmystore)
+	- "View Weekly Ads" (Button) (storelocator weeklyads)
+- List Item
+	- "2." (Label) (storelocator item position)
+	- "SAN FRANCISCO,Store #6368" (Button) (storelocator address line1)
+	- "arrow forward" (Icon) (storelocator item navigator)
+	- "1750 HARRISON STREET" (Label) (storelocator address line2)
+	- "3.52 miles" (Label) (storelocator mile)
+	- "SAN FRANCISCO, CA, 94103" (Label) (storelocator citystatezip)
+	- "(415) 252-7611" (Button) (storelocator phone contactinfo)
+	- (Image) (storelocator brand logo)
+	- "Store Hours: 08:00AM-09:00PM" (Label) (storelocator storehours)
+	- "Set as My Store" (Button) (storelocator setasmystore)
+	- "View Weekly Ads" (Button) (storelocator weeklyads)
+
+Let's think step by step
+
+First, we need a text field for the user to enter their zip code. Secondly, we need a "Find Stores" button that the user can click after entering their zip code. 
+
+*html-code*:<!DOCTYPE html><html><head><style>body{font-family:Arial,sans-serif;margin:0;padding:0;background-color:#f4f4f4;}.container{width:80%;margin:auto;overflow:hidden;}.store-locator{background-color:white;margin:50px 0;padding:30px;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,0.1);}.store-locator h2{margin-bottom:20px;color:#333;}.store-locator label{display:block;margin-bottom:10px;}.store-locator input[type="text"]{width:100%;padding:10px;margin-bottom:20px;border-radius:4px;border:1px solid #aaa;}.store-locator input[type="submit"]{display:block;width:100%;padding:10px;background-color:#5cb85c;color:white;border:none;border-radius:4px;cursor:pointer;}.store-locator input[type="submit"]:hover{background-color:#4cae4c;}</style></head><body><div class="container"><div class="store-locator"><h2>Store Locator</h2><form action=""><label for="location">Enter a Zip code, or City and State</label><input type="text" id="location" name="location" placeholder="Example: New York, NY -or- '12345'"><input type="submit" value="Find Stores"></form></div></div></body></html>
+
+user story: 'As a social media user, I want to connect the app with my facebook account so that i can share my progress and achievements with friends' 
+
+graphical user interface description: - Toolbar
+	- "check" (Icon) (done)
+	- "emoji" (Icon) (home)
+	- "Preferences" (Label) (title)
+	- "arrow backward" (Icon) (up)
+- Layout
+	- "Preferences" (Label) (title)
+- List Item
+	- "Show Notification" (Label) (title)
+	- (Checkbox) ()
+	- "Calorie Count displays a helpful Android notification that shows you the current day's stat." (Label) (summary)
+- List Item
+	- "Show Update Reminder" (Label) (title)
+	- (Checkbox) ()
+	- "When there is a new version of Calorie Count on Google Play, a friendly reminder will pop up when you open the app." (Label) (summary)
+- List Item
+	- "Default Home Screen" (Label) (title)
+	- "We strongly encourage you to participate in Calorie Camp. But you also have option to change your home screen." (Label) (summary)
+- Layout
+	- "Foog Log Setting" (Label) (title)
+- List Item
+	- "Show Complete Day" (Label) (title)
+	- "Making a day complete flags it as valid data point for our weekly and monthly analysis tool on the website (available on our website). Incomplete days are ignored." (Label) (summary)
+	- (Checkbox) ()
+- List Item
+	- "Redirect to Calorie Camp" (Label) (title)
+	- (Checkbox) ()
+	- "Submitting a report to Calorie Camp allows you to earn points and badges, and to leave comments on your own days." (Label) (summary)
+ 
+Let's think step by step
+
+Firstly, to implement this user story, there should be a button or link for the user to connect the app with his Facebook account. This button or link should be visible and easily reachable, ideally it should be in the "Preferences" section of the app settings.
+
+*html-code*:<!DOCTYPE html><html><head><style>body{font-family:Arial,Helvetica,sans-serif;margin:0;padding:0}.container{max-width:500px;margin:0 auto;padding:20px;background-color:#f7f7f7}.title{font-weight:bold;font-size:20px;margin-bottom:10px}.summary{font-size:16px;margin-bottom:10px}.btn{background-color:#3b5998;color:#fff;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;cursor:pointer;border:none;border-radius:4px}.btn:hover{background-color:#4888db}</style></head><body><div class="container"><div class="title">Connect with Facebook</div><div class="summary">Share your progress and achievements with friends on Facebook.</div><button class="btn">Connect</button></div></body></html>
+
+user story: 'PLACEHOLDER_US' 
+
+graphical user interface description: PLACEHOLDER_GUI 
+
+Let's think step by step

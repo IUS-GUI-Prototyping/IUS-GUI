@@ -1,0 +1,1306 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "0",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowConsumed",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                1023,
+                2241,
+                1057,
+                2322
+            ],
+            "componentLabel": "Text",
+            "text_color": "#212121",
+            "bounds_updated": [
+                1023,
+                2241,
+                1057,
+                2322
+            ],
+            "text_updated": "0",
+            "font_size": 12,
+            "id": "8336_0"
+        },
+        {
+            "text": "Trans Fat, g",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowNutrient",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                71,
+                2241,
+                531,
+                2322
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                72.33333333333333,
+                2262.3333333333335,
+                377.66666666666663,
+                2317.0
+            ],
+            "text_updated": "Trans Fat, g",
+            "font_size": 11.461416904908374,
+            "id": "8336_1"
+        },
+        {
+            "text": "64",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowLeft",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                1319,
+                2106,
+                1387,
+                2187
+            ],
+            "componentLabel": "Text",
+            "text_color": "#212121",
+            "bounds_updated": [
+                1319,
+                2106,
+                1387,
+                2187
+            ],
+            "text_updated": "64",
+            "font_size": 12,
+            "id": "8336_2"
+        },
+        {
+            "text": "4",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowConsumed",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                1023,
+                2106,
+                1057,
+                2187
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1F1F1F",
+            "bounds_updated": [
+                1023,
+                2106,
+                1057,
+                2187
+            ],
+            "text_updated": "4",
+            "font_size": 12,
+            "id": "8336_3"
+        },
+        {
+            "text": "Protein, g",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowNutrient",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                71,
+                2106,
+                531,
+                2187
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1F1F1F",
+            "bounds_updated": [
+                76.33333333333333,
+                2126.0,
+                319.0,
+                2182.0
+            ],
+            "text_updated": "Protein, g",
+            "font_size": 11.123950375033687,
+            "id": "8336_4"
+        },
+        {
+            "text": "84",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowLeft",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                1319,
+                1971,
+                1387,
+                2052
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                1323.0,
+                1992.3333333333333,
+                1385.6666666666667,
+                2036.3333333333333
+            ],
+            "text_updated": "84",
+            "font_size": 10.733224144888295,
+            "id": "8336_5"
+        },
+        {
+            "text": "71",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowConsumed",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                989,
+                1971,
+                1057,
+                2052
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                990.3333333333334,
+                1992.3333333333333,
+                1045.0,
+                2035.0
+            ],
+            "text_updated": "71",
+            "font_size": 9.553816308783258,
+            "id": "8336_6"
+        },
+        {
+            "text": "Carbs, g",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowNutrient",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                71,
+                1971,
+                531,
+                2052
+            ],
+            "componentLabel": "Text",
+            "text_color": "#222222",
+            "bounds_updated": [
+                75.0,
+                1992.3333333333333,
+                285.66666666666663,
+                2048.3333333333335
+            ],
+            "text_updated": "Carbs, g",
+            "font_size": 11.007393391499349,
+            "id": "8336_7"
+        },
+        {
+            "text": "42",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowLeft",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                1319,
+                1836,
+                1387,
+                1917
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1F1F1F",
+            "bounds_updated": [
+                1320.3333333333333,
+                1857.3333333333333,
+                1385.6666666666667,
+                1900.0
+            ],
+            "text_updated": "42",
+            "font_size": 11.233372955227223,
+            "id": "8336_8"
+        },
+        {
+            "text": "11",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowConsumed",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                989,
+                1836,
+                1057,
+                1917
+            ],
+            "componentLabel": "Text",
+            "text_color": "#222222",
+            "bounds_updated": [
+                993.0,
+                1857.3333333333333,
+                1045.0,
+                1900.0
+            ],
+            "text_updated": "11",
+            "font_size": 8.951151865059122,
+            "id": "8336_9"
+        },
+        {
+            "text": "Fat, g",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowNutrient",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                71,
+                1836,
+                531,
+                1917
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1F1F1F",
+            "bounds_updated": [
+                76.33333333333333,
+                1857.3333333333333,
+                213.66666666666666,
+                1913.3333333333333
+            ],
+            "text_updated": "Fat, g",
+            "font_size": 10.89068282281413,
+            "id": "8336_10"
+        },
+        {
+            "text": "-4",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowConsumed",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                1006,
+                1665,
+                1057,
+                1746
+            ],
+            "componentLabel": "Text",
+            "text_color": "#212121",
+            "bounds_updated": [
+                1006,
+                1665,
+                1057,
+                1746
+            ],
+            "text_updated": "-4",
+            "font_size": 12,
+            "id": "8336_11"
+        },
+        {
+            "text": "Food Score daily average",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowNutrient",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                71,
+                1630,
+                531,
+                1782
+            ],
+            "componentLabel": "Text",
+            "text_color": "#222222",
+            "bounds_updated": [
+                75.0,
+                1651.3333333333333,
+                512.3333333333333,
+                1778.0
+            ],
+            "text_updated": "Food Score daily\naverage",
+            "font_size": 11.497315127727182,
+            "id": "8336_12"
+        },
+        {
+            "text": "974",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowLeft",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                1285,
+                1459,
+                1387,
+                1540
+            ],
+            "componentLabel": "Text",
+            "text_color": "#212121",
+            "bounds_updated": [
+                1287.6666666666667,
+                1480.3333333333333,
+                1385.0,
+                1523.0
+            ],
+            "text_updated": "974",
+            "font_size": 11.25407337327864,
+            "id": "8336_13"
+        },
+        {
+            "text": "395",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowConsumed",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                955,
+                1459,
+                1057,
+                1540
+            ],
+            "componentLabel": "Text",
+            "text_color": "#212121",
+            "bounds_updated": [
+                957.6666666666666,
+                1480.3333333333333,
+                1055.0,
+                1524.3333333333333
+            ],
+            "text_updated": "395",
+            "font_size": 11.25407337327869,
+            "id": "8336_14"
+        },
+        {
+            "text": "Cals ratio 24:71:5",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowNutrient",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                71,
+                1424,
+                531,
+                1576
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                73.66666666666667,
+                1445.3333333333333,
+                323.0,
+                1560.0
+            ],
+            "text_updated": "Cals ratio\n24:71:5",
+            "font_size": 11.353642384105964,
+            "id": "8336_15"
+        },
+        {
+            "text": "Left",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowLeft",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                1282,
+                1289,
+                1387,
+                1370
+            ],
+            "componentLabel": "Text",
+            "text_color": "#212121",
+            "bounds_updated": [
+                1286.0,
+                1310.3333333333333,
+                1384.6666666666667,
+                1353.0
+            ],
+            "text_updated": "Left",
+            "font_size": 11.350182457088794,
+            "id": "8336_16"
+        },
+        {
+            "text": "Consumed",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowConsumed",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                768,
+                1289,
+                1057,
+                1370
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                772.0,
+                1309.0,
+                1053.3333333333333,
+                1353.0
+            ],
+            "text_updated": "Consumed",
+            "font_size": 11.419271549365103,
+            "id": "8336_17"
+        },
+        {
+            "text": "Nutrient",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/nutrientRowNutrient",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                71,
+                1289,
+                531,
+                1370
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                76.33333333333333,
+                1310.3333333333333,
+                285.66666666666663,
+                1353.0
+            ],
+            "text_updated": "Nutrient",
+            "font_size": 11.099563075861454,
+            "id": "8336_18"
+        },
+        {
+            "text": "DAY FOOD TOTALS",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/listSeparatorTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                0,
+                1148,
+                591,
+                1267
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FF9819",
+            "bounds_updated": [
+                60.0,
+                1189.3333333333333,
+                533.3333333333333,
+                1229.3333333333333
+            ],
+            "text_updated": "DAY FOOD TOTALS",
+            "font_size": 11.089082726230423,
+            "id": "8336_19"
+        },
+        {
+            "text": "Snacks",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/ad_cell_with_icon_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                252,
+                1026,
+                931,
+                1102
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1F1F1F",
+            "bounds_updated": [
+                254.66666666666666,
+                1044.6666666666667,
+                429.3333333333333,
+                1086.0
+            ],
+            "text_updated": "Snacks",
+            "font_size": 10.85041522127615,
+            "id": "8336_20"
+        },
+        {
+            "iconClass": "call",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/ad_cell_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.p",
+            "bounds": [
+                56,
+                1001,
+                182,
+                1127
+            ],
+            "componentLabel": "Icon",
+            "id": "8336_21"
+        },
+        {
+            "text": "Dinner",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/ad_cell_with_icon_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                252,
+                858,
+                931,
+                934
+            ],
+            "componentLabel": "Text",
+            "text_color": "#222222",
+            "bounds_updated": [
+                256.0,
+                878.0,
+                413.3333333333333,
+                918.0
+            ],
+            "text_updated": "Dinner",
+            "font_size": 10.34134315696722,
+            "id": "8336_22"
+        },
+        {
+            "iconClass": "weather",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/ad_cell_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.p",
+            "bounds": [
+                56,
+                833,
+                182,
+                959
+            ],
+            "componentLabel": "Icon",
+            "id": "8336_23"
+        },
+        {
+            "text": "Lunch",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/ad_cell_with_icon_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                252,
+                690,
+                931,
+                766
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1F1F1F",
+            "bounds_updated": [
+                256.0,
+                708.6666666666666,
+                400.0,
+                750.0
+            ],
+            "text_updated": "Lunch",
+            "font_size": 10.64671735753412,
+            "id": "8336_24"
+        },
+        {
+            "iconClass": "refresh",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/ad_cell_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.p",
+            "bounds": [
+                56,
+                665,
+                182,
+                791
+            ],
+            "componentLabel": "Icon",
+            "id": "8336_25"
+        },
+        {
+            "text": "395 cals",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/ad_cell_with_icon_rightTop",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                931,
+                527,
+                1384,
+                593
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3892AD",
+            "bounds_updated": [
+                1200.3333333333333,
+                544.3333333333334,
+                1383.0,
+                580.3333333333334
+            ],
+            "text_updated": "395 cals",
+            "font_size": 9.629147114762148,
+            "id": "8336_26"
+        },
+        {
+            "text": "Breakfast",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/ad_cell_with_icon_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                252,
+                522,
+                931,
+                598
+            ],
+            "componentLabel": "Text",
+            "text_color": "#222222",
+            "bounds_updated": [
+                256.0,
+                542.0,
+                488.0,
+                582.0
+            ],
+            "text_updated": "Breakfast",
+            "font_size": 10.621907589251727,
+            "id": "8336_27"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/ad_cell_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.p",
+            "bounds": [
+                56,
+                497,
+                182,
+                623
+            ],
+            "componentLabel": "Image",
+            "id": "8336_28"
+        },
+        {
+            "iconClass": "add",
+            "ancestors": [
+                "android.support.design.widget.ac",
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1188,
+                2140,
+                1384,
+                2336
+            ],
+            "clickable": true,
+            "class": "android.support.design.widget.FloatingActionButton",
+            "componentLabel": "Icon",
+            "id": "8336_29"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/navigationBarNextDay",
+            "clickable": true,
+            "class": "android.support.v7.widget.p",
+            "bounds": [
+                1000,
+                280,
+                1140,
+                448
+            ],
+            "componentLabel": "Icon",
+            "id": "8336_30"
+        },
+        {
+            "text": "Today",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/navigationBarTitle",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                440,
+                280,
+                1000,
+                448
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "today",
+            "bg_color": "#29B806",
+            "text_color": "#FFFBFF",
+            "bounds_text": [
+                636.0,
+                342.6666666666667,
+                805.3333333333333,
+                401.3333333333333
+            ],
+            "text_updated": "Today",
+            "font_size": 12.225400681844906,
+            "id": "8336_31"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/navigationBarPreviousDay",
+            "clickable": true,
+            "class": "android.support.v7.widget.p",
+            "bounds": [
+                300,
+                280,
+                440,
+                448
+            ],
+            "componentLabel": "Icon",
+            "id": "8336_32"
+        },
+        {
+            "iconClass": "more",
+            "ancestors": [
+                "android.support.v7.widget.p",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1300,
+                98,
+                1440,
+                266
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.d$d",
+            "componentLabel": "Icon",
+            "id": "8336_33"
+        },
+        {
+            "iconClass": "description",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/menu_report",
+            "ancestors": [
+                "android.support.v7.widget.aa",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1132,
+                98,
+                1300,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "8336_34"
+        },
+        {
+            "iconClass": "emoji",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/menu_subscription",
+            "ancestors": [
+                "android.support.v7.widget.aa",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                964,
+                98,
+                1132,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "8336_35"
+        },
+        {
+            "text": "Meals",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.aa",
+            "bounds": [
+                252,
+                135,
+                443,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFCFF",
+            "bounds_updated": [
+                252,
+                135,
+                443,
+                228
+            ],
+            "text_updated": "Meals",
+            "font_size": 12,
+            "id": "8336_36"
+        },
+        {
+            "iconClass": "menu",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.n",
+            "componentLabel": "Icon",
+            "id": "8336_37"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                448,
+                1440,
+                2392
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8336_38",
+            "ui_comp_ids": [
+                "8336_0",
+                "8336_1",
+                "8336_2",
+                "8336_3",
+                "8336_4",
+                "8336_5",
+                "8336_6",
+                "8336_7",
+                "8336_8",
+                "8336_9",
+                "8336_10",
+                "8336_11",
+                "8336_12",
+                "8336_13",
+                "8336_14",
+                "8336_15",
+                "8336_16",
+                "8336_17",
+                "8336_18",
+                "8336_19",
+                "8336_20",
+                "8336_21",
+                "8336_22",
+                "8336_23",
+                "8336_24",
+                "8336_25",
+                "8336_26",
+                "8336_27",
+                "8336_28",
+                "8336_29"
+            ],
+            "ui_comp_group_ids": [
+                "8336_40",
+                "8336_41",
+                "8336_43",
+                "8336_44",
+                "8336_45",
+                "8336_46",
+                "8336_47",
+                "8336_48",
+                "8336_49",
+                "8336_50",
+                "8336_51",
+                "8336_52"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                84,
+                1440,
+                448
+            ],
+            "class": "android.support.design.widget.AppBarLayout",
+            "bg_color": "#29B806",
+            "id": "8336_39",
+            "ui_comp_ids": [
+                "8336_30",
+                "8336_31",
+                "8336_32",
+                "8336_33",
+                "8336_34",
+                "8336_35",
+                "8336_36",
+                "8336_37"
+            ],
+            "ui_comp_group_ids": [
+                "8336_42",
+                "8336_53"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1406,
+                1440,
+                1612
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8336_40",
+            "ui_comp_ids": [
+                "8336_13",
+                "8336_14",
+                "8336_15"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1612,
+                1440,
+                1818
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#F4F4F4",
+            "id": "8336_41",
+            "ui_comp_ids": [
+                "8336_11",
+                "8336_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#29B806",
+            "id": "8336_42",
+            "ui_comp_ids": [
+                "8336_33",
+                "8336_34",
+                "8336_35",
+                "8336_36",
+                "8336_37"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                476,
+                1440,
+                644
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8336_43",
+            "ui_comp_ids": [
+                "8336_26",
+                "8336_27",
+                "8336_28"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                644,
+                1440,
+                812
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8336_44",
+            "ui_comp_ids": [
+                "8336_24",
+                "8336_25"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                812,
+                1440,
+                980
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8336_45",
+            "ui_comp_ids": [
+                "8336_22",
+                "8336_23"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                980,
+                1440,
+                1148
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8336_46",
+            "ui_comp_ids": [
+                "8336_20",
+                "8336_21"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1271,
+                1440,
+                1406
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#F4F4F4",
+            "id": "8336_47",
+            "ui_comp_ids": [
+                "8336_16",
+                "8336_17",
+                "8336_18"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1818,
+                1440,
+                1953
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8336_48",
+            "ui_comp_ids": [
+                "8336_8",
+                "8336_9",
+                "8336_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1953,
+                1440,
+                2088
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#F4F4F4",
+            "id": "8336_49",
+            "ui_comp_ids": [
+                "8336_5",
+                "8336_6",
+                "8336_7"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                2088,
+                1440,
+                2223
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8336_50",
+            "ui_comp_ids": [
+                "8336_2",
+                "8336_3",
+                "8336_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                2223,
+                1440,
+                2358
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#F4F4F4",
+            "id": "8336_51",
+            "ui_comp_ids": [
+                "8336_0",
+                "8336_1"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1148,
+                1440,
+                1271
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8336_52",
+            "ui_comp_ids": [
+                "8336_19"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                300,
+                280,
+                1140,
+                448
+            ],
+            "class": "com.mynetdiary.ui.components.DayNavigationBarController",
+            "bg_color": "#29B806",
+            "id": "8336_53",
+            "ui_comp_ids": [
+                "8336_30",
+                "8336_31",
+                "8336_32"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

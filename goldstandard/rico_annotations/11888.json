@@ -1,0 +1,983 @@
+{
+    "bg_color": "#3E3E3E",
+    "ui_comps": [
+        {
+            "iconClass": "skip_next",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.app.studio.mp3player:id/next",
+            "clickable": true,
+            "class": "com.app.studio.mp3player.RepeatingImageButton",
+            "bounds": [
+                1151,
+                2077,
+                1291,
+                2217
+            ],
+            "componentLabel": "Icon",
+            "id": "11888_0"
+        },
+        {
+            "iconClass": "play",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.app.studio.mp3player:id/pause",
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "bounds": [
+                1011,
+                2077,
+                1151,
+                2217
+            ],
+            "componentLabel": "Icon",
+            "id": "11888_1"
+        },
+        {
+            "iconClass": "skip_previous",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.app.studio.mp3player:id/prev",
+            "clickable": true,
+            "class": "com.app.studio.mp3player.RepeatingImageButton",
+            "bounds": [
+                871,
+                2077,
+                1011,
+                2217
+            ],
+            "componentLabel": "Icon",
+            "id": "11888_2"
+        },
+        {
+            "text": "MrRoccoTeam",
+            "resource-id": "com.app.studio.mp3player:id/artist",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                11,
+                2155,
+                718,
+                2217
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D9DADF",
+            "bounds_updated": [
+                11,
+                2155,
+                718,
+                2217
+            ],
+            "text_updated": "MrRoccoTeam",
+            "font_size": 12,
+            "id": "11888_3"
+        },
+        {
+            "text": "02O_4",
+            "resource-id": "com.app.studio.mp3player:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                11,
+                2070,
+                718,
+                2155
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFEFF",
+            "bounds_updated": [
+                15.0,
+                2092.6666666666665,
+                187.0,
+                2142.0
+            ],
+            "text_updated": "020_4",
+            "font_size": 12.087205024214114,
+            "id": "11888_4"
+        },
+        {
+            "ancestors": [
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                160,
+                2217,
+                1280,
+                2392
+            ],
+            "clickable": true,
+            "class": "com.google.android.gms.ads.internal.webview.o",
+            "componentLabel": "Web View",
+            "id": "11888_5"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.app.studio.mp3player:id/icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                0,
+                1957,
+                711,
+                2045
+            ],
+            "componentLabel": "Image",
+            "id": "11888_6"
+        },
+        {
+            "text": "\u2117 2016 TopMobile",
+            "resource-id": "com.app.studio.mp3player:id/line2",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                728,
+                1856,
+                1165,
+                1922
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D1D1D1",
+            "bounds_updated": [
+                728,
+                1856,
+                1165,
+                1922
+            ],
+            "text_updated": "\u2117 2016 TopMobile",
+            "font_size": 12,
+            "id": "11888_7"
+        },
+        {
+            "text": "Gangster Ringtones Free",
+            "resource-id": "com.app.studio.mp3player:id/line1",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                728,
+                1771,
+                1369,
+                1856
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D8D8D8",
+            "bounds_updated": [
+                764.0,
+                1792.3333333333333,
+                1334.6666666666665,
+                1851.0
+            ],
+            "text_updated": "Gangster Ringtones..",
+            "font_size": 11.597536888579059,
+            "id": "11888_8"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.app.studio.mp3player:id/icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                728,
+                1410,
+                1439,
+                1940
+            ],
+            "componentLabel": "Image",
+            "id": "11888_9"
+        },
+        {
+            "text": "MrRoccoTeam",
+            "resource-id": "com.app.studio.mp3player:id/line2",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                0,
+                1856,
+                353,
+                1922
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D3D3D3",
+            "bounds_updated": [
+                0,
+                1856,
+                353,
+                1922
+            ],
+            "text_updated": "MrRoccoTeam",
+            "font_size": 12,
+            "id": "11888_10"
+        },
+        {
+            "text": "5.618095,13.178821,21.509161,28.898730,40.966757,45.544943,54.191791,60.342539,72.279183,79.237505,86.126303,90.402221,96.708434,104.416234,109.923263,115.856279,123.656596,130.339771,144.247209,153.831427,162.549159,169.165531,177.919953,185.258048,191.503218,",
+            "resource-id": "com.app.studio.mp3player:id/line1",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                0,
+                1771,
+                641,
+                1856
+            ],
+            "componentLabel": "Text",
+            "id": "11888_11"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.app.studio.mp3player:id/icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                0,
+                1410,
+                711,
+                1940
+            ],
+            "componentLabel": "Image",
+            "id": "11888_12"
+        },
+        {
+            "text": "MrRoccoTeam",
+            "resource-id": "com.app.studio.mp3player:id/line2",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                728,
+                1309,
+                1081,
+                1375
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D0D0D0",
+            "bounds_updated": [
+                764.0,
+                1325.0,
+                1077.3333333333333,
+                1361.0
+            ],
+            "text_updated": "MrRoccoTeam",
+            "font_size": 10.06975153220631,
+            "id": "11888_13"
+        },
+        {
+            "text": "4.582268,13.674604,17.436282,22.945398,29.904536,36.363357,44.571067,49.978142,58.441135,66.012564,77.745807,89.026442,91.564265,102.747394,108.701816,116.922950,121.082315,128.344945,130.866260,140.234831,152.652337,161.399684,163.918323,174.334151,184.647031,200.205126,207.272246,223.021180,235.620001,247.343040,257.357099,",
+            "resource-id": "com.app.studio.mp3player:id/line1",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                728,
+                1224,
+                1369,
+                1309
+            ],
+            "componentLabel": "Text",
+            "id": "11888_14"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.app.studio.mp3player:id/icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                728,
+                863,
+                1439,
+                1393
+            ],
+            "componentLabel": "Image",
+            "id": "11888_15"
+        },
+        {
+            "text": "MrRoccoTeam",
+            "resource-id": "com.app.studio.mp3player:id/line2",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                0,
+                1309,
+                353,
+                1375
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D7D7D7",
+            "bounds_updated": [
+                36.0,
+                1325.0,
+                349.3333333333333,
+                1361.0
+            ],
+            "text_updated": "MrRoccoTeam",
+            "font_size": 10.06975153220631,
+            "id": "11888_16"
+        },
+        {
+            "text": "20.114966,26.111882,31.323129,42.345623,50.321632,61.084852,68.195419,76.367437,87.429523,97.371110,111.468253,121.984716,133.495283,138.148072,146.435374,155.298413,166.807574,177.918549,186.898821,194.690975,205.070567,215.913560,224.840136,244.029070,251.185215,257.778367,270.083809,",
+            "resource-id": "com.app.studio.mp3player:id/line1",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                0,
+                1224,
+                641,
+                1309
+            ],
+            "componentLabel": "Text",
+            "id": "11888_17"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.app.studio.mp3player:id/icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                0,
+                863,
+                711,
+                1393
+            ],
+            "componentLabel": "Image",
+            "id": "11888_18"
+        },
+        {
+            "text": "MrRoccoTeam",
+            "resource-id": "com.app.studio.mp3player:id/line2",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                728,
+                762,
+                1081,
+                828
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D0D0D0",
+            "bounds_updated": [
+                728,
+                762,
+                1081,
+                828
+            ],
+            "text_updated": "MrRoccoTeam",
+            "font_size": 12,
+            "id": "11888_19"
+        },
+        {
+            "text": "13.831474,25.276327,31.742087,42.457733,50.818549,63.349207,73.878323,93.072835,102.753969,110.713243,119.264354,131.525170,146.658957,156.339728,174.963401,191.841723,206.719728,226.857370,232.448209,240.973697,249.648164,266.592246,",
+            "resource-id": "com.app.studio.mp3player:id/line1",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                728,
+                677,
+                1369,
+                762
+            ],
+            "componentLabel": "Text",
+            "id": "11888_20"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.app.studio.mp3player:id/icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                728,
+                316,
+                1439,
+                846
+            ],
+            "componentLabel": "Image",
+            "id": "11888_21"
+        },
+        {
+            "text": "MrRoccoTeam",
+            "resource-id": "com.app.studio.mp3player:id/line2",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                0,
+                762,
+                353,
+                828
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D4D4D4",
+            "bounds_updated": [
+                0,
+                762,
+                353,
+                828
+            ],
+            "text_updated": "MrRoccoTeam",
+            "font_size": 12,
+            "id": "11888_22"
+        },
+        {
+            "text": "12.396599,17.942087,26.730114,37.241497,46.469706,58.592382,70.823357,79.762450,96.221452,108.532563,118.813425,123.970523,130.331974,146.789298,155.806713,164.771067,169.222858,184.822903,192.428436,202.125080,216.389298,223.127801,233.773697,239.220409,248.986350,255.442223,264.029842,270.705670,275.664446,282.275875,294.182224,",
+            "resource-id": "com.app.studio.mp3player:id/line1",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                0,
+                677,
+                641,
+                762
+            ],
+            "componentLabel": "Text",
+            "id": "11888_23"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.app.studio.mp3player:id/icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                0,
+                316,
+                711,
+                846
+            ],
+            "componentLabel": "Image",
+            "id": "11888_24"
+        },
+        {
+            "text": "Playlists",
+            "resource-id": "com.app.studio.mp3player:id/playlisttab",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1070,
+                92,
+                1440,
+                312
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#412D5E",
+            "text_color": "#FFFBFF",
+            "bounds_text": [
+                1070,
+                92,
+                1440,
+                312
+            ],
+            "text_updated": "Playlists",
+            "font_size": 12,
+            "id": "11888_25"
+        },
+        {
+            "text": "Artists",
+            "resource-id": "com.app.studio.mp3player:id/artisttab",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                710,
+                92,
+                1090,
+                312
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#462D64",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                830.0,
+                125.33333333333333,
+                970.0,
+                289.3333333333333
+            ],
+            "text_updated": "ay\n\nArtists",
+            "font_size": 9.538526227267964,
+            "id": "11888_26"
+        },
+        {
+            "text": "Albums",
+            "resource-id": "com.app.studio.mp3player:id/albumtab",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                350,
+                92,
+                730,
+                312
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#442B65",
+            "bounds_text": [
+                350,
+                92,
+                730,
+                312
+            ],
+            "text_updated": "Albums",
+            "font_size": 12,
+            "id": "11888_27"
+        },
+        {
+            "text": "Songs",
+            "resource-id": "com.app.studio.mp3player:id/songtab",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                0,
+                92,
+                370,
+                312
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#3A1E69",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                0,
+                92,
+                370,
+                312
+            ],
+            "text_updated": "Songs",
+            "font_size": 12,
+            "id": "11888_28"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                316,
+                1440,
+                2045
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#3E3E3E",
+            "id": "11888_29",
+            "ui_comp_ids": [
+                "11888_6",
+                "11888_7",
+                "11888_8",
+                "11888_9",
+                "11888_10",
+                "11888_11",
+                "11888_12",
+                "11888_13",
+                "11888_14",
+                "11888_15",
+                "11888_16",
+                "11888_17",
+                "11888_18",
+                "11888_19",
+                "11888_20",
+                "11888_21",
+                "11888_22",
+                "11888_23",
+                "11888_24"
+            ],
+            "ui_comp_group_ids": [
+                "11888_31",
+                "11888_32",
+                "11888_33",
+                "11888_34",
+                "11888_35",
+                "11888_36",
+                "11888_44"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2045,
+                1440,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "11888_30",
+            "ui_comp_ids": [
+                "11888_0",
+                "11888_1",
+                "11888_2",
+                "11888_3",
+                "11888_4",
+                "11888_5"
+            ],
+            "ui_comp_group_ids": [
+                "11888_38",
+                "11888_39",
+                "11888_40",
+                "11888_41",
+                "11888_42",
+                "11888_43"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                316,
+                711,
+                846
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#3E3E3E",
+            "id": "11888_31",
+            "ui_comp_ids": [
+                "11888_22",
+                "11888_23",
+                "11888_24"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                728,
+                316,
+                1439,
+                846
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#3E3E3E",
+            "id": "11888_32",
+            "ui_comp_ids": [
+                "11888_19",
+                "11888_20",
+                "11888_21"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                863,
+                711,
+                1393
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#3E3E3E",
+            "id": "11888_33",
+            "ui_comp_ids": [
+                "11888_16",
+                "11888_17",
+                "11888_18"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                728,
+                863,
+                1439,
+                1393
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#3E3E3E",
+            "id": "11888_34",
+            "ui_comp_ids": [
+                "11888_13",
+                "11888_14",
+                "11888_15"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1410,
+                711,
+                1940
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#3E3E3E",
+            "id": "11888_35",
+            "ui_comp_ids": [
+                "11888_10",
+                "11888_11",
+                "11888_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                728,
+                1410,
+                1439,
+                1940
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#3E3E3E",
+            "id": "11888_36",
+            "ui_comp_ids": [
+                "11888_7",
+                "11888_8",
+                "11888_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                84,
+                1440,
+                312
+            ],
+            "class": "android.widget.TabWidget",
+            "bg_color": "#FFFFFF",
+            "id": "11888_37",
+            "ui_comp_ids": [
+                "11888_25",
+                "11888_26",
+                "11888_27",
+                "11888_28"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2059,
+                1440,
+                2217
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#300E4B",
+            "id": "11888_38",
+            "ui_comp_ids": [
+                "11888_0",
+                "11888_1",
+                "11888_2",
+                "11888_3",
+                "11888_4"
+            ],
+            "ui_comp_group_ids": [
+                "11888_39",
+                "11888_40",
+                "11888_41",
+                "11888_42",
+                "11888_43"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                722,
+                2059,
+                1440,
+                2217
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#300E4B",
+            "id": "11888_39",
+            "ui_comp_ids": [
+                "11888_0",
+                "11888_1",
+                "11888_2"
+            ],
+            "ui_comp_group_ids": [
+                "11888_41",
+                "11888_43"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2059,
+                718,
+                2217
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#77807B",
+            "id": "11888_40",
+            "ui_comp_ids": [
+                "11888_3",
+                "11888_4"
+            ],
+            "ui_comp_group_ids": [
+                "11888_42"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                722,
+                2060,
+                1440,
+                2217
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#300E4B",
+            "id": "11888_41",
+            "ui_comp_ids": [
+                "11888_0",
+                "11888_1",
+                "11888_2"
+            ],
+            "ui_comp_group_ids": [
+                "11888_43"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                11,
+                2070,
+                718,
+                2217
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#77807B",
+            "id": "11888_42",
+            "ui_comp_ids": [
+                "11888_3",
+                "11888_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                871,
+                2060,
+                1291,
+                2217
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#4C226C",
+            "id": "11888_43",
+            "ui_comp_ids": [
+                "11888_0",
+                "11888_1",
+                "11888_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1957,
+                711,
+                2045
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#3E3E3E",
+            "id": "11888_44",
+            "ui_comp_ids": [
+                "11888_6"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

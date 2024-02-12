@@ -1,0 +1,1708 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "Wendell",
+            "resource-id": "com.resultadosfutbol.mobile:id/eventPlayerLocal",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                179,
+                2098,
+                331,
+                2155
+            ],
+            "componentLabel": "Text",
+            "text_color": "#161616",
+            "bounds_updated": [
+                181.66666666666666,
+                2111.3333333333335,
+                328.3333333333333,
+                2143.3333333333335
+            ],
+            "text_updated": "Wendell",
+            "font_size": 6.128851246164415,
+            "id": "17004_0"
+        },
+        {
+            "text": "Penalty Missed",
+            "resource-id": "com.resultadosfutbol.mobile:id/eventLocal",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                179,
+                2041,
+                465,
+                2098
+            ],
+            "componentLabel": "Text",
+            "text_color": "#262626",
+            "bounds_updated": [
+                181.66666666666666,
+                2057.0,
+                461.66666666666663,
+                2097.0
+            ],
+            "text_updated": "Penalty Missed",
+            "font_size": 6.3953537264795655,
+            "id": "17004_1"
+        },
+        {
+            "iconClass": "globe",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/eventLocalImg",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                533,
+                2047,
+                636,
+                2150
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_2"
+        },
+        {
+            "iconClass": "avatar",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/eventLocalPlayerImg",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                60,
+                2046,
+                165,
+                2151
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_3"
+        },
+        {
+            "text": "81'",
+            "resource-id": "com.resultadosfutbol.mobile:id/eventTime",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                650,
+                2028,
+                790,
+                2168
+            ],
+            "componentLabel": "Text",
+            "text_color": "#4E9630",
+            "bounds_updated": [
+                650,
+                2028,
+                790,
+                2168
+            ],
+            "text_updated": "81'",
+            "font_size": 12,
+            "id": "17004_4"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/eventTimeImg",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                650,
+                2028,
+                790,
+                2168
+            ],
+            "componentLabel": "Image",
+            "id": "17004_5"
+        },
+        {
+            "text": "CHANCES",
+            "resource-id": "com.resultadosfutbol.mobile:id/gameListHeaderTxt",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                1919,
+                1440,
+                1981
+            ],
+            "componentLabel": "Text",
+            "text_color": "#494949",
+            "bounds_updated": [
+                618.6666666666666,
+                1935.0,
+                824.0,
+                1967.0
+            ],
+            "text_updated": "CHANCES",
+            "font_size": 8.446180443930071,
+            "id": "17004_6"
+        },
+        {
+            "text": "Own Goal - 82' De Sanctis M. (Wendell) (Own Goal), Bayer Leverkusen",
+            "resource-id": "com.resultadosfutbol.mobile:id/videos_title_tv",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                60,
+                1778,
+                1296,
+                1884
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1D1D1D",
+            "bounds_updated": [
+                62.666666666666664,
+                1791.3333333333333,
+                1124.0,
+                1871.3333333333333
+            ],
+            "text_updated": "Own Goal - 82' De Sanctis M. (Wendell) (Own Goal), Bayer\nLeverkusen",
+            "font_size": 5.933612701263396,
+            "id": "17004_7"
+        },
+        {
+            "iconClass": "play",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/videos_iv",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1296,
+                1789,
+                1380,
+                1873
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_8"
+        },
+        {
+            "text": "Goal - 48' Brandt J. (Calhanoglu H.), Bayer Leverkusen",
+            "resource-id": "com.resultadosfutbol.mobile:id/videos_title_tv",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                60,
+                1662,
+                1296,
+                1719
+            ],
+            "componentLabel": "Text",
+            "text_color": "#212121",
+            "bounds_updated": [
+                62.666666666666664,
+                1678.0,
+                1054.6666666666665,
+                1718.0
+            ],
+            "text_updated": "Goal - 48' Brandt J. (Calhanoglu H.), Bayer Leverkusen",
+            "font_size": 5.9304042346127375,
+            "id": "17004_9"
+        },
+        {
+            "iconClass": "play",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/videos_iv",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1296,
+                1649,
+                1380,
+                1733
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_10"
+        },
+        {
+            "text": "Goal - 30' Yurchenko V., Bayer Leverkusen",
+            "resource-id": "com.resultadosfutbol.mobile:id/videos_title_tv",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                60,
+                1522,
+                1296,
+                1579
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1D1D1D",
+            "bounds_updated": [
+                62.666666666666664,
+                1535.3333333333333,
+                825.3333333333333,
+                1575.3333333333333
+            ],
+            "text_updated": "Goal - 30\u2019 Yurchenko V., Bayer Leverkusen",
+            "font_size": 5.780492556299107,
+            "id": "17004_11"
+        },
+        {
+            "iconClass": "play",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/videos_iv",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1296,
+                1509,
+                1380,
+                1593
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_12"
+        },
+        {
+            "text": "VIDEOS",
+            "resource-id": "com.resultadosfutbol.mobile:id/gameListHeaderTxt",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                1401,
+                1440,
+                1463
+            ],
+            "componentLabel": "Text",
+            "text_color": "#4C4C4C",
+            "bounds_updated": [
+                642.6666666666666,
+                1417.0,
+                797.3333333333333,
+                1451.6666666666667
+            ],
+            "text_updated": "VIDEOS",
+            "font_size": 7.835149184647134,
+            "id": "17004_13"
+        },
+        {
+            "text": "M. De Sanctis",
+            "resource-id": "com.resultadosfutbol.mobile:id/eventPlayerLocal",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                179,
+                1290,
+                440,
+                1347
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1E1E1E",
+            "bounds_updated": [
+                181.66666666666666,
+                1303.3333333333333,
+                437.66666666666663,
+                1335.3333333333333
+            ],
+            "text_updated": "M. De Sanctis",
+            "font_size": 6.406916850625471,
+            "id": "17004_14"
+        },
+        {
+            "text": "Own Goal",
+            "resource-id": "com.resultadosfutbol.mobile:id/eventLocal",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                179,
+                1233,
+                359,
+                1290
+            ],
+            "componentLabel": "Text",
+            "text_color": "#282828",
+            "bounds_updated": [
+                181.66666666666666,
+                1249.0,
+                357.66666666666663,
+                1281.0
+            ],
+            "text_updated": "Own Goal",
+            "font_size": 5.8918322295805865,
+            "id": "17004_15"
+        },
+        {
+            "iconClass": "globe",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/eventLocalImg",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                533,
+                1239,
+                636,
+                1342
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_16"
+        },
+        {
+            "iconClass": "avatar",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/eventLocalPlayerImg",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                60,
+                1238,
+                165,
+                1343
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_17"
+        },
+        {
+            "text": "81'",
+            "resource-id": "com.resultadosfutbol.mobile:id/eventTime",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                650,
+                1220,
+                790,
+                1360
+            ],
+            "componentLabel": "Text",
+            "text_color": "#449C2C",
+            "bounds_updated": [
+                650,
+                1220,
+                790,
+                1360
+            ],
+            "text_updated": "81'",
+            "font_size": 12,
+            "id": "17004_18"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/eventTimeImg",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                650,
+                1220,
+                790,
+                1360
+            ],
+            "componentLabel": "Image",
+            "id": "17004_19"
+        },
+        {
+            "text": "J. Brandt",
+            "resource-id": "com.resultadosfutbol.mobile:id/eventPlayerLocal",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                179,
+                1114,
+                350,
+                1171
+            ],
+            "componentLabel": "Text",
+            "text_color": "#232323",
+            "bounds_updated": [
+                181.66666666666666,
+                1127.3333333333333,
+                349.66666666666663,
+                1159.3333333333333
+            ],
+            "text_updated": "J. Brandt",
+            "font_size": 6.965801184344223,
+            "id": "17004_20"
+        },
+        {
+            "text": "Goal",
+            "resource-id": "com.resultadosfutbol.mobile:id/eventLocal",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                179,
+                1057,
+                265,
+                1114
+            ],
+            "componentLabel": "Text",
+            "text_color": "#232323",
+            "bounds_updated": [
+                181.66666666666666,
+                1073.0,
+                261.66666666666663,
+                1105.0
+            ],
+            "text_updated": "Goal",
+            "font_size": 5.273730684326756,
+            "id": "17004_21"
+        },
+        {
+            "iconClass": "globe",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/eventLocalImg",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                533,
+                1062,
+                636,
+                1165
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_22"
+        },
+        {
+            "iconClass": "avatar",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/eventLocalPlayerImg",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                60,
+                1061,
+                165,
+                1166
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_23"
+        },
+        {
+            "text": "48'",
+            "resource-id": "com.resultadosfutbol.mobile:id/eventTime",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                650,
+                1044,
+                790,
+                1184
+            ],
+            "componentLabel": "Text",
+            "text_color": "#519F39",
+            "bounds_updated": [
+                650,
+                1044,
+                790,
+                1184
+            ],
+            "text_updated": "48'",
+            "font_size": 12,
+            "id": "17004_24"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/eventTimeImg",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                650,
+                1044,
+                790,
+                1184
+            ],
+            "componentLabel": "Image",
+            "id": "17004_25"
+        },
+        {
+            "text": "V. Yurchenko",
+            "resource-id": "com.resultadosfutbol.mobile:id/eventPlayerLocal",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                179,
+                939,
+                427,
+                996
+            ],
+            "componentLabel": "Text",
+            "text_color": "#171717",
+            "bounds_updated": [
+                179,
+                955.0,
+                427.0,
+                984.3333333333334
+            ],
+            "text_updated": "V. Yurchenko",
+            "font_size": 7.177170120344675,
+            "id": "17004_26"
+        },
+        {
+            "text": "Goal",
+            "resource-id": "com.resultadosfutbol.mobile:id/eventLocal",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                179,
+                882,
+                265,
+                939
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1D1D1D",
+            "bounds_updated": [
+                181.66666666666666,
+                895.3333333333334,
+                261.66666666666663,
+                927.3333333333334
+            ],
+            "text_updated": "Goal",
+            "font_size": 5.273730684326756,
+            "id": "17004_27"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/eventLocalImg",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                533,
+                887,
+                636,
+                990
+            ],
+            "componentLabel": "Image",
+            "id": "17004_28"
+        },
+        {
+            "iconClass": "avatar",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/eventLocalPlayerImg",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                60,
+                886,
+                165,
+                991
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_29"
+        },
+        {
+            "text": "30'",
+            "resource-id": "com.resultadosfutbol.mobile:id/eventTime",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                650,
+                869,
+                790,
+                1009
+            ],
+            "componentLabel": "Text",
+            "text_color": "#549F3A",
+            "bounds_updated": [
+                650,
+                869,
+                790,
+                1009
+            ],
+            "text_updated": "30'",
+            "font_size": 12,
+            "id": "17004_30"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/eventTimeImg",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                650,
+                869,
+                790,
+                1009
+            ],
+            "componentLabel": "Image",
+            "id": "17004_31"
+        },
+        {
+            "text": "GOALS",
+            "resource-id": "com.resultadosfutbol.mobile:id/gameListHeaderTxt",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                768,
+                1440,
+                830
+            ],
+            "componentLabel": "Text",
+            "text_color": "#484848",
+            "bounds_updated": [
+                650.6666666666666,
+                784.0,
+                792.0,
+                818.6666666666666
+            ],
+            "text_updated": "GOALS",
+            "font_size": 8.13405673185546,
+            "id": "17004_32"
+        },
+        {
+            "text": "Monaco",
+            "resource-id": "com.resultadosfutbol.mobile:id/visitorName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1017,
+                585,
+                1227,
+                642
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#52A231",
+            "text_color": "#DBFFC8",
+            "bounds_text": [
+                1049.0,
+                601.0,
+                1198.3333333333333,
+                633.0
+            ],
+            "text_updated": "Monaco",
+            "font_size": 6.876814278165453,
+            "id": "17004_33"
+        },
+        {
+            "text": "49%",
+            "resource-id": "com.resultadosfutbol.mobile:id/possession_visitor",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1258,
+                500,
+                1349,
+                553
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D4FFBE",
+            "bounds_updated": [
+                1258,
+                513.3333333333334,
+                1327.3333333333333,
+                542.6666666666666
+            ],
+            "text_updated": "49%",
+            "font_size": 3.1047232086679433,
+            "id": "17004_34"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/fondo_escudo_visitante",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1017,
+                344,
+                1226,
+                553
+            ],
+            "componentLabel": "Image",
+            "id": "17004_35"
+        },
+        {
+            "iconClass": "group",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/visitor_shield",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1017,
+                344,
+                1226,
+                553
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_36"
+        },
+        {
+            "text": "B. Leverkusen",
+            "resource-id": "com.resultadosfutbol.mobile:id/localName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                163,
+                585,
+                422,
+                642
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#52A231",
+            "text_color": "#DCFFD1",
+            "bounds_text": [
+                165.66666666666666,
+                601.0,
+                421.66666666666663,
+                633.0
+            ],
+            "text_updated": "B. Leverkusen",
+            "font_size": 5.850441501103745,
+            "id": "17004_37"
+        },
+        {
+            "text": "51%",
+            "resource-id": "com.resultadosfutbol.mobile:id/possession_local",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                90,
+                500,
+                181,
+                553
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D7FFC0",
+            "bounds_updated": [
+                111.33333333333333,
+                513.3333333333334,
+                178.0,
+                542.6666666666666
+            ],
+            "text_updated": "51%",
+            "font_size": 2.510834349225094,
+            "id": "17004_38"
+        },
+        {
+            "iconClass": "globe",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/fondo_escudo_local",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                213,
+                344,
+                422,
+                553
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_39"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/local_shield",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                213,
+                344,
+                422,
+                553
+            ],
+            "componentLabel": "Image",
+            "id": "17004_40"
+        },
+        {
+            "text": "Finished",
+            "resource-id": "com.resultadosfutbol.mobile:id/gameStatus",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                631,
+                543,
+                808,
+                604
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B31F1D",
+            "bounds_updated": [
+                631,
+                543.0,
+                807.0,
+                604
+            ],
+            "text_updated": "Finished",
+            "font_size": 8.504047093451087,
+            "id": "17004_41"
+        },
+        {
+            "text": "Wed 7 Dec",
+            "resource-id": "com.resultadosfutbol.mobile:id/gameDate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                604,
+                477,
+                836,
+                543
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F2FFD4",
+            "bounds_updated": [
+                606.6666666666666,
+                493.0,
+                836.0,
+                530.3333333333334
+            ],
+            "text_updated": "Wed 7 Dec",
+            "font_size": 8.444540422945273,
+            "id": "17004_42"
+        },
+        {
+            "text": "3 - 0",
+            "resource-id": "com.resultadosfutbol.mobile:id/resultGame",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                611,
+                342,
+                829,
+                477
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FEFFFF",
+            "bounds_updated": [
+                611,
+                342,
+                829,
+                477
+            ],
+            "text_updated": "3 - 0",
+            "font_size": 12,
+            "id": "17004_43"
+        },
+        {
+            "ancestors": [
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                160,
+                2217,
+                1280,
+                2392
+            ],
+            "clickable": true,
+            "class": "com.google.android.gms.ads.internal.webview.m",
+            "componentLabel": "Web View",
+            "id": "17004_44"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/indicator",
+            "clickable": false,
+            "class": "com.viewpagerindicator.TitlePageIndicator",
+            "bounds": [
+                0,
+                642,
+                1440,
+                750
+            ],
+            "componentLabel": "Pager Indicator",
+            "id": "17004_45"
+        },
+        {
+            "text": "UCL. G. 5. ROUND 6",
+            "resource-id": "com.resultadosfutbol.mobile:id/competitionName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                519,
+                280,
+                920,
+                342
+            ],
+            "componentLabel": "Text",
+            "text_color": "#CDFFC5",
+            "bounds_updated": [
+                521.6666666666666,
+                296.0,
+                916.3333333333333,
+                330.6666666666667
+            ],
+            "text_updated": "UCL. G. 5. ROUND 6",
+            "font_size": 7.377194698261009,
+            "id": "17004_46"
+        },
+        {
+            "text": "3",
+            "resource-id": "com.resultadosfutbol.mobile:id/visitorYellowCards",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1387,
+                342,
+                1426,
+                399
+            ],
+            "componentLabel": "Text",
+            "text_color": "#413500",
+            "bounds_updated": [
+                1387,
+                342,
+                1426,
+                399
+            ],
+            "text_updated": "3",
+            "font_size": 12,
+            "id": "17004_47"
+        },
+        {
+            "text": "1",
+            "resource-id": "com.resultadosfutbol.mobile:id/localYellowCards",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                14,
+                342,
+                53,
+                399
+            ],
+            "componentLabel": "Text",
+            "text_color": "#482500",
+            "bounds_updated": [
+                14,
+                342,
+                53,
+                399
+            ],
+            "text_updated": "1",
+            "font_size": 12,
+            "id": "17004_48"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/custom_bg_image",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                0,
+                642,
+                1440,
+                2217
+            ],
+            "componentLabel": "Image",
+            "id": "17004_49"
+        },
+        {
+            "text": "8",
+            "resource-id": "com.resultadosfutbol.mobile:id/notification_badge",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1068,
+                155,
+                1086,
+                209
+            ],
+            "componentLabel": "Text",
+            "text_color": "#E4FFEA",
+            "bounds_updated": [
+                1068,
+                155,
+                1086,
+                209
+            ],
+            "text_updated": "8",
+            "font_size": 12,
+            "id": "17004_50"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.resultadosfutbol.mobile:id/comments_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1022,
+                127,
+                1132,
+                237
+            ],
+            "componentLabel": "Image",
+            "id": "17004_51"
+        },
+        {
+            "iconClass": "more",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatImageView",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1300,
+                98,
+                1440,
+                266
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton",
+            "componentLabel": "Icon",
+            "id": "17004_52"
+        },
+        {
+            "iconClass": "refresh",
+            "resource-id": "com.resultadosfutbol.mobile:id/menu_load",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1132,
+                98,
+                1300,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "17004_53"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "componentLabel": "Icon",
+            "id": "17004_54"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                642,
+                1440,
+                2217
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "17004_55",
+            "ui_comp_ids": [
+                "17004_0",
+                "17004_1",
+                "17004_2",
+                "17004_3",
+                "17004_4",
+                "17004_5",
+                "17004_6",
+                "17004_7",
+                "17004_8",
+                "17004_9",
+                "17004_10",
+                "17004_11",
+                "17004_12",
+                "17004_13",
+                "17004_14",
+                "17004_15",
+                "17004_16",
+                "17004_17",
+                "17004_18",
+                "17004_19",
+                "17004_20",
+                "17004_21",
+                "17004_22",
+                "17004_23",
+                "17004_24",
+                "17004_25",
+                "17004_26",
+                "17004_27",
+                "17004_28",
+                "17004_29",
+                "17004_30",
+                "17004_31",
+                "17004_32",
+                "17004_45"
+            ],
+            "ui_comp_group_ids": [
+                "17004_56",
+                "17004_58",
+                "17004_59",
+                "17004_60",
+                "17004_62",
+                "17004_63",
+                "17004_64",
+                "17004_65"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                750,
+                1440,
+                2217
+            ],
+            "class": "android.support.v4.view.ViewPager",
+            "bg_color": "#FFFFFF",
+            "id": "17004_56",
+            "ui_comp_ids": [
+                "17004_0",
+                "17004_1",
+                "17004_2",
+                "17004_3",
+                "17004_4",
+                "17004_5",
+                "17004_6",
+                "17004_7",
+                "17004_8",
+                "17004_9",
+                "17004_10",
+                "17004_11",
+                "17004_12",
+                "17004_13",
+                "17004_14",
+                "17004_15",
+                "17004_16",
+                "17004_17",
+                "17004_18",
+                "17004_19",
+                "17004_20",
+                "17004_21",
+                "17004_22",
+                "17004_23",
+                "17004_24",
+                "17004_25",
+                "17004_26",
+                "17004_27",
+                "17004_28",
+                "17004_29",
+                "17004_30",
+                "17004_31",
+                "17004_32"
+            ],
+            "ui_comp_group_ids": [
+                "17004_58",
+                "17004_59",
+                "17004_60",
+                "17004_62",
+                "17004_63",
+                "17004_64",
+                "17004_65"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                642
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#52A231",
+            "id": "17004_57",
+            "ui_comp_ids": [
+                "17004_33",
+                "17004_34",
+                "17004_35",
+                "17004_36",
+                "17004_37",
+                "17004_38",
+                "17004_39",
+                "17004_40",
+                "17004_41",
+                "17004_42",
+                "17004_43",
+                "17004_46",
+                "17004_47",
+                "17004_48"
+            ],
+            "ui_comp_group_ids": [
+                "17004_66",
+                "17004_67",
+                "17004_68",
+                "17004_69",
+                "17004_70"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1901,
+                1440,
+                2198
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "17004_58",
+            "ui_comp_ids": [
+                "17004_0",
+                "17004_1",
+                "17004_2",
+                "17004_3",
+                "17004_4",
+                "17004_5",
+                "17004_6"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                750,
+                1440,
+                1030
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "17004_59",
+            "ui_comp_ids": [
+                "17004_26",
+                "17004_27",
+                "17004_28",
+                "17004_29",
+                "17004_30",
+                "17004_31",
+                "17004_32"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1383,
+                1440,
+                1621
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "17004_60",
+            "ui_comp_ids": [
+                "17004_11",
+                "17004_12",
+                "17004_13"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#52A231",
+            "id": "17004_61",
+            "ui_comp_ids": [
+                "17004_50",
+                "17004_51",
+                "17004_52",
+                "17004_53",
+                "17004_54"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1198,
+                1440,
+                1383
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "17004_62",
+            "ui_comp_ids": [
+                "17004_14",
+                "17004_15",
+                "17004_16",
+                "17004_17",
+                "17004_18",
+                "17004_19"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1030,
+                1440,
+                1198
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "17004_63",
+            "ui_comp_ids": [
+                "17004_20",
+                "17004_21",
+                "17004_22",
+                "17004_23",
+                "17004_24",
+                "17004_25"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1621,
+                1440,
+                1761
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "17004_64",
+            "ui_comp_ids": [
+                "17004_9",
+                "17004_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1761,
+                1440,
+                1901
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "17004_65",
+            "ui_comp_ids": [
+                "17004_7",
+                "17004_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                895,
+                294,
+                1440,
+                642
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#52A231",
+            "id": "17004_66",
+            "ui_comp_ids": [
+                "17004_33",
+                "17004_34",
+                "17004_35",
+                "17004_36",
+                "17004_47"
+            ],
+            "ui_comp_group_ids": [
+                "17004_69"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                294,
+                545,
+                642
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#52A231",
+            "id": "17004_67",
+            "ui_comp_ids": [
+                "17004_37",
+                "17004_38",
+                "17004_39",
+                "17004_40",
+                "17004_48"
+            ],
+            "ui_comp_group_ids": [
+                "17004_70"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                545,
+                342,
+                895,
+                604
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#52A231",
+            "id": "17004_68",
+            "ui_comp_ids": [
+                "17004_41",
+                "17004_42",
+                "17004_43"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                985,
+                312,
+                1258,
+                585
+            ],
+            "class": "android.widget.ProgressBar",
+            "bg_color": "#52A231",
+            "id": "17004_69",
+            "ui_comp_ids": [
+                "17004_35",
+                "17004_36"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                181,
+                312,
+                454,
+                585
+            ],
+            "class": "android.widget.ProgressBar",
+            "bg_color": "#52A231",
+            "id": "17004_70",
+            "ui_comp_ids": [
+                "17004_39",
+                "17004_40"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

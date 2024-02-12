@@ -1,0 +1,775 @@
+{
+    "bg_color": "#FBFBFB",
+    "ui_comps": [
+        {
+            "text": "",
+            "resource-id": "com.capigami.outofmilk:id/note",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatEditText",
+            "bounds": [
+                56,
+                1701,
+                1384,
+                1859
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FBFBFB",
+            "text_color": "#8C8C8C",
+            "bounds_text": [
+                56,
+                1701,
+                1384,
+                1859
+            ],
+            "text_updated": "Notes\n\n \n\f",
+            "font_size": 12,
+            "id": "17943_0"
+        },
+        {
+            "text": "1",
+            "resource-id": "com.capigami.outofmilk:id/quantity",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatEditText",
+            "bounds": [
+                398,
+                598,
+                573,
+                756
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FBFBFB",
+            "text_color": "#1B1B1B",
+            "bounds_text": [
+                398,
+                598,
+                573,
+                756
+            ],
+            "text_updated": "1",
+            "font_size": 12,
+            "id": "17943_1"
+        },
+        {
+            "text": "",
+            "resource-id": "com.capigami.outofmilk:id/checkbox2",
+            "ancestors": [
+                "android.widget.CheckBox",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatCheckBox",
+            "bounds": [
+                1272,
+                1551,
+                1384,
+                1663
+            ],
+            "componentLabel": "Input",
+            "id": "17943_2"
+        },
+        {
+            "text": "I have a coupon for this item",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1574,
+                1384,
+                1640
+            ],
+            "componentLabel": "Text",
+            "text_color": "#333333",
+            "bounds_updated": [
+                61.333333333333336,
+                1592.6666666666667,
+                658.6666666666666,
+                1635.3333333333333
+            ],
+            "text_updated": "| have a coupon for this item",
+            "font_size": 7.890851116016675,
+            "id": "17943_3"
+        },
+        {
+            "text": "",
+            "resource-id": "com.capigami.outofmilk:id/checkbox1",
+            "ancestors": [
+                "android.widget.CheckBox",
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatCheckBox",
+            "bounds": [
+                1272,
+                1383,
+                1384,
+                1495
+            ],
+            "componentLabel": "Input",
+            "id": "17943_4"
+        },
+        {
+            "text": "Item has sales tax",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1406,
+                1384,
+                1472
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                61.333333333333336,
+                1422.0,
+                442.66666666666663,
+                1459.3333333333333
+            ],
+            "text_updated": "Item has sales tax",
+            "font_size": 7.92484245208862,
+            "id": "17943_5"
+        },
+        {
+            "text": "1.99",
+            "resource-id": "com.capigami.outofmilk:id/price",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatEditText",
+            "bounds": [
+                87,
+                1169,
+                262,
+                1327
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FBFBFB",
+            "text_color": "#202020",
+            "bounds_text": [
+                116.33333333333333,
+                1227.6666666666667,
+                239.0,
+                1289.0
+            ],
+            "text_updated": "1.99|",
+            "font_size": 10.101946074648362,
+            "id": "17943_6"
+        },
+        {
+            "text": "$",
+            "resource-id": "com.capigami.outofmilk:id/currency_symbol",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1210,
+                87,
+                1286
+            ],
+            "componentLabel": "Text",
+            "text_color": "#333333",
+            "bounds_updated": [
+                56,
+                1210,
+                87,
+                1286
+            ],
+            "text_updated": "$",
+            "font_size": 12,
+            "id": "17943_7"
+        },
+        {
+            "iconClass": "edit",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.capigami.outofmilk:id/edit_category",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "bounds": [
+                707,
+                899,
+                833,
+                1025
+            ],
+            "componentLabel": "Icon",
+            "id": "17943_8"
+        },
+        {
+            "resource-id": "com.capigami.outofmilk:id/spinner",
+            "ancestors": [
+                "android.widget.Spinner",
+                "android.widget.AbsSpinner",
+                "android.widget.AdapterView",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatSpinner",
+            "bounds": [
+                56,
+                888,
+                651,
+                1037
+            ],
+            "componentLabel": "Text Button",
+            "text": "Dairy",
+            "bg_color": "#FBFBFB",
+            "text_color": "#212121",
+            "bounds_text": [
+                101.33333333333333,
+                941.3333333333334,
+                224.0,
+                994.6666666666666
+            ],
+            "text_updated": "Dairy",
+            "font_size": 9.417559539833816,
+            "id": "17943_9"
+        },
+        {
+            "iconClass": "add",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.capigami.outofmilk:id/increment",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "bounds": [
+                199,
+                621,
+                342,
+                732
+            ],
+            "componentLabel": "Icon",
+            "id": "17943_10"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.capigami.outofmilk:id/decrement",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "bounds": [
+                56,
+                621,
+                199,
+                732
+            ],
+            "componentLabel": "Image",
+            "id": "17943_11"
+        },
+        {
+            "text": "Unit Price",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1093,
+                293,
+                1169
+            ],
+            "componentLabel": "Text",
+            "text_color": "#363636",
+            "bounds_updated": [
+                58.666666666666664,
+                1111.6666666666667,
+                290.66666666666663,
+                1154.3333333333333
+            ],
+            "text_updated": "Unit Price",
+            "font_size": 10.188855903174245,
+            "id": "17943_12"
+        },
+        {
+            "text": "Category",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                812,
+                277,
+                888
+            ],
+            "componentLabel": "Text",
+            "text_color": "#292929",
+            "bounds_updated": [
+                58.666666666666664,
+                833.3333333333334,
+                274.66666666666663,
+                886.6666666666666
+            ],
+            "text_updated": "Category",
+            "font_size": 9.809473196522513,
+            "id": "17943_13"
+        },
+        {
+            "text": "Quantity",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                522,
+                262,
+                598
+            ],
+            "componentLabel": "Text",
+            "text_color": "#313131",
+            "bounds_updated": [
+                58.666666666666664,
+                540.6666666666666,
+                261.3333333333333,
+                594.0
+            ],
+            "text_updated": "Quantity",
+            "font_size": 9.698419948020312,
+            "id": "17943_14"
+        },
+        {
+            "text": "Milk",
+            "resource-id": "com.capigami.outofmilk:id/description",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatEditText",
+            "bounds": [
+                56,
+                308,
+                1384,
+                466
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FBFBFB",
+            "text_color": "#212121",
+            "bounds_text": [
+                69.33333333333333,
+                364.0,
+                1370.6666666666665,
+                438.66666666666663
+            ],
+            "text_updated": "Milk",
+            "font_size": 22.044375781577425,
+            "id": "17943_15"
+        },
+        {
+            "text": "Copy",
+            "resource-id": "com.capigami.outofmilk:id/action_copy",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                960,
+                2224,
+                1440,
+                2392
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "copy",
+            "bg_color": "#FBFBFB",
+            "text_color": "#25D7D9",
+            "bounds_text": [
+                1128.0,
+                2288.0,
+                1288.0,
+                2333.3333333333335
+            ],
+            "text_updated": "COPY",
+            "font_size": 12.639440765268569,
+            "id": "17943_16"
+        },
+        {
+            "text": "Move",
+            "resource-id": "com.capigami.outofmilk:id/action_move",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                480,
+                2224,
+                960,
+                2392
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FBFBFB",
+            "text_color": "#2FBFC0",
+            "bounds_text": [
+                645.3333333333333,
+                2288.0,
+                813.3333333333333,
+                2333.3333333333335
+            ],
+            "text_updated": "MOVE",
+            "font_size": 12.169207050001736,
+            "id": "17943_17"
+        },
+        {
+            "text": "Delete",
+            "resource-id": "com.capigami.outofmilk:id/action_delete",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                0,
+                2224,
+                480,
+                2392
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "delete",
+            "bg_color": "#FBFBFB",
+            "text_color": "#30C5BF",
+            "bounds_text": [
+                141.33333333333331,
+                2288.0,
+                357.3333333333333,
+                2333.3333333333335
+            ],
+            "text_updated": "DELETE",
+            "font_size": 12.027879977107354,
+            "id": "17943_18"
+        },
+        {
+            "text": "Save",
+            "resource-id": "com.capigami.outofmilk:id/action_save",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                1149,
+                84,
+                1384,
+                252
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "save",
+            "bg_color": "#323232",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                1194.3333333333333,
+                145.33333333333331,
+                1341.0,
+                190.66666666666666
+            ],
+            "text_updated": "SAVE",
+            "font_size": 12.075600806915812,
+            "id": "17943_19"
+        },
+        {
+            "text": "Cancel",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                0,
+                84,
+                491,
+                252
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "back",
+            "bg_color": "#323232",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                0,
+                84,
+                491,
+                252
+            ],
+            "text_updated": "Cancel",
+            "font_size": 12,
+            "id": "17943_20"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                252,
+                1440,
+                2224
+            ],
+            "class": "android.widget.ScrollView",
+            "bg_color": "#FBFBFB",
+            "id": "17943_21",
+            "ui_comp_ids": [
+                "17943_0",
+                "17943_1",
+                "17943_2",
+                "17943_3",
+                "17943_4",
+                "17943_5",
+                "17943_6",
+                "17943_7",
+                "17943_8",
+                "17943_9",
+                "17943_10",
+                "17943_11",
+                "17943_12",
+                "17943_13",
+                "17943_14",
+                "17943_15"
+            ],
+            "ui_comp_group_ids": [
+                "17943_22",
+                "17943_25",
+                "17943_26",
+                "17943_27",
+                "17943_28",
+                "17943_29"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                252,
+                1440,
+                1915
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FBFBFB",
+            "id": "17943_22",
+            "ui_comp_ids": [
+                "17943_0",
+                "17943_1",
+                "17943_2",
+                "17943_3",
+                "17943_4",
+                "17943_5",
+                "17943_6",
+                "17943_7",
+                "17943_8",
+                "17943_9",
+                "17943_10",
+                "17943_11",
+                "17943_12",
+                "17943_13",
+                "17943_14",
+                "17943_15"
+            ],
+            "ui_comp_group_ids": [
+                "17943_25",
+                "17943_26",
+                "17943_27",
+                "17943_28",
+                "17943_29"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2224,
+                1440,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FBFBFB",
+            "id": "17943_23",
+            "ui_comp_ids": [
+                "17943_16",
+                "17943_17",
+                "17943_18"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#323232",
+            "id": "17943_24",
+            "ui_comp_ids": [
+                "17943_19",
+                "17943_20"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                56,
+                598,
+                1384,
+                756
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FBFBFB",
+            "id": "17943_25",
+            "ui_comp_ids": [
+                "17943_1",
+                "17943_10",
+                "17943_11"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                56,
+                888,
+                1384,
+                1037
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FBFBFB",
+            "id": "17943_26",
+            "ui_comp_ids": [
+                "17943_8",
+                "17943_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                56,
+                1551,
+                1384,
+                1663
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FBFBFB",
+            "id": "17943_27",
+            "ui_comp_ids": [
+                "17943_2",
+                "17943_3"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                56,
+                1383,
+                1384,
+                1495
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FBFBFB",
+            "id": "17943_28",
+            "ui_comp_ids": [
+                "17943_4",
+                "17943_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                56,
+                1169,
+                262,
+                1327
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FBFBFB",
+            "id": "17943_29",
+            "ui_comp_ids": [
+                "17943_6",
+                "17943_7"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

@@ -1,0 +1,856 @@
+{
+    "bg_color": "#FAFAFA",
+    "ui_comps": [
+        {
+            "text": "How To",
+            "resource-id": "com.runtastic.android.runtasty.lite:id/bottom_navigation_item_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                288,
+                2320,
+                576,
+                2367
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6F6F6F",
+            "bounds_updated": [
+                376.0,
+                2332.0,
+                490.66666666666663,
+                2357.3333333333335
+            ],
+            "text_updated": "How To",
+            "font_size": 5.91327472470729,
+            "id": "37166_0"
+        },
+        {
+            "iconClass": "play",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.runtastic.android.runtasty.lite:id/bottom_navigation_item_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                390,
+                2224,
+                474,
+                2308
+            ],
+            "componentLabel": "Icon",
+            "id": "37166_1"
+        },
+        {
+            "text": "Recipes",
+            "resource-id": "com.runtastic.android.runtasty.lite:id/bottom_navigation_item_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                2315,
+                288,
+                2367
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D04F6D",
+            "bounds_updated": [
+                81.33333333333333,
+                2328.3333333333335,
+                209.33333333333331,
+                2364.3333333333335
+            ],
+            "text_updated": "Recipes",
+            "font_size": 6.350257542310525,
+            "id": "37166_2"
+        },
+        {
+            "iconClass": "build",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.runtastic.android.runtasty.lite:id/bottom_navigation_item_icon",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                102,
+                2217,
+                186,
+                2301
+            ],
+            "componentLabel": "Icon",
+            "id": "37166_3"
+        },
+        {
+            "resource-id": "com.runtastic.android.runtasty.lite:id/bottom_navigation_container",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.FrameLayout",
+            "bounds": [
+                1152,
+                2196,
+                1440,
+                2392
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "profile",
+            "bg_color": "#F5F5F5",
+            "text_color": "#707070",
+            "bounds_text": [
+                1249.3333333333333,
+                2230.6666666666665,
+                1344.0,
+                2357.3333333333335
+            ],
+            "text_updated": "BS\n\nProfile",
+            "font_size": 5.227527981100649,
+            "id": "37166_4"
+        },
+        {
+            "resource-id": "com.runtastic.android.runtasty.lite:id/bottom_navigation_container",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.FrameLayout",
+            "bounds": [
+                864,
+                2196,
+                1152,
+                2392
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "favorites",
+            "bg_color": "#F5F5F5",
+            "text_color": "#6B6B6B",
+            "bounds_text": [
+                940.0,
+                2229.3333333333335,
+                1078.6666666666667,
+                2357.3333333333335
+            ],
+            "text_updated": "Ls\n\nFavorites",
+            "font_size": 5.1553252071536155,
+            "id": "37166_5"
+        },
+        {
+            "resource-id": "com.runtastic.android.runtasty.lite:id/bottom_navigation_container",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.FrameLayout",
+            "bounds": [
+                576,
+                2196,
+                864,
+                2392
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "search",
+            "bg_color": "#F5F5F5",
+            "text_color": "#6F6F6F",
+            "bounds_text": [
+                668.0,
+                2234.6666666666665,
+                772.0,
+                2357.3333333333335
+            ],
+            "text_updated": "Q\n\nSearch",
+            "font_size": 5.056885719137379,
+            "id": "37166_6"
+        },
+        {
+            "iconClass": "play",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.runtastic.android.runtasty.lite:id/download_action_button",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "bounds": [
+                608,
+                648,
+                832,
+                872
+            ],
+            "componentLabel": "Icon",
+            "id": "37166_7"
+        },
+        {
+            "iconClass": "play",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.runtastic.android.runtasty.lite:id/download_progress_background_circle",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                608,
+                648,
+                832,
+                872
+            ],
+            "componentLabel": "Icon",
+            "id": "37166_8"
+        },
+        {
+            "text": "dinner",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                880,
+                1714,
+                1080,
+                1793
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FAFAFA",
+            "bounds_updated": [
+                880,
+                1714,
+                1080,
+                1793
+            ],
+            "text_updated": "dinner",
+            "font_size": 12,
+            "id": "37166_9"
+        },
+        {
+            "text": "lunch",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                667,
+                1714,
+                852,
+                1793
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FAFAFA",
+            "bounds_updated": [
+                712.3333333333334,
+                1738.0,
+                808.3333333333333,
+                1770.0
+            ],
+            "text_updated": "lunch",
+            "font_size": 7.147412312975222,
+            "id": "37166_10"
+        },
+        {
+            "text": "200-400 kcal",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                313,
+                1714,
+                639,
+                1793
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FEFEFE",
+            "bounds_updated": [
+                357.0,
+                1739.3333333333333,
+                594.3333333333333,
+                1770.0
+            ],
+            "text_updated": "200-400 kcal",
+            "font_size": 7.640452926730063,
+            "id": "37166_11"
+        },
+        {
+            "text": "nut-free",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                56,
+                1714,
+                285,
+                1793
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FAFAFA",
+            "bounds_updated": [
+                100.0,
+                1747.3333333333333,
+                241.33333333333331,
+                1770.0
+            ],
+            "text_updated": "nut-free",
+            "font_size": 7.141149885971634,
+            "id": "37166_12"
+        },
+        {
+            "text": "high-protein",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                850,
+                1607,
+                1157,
+                1686
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                894.0,
+                1631.0,
+                1111.3333333333333,
+                1672.3333333333333
+            ],
+            "text_updated": "high-protein",
+            "font_size": 7.260895955619306,
+            "id": "37166_13"
+        },
+        {
+            "text": "low-carb",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                577,
+                1607,
+                822,
+                1686
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                621.0,
+                1631.0,
+                777.0,
+                1664.3333333333333
+            ],
+            "text_updated": "low-carb",
+            "font_size": 7.562498820776968,
+            "id": "37166_14"
+        },
+        {
+            "text": "gluten-free",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                264,
+                1607,
+                549,
+                1686
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FAFAFA",
+            "bounds_updated": [
+                308.0,
+                1640.3333333333333,
+                505.3333333333333,
+                1672.3333333333333
+            ],
+            "text_updated": "gluten-free",
+            "font_size": 7.282377681409525,
+            "id": "37166_15"
+        },
+        {
+            "text": "meat",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                56,
+                1607,
+                236,
+                1686
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FAFAFA",
+            "bounds_updated": [
+                56,
+                1607,
+                236,
+                1686
+            ],
+            "text_updated": "meat",
+            "font_size": 12,
+            "id": "37166_16"
+        },
+        {
+            "text": "22 g Fat",
+            "resource-id": "com.runtastic.android.runtasty.lite:id/fragment_recipe_detail_nutrition_overview_fat",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                990,
+                1466,
+                1142,
+                1523
+            ],
+            "componentLabel": "Text",
+            "text_color": "#727272",
+            "bounds_updated": [
+                992.6666666666666,
+                1480.6666666666667,
+                1140.6666666666667,
+                1519.3333333333333
+            ],
+            "text_updated": "22 g Fat",
+            "font_size": 7.6538790446075335,
+            "id": "37166_17"
+        },
+        {
+            "text": "23 g Protein  \u2022",
+            "resource-id": "com.runtastic.android.runtasty.lite:id/fragment_recipe_detail_nutrition_overview_proteins",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                703,
+                1466,
+                962,
+                1523
+            ],
+            "componentLabel": "Text",
+            "text_color": "#727272",
+            "bounds_updated": [
+                705.6666666666666,
+                1480.6666666666667,
+                959.0,
+                1519.3333333333333
+            ],
+            "text_updated": "23 g Protein :",
+            "font_size": 8.059770674361072,
+            "id": "37166_18"
+        },
+        {
+            "text": "10 g Carbohydrates  \u2022",
+            "resource-id": "com.runtastic.android.runtasty.lite:id/fragment_recipe_detail_nutrition_overview_carbs",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                276,
+                1466,
+                675,
+                1523
+            ],
+            "componentLabel": "Text",
+            "text_color": "#707070",
+            "bounds_updated": [
+                278.6666666666667,
+                1480.6666666666667,
+                672.0,
+                1519.3333333333333
+            ],
+            "text_updated": "10 g Carbohydrates \u00b0",
+            "font_size": 7.617051952951375,
+            "id": "37166_19"
+        },
+        {
+            "text": "315 kcal  \u2022",
+            "resource-id": "com.runtastic.android.runtasty.lite:id/fragment_recipe_detail_nutrition_overview_calories",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1466,
+                248,
+                1523
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6F6F6F",
+            "bounds_updated": [
+                57.333333333333336,
+                1479.3333333333333,
+                246.66666666666666,
+                1510.0
+            ],
+            "text_updated": "315 kcal -",
+            "font_size": 8.189261478444703,
+            "id": "37166_20"
+        },
+        {
+            "iconClass": "favorite",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.runtastic.android.runtasty.lite:id/fragment_recipe_detail_favourite",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "bounds": [
+                1240,
+                1040,
+                1440,
+                1240
+            ],
+            "componentLabel": "Icon",
+            "id": "37166_21"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.runtastic.android.runtasty.lite:id/fragment_recipe_detail_image_gradient_bottom",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                0,
+                920,
+                1440,
+                1240
+            ],
+            "componentLabel": "Image",
+            "id": "37166_22"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.runtastic.android.runtasty.lite:id/fragment_recipe_detail_image_gradient",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                0,
+                280,
+                1440,
+                920
+            ],
+            "componentLabel": "Image",
+            "id": "37166_23"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.runtastic.android.runtasty.lite:id/fragment_recipe_detail_image",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                0,
+                280,
+                1440,
+                1240
+            ],
+            "componentLabel": "Image",
+            "id": "37166_24"
+        },
+        {
+            "text": "This recipe is the perfect all-in-one meal. It\u2019s savory, flavorful and packed with protein.",
+            "resource-id": "com.runtastic.android.runtasty.lite:id/fragment_recipe_detail_description",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                0,
+                1877,
+                1440,
+                2126
+            ],
+            "componentLabel": "Text",
+            "text_color": "#251F1F",
+            "bounds_updated": [
+                57.33333333333333,
+                1950.3333333333333,
+                1354.6666666666665,
+                2066.3333333333335
+            ],
+            "text_updated": "This recipe is the perfect all-in-one meal. It\u2019s savory, flavorful\nand packed with protein.",
+            "font_size": 9.208809824903001,
+            "id": "37166_25"
+        },
+        {
+            "text": "Stuffed Tomatoes",
+            "resource-id": "com.runtastic.android.runtasty.lite:id/fragment_recipe_detail_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                56,
+                1296,
+                1384,
+                1410
+            ],
+            "componentLabel": "Text",
+            "text_color": "#202020",
+            "bounds_updated": [
+                58.666666666666664,
+                1320.0,
+                1060.0,
+                1389.3333333333333
+            ],
+            "text_updated": "STUFFED TOMATOES",
+            "font_size": 15.347054235899064,
+            "id": "37166_26"
+        },
+        {
+            "iconClass": "share",
+            "resource-id": "com.runtastic.android.runtasty.lite:id/menu_runtasty_share",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1272,
+                98,
+                1440,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "37166_27"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "componentLabel": "Icon",
+            "id": "37166_28"
+        },
+        {
+            "text": "Stuffed Tomatoes",
+            "resource-id": "com.runtastic.android.runtasty.lite:id/activity_navigation_toolbar_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                252,
+                135,
+                810,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFDFF",
+            "bounds_updated": [
+                254.66666666666666,
+                159.0,
+                806.6666666666666,
+                209.66666666666666
+            ],
+            "text_updated": "Stuffed Tomatoes",
+            "font_size": 12.842136694713718,
+            "id": "37166_29"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                280,
+                1440,
+                2196
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FAFAFA",
+            "id": "37166_30",
+            "ui_comp_ids": [
+                "37166_7",
+                "37166_8",
+                "37166_9",
+                "37166_10",
+                "37166_11",
+                "37166_12",
+                "37166_13",
+                "37166_14",
+                "37166_15",
+                "37166_16",
+                "37166_17",
+                "37166_18",
+                "37166_19",
+                "37166_20",
+                "37166_21",
+                "37166_22",
+                "37166_23",
+                "37166_24",
+                "37166_25",
+                "37166_26"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2196,
+                1440,
+                2392
+            ],
+            "class": "com.runtastic.android.navigation.view.BottomNavigationView",
+            "bg_color": "#F5F5F5",
+            "id": "37166_31",
+            "ui_comp_ids": [
+                "37166_0",
+                "37166_1",
+                "37166_2",
+                "37166_3",
+                "37166_4",
+                "37166_5",
+                "37166_6"
+            ],
+            "ui_comp_group_ids": [
+                "37166_33",
+                "37166_34"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#DF4A5E",
+            "id": "37166_32",
+            "ui_comp_ids": [
+                "37166_27",
+                "37166_28",
+                "37166_29"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                288,
+                2196,
+                576,
+                2392
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#F5F5F5",
+            "id": "37166_33",
+            "ui_comp_ids": [
+                "37166_0",
+                "37166_1"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2196,
+                288,
+                2392
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#F5F5F5",
+            "id": "37166_34",
+            "ui_comp_ids": [
+                "37166_2",
+                "37166_3"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

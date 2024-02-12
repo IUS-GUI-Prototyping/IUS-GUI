@@ -1,0 +1,487 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "\ufeffBrindemos \n\nTus amigas hablaron \nTodas me difamaron \nAy mami, si supieran \nQue t\u00fa y yo estamos claros \n\nQue contigo no reparo \nTe tengo en toda la mano \nTodas las prendas caras \nBaby tu sabes que te amo \n\nYo quiero escuchar \nQue t\u00fa y yo estamos bien \nQue no echaste a perder \nTodo este tiempo que hemos estado juntos \n\nGirl \nMira a tu alrededor \nM\u00edrame a los ojos \nBrindemos por lo que hemos logrado juntos \n\n[Carlitos Rossy] \nNo pongas en duda lo que siento \nSe que en el mundo en que vivo todo es incierto \nNada es seguro quiz\u00e1s no est\u00e9 en tu futuro \nPero mientras tanto aqu\u00ed estar\u00e9 \n\nS\u00e9 que en este mundo en el que vivo no es el tuyo \nMe siento mal porque pienso que te destruyo \nPero t\u00fa has visto como las cosas cambiaron \nAunque la mala me tiraron \n\nQue hablen \nDejalos que critiquen \nMami que se mueran solos \nSomos tu y yo contra todo \n\nQue hablen \nDejalos que critiquen \nMami que se mueran solos \nSomos tu y yo contra todo \n\nYo quiero escuchar \nQue t\u00fa y yo estamos bien \nQue no echaste a perder \n\nTodo este tiempo que hemos estado juntos \n\nGirl \nMira a tu alrededor \nMirame a los ojos \nBrindemos por lo que hemos logrado juntos \n\nTodo esto molesta a personas envidiosas \nNo soportan ver una relacion exitosa \nHemos sobrepasado situaciones dolorosas \nY seguimos firmes celebremos con champagne y rosas \n\nEntre tanta oscuridad \nYo te llevare al cielo y te hare volar \nTu eres mi shorty, mi baby, mi dama \nLa que me hace vibrar en la cama \n\nQue hablen \nDejalos que critiquen \nMami que se mueran solos \nSomos tu y yo contra todo \n\nQue hablen \nDejalos que critiquen \nMami que se mueran solos \nSomos tu y yo contra todo \n\nTus amigas hablaron \nTodas me difamaron \nAy mami, si supieran \nQue t\u00fa y yo estamos claros \n\nQue contigo no reparo \nTe tengo en toda la mano \nTodas las prendas caras \nBaby tu sabes que te amo \n\nYo quiero escuchar \nQue t\u00fa y yo estamos bien \nQue no echaste a perder \nTodo este tiempo que hemos estado juntos \n\nGirl \nMira a tu alrededor \nM\u00edrame a los ojos \nBrindemos por lo que hemos logrado juntos \n",
+            "resource-id": "escapemusic.android.a049jalvarez:id/main_text",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
+            "bounds": [
+                0,
+                1404,
+                1440,
+                1689
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#0D0D0D",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                0,
+                1404,
+                1440,
+                1689
+            ],
+            "text_updated": "\ufeffBrindemos \n\nTus amigas hablaron \nTodas me difamaron \nAy mami, si supieran \nQue t\u00fa y yo estamos claros \n\nQue contigo no reparo \nTe tengo en toda la mano \nTodas las prendas caras \nBaby tu sabes que te amo \n\nYo quiero escuchar \nQue t\u00fa y yo estamos bien \nQue no echaste a perder \nTodo este tiempo que hemos estado juntos \n\nGirl \nMira a tu alrededor \nM\u00edrame a los ojos \nBrindemos por lo que hemos logrado juntos \n\n[Carlitos Rossy] \nNo pongas en duda lo que siento \nSe que en el mundo en que vivo todo es incierto \nNada es seguro quiz\u00e1s no est\u00e9 en tu futuro \nPero mientras tanto aqu\u00ed estar\u00e9 \n\nS\u00e9 que en este mundo en el que vivo no es el tuyo \nMe siento mal porque pienso que te destruyo \nPero t\u00fa has visto como las cosas cambiaron \nAunque la mala me tiraron \n\nQue hablen \nDejalos que critiquen \nMami que se mueran solos \nSomos tu y yo contra todo \n\nQue hablen \nDejalos que critiquen \nMami que se mueran solos \nSomos tu y yo contra todo \n\nYo quiero escuchar \nQue t\u00fa y yo estamos bien \nQue no echaste a perder \n\nTodo este tiempo que hemos estado juntos \n\nGirl \nMira a tu alrededor \nMirame a los ojos \nBrindemos por lo que hemos logrado juntos \n\nTodo esto molesta a personas envidiosas \nNo soportan ver una relacion exitosa \nHemos sobrepasado situaciones dolorosas \nY seguimos firmes celebremos con champagne y rosas \n\nEntre tanta oscuridad \nYo te llevare al cielo y te hare volar \nTu eres mi shorty, mi baby, mi dama \nLa que me hace vibrar en la cama \n\nQue hablen \nDejalos que critiquen \nMami que se mueran solos \nSomos tu y yo contra todo \n\nQue hablen \nDejalos que critiquen \nMami que se mueran solos \nSomos tu y yo contra todo \n\nTus amigas hablaron \nTodas me difamaron \nAy mami, si supieran \nQue t\u00fa y yo estamos claros \n\nQue contigo no reparo \nTe tengo en toda la mano \nTodas las prendas caras \nBaby tu sabes que te amo \n\nYo quiero escuchar \nQue t\u00fa y yo estamos bien \nQue no echaste a perder \nTodo este tiempo que hemos estado juntos \n\nGirl \nMira a tu alrededor \nM\u00edrame a los ojos \nBrindemos por lo que hemos logrado juntos \n",
+            "font_size": 12,
+            "id": "30889_0"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "escapemusic.android.a049jalvarez:id/main_image",
+            "clickable": true,
+            "class": "mobi.escapemusic.music.standard.util.extendobject.ImageViewTemplate",
+            "bounds": [
+                144,
+                252,
+                1296,
+                1404
+            ],
+            "componentLabel": "Image",
+            "id": "30889_1"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1218,
+                126,
+                1302,
+                210
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.al",
+            "componentLabel": "Image",
+            "id": "30889_2"
+        },
+        {
+            "iconClass": "photo",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                858,
+                126,
+                942,
+                210
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.al",
+            "componentLabel": "Icon",
+            "id": "30889_3"
+        },
+        {
+            "iconClass": "notifications",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                498,
+                126,
+                582,
+                210
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.al",
+            "componentLabel": "Icon",
+            "id": "30889_4"
+        },
+        {
+            "iconClass": "home",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                138,
+                126,
+                222,
+                210
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.al",
+            "componentLabel": "Icon",
+            "id": "30889_5"
+        },
+        {
+            "text": "",
+            "resource-id": "escapemusic.android.a049jalvarez:id/btnIcon_escapemusic",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "mobi.escapemusic.music.standard.util.extendobject.ButtonTemplate",
+            "bounds": [
+                101,
+                1790,
+                302,
+                1991
+            ],
+            "componentLabel": "Image",
+            "id": "30889_6"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "escapemusic.android.a049jalvarez:id/image_demo_down",
+            "clickable": false,
+            "class": "android.support.v7.widget.al",
+            "bounds": [
+                620,
+                1489,
+                820,
+                1689
+            ],
+            "componentLabel": "Image",
+            "id": "30889_7"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "escapemusic.android.a049jalvarez:id/shareTo",
+            "clickable": true,
+            "class": "mobi.escapemusic.music.standard.util.extendobject.ImageButtonTemplate",
+            "bounds": [
+                1118,
+                252,
+                1276,
+                410
+            ],
+            "componentLabel": "Image",
+            "id": "30889_8"
+        },
+        {
+            "ancestors": [
+                "com.mopub.mobileads.BaseHtmlWebView",
+                "com.mopub.mobileads.BaseWebView",
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                160,
+                2213,
+                1280,
+                2388
+            ],
+            "clickable": true,
+            "class": "com.mopub.mobileads.HtmlBannerWebView",
+            "componentLabel": "Advertisement",
+            "id": "30889_9"
+        },
+        {
+            "text": "",
+            "resource-id": "escapemusic.android.a049jalvarez:id/btnAlertingList",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "mobi.escapemusic.music.standard.util.extendobject.ButtonTemplate",
+            "bounds": [
+                1147,
+                1790,
+                1348,
+                1991
+            ],
+            "componentLabel": "Image",
+            "id": "30889_10"
+        },
+        {
+            "iconClass": "skip_next",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "escapemusic.android.a049jalvarez:id/btnNext",
+            "clickable": true,
+            "class": "mobi.escapemusic.music.standard.util.extendobject.ImageButtonTemplate",
+            "bounds": [
+                904,
+                1790,
+                1105,
+                1991
+            ],
+            "componentLabel": "Icon",
+            "id": "30889_11"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "escapemusic.android.a049jalvarez:id/btnPlay",
+            "clickable": true,
+            "class": "mobi.escapemusic.music.standard.util.extendobject.ImageButtonTemplate",
+            "bounds": [
+                518,
+                1689,
+                921,
+                2092
+            ],
+            "componentLabel": "Image",
+            "id": "30889_12"
+        },
+        {
+            "iconClass": "av_rewind",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "escapemusic.android.a049jalvarez:id/btnPrevious",
+            "clickable": true,
+            "class": "mobi.escapemusic.music.standard.util.extendobject.ImageButtonTemplate",
+            "bounds": [
+                334,
+                1790,
+                535,
+                1991
+            ],
+            "componentLabel": "Icon",
+            "id": "30889_13"
+        },
+        {
+            "text": "4:01",
+            "resource-id": "escapemusic.android.a049jalvarez:id/music_time_total",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
+            "bounds": [
+                1240,
+                2110,
+                1405,
+                2178
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                1277.3333333333333,
+                2126.0,
+                1357.3333333333333,
+                2163.3333333333335
+            ],
+            "text_updated": "4:01",
+            "font_size": 5.7593818984547775,
+            "id": "30889_14"
+        },
+        {
+            "text": "0:03",
+            "resource-id": "escapemusic.android.a049jalvarez:id/music_time",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "mobi.escapemusic.music.standard.util.extendobject.TypefaceTextView",
+            "bounds": [
+                35,
+                2110,
+                199,
+                2178
+            ],
+            "componentLabel": "Text",
+            "text_color": "#CF0E3B",
+            "bounds_updated": [
+                35,
+                2110,
+                199,
+                2178
+            ],
+            "text_updated": "0:03",
+            "font_size": 12,
+            "id": "30889_15"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                84,
+                1440,
+                1689
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "30889_16",
+            "ui_comp_ids": [
+                "30889_0",
+                "30889_1",
+                "30889_2",
+                "30889_3",
+                "30889_4",
+                "30889_5",
+                "30889_7",
+                "30889_8"
+            ],
+            "ui_comp_group_ids": [
+                "30889_17",
+                "30889_18",
+                "30889_19",
+                "30889_22"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                252,
+                1440,
+                1689
+            ],
+            "class": "android.support.v4.view.ViewPager",
+            "bg_color": "#FFFFFF",
+            "id": "30889_17",
+            "ui_comp_ids": [
+                "30889_0",
+                "30889_1",
+                "30889_7",
+                "30889_8"
+            ],
+            "ui_comp_group_ids": [
+                "30889_18",
+                "30889_19"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                299,
+                1440,
+                1689
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "30889_18",
+            "ui_comp_ids": [
+                "30889_0",
+                "30889_7"
+            ],
+            "ui_comp_group_ids": [
+                "30889_19"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                501,
+                1440,
+                1689
+            ],
+            "class": "mobi.escapemusic.music.aggregate.listview.ExpandablePlaylist",
+            "bg_color": "#FFFFFF",
+            "id": "30889_19",
+            "ui_comp_ids": [
+                "30889_0",
+                "30889_7"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1689,
+                1440,
+                2213
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#0C0C0C",
+            "id": "30889_20",
+            "ui_comp_ids": [
+                "30889_6",
+                "30889_10",
+                "30889_11",
+                "30889_12",
+                "30889_13",
+                "30889_14",
+                "30889_15"
+            ],
+            "ui_comp_group_ids": [
+                "30889_21"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1689,
+                1440,
+                2092
+            ],
+            "class": "mobi.escapemusic.music.standard.mainView.PlayPanelLayout",
+            "bg_color": "#0C0C0C",
+            "id": "30889_21",
+            "ui_comp_ids": [
+                "30889_6",
+                "30889_10",
+                "30889_11",
+                "30889_12",
+                "30889_13"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "android.support.design.widget.AppBarLayout",
+            "bg_color": "#090909",
+            "id": "30889_22",
+            "ui_comp_ids": [
+                "30889_2",
+                "30889_3",
+                "30889_4",
+                "30889_5"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

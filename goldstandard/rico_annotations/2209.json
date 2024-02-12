@@ -1,0 +1,529 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                783,
+                719,
+                846,
+                740
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "2209_0"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                720,
+                719,
+                783,
+                740
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "2209_1"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                657,
+                719,
+                720,
+                740
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "2209_2"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                594,
+                719,
+                657,
+                740
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "2209_3"
+        },
+        {
+            "resource-id": "com.google.android.apps.travel.onthego:id/map",
+            "children": [],
+            "ancestors": [
+                "android.widget.FrameLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.google.android.m1p.maps.MapView",
+            "bounds": [
+                56,
+                1733,
+                1384,
+                2392
+            ],
+            "componentLabel": "Map View",
+            "id": "2209_4"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.google.android.apps.travel.onthego:id/image",
+            "clickable": false,
+            "class": "aem",
+            "bounds": [
+                0,
+                0,
+                1440,
+                810
+            ],
+            "componentLabel": "Image",
+            "id": "2209_5"
+        },
+        {
+            "text": "3497 reviews",
+            "resource-id": "com.google.android.apps.travel.onthego:id/landmark_total_evaluations",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "afe",
+            "bounds": [
+                441,
+                1020,
+                732,
+                1077
+            ],
+            "componentLabel": "Text",
+            "text_color": "#5C5C5C",
+            "bounds_updated": [
+                442.3333333333333,
+                1029.3333333333333,
+                729.0,
+                1065.3333333333333
+            ],
+            "text_updated": "3497 reviews",
+            "font_size": 9.432689028877046,
+            "id": "2209_6"
+        },
+        {
+            "text": "4.5",
+            "resource-id": "com.google.android.apps.travel.onthego:id/landmark_average_rate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "afe",
+            "bounds": [
+                56,
+                1020,
+                125,
+                1077
+            ],
+            "componentLabel": "Text",
+            "text_color": "#ED6E07",
+            "bounds_updated": [
+                57.333333333333336,
+                1029.3333333333333,
+                122.66666666666666,
+                1065.3333333333333
+            ],
+            "text_updated": "4.5",
+            "font_size": 9.13228052300901,
+            "id": "2209_7"
+        },
+        {
+            "iconClass": "star",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.google.android.apps.travel.onthego:id/entity_empty_star",
+            "clickable": true,
+            "class": "aem",
+            "bounds": [
+                1258,
+                838,
+                1426,
+                1006
+            ],
+            "componentLabel": "Icon",
+            "id": "2209_8"
+        },
+        {
+            "text": "Place de la Concorde",
+            "resource-id": "com.google.android.apps.travel.onthego:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "afe",
+            "bounds": [
+                56,
+                866,
+                1258,
+                978
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1F1F1F",
+            "bounds_updated": [
+                62.666666666666664,
+                894.0,
+                841.3333333333333,
+                955.3333333333334
+            ],
+            "text_updated": "Place de la Concorde",
+            "font_size": 13.900219239208774,
+            "id": "2209_9"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.google.android.apps.travel.onthego:id/static_landmark_map",
+            "clickable": false,
+            "class": "aem",
+            "bounds": [
+                56,
+                1733,
+                1384,
+                2392
+            ],
+            "componentLabel": "Image",
+            "id": "2209_10"
+        },
+        {
+            "text": "Website",
+            "resource-id": "com.google.android.apps.travel.onthego:id/website",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "afe",
+            "bounds": [
+                720,
+                1509,
+                1384,
+                1677
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "website",
+            "bg_color": "#FFFFFF",
+            "text_color": "#727272",
+            "bounds_text": [
+                953.3333333333333,
+                1515.6666666666667,
+                1150.6666666666665,
+                1654.3333333333333
+            ],
+            "text_updated": "\u00a9\n\nWEBSITE",
+            "font_size": 9.816340023083555,
+            "id": "2209_11"
+        },
+        {
+            "text": "Directions",
+            "resource-id": "com.google.android.apps.travel.onthego:id/directions",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "afe",
+            "bounds": [
+                56,
+                1509,
+                720,
+                1677
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "directions",
+            "bg_color": "#FFFFFF",
+            "text_color": "#6F6F6F",
+            "bounds_text": [
+                254.66666666666666,
+                1515.6666666666667,
+                522.6666666666666,
+                1654.3333333333333
+            ],
+            "text_updated": "4\n\nDIRECTIONS",
+            "font_size": 9.66755625844289,
+            "id": "2209_12"
+        },
+        {
+            "text": "The Place de la Concorde is one of the major public squares in Paris, France. Measuring 8.64 hectares in area, it is the largest square in the French capital. It is located in the city's eighth arrondissement, at the eastern end of the Champs-\u00c9lys\u00e9es.",
+            "resource-id": "com.google.android.apps.travel.onthego:id/entity_description",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.google.android.apps.travel.onthego.views.ExpandableTextView",
+            "bounds": [
+                0,
+                1189,
+                1440,
+                1397
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#F5F5F5",
+            "text_color": "#686868",
+            "bounds_text": [
+                57.33333333333333,
+                1205.0,
+                1380.0,
+                1391.6666666666667
+            ],
+            "text_updated": "The Place de la Concorde is one of the major public squares\nin Paris, France. Measuring 8.64 hectares in area, it is the\nlargest square in the French capital. It is located in the city's...",
+            "font_size": 9.285616953019458,
+            "id": "2209_13"
+        },
+        {
+            "iconClass": "more",
+            "ancestors": [
+                "aem",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1272,
+                98,
+                1440,
+                266
+            ],
+            "clickable": true,
+            "class": "add",
+            "componentLabel": "Icon",
+            "id": "2209_14"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "aek",
+            "componentLabel": "Icon",
+            "id": "2209_15"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                0,
+                1440,
+                810
+            ],
+            "class": "com.google.android.apps.travel.onthego.views.FixedAspectRatioFrameLayout",
+            "bg_color": "#E9E9E9",
+            "id": "2209_16",
+            "ui_comp_ids": [
+                "2209_0",
+                "2209_1",
+                "2209_2",
+                "2209_3",
+                "2209_14",
+                "2209_15"
+            ],
+            "ui_comp_group_ids": [
+                "2209_20",
+                "2209_21",
+                "2209_24"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1733,
+                1440,
+                2392
+            ],
+            "class": "com.google.android.apps.travel.onthego.views.FixedAspectRatioFrameLayout",
+            "bg_color": "#EAEAEA",
+            "id": "2209_17",
+            "ui_comp_ids": [
+                "2209_4",
+                "2209_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                810,
+                1440,
+                1133
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "2209_18",
+            "ui_comp_ids": [
+                "2209_6",
+                "2209_7",
+                "2209_8",
+                "2209_9"
+            ],
+            "ui_comp_group_ids": [
+                "2209_22",
+                "2209_23"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1453,
+                1440,
+                1733
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "2209_19",
+            "ui_comp_ids": [
+                "2209_11",
+                "2209_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                600,
+                1440,
+                810
+            ],
+            "class": "android.view.View",
+            "bg_color": "#010101",
+            "id": "2209_20",
+            "ui_comp_ids": [
+                "2209_0",
+                "2209_1",
+                "2209_2",
+                "2209_3"
+            ],
+            "ui_comp_group_ids": [
+                "2209_24"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#E9E9E9",
+            "id": "2209_21",
+            "ui_comp_ids": [
+                "2209_14",
+                "2209_15"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                56,
+                838,
+                1426,
+                1006
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "2209_22",
+            "ui_comp_ids": [
+                "2209_8",
+                "2209_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                56,
+                1006,
+                1426,
+                1077
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "2209_23",
+            "ui_comp_ids": [
+                "2209_6",
+                "2209_7"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                719,
+                1440,
+                740
+            ],
+            "class": "com.google.android.apps.travel.onthego.views.TabbedLayout",
+            "bg_color": "#010101",
+            "id": "2209_24",
+            "ui_comp_ids": [
+                "2209_0",
+                "2209_1",
+                "2209_2",
+                "2209_3"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

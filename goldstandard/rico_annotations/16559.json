@@ -1,0 +1,781 @@
+{
+    "bg_color": "#F1F1F1",
+    "ui_comps": [
+        {
+            "text": "cm",
+            "resource-id": "de.aktiwir.aktibmi:id/labelUnitCM",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1275,
+                1837,
+                1334,
+                1894
+            ],
+            "componentLabel": "Text",
+            "text_color": "#7D7D7D",
+            "bounds_updated": [
+                1275,
+                1837,
+                1334,
+                1894
+            ],
+            "text_updated": "cm",
+            "font_size": 12,
+            "id": "16559_0"
+        },
+        {
+            "text": "175",
+            "resource-id": "de.aktiwir.aktibmi:id/inputHeight",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                720,
+                1782,
+                1240,
+                1950
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                720,
+                1782.0,
+                1240.0,
+                1950
+            ],
+            "text_updated": "175",
+            "font_size": 12,
+            "id": "16559_1"
+        },
+        {
+            "text": "Height",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                1819,
+                271,
+                1912
+            ],
+            "componentLabel": "Text",
+            "text_color": "#7C7C7C",
+            "bounds_updated": [
+                75.33333333333333,
+                1843.0,
+                270.0,
+                1907.0
+            ],
+            "text_updated": "Height",
+            "font_size": 12.440199241523771,
+            "id": "16559_2"
+        },
+        {
+            "text": "kg",
+            "resource-id": "de.aktiwir.aktibmi:id/labelUnitKG2",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1275,
+                1634,
+                1319,
+                1691
+            ],
+            "componentLabel": "Text",
+            "text_color": "#838383",
+            "bounds_updated": [
+                1277.6666666666667,
+                1647.3333333333333,
+                1317.6666666666667,
+                1687.3333333333333
+            ],
+            "text_updated": "kg",
+            "font_size": 4.059602649006744,
+            "id": "16559_3"
+        },
+        {
+            "text": "70.0",
+            "resource-id": "de.aktiwir.aktibmi:id/inputDesiredWeight",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                720,
+                1579,
+                1240,
+                1747
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                922.6666666666666,
+                1643.0,
+                1037.3333333333333,
+                1688.3333333333333
+            ],
+            "text_updated": "70.0",
+            "font_size": 11.119141312346034,
+            "id": "16559_4"
+        },
+        {
+            "text": "Desired weight",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                1616,
+                522,
+                1709
+            ],
+            "componentLabel": "Text",
+            "text_color": "#7A7A7A",
+            "bounds_updated": [
+                78.0,
+                1640.0,
+                520.6666666666666,
+                1704.0
+            ],
+            "text_updated": "Desired weight",
+            "font_size": 12.378668770955484,
+            "id": "16559_5"
+        },
+        {
+            "text": "kg",
+            "resource-id": "de.aktiwir.aktibmi:id/labelUnitKG",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1275,
+                1431,
+                1319,
+                1488
+            ],
+            "componentLabel": "Text",
+            "text_color": "#8A8A8A",
+            "bounds_updated": [
+                1277.6666666666667,
+                1444.3333333333333,
+                1317.6666666666667,
+                1484.3333333333333
+            ],
+            "text_updated": "kg",
+            "font_size": 4.059602649006744,
+            "id": "16559_6"
+        },
+        {
+            "text": "80.0",
+            "resource-id": "de.aktiwir.aktibmi:id/inputWeight",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                720,
+                1376,
+                1240,
+                1544
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                922.6666666666666,
+                1437.3333333333333,
+                1037.3333333333333,
+                1485.3333333333333
+            ],
+            "text_updated": "80.0",
+            "font_size": 11.062833925200765,
+            "id": "16559_7"
+        },
+        {
+            "text": "Weight",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                1413,
+                283,
+                1506
+            ],
+            "componentLabel": "Text",
+            "text_color": "#7F7F7F",
+            "bounds_updated": [
+                72.66666666666667,
+                1437.0,
+                280.66666666666663,
+                1501.0
+            ],
+            "text_updated": "Weight",
+            "font_size": 12.570951491481296,
+            "id": "16559_8"
+        },
+        {
+            "text": "f",
+            "resource-id": "de.aktiwir.aktibmi:id/inputGenderFemale",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                977,
+                1173,
+                1240,
+                1341
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#B85CA7",
+            "bounds_text": [
+                977,
+                1173,
+                1240,
+                1341
+            ],
+            "text_updated": "f",
+            "font_size": 12,
+            "id": "16559_9"
+        },
+        {
+            "text": "m",
+            "resource-id": "de.aktiwir.aktibmi:id/inputGenderMale",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                720,
+                1173,
+                983,
+                1341
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#269DD7",
+            "bounds_text": [
+                720,
+                1173,
+                983,
+                1341
+            ],
+            "text_updated": "m",
+            "font_size": 12,
+            "id": "16559_10"
+        },
+        {
+            "text": "Gender",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                1210,
+                291,
+                1303
+            ],
+            "componentLabel": "Text",
+            "text_color": "#7E7E7E",
+            "bounds_updated": [
+                75.33333333333333,
+                1234.0,
+                291.3333333333333,
+                1284.6666666666667
+            ],
+            "text_updated": "Gender",
+            "font_size": 12.387621617202214,
+            "id": "16559_11"
+        },
+        {
+            "text": "choose",
+            "resource-id": "de.aktiwir.aktibmi:id/myDatePickerButton",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                720,
+                970,
+                1240,
+                1138
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                882.6666666666666,
+                1042.0,
+                1077.3333333333333,
+                1079.3333333333333
+            ],
+            "text_updated": "choose",
+            "font_size": 11.742853908416818,
+            "id": "16559_12"
+        },
+        {
+            "text": "Birthday",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                1007,
+                324,
+                1100
+            ],
+            "componentLabel": "Text",
+            "text_color": "#7E7E7E",
+            "bounds_updated": [
+                75.33333333333333,
+                1031.0,
+                323.3333333333333,
+                1095.0
+            ],
+            "text_updated": "Birthday",
+            "font_size": 12.294785064919669,
+            "id": "16559_13"
+        },
+        {
+            "text": "lb/ft",
+            "resource-id": "de.aktiwir.aktibmi:id/inputUnitLBS",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                977,
+                767,
+                1240,
+                935
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#7D767E",
+            "bounds_text": [
+                977,
+                767.0,
+                1241.0,
+                935
+            ],
+            "text_updated": "ib/ft",
+            "font_size": 18.33971057149865,
+            "id": "16559_14"
+        },
+        {
+            "text": "kg/cm",
+            "resource-id": "de.aktiwir.aktibmi:id/inputUnitKG",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                720,
+                767,
+                983,
+                935
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#E3E3E3",
+            "text_color": "#427A91",
+            "bounds_text": [
+                720,
+                767.0,
+                984.0,
+                935
+            ],
+            "text_updated": "kg/om",
+            "font_size": 15.61712043168998,
+            "id": "16559_15"
+        },
+        {
+            "text": "Unit",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                804,
+                192,
+                897
+            ],
+            "componentLabel": "Text",
+            "text_color": "#8A8A8A",
+            "bounds_updated": [
+                75.33333333333333,
+                825.3333333333334,
+                190.0,
+                878.6666666666666
+            ],
+            "text_updated": "Unit",
+            "font_size": 12.0200595066705,
+            "id": "16559_16"
+        },
+        {
+            "text": "Import",
+            "resource-id": "de.aktiwir.aktibmi:id/buttonImport",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                70,
+                2171,
+                1370,
+                2339
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#000000",
+            "bounds_text": [
+                632.6666666666666,
+                2235.0,
+                811.3333333333333,
+                2291.0
+            ],
+            "text_updated": "Import",
+            "font_size": 11.460131299304038,
+            "id": "16559_17"
+        },
+        {
+            "text": "Save and continue",
+            "resource-id": "de.aktiwir.aktibmi:id/buttonSave",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                70,
+                1985,
+                1370,
+                2153
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#9DCC1C",
+            "text_color": "#EDFFB7",
+            "bounds_text": [
+                470.0,
+                2049.0,
+                971.3333333333333,
+                2094.3333333333335
+            ],
+            "text_updated": "Save and continue",
+            "font_size": 11.406410137781835,
+            "id": "16559_18"
+        },
+        {
+            "text": "Before you can start, please insert your body-data.",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                580,
+                1370,
+                732
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                72.66666666666667,
+                598.6666666666666,
+                1248.6666666666665,
+                713.3333333333333
+            ],
+            "text_updated": "Before you can start, please insert your body-\ndata.",
+            "font_size": 10.798150901272948,
+            "id": "16559_19"
+        },
+        {
+            "text": "Welcome to aktiBMI",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                428,
+                1370,
+                545
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                72.66666666666667,
+                460.0,
+                832.6666666666666,
+                524.0
+            ],
+            "text_updated": "Welcome to aktiBMI",
+            "font_size": 14.880252507648814,
+            "id": "16559_20"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                1440,
+                428
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "16559_21"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                70,
+                1985,
+                1370,
+                2339
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "16559_22",
+            "ui_comp_ids": [
+                "16559_17",
+                "16559_18"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                428,
+                1440,
+                732
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F1F1F1",
+            "id": "16559_23",
+            "ui_comp_ids": [
+                "16559_19",
+                "16559_20"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                70,
+                1782,
+                1370,
+                1950
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F1F1F1",
+            "id": "16559_24",
+            "ui_comp_ids": [
+                "16559_0",
+                "16559_1",
+                "16559_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                70,
+                1579,
+                1370,
+                1747
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F1F1F1",
+            "id": "16559_25",
+            "ui_comp_ids": [
+                "16559_3",
+                "16559_4",
+                "16559_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                70,
+                1376,
+                1370,
+                1544
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F1F1F1",
+            "id": "16559_26",
+            "ui_comp_ids": [
+                "16559_6",
+                "16559_7",
+                "16559_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                70,
+                1173,
+                1370,
+                1341
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F1F1F1",
+            "id": "16559_27",
+            "ui_comp_ids": [
+                "16559_9",
+                "16559_10",
+                "16559_11"
+            ],
+            "ui_comp_group_ids": [
+                "16559_30"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                70,
+                970,
+                1370,
+                1138
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F1F1F1",
+            "id": "16559_28",
+            "ui_comp_ids": [
+                "16559_12",
+                "16559_13"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                70,
+                767,
+                1370,
+                935
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#F1F1F1",
+            "id": "16559_29",
+            "ui_comp_ids": [
+                "16559_14",
+                "16559_15",
+                "16559_16"
+            ],
+            "ui_comp_group_ids": [
+                "16559_31"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                720,
+                1173,
+                1240,
+                1341
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "16559_30",
+            "ui_comp_ids": [
+                "16559_9",
+                "16559_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                720,
+                767,
+                1240,
+                935
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "16559_31",
+            "ui_comp_ids": [
+                "16559_14",
+                "16559_15"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

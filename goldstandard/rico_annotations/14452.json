@@ -1,0 +1,1764 @@
+{
+    "bg_color": "#FAFAFA",
+    "ui_comps": [
+        {
+            "text": "91.1 Radio City Pune",
+            "resource-id": "com.fmindia.activities:id/tvRadioName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                791,
+                2118,
+                1070,
+                2175
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1D1D1D",
+            "bounds_updated": [
+                791,
+                2118,
+                1070,
+                2175
+            ],
+            "text_updated": "91.1 Radio City Pune",
+            "font_size": 12,
+            "id": "14452_0"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/ivRadio",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                773,
+                1792,
+                1088,
+                2107
+            ],
+            "componentLabel": "Image",
+            "id": "14452_1"
+        },
+        {
+            "text": "94.3 Radio One Pune",
+            "resource-id": "com.fmindia.activities:id/tvRadioName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                446,
+                2118,
+                725,
+                2175
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1E1E1E",
+            "bounds_updated": [
+                448.6666666666667,
+                2131.3333333333335,
+                715.3333333333333,
+                2162.0
+            ],
+            "text_updated": "94.3 Radio O...",
+            "font_size": 7.56521235872378,
+            "id": "14452_2"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/ivRadio",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                428,
+                1792,
+                743,
+                2107
+            ],
+            "componentLabel": "Image",
+            "id": "14452_3"
+        },
+        {
+            "text": "93.5 Red FM Pune",
+            "resource-id": "com.fmindia.activities:id/tvRadioName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                101,
+                2118,
+                380,
+                2175
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1E1E1E",
+            "bounds_updated": [
+                102.33333333333333,
+                2131.3333333333335,
+                377.0,
+                2162.0
+            ],
+            "text_updated": "93.5 Red FM...",
+            "font_size": 8.320824135393663,
+            "id": "14452_4"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/ivRadio",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                83,
+                1792,
+                398,
+                2107
+            ],
+            "componentLabel": "Image",
+            "id": "14452_5"
+        },
+        {
+            "text": "See all >>",
+            "resource-id": "com.fmindia.activities:id/see_all",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1143,
+                1623,
+                1355,
+                1716
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#2C210F",
+            "text_color": "#E9EFED",
+            "bounds_text": [
+                1163.0,
+                1656.3333333333333,
+                1336.3333333333333,
+                1687.0
+            ],
+            "text_updated": "See all >>",
+            "font_size": 6.008072919989617,
+            "id": "14452_6"
+        },
+        {
+            "text": "Pune Live",
+            "resource-id": "com.fmindia.activities:id/tvCategory",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                85,
+                1604,
+                363,
+                1716
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFF6",
+            "bounds_updated": [
+                106.33333333333333,
+                1641.3333333333333,
+                342.3333333333333,
+                1682.6666666666667
+            ],
+            "text_updated": "Pune Live",
+            "font_size": 10.760903455930954,
+            "id": "14452_7"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                50,
+                1564,
+                1390,
+                1757
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Image",
+            "id": "14452_8"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/rl_category_list",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                50,
+                1564,
+                1390,
+                1757
+            ],
+            "componentLabel": "Image",
+            "id": "14452_9"
+        },
+        {
+            "text": "96kbps",
+            "resource-id": "com.fmindia.activities:id/tvRadioBitrate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1136,
+                1432,
+                1252,
+                1497
+            ],
+            "componentLabel": "Text",
+            "text_color": "#646464",
+            "bounds_updated": [
+                1137.3333333333333,
+                1444.0,
+                1250.6666666666667,
+                1476.0
+            ],
+            "text_updated": "96kbps",
+            "font_size": 5.37185723495283,
+            "id": "14452_10"
+        },
+        {
+            "text": "AIR Kannada FM",
+            "resource-id": "com.fmindia.activities:id/tvRadioName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1136,
+                1381,
+                1372,
+                1438
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1C1C1C",
+            "bounds_updated": [
+                1136,
+                1394.3333333333333,
+                1372.0,
+                1425.0
+            ],
+            "text_updated": "AIR Kannad\u00e9",
+            "font_size": 7.767675633878352,
+            "id": "14452_11"
+        },
+        {
+            "iconClass": "globe",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/ivRadio",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1118,
+                1055,
+                1372,
+                1370
+            ],
+            "componentLabel": "Icon",
+            "id": "14452_12"
+        },
+        {
+            "text": "96kbps",
+            "resource-id": "com.fmindia.activities:id/tvRadioBitrate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                791,
+                1432,
+                907,
+                1497
+            ],
+            "componentLabel": "Text",
+            "text_color": "#686868",
+            "bounds_updated": [
+                792.3333333333334,
+                1444.0,
+                905.6666666666666,
+                1476.0
+            ],
+            "text_updated": "96kbps",
+            "font_size": 5.37185723495283,
+            "id": "14452_13"
+        },
+        {
+            "text": "95.0 Radio Mirchi Bengaluru",
+            "resource-id": "com.fmindia.activities:id/tvRadioName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                791,
+                1381,
+                1070,
+                1438
+            ],
+            "componentLabel": "Text",
+            "text_color": "#222222",
+            "bounds_updated": [
+                791,
+                1381,
+                1070,
+                1438
+            ],
+            "text_updated": "95.0 Radio Mirchi Bengaluru",
+            "font_size": 12,
+            "id": "14452_14"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/ivRadio",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                773,
+                1055,
+                1088,
+                1370
+            ],
+            "componentLabel": "Image",
+            "id": "14452_15"
+        },
+        {
+            "text": "96kbps",
+            "resource-id": "com.fmindia.activities:id/tvRadioBitrate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                446,
+                1432,
+                562,
+                1497
+            ],
+            "componentLabel": "Text",
+            "text_color": "#696969",
+            "bounds_updated": [
+                448.6666666666667,
+                1444.0,
+                560.6666666666666,
+                1476.0
+            ],
+            "text_updated": "96kbps",
+            "font_size": 5.241248817407766,
+            "id": "14452_16"
+        },
+        {
+            "text": "94.3 Radio One FM Bengaluru",
+            "resource-id": "com.fmindia.activities:id/tvRadioName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                446,
+                1381,
+                725,
+                1438
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1E1E1E",
+            "bounds_updated": [
+                446,
+                1381,
+                725,
+                1438
+            ],
+            "text_updated": "94.3 Radio One FM Bengaluru",
+            "font_size": 12,
+            "id": "14452_17"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/ivRadio",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                428,
+                1055,
+                743,
+                1370
+            ],
+            "componentLabel": "Image",
+            "id": "14452_18"
+        },
+        {
+            "text": "96kbps",
+            "resource-id": "com.fmindia.activities:id/tvRadioBitrate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                101,
+                1432,
+                217,
+                1497
+            ],
+            "componentLabel": "Text",
+            "text_color": "#676767",
+            "bounds_updated": [
+                102.33333333333333,
+                1444.0,
+                215.66666666666666,
+                1476.0
+            ],
+            "text_updated": "96kbps",
+            "font_size": 5.37185723495283,
+            "id": "14452_19"
+        },
+        {
+            "text": "98.3 Radio Mirchi Bengaluru",
+            "resource-id": "com.fmindia.activities:id/tvRadioName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                101,
+                1381,
+                380,
+                1438
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1E1E1E",
+            "bounds_updated": [
+                101,
+                1381,
+                380,
+                1438
+            ],
+            "text_updated": "98.3 Radio Mirchi Bengaluru",
+            "font_size": 12,
+            "id": "14452_20"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/ivRadio",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                83,
+                1055,
+                398,
+                1370
+            ],
+            "componentLabel": "Image",
+            "id": "14452_21"
+        },
+        {
+            "text": "See all >>",
+            "resource-id": "com.fmindia.activities:id/see_all",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1143,
+                886,
+                1355,
+                979
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#110F10",
+            "text_color": "#F4F0ED",
+            "bounds_text": [
+                1163.0,
+                919.3333333333334,
+                1336.3333333333333,
+                950.0
+            ],
+            "text_updated": "See all >>",
+            "font_size": 6.008072919989617,
+            "id": "14452_22"
+        },
+        {
+            "text": "Bengaluru Live",
+            "resource-id": "com.fmindia.activities:id/tvCategory",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                85,
+                867,
+                488,
+                979
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFEFF",
+            "bounds_updated": [
+                107.66666666666666,
+                905.6666666666666,
+                467.66666666666663,
+                957.6666666666666
+            ],
+            "text_updated": "Bengaluru Live",
+            "font_size": 10.542065244052004,
+            "id": "14452_23"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                50,
+                827,
+                1390,
+                1020
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "componentLabel": "Image",
+            "id": "14452_24"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/rl_category_list",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                50,
+                827,
+                1390,
+                1020
+            ],
+            "componentLabel": "Image",
+            "id": "14452_25"
+        },
+        {
+            "text": "96kbps",
+            "resource-id": "com.fmindia.activities:id/tvRadioBitrate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1136,
+                695,
+                1252,
+                760
+            ],
+            "componentLabel": "Text",
+            "text_color": "#696969",
+            "bounds_updated": [
+                1137.3333333333333,
+                707.0,
+                1250.6666666666667,
+                740.3333333333334
+            ],
+            "text_updated": "96kbps",
+            "font_size": 5.37185723495283,
+            "id": "14452_26"
+        },
+        {
+            "text": "AIR Marathi FM",
+            "resource-id": "com.fmindia.activities:id/tvRadioName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1136,
+                644,
+                1372,
+                701
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1E1E1E",
+            "bounds_updated": [
+                1136,
+                657.3333333333334,
+                1357.3333333333333,
+                688.0
+            ],
+            "text_updated": "AIR Marathi",
+            "font_size": 8.088127083062819,
+            "id": "14452_27"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/ivRadio",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1118,
+                455,
+                1372,
+                633
+            ],
+            "componentLabel": "Image",
+            "id": "14452_28"
+        },
+        {
+            "text": "96kbps",
+            "resource-id": "com.fmindia.activities:id/tvRadioBitrate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                791,
+                695,
+                907,
+                760
+            ],
+            "componentLabel": "Text",
+            "text_color": "#696969",
+            "bounds_updated": [
+                792.3333333333334,
+                707.0,
+                905.6666666666666,
+                740.3333333333334
+            ],
+            "text_updated": "96kbps",
+            "font_size": 5.37185723495283,
+            "id": "14452_29"
+        },
+        {
+            "text": "104 Fever FM Mumbai",
+            "resource-id": "com.fmindia.activities:id/tvRadioName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                791,
+                644,
+                1070,
+                701
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1C1C1C",
+            "bounds_updated": [
+                791,
+                644,
+                1070,
+                701
+            ],
+            "text_updated": "104 Fever FM Mumbai",
+            "font_size": 12,
+            "id": "14452_30"
+        },
+        {
+            "iconClass": "avatar",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/ivRadio",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                773,
+                455,
+                1088,
+                633
+            ],
+            "componentLabel": "Icon",
+            "id": "14452_31"
+        },
+        {
+            "text": "96kbps",
+            "resource-id": "com.fmindia.activities:id/tvRadioBitrate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                446,
+                695,
+                562,
+                760
+            ],
+            "componentLabel": "Text",
+            "text_color": "#656565",
+            "bounds_updated": [
+                448.6666666666667,
+                707.0,
+                560.6666666666666,
+                739.0
+            ],
+            "text_updated": "96kbps",
+            "font_size": 5.241248817407766,
+            "id": "14452_32"
+        },
+        {
+            "text": "93.5 Red FM Mumbai",
+            "resource-id": "com.fmindia.activities:id/tvRadioName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                446,
+                644,
+                725,
+                701
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1E1E1E",
+            "bounds_updated": [
+                448.6666666666667,
+                657.3333333333334,
+                723.3333333333333,
+                688.0
+            ],
+            "text_updated": "93.5 Red FM...",
+            "font_size": 8.32082413539368,
+            "id": "14452_33"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/ivRadio",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                428,
+                455,
+                743,
+                633
+            ],
+            "componentLabel": "Image",
+            "id": "14452_34"
+        },
+        {
+            "text": "96kbps",
+            "resource-id": "com.fmindia.activities:id/tvRadioBitrate",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                101,
+                695,
+                217,
+                760
+            ],
+            "componentLabel": "Text",
+            "text_color": "#676767",
+            "bounds_updated": [
+                102.33333333333333,
+                707.0,
+                215.66666666666666,
+                740.3333333333334
+            ],
+            "text_updated": "96kbps",
+            "font_size": 5.37185723495283,
+            "id": "14452_35"
+        },
+        {
+            "text": "98.3 Radio Mirchi Mumbai",
+            "resource-id": "com.fmindia.activities:id/tvRadioName",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                101,
+                644,
+                380,
+                701
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1E1E1E",
+            "bounds_updated": [
+                101,
+                644,
+                380,
+                701
+            ],
+            "text_updated": "98.3 Radio Mirchi Mumbai",
+            "font_size": 12,
+            "id": "14452_36"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/ivRadio",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                83,
+                455,
+                398,
+                633
+            ],
+            "componentLabel": "Image",
+            "id": "14452_37"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/fab",
+            "clickable": true,
+            "class": "android.support.design.widget.FloatingActionButton",
+            "bounds": [
+                1156,
+                1891,
+                1352,
+                2087
+            ],
+            "componentLabel": "Image",
+            "id": "14452_38"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/btn_music",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "bounds": [
+                720,
+                252,
+                1440,
+                420
+            ],
+            "componentLabel": "Image",
+            "id": "14452_39"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/btn_radio",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "bounds": [
+                0,
+                252,
+                720,
+                420
+            ],
+            "componentLabel": "Image",
+            "id": "14452_40"
+        },
+        {
+            "iconClass": "search",
+            "resource-id": "com.fmindia.activities:id/action_search",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1272,
+                98,
+                1440,
+                252
+            ],
+            "componentLabel": "Icon",
+            "id": "14452_41"
+        },
+        {
+            "iconClass": "menu",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                98,
+                196,
+                252
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "14452_42"
+        },
+        {
+            "text": "FM India",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                210,
+                136,
+                484,
+                237
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F9FFFF",
+            "bounds_updated": [
+                212.66666666666666,
+                156.0,
+                480.66666666666663,
+                214.66666666666666
+            ],
+            "text_updated": "FM India",
+            "font_size": 12.90083797348796,
+            "id": "14452_43"
+        },
+        {
+            "text": "Delhi Live",
+            "resource-id": "com.fmindia.activities:id/tv_song_subtext",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                235,
+                2288,
+                413,
+                2345
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F0EDE8",
+            "bounds_updated": [
+                239.0,
+                2302.6666666666665,
+                412.3333333333333,
+                2333.3333333333335
+            ],
+            "text_updated": "Delhi Live",
+            "font_size": 7.069717192597393,
+            "id": "14452_44"
+        },
+        {
+            "text": "95.0 Hit FM Delhi",
+            "resource-id": "com.fmindia.activities:id/tv_song_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                235,
+                2217,
+                639,
+                2288
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFB",
+            "bounds_updated": [
+                237.66666666666666,
+                2234.3333333333335,
+                636.3333333333333,
+                2273.0
+            ],
+            "text_updated": "95.0 Hit FM Delhi",
+            "font_size": 10.262632298184759,
+            "id": "14452_45"
+        },
+        {
+            "iconClass": "av_forward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/iv_song_next",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1279,
+                2220,
+                1405,
+                2346
+            ],
+            "componentLabel": "Icon",
+            "id": "14452_46"
+        },
+        {
+            "iconClass": "pause",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/iv_song_info_options_toggle",
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                1153,
+                2227,
+                1265,
+                2339
+            ],
+            "componentLabel": "Icon",
+            "id": "14452_47"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.fmindia.activities:id/iv_song_image",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                35,
+                2210,
+                182,
+                2357
+            ],
+            "componentLabel": "Image",
+            "id": "14452_48"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                84,
+                1440,
+                2175
+            ],
+            "class": "android.support.design.widget.CoordinatorLayout",
+            "bg_color": "#FAFAFA",
+            "id": "14452_49",
+            "ui_comp_ids": [
+                "14452_0",
+                "14452_1",
+                "14452_2",
+                "14452_3",
+                "14452_4",
+                "14452_5",
+                "14452_6",
+                "14452_7",
+                "14452_8",
+                "14452_9",
+                "14452_10",
+                "14452_11",
+                "14452_12",
+                "14452_13",
+                "14452_14",
+                "14452_15",
+                "14452_16",
+                "14452_17",
+                "14452_18",
+                "14452_19",
+                "14452_20",
+                "14452_21",
+                "14452_22",
+                "14452_23",
+                "14452_24",
+                "14452_25",
+                "14452_26",
+                "14452_27",
+                "14452_28",
+                "14452_29",
+                "14452_30",
+                "14452_31",
+                "14452_32",
+                "14452_33",
+                "14452_34",
+                "14452_35",
+                "14452_36",
+                "14452_37",
+                "14452_38",
+                "14452_39",
+                "14452_40",
+                "14452_41",
+                "14452_42",
+                "14452_43"
+            ],
+            "ui_comp_group_ids": [
+                "14452_50",
+                "14452_51",
+                "14452_52",
+                "14452_53",
+                "14452_54",
+                "14452_55",
+                "14452_57",
+                "14452_58",
+                "14452_59",
+                "14452_60",
+                "14452_61",
+                "14452_63",
+                "14452_64",
+                "14452_65",
+                "14452_66",
+                "14452_67",
+                "14452_68",
+                "14452_69",
+                "14452_70"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                420,
+                1440,
+                2175
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FAFAFA",
+            "id": "14452_50",
+            "ui_comp_ids": [
+                "14452_0",
+                "14452_1",
+                "14452_2",
+                "14452_3",
+                "14452_4",
+                "14452_5",
+                "14452_6",
+                "14452_7",
+                "14452_8",
+                "14452_9",
+                "14452_10",
+                "14452_11",
+                "14452_12",
+                "14452_13",
+                "14452_14",
+                "14452_15",
+                "14452_16",
+                "14452_17",
+                "14452_18",
+                "14452_19",
+                "14452_20",
+                "14452_21",
+                "14452_22",
+                "14452_23",
+                "14452_24",
+                "14452_25",
+                "14452_26",
+                "14452_27",
+                "14452_28",
+                "14452_29",
+                "14452_30",
+                "14452_31",
+                "14452_32",
+                "14452_33",
+                "14452_34",
+                "14452_35",
+                "14452_36",
+                "14452_37",
+                "14452_38"
+            ],
+            "ui_comp_group_ids": [
+                "14452_51",
+                "14452_52",
+                "14452_53",
+                "14452_54",
+                "14452_59",
+                "14452_60",
+                "14452_61",
+                "14452_63",
+                "14452_64",
+                "14452_65",
+                "14452_66",
+                "14452_67",
+                "14452_68",
+                "14452_69",
+                "14452_70"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                455,
+                1405,
+                2175
+            ],
+            "class": "android.support.v7.widget.RecyclerView",
+            "bg_color": "#FAFAFA",
+            "id": "14452_51",
+            "ui_comp_ids": [
+                "14452_0",
+                "14452_1",
+                "14452_2",
+                "14452_3",
+                "14452_4",
+                "14452_5",
+                "14452_6",
+                "14452_7",
+                "14452_8",
+                "14452_9",
+                "14452_10",
+                "14452_11",
+                "14452_12",
+                "14452_13",
+                "14452_14",
+                "14452_15",
+                "14452_16",
+                "14452_17",
+                "14452_18",
+                "14452_19",
+                "14452_20",
+                "14452_21",
+                "14452_22",
+                "14452_23",
+                "14452_24",
+                "14452_25",
+                "14452_26",
+                "14452_27",
+                "14452_28",
+                "14452_29",
+                "14452_30",
+                "14452_31",
+                "14452_32",
+                "14452_33",
+                "14452_34",
+                "14452_35",
+                "14452_36",
+                "14452_37",
+                "14452_38"
+            ],
+            "ui_comp_group_ids": [
+                "14452_52",
+                "14452_53",
+                "14452_54",
+                "14452_59",
+                "14452_60",
+                "14452_61",
+                "14452_63",
+                "14452_64",
+                "14452_65",
+                "14452_66",
+                "14452_67",
+                "14452_68",
+                "14452_69",
+                "14452_70"
+            ]
+        },
+        {
+            "componentLabel": "Card",
+            "bounds": [
+                35,
+                809,
+                1405,
+                1546
+            ],
+            "class": "android.support.v7.widget.CardView",
+            "bg_color": "#FAFAFA",
+            "id": "14452_52",
+            "ui_comp_ids": [
+                "14452_10",
+                "14452_11",
+                "14452_12",
+                "14452_13",
+                "14452_14",
+                "14452_15",
+                "14452_16",
+                "14452_17",
+                "14452_18",
+                "14452_19",
+                "14452_20",
+                "14452_21",
+                "14452_22",
+                "14452_23",
+                "14452_24",
+                "14452_25"
+            ],
+            "ui_comp_group_ids": [
+                "14452_59",
+                "14452_60",
+                "14452_61",
+                "14452_66"
+            ]
+        },
+        {
+            "componentLabel": "Card",
+            "bounds": [
+                35,
+                1546,
+                1405,
+                2175
+            ],
+            "class": "android.support.v7.widget.CardView",
+            "bg_color": "#FAFAFA",
+            "id": "14452_53",
+            "ui_comp_ids": [
+                "14452_0",
+                "14452_1",
+                "14452_2",
+                "14452_3",
+                "14452_4",
+                "14452_5",
+                "14452_6",
+                "14452_7",
+                "14452_8",
+                "14452_9",
+                "14452_38"
+            ],
+            "ui_comp_group_ids": [
+                "14452_63",
+                "14452_64",
+                "14452_65"
+            ]
+        },
+        {
+            "componentLabel": "Card",
+            "bounds": [
+                35,
+                455,
+                1405,
+                809
+            ],
+            "class": "android.support.v7.widget.CardView",
+            "bg_color": "#FAFAFA",
+            "id": "14452_54",
+            "ui_comp_ids": [
+                "14452_26",
+                "14452_27",
+                "14452_28",
+                "14452_29",
+                "14452_30",
+                "14452_31",
+                "14452_32",
+                "14452_33",
+                "14452_34",
+                "14452_35",
+                "14452_36",
+                "14452_37"
+            ],
+            "ui_comp_group_ids": [
+                "14452_67",
+                "14452_68",
+                "14452_69",
+                "14452_70"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                84,
+                1440,
+                420
+            ],
+            "class": "android.support.design.widget.AppBarLayout",
+            "bg_color": "#FF6F00",
+            "id": "14452_55",
+            "ui_comp_ids": [
+                "14452_39",
+                "14452_40",
+                "14452_41",
+                "14452_42",
+                "14452_43"
+            ],
+            "ui_comp_group_ids": [
+                "14452_57",
+                "14452_58"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2175,
+                1440,
+                2392
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#1E0E00",
+            "id": "14452_56",
+            "ui_comp_ids": [
+                "14452_44",
+                "14452_45",
+                "14452_46",
+                "14452_47",
+                "14452_48"
+            ],
+            "ui_comp_group_ids": [
+                "14452_62"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                252,
+                1440,
+                420
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FF6F00",
+            "id": "14452_57",
+            "ui_comp_ids": [
+                "14452_39",
+                "14452_40"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#FF6F00",
+            "id": "14452_58",
+            "ui_comp_ids": [
+                "14452_41",
+                "14452_42",
+                "14452_43"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                83,
+                1055,
+                398,
+                1528
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FAFAFA",
+            "id": "14452_59",
+            "ui_comp_ids": [
+                "14452_19",
+                "14452_20",
+                "14452_21"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                428,
+                1055,
+                743,
+                1528
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FAFAFA",
+            "id": "14452_60",
+            "ui_comp_ids": [
+                "14452_16",
+                "14452_17",
+                "14452_18"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                773,
+                1055,
+                1088,
+                1528
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FAFAFA",
+            "id": "14452_61",
+            "ui_comp_ids": [
+                "14452_13",
+                "14452_14",
+                "14452_15"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                235,
+                2182,
+                1135,
+                2345
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#1E0E00",
+            "id": "14452_62",
+            "ui_comp_ids": [
+                "14452_44",
+                "14452_45"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                83,
+                1792,
+                398,
+                2175
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#C50011",
+            "id": "14452_63",
+            "ui_comp_ids": [
+                "14452_4",
+                "14452_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                428,
+                1792,
+                743,
+                2175
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FAFAFA",
+            "id": "14452_64",
+            "ui_comp_ids": [
+                "14452_2",
+                "14452_3"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                773,
+                1792,
+                1088,
+                2175
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FAFAFA",
+            "id": "14452_65",
+            "ui_comp_ids": [
+                "14452_0",
+                "14452_1"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                1118,
+                1055,
+                1372,
+                1528
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FAFAFA",
+            "id": "14452_66",
+            "ui_comp_ids": [
+                "14452_10",
+                "14452_11",
+                "14452_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                83,
+                455,
+                398,
+                791
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FAFAFA",
+            "id": "14452_67",
+            "ui_comp_ids": [
+                "14452_35",
+                "14452_36",
+                "14452_37"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                428,
+                455,
+                743,
+                791
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FAFAFA",
+            "id": "14452_68",
+            "ui_comp_ids": [
+                "14452_32",
+                "14452_33",
+                "14452_34"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                773,
+                455,
+                1088,
+                791
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FAFAFA",
+            "id": "14452_69",
+            "ui_comp_ids": [
+                "14452_29",
+                "14452_30",
+                "14452_31"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                1118,
+                455,
+                1372,
+                791
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FAFAFA",
+            "id": "14452_70",
+            "ui_comp_ids": [
+                "14452_26",
+                "14452_27",
+                "14452_28"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

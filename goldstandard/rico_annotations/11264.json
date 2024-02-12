@@ -1,0 +1,662 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "Import/Export",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                1949,
+                1370,
+                2035
+            ],
+            "componentLabel": "Text",
+            "text_color": "#637984",
+            "bounds_updated": [
+                76.66666666666667,
+                1971.6666666666667,
+                471.3333333333333,
+                2030.3333333333333
+            ],
+            "text_updated": "Import/Export",
+            "font_size": 12.071608871005303,
+            "id": "11264_0"
+        },
+        {
+            "text": "",
+            "resource-id": "new.american.standard.bible.nikansoft:id/screenStayCheckBox",
+            "ancestors": [
+                "android.widget.CompoundButton",
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.CheckBox",
+            "bounds": [
+                1258,
+                1774,
+                1370,
+                1886
+            ],
+            "componentLabel": "Input",
+            "id": "11264_1"
+        },
+        {
+            "text": "Screen stay turn on",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                1787,
+                1258,
+                1873
+            ],
+            "componentLabel": "Text",
+            "text_color": "#647A85",
+            "bounds_updated": [
+                72.66666666666667,
+                1809.6666666666667,
+                615.3333333333333,
+                1869.6666666666667
+            ],
+            "text_updated": "Screen stay turn on",
+            "font_size": 11.804178405473634,
+            "id": "11264_2"
+        },
+        {
+            "iconClass": "expand_more",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1300,
+                1157,
+                1370,
+                1196
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Icon",
+            "id": "11264_3"
+        },
+        {
+            "text": "Sans",
+            "resource-id": "new.american.standard.bible.nikansoft:id/font_spinner_text1",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1123,
+                1116,
+                1300,
+                1238
+            ],
+            "componentLabel": "Text",
+            "text_color": "#484848",
+            "bounds_updated": [
+                1144.3333333333333,
+                1156.0,
+                1279.0,
+                1202.6666666666667
+            ],
+            "text_updated": "Sans",
+            "font_size": 11.906903224048186,
+            "id": "11264_4"
+        },
+        {
+            "text": "1.05",
+            "resource-id": "new.american.standard.bible.nikansoft:id/settings_spacing_text",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1245,
+                1537,
+                1370,
+                1623
+            ],
+            "componentLabel": "Text",
+            "text_color": "#454545",
+            "bounds_updated": [
+                1250.3333333333333,
+                1559.6666666666667,
+                1367.6666666666667,
+                1605.0
+            ],
+            "text_updated": "1.05",
+            "font_size": 11.507078482795922,
+            "id": "11264_5"
+        },
+        {
+            "text": "Line spacing",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                1537,
+                1245,
+                1623
+            ],
+            "componentLabel": "Text",
+            "text_color": "#607B8C",
+            "bounds_updated": [
+                75.33333333333333,
+                1558.3333333333333,
+                426.0,
+                1618.3333333333333
+            ],
+            "text_updated": "Line spacing",
+            "font_size": 11.896169673947457,
+            "id": "11264_6"
+        },
+        {
+            "text": "18",
+            "resource-id": "new.american.standard.bible.nikansoft:id/settings_size_text",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1298,
+                1287,
+                1370,
+                1373
+            ],
+            "componentLabel": "Text",
+            "text_color": "#474747",
+            "bounds_updated": [
+                1298,
+                1287,
+                1370,
+                1373
+            ],
+            "text_updated": "18",
+            "font_size": 12,
+            "id": "11264_7"
+        },
+        {
+            "text": "Font size",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                1287,
+                1298,
+                1373
+            ],
+            "componentLabel": "Text",
+            "text_color": "#697A82",
+            "bounds_updated": [
+                75.33333333333333,
+                1309.6666666666667,
+                326.0,
+                1356.3333333333333
+            ],
+            "text_updated": "Font size",
+            "font_size": 12.007246950388287,
+            "id": "11264_8"
+        },
+        {
+            "text": "Font",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                1134,
+                927,
+                1220
+            ],
+            "componentLabel": "Text",
+            "text_color": "#617A8E",
+            "bounds_updated": [
+                75.33333333333333,
+                1156.6666666666667,
+                195.33333333333331,
+                1203.3333333333333
+            ],
+            "text_updated": "Font",
+            "font_size": 11.837135148393443,
+            "id": "11264_9"
+        },
+        {
+            "ancestors": [
+                "android.widget.AbsSeekBar",
+                "android.widget.ProgressBar",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "new.american.standard.bible.nikansoft:id/settings_spacing_seek",
+            "clickable": false,
+            "class": "android.widget.SeekBar",
+            "bounds": [
+                70,
+                1650,
+                1370,
+                1738
+            ],
+            "componentLabel": "Slider",
+            "id": "11264_10"
+        },
+        {
+            "ancestors": [
+                "android.widget.AbsSeekBar",
+                "android.widget.ProgressBar",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "new.american.standard.bible.nikansoft:id/settings_size_seek",
+            "clickable": false,
+            "class": "android.widget.SeekBar",
+            "bounds": [
+                70,
+                1400,
+                1370,
+                1488
+            ],
+            "componentLabel": "Slider",
+            "id": "11264_11"
+        },
+        {
+            "text": "2 The earth was formless and void, and darkness was over the surface of the deep, and the Spirit of God was moving over the surface of the waters.",
+            "resource-id": "new.american.standard.bible.nikansoft:id/settings_text2",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                614,
+                1370,
+                979
+            ],
+            "componentLabel": "Text",
+            "text_color": "#444444",
+            "bounds_updated": [
+                72.66666666666667,
+                618.0,
+                1286.0,
+                904.6666666666666
+            ],
+            "text_updated": "2 The earth was formless and void, and\ndarkness was over the surface of the deep,\nand the Spirit of God was moving over the\nsurface of the waters.",
+            "font_size": 11.873082373535148,
+            "id": "11264_12"
+        },
+        {
+            "text": "1 In the beginning God created the heavens and the earth.",
+            "resource-id": "new.american.standard.bible.nikansoft:id/settings_text1",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                70,
+                357,
+                1370,
+                544
+            ],
+            "componentLabel": "Text",
+            "text_color": "#444444",
+            "bounds_updated": [
+                74.0,
+                379.6666666666667,
+                1296.6666666666665,
+                506.3333333333333
+            ],
+            "text_updated": "1 In the beginning God created the heavens\nand the earth.",
+            "font_size": 11.791403373762115,
+            "id": "11264_13"
+        },
+        {
+            "resource-id": "new.american.standard.bible.nikansoft:id/main_page_title",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                175,
+                84,
+                1265,
+                259
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "settings",
+            "bg_color": "#FFFFFF",
+            "text_color": "#627C89",
+            "bounds_text": [
+                555.0,
+                141.33333333333331,
+                885.6666666666666,
+                228.0
+            ],
+            "text_updated": "Settings",
+            "font_size": 14.363056614712255,
+            "id": "11264_14"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "new.american.standard.bible.nikansoft:id/back_btn",
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "bounds": [
+                0,
+                84,
+                175,
+                259
+            ],
+            "componentLabel": "Icon",
+            "id": "11264_15"
+        },
+        {
+            "ancestors": [
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                2217,
+                1440,
+                2392
+            ],
+            "clickable": true,
+            "class": "com.google.android.gms.ads.internal.webview.o",
+            "componentLabel": "Web View",
+            "id": "11264_16"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1042,
+                1440,
+                2216
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "11264_17",
+            "ui_comp_ids": [
+                "11264_0",
+                "11264_1",
+                "11264_2",
+                "11264_3",
+                "11264_4",
+                "11264_5",
+                "11264_6",
+                "11264_7",
+                "11264_8",
+                "11264_9",
+                "11264_10",
+                "11264_11"
+            ],
+            "ui_comp_group_ids": [
+                "11264_18",
+                "11264_19",
+                "11264_22",
+                "11264_23",
+                "11264_24",
+                "11264_25",
+                "11264_26",
+                "11264_27"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1046,
+                1440,
+                2216
+            ],
+            "class": "android.widget.ScrollView",
+            "bg_color": "#FFFFFF",
+            "id": "11264_18",
+            "ui_comp_ids": [
+                "11264_0",
+                "11264_1",
+                "11264_2",
+                "11264_3",
+                "11264_4",
+                "11264_5",
+                "11264_6",
+                "11264_7",
+                "11264_8",
+                "11264_9",
+                "11264_10",
+                "11264_11"
+            ],
+            "ui_comp_group_ids": [
+                "11264_19",
+                "11264_22",
+                "11264_23",
+                "11264_24",
+                "11264_25",
+                "11264_26",
+                "11264_27"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1046,
+                1440,
+                2132
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "11264_19",
+            "ui_comp_ids": [
+                "11264_0",
+                "11264_1",
+                "11264_2",
+                "11264_3",
+                "11264_4",
+                "11264_5",
+                "11264_6",
+                "11264_7",
+                "11264_8",
+                "11264_9",
+                "11264_10",
+                "11264_11"
+            ],
+            "ui_comp_group_ids": [
+                "11264_22",
+                "11264_23",
+                "11264_24",
+                "11264_25",
+                "11264_26",
+                "11264_27"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                259,
+                1440,
+                1042
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "11264_20",
+            "ui_comp_ids": [
+                "11264_12",
+                "11264_13"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                84,
+                1440,
+                259
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "11264_21",
+            "ui_comp_ids": [
+                "11264_14",
+                "11264_15"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                70,
+                1760,
+                1370,
+                1900
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "11264_22",
+            "ui_comp_ids": [
+                "11264_1",
+                "11264_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                70,
+                1510,
+                1370,
+                1650
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "11264_23",
+            "ui_comp_ids": [
+                "11264_5",
+                "11264_6"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                70,
+                1260,
+                1370,
+                1400
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "11264_24",
+            "ui_comp_ids": [
+                "11264_7",
+                "11264_8"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                70,
+                1116,
+                1370,
+                1238
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "11264_25",
+            "ui_comp_ids": [
+                "11264_3",
+                "11264_4",
+                "11264_9"
+            ],
+            "ui_comp_group_ids": [
+                "11264_26",
+                "11264_27"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                927,
+                1116,
+                1370,
+                1238
+            ],
+            "class": "android.widget.Spinner",
+            "bg_color": "#FFFFFF",
+            "id": "11264_26",
+            "ui_comp_ids": [
+                "11264_3",
+                "11264_4"
+            ],
+            "ui_comp_group_ids": [
+                "11264_27"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                1123,
+                1116,
+                1370,
+                1238
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "11264_27",
+            "ui_comp_ids": [
+                "11264_3",
+                "11264_4"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

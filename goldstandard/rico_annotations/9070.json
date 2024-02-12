@@ -1,0 +1,1480 @@
+{
+    "bg_color": "#303030",
+    "ui_comps": [
+        {
+            "text": "+ 11,143",
+            "resource-id": "co.peeksoft.stocks:id/totalChangePercent",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1218,
+                2133,
+                1408,
+                2199
+            ],
+            "componentLabel": "Text",
+            "text_color": "#69DA57",
+            "bounds_updated": [
+                1219.3333333333333,
+                2155.6666666666665,
+                1403.3333333333333,
+                2191.6666666666665
+            ],
+            "text_updated": "+ 11,143",
+            "font_size": 8.61055123652303,
+            "id": "9070_0"
+        },
+        {
+            "text": "+ 111.43%",
+            "resource-id": "co.peeksoft.stocks:id/totalChange",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1151,
+                2057,
+                1408,
+                2133
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B7C997",
+            "bounds_updated": [
+                1153.6666666666667,
+                2083.6666666666665,
+                1405.6666666666667,
+                2117.0
+            ],
+            "text_updated": "+ 111.43%",
+            "font_size": 9.983297709567008,
+            "id": "9070_1"
+        },
+        {
+            "text": "+ 20",
+            "resource-id": "co.peeksoft.stocks:id/dailyChangePercent",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1002,
+                2133,
+                1098,
+                2199
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6CD65C",
+            "bounds_updated": [
+                1003.3333333333334,
+                2155.6666666666665,
+                1094.0,
+                2185.0
+            ],
+            "text_updated": "+ 20",
+            "font_size": 7.9937575301813215,
+            "id": "9070_2"
+        },
+        {
+            "text": "+ 0.10%",
+            "resource-id": "co.peeksoft.stocks:id/dailyChange",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                903,
+                2057,
+                1098,
+                2133
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B2C78F",
+            "bounds_updated": [
+                905.6666666666666,
+                2083.6666666666665,
+                1096.3333333333333,
+                2117.0
+            ],
+            "text_updated": "+ 0.10%",
+            "font_size": 9.816965816411056,
+            "id": "9070_3"
+        },
+        {
+            "text": "10,000",
+            "resource-id": "co.peeksoft.stocks:id/costBasis",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                620,
+                2133,
+                770,
+                2199
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BDBDBD",
+            "bounds_updated": [
+                624.0,
+                2150.3333333333335,
+                766.6666666666666,
+                2191.6666666666665
+            ],
+            "text_updated": "10,000",
+            "font_size": 9.022582885095687,
+            "id": "9070_4"
+        },
+        {
+            "text": "21,143",
+            "resource-id": "co.peeksoft.stocks:id/value",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                604,
+                2057,
+                770,
+                2133
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                606.6666666666666,
+                2075.6666666666665,
+                766.6666666666666,
+                2123.6666666666665
+            ],
+            "text_updated": "21,143",
+            "font_size": 10.169242089771888,
+            "id": "9070_5"
+        },
+        {
+            "text": "TOTAL",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                32,
+                2085,
+                219,
+                2170
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                32,
+                2085,
+                219,
+                2170
+            ],
+            "text_updated": "TOTAL",
+            "font_size": 12,
+            "id": "9070_6"
+        },
+        {
+            "text": "+ 3,400",
+            "resource-id": "co.peeksoft.stocks:id/totalChangePercent",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1098,
+                1042,
+                1408,
+                1108
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B7C892",
+            "bounds_updated": [
+                1247.3333333333333,
+                1064.6666666666667,
+                1404.6666666666665,
+                1099.3333333333333
+            ],
+            "text_updated": "+ 3,400",
+            "font_size": 8.541593434662968,
+            "id": "9070_7"
+        },
+        {
+            "text": "+ 113.33%",
+            "resource-id": "co.peeksoft.stocks:id/totalChange",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1098,
+                966,
+                1408,
+                1042
+            ],
+            "componentLabel": "Text",
+            "text_color": "#67E055",
+            "bounds_updated": [
+                1152.6666666666667,
+                994.0,
+                1404.6666666666665,
+                1027.3333333333333
+            ],
+            "text_updated": "+ 113.33%",
+            "font_size": 9.964609832159507,
+            "id": "9070_8"
+        },
+        {
+            "text": "- 6",
+            "resource-id": "co.peeksoft.stocks:id/dailyChangePercent",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                788,
+                1042,
+                1098,
+                1108
+            ],
+            "componentLabel": "Text",
+            "text_color": "#DE6957",
+            "bounds_updated": [
+                788,
+                1042,
+                1098,
+                1108
+            ],
+            "text_updated": "- 6",
+            "font_size": 12,
+            "id": "9070_9"
+        },
+        {
+            "text": "- 0.09%",
+            "resource-id": "co.peeksoft.stocks:id/dailyChange",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                788,
+                966,
+                1098,
+                1042
+            ],
+            "componentLabel": "Text",
+            "text_color": "#E97663",
+            "bounds_updated": [
+                921.3333333333333,
+                1007.3333333333334,
+                1096.0,
+                1027.3333333333333
+            ],
+            "text_updated": "- 0.09%",
+            "font_size": 10.096920004204787,
+            "id": "9070_10"
+        },
+        {
+            "text": "3,000",
+            "resource-id": "co.peeksoft.stocks:id/costBasis",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                376,
+                1042,
+                770,
+                1108
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BFBFBF",
+            "bounds_updated": [
+                650.6666666666666,
+                1058.0,
+                766.6666666666666,
+                1100.6666666666667
+            ],
+            "text_updated": "3,000",
+            "font_size": 8.99799548349444,
+            "id": "9070_11"
+        },
+        {
+            "text": "6,400",
+            "resource-id": "co.peeksoft.stocks:id/value",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                376,
+                966,
+                770,
+                1042
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                638.6666666666666,
+                987.3333333333334,
+                768.0,
+                1034.0
+            ],
+            "text_updated": "6,400",
+            "font_size": 10.182826739118154,
+            "id": "9070_12"
+        },
+        {
+            "text": "100",
+            "resource-id": "co.peeksoft.stocks:id/name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                32,
+                1047,
+                116,
+                1113
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BBBBBB",
+            "bounds_updated": [
+                36.0,
+                1064.3333333333333,
+                113.33333333333333,
+                1100.3333333333333
+            ],
+            "text_updated": "100",
+            "font_size": 8.929980982961126,
+            "id": "9070_13"
+        },
+        {
+            "text": "MSFT",
+            "resource-id": "co.peeksoft.stocks:id/symbol",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                32,
+                962,
+                198,
+                1047
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                37.333333333333336,
+                983.3333333333334,
+                196.0,
+                1028.6666666666667
+            ],
+            "text_updated": "MSFT",
+            "font_size": 12.506513761043317,
+            "id": "9070_14"
+        },
+        {
+            "text": "+ 2,606",
+            "resource-id": "co.peeksoft.stocks:id/totalChangePercent",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1098,
+                851,
+                1408,
+                917
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B5CB9A",
+            "bounds_updated": [
+                1247.3333333333333,
+                875.0,
+                1404.6666666666665,
+                909.6666666666666
+            ],
+            "text_updated": "+ 2,606",
+            "font_size": 8.481601777252838,
+            "id": "9070_15"
+        },
+        {
+            "text": "+ 65.15%",
+            "resource-id": "co.peeksoft.stocks:id/totalChange",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1098,
+                775,
+                1408,
+                851
+            ],
+            "componentLabel": "Text",
+            "text_color": "#65DE51",
+            "bounds_updated": [
+                1183.3333333333333,
+                801.6666666666666,
+                1404.6666666666665,
+                836.3333333333334
+            ],
+            "text_updated": "+ 65.15%",
+            "font_size": 9.899413662561308,
+            "id": "9070_16"
+        },
+        {
+            "text": "- 15",
+            "resource-id": "co.peeksoft.stocks:id/dailyChangePercent",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                788,
+                851,
+                1098,
+                917
+            ],
+            "componentLabel": "Text",
+            "text_color": "#EC6B56",
+            "bounds_updated": [
+                1017.3333333333333,
+                885.6666666666666,
+                1096.0,
+                904.3333333333334
+            ],
+            "text_updated": "-15",
+            "font_size": 10.700533713359619,
+            "id": "9070_17"
+        },
+        {
+            "text": "- 0.23%",
+            "resource-id": "co.peeksoft.stocks:id/dailyChange",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                788,
+                775,
+                1098,
+                851
+            ],
+            "componentLabel": "Text",
+            "text_color": "#E77F64",
+            "bounds_updated": [
+                921.3333333333333,
+                816.3333333333334,
+                1096.0,
+                836.3333333333334
+            ],
+            "text_updated": "- 0.23%",
+            "font_size": 10.070009460737928,
+            "id": "9070_18"
+        },
+        {
+            "text": "4,000",
+            "resource-id": "co.peeksoft.stocks:id/costBasis",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                376,
+                851,
+                770,
+                917
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BEBEBE",
+            "bounds_updated": [
+                649.3333333333333,
+                868.3333333333334,
+                766.6666666666666,
+                909.6666666666666
+            ],
+            "text_updated": "4,000",
+            "font_size": 9.132280523008976,
+            "id": "9070_19"
+        },
+        {
+            "text": "6,606",
+            "resource-id": "co.peeksoft.stocks:id/value",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                376,
+                775,
+                770,
+                851
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                638.6666666666666,
+                795.0,
+                768.0,
+                843.0
+            ],
+            "text_updated": "6,606",
+            "font_size": 10.11037527593819,
+            "id": "9070_20"
+        },
+        {
+            "text": "50",
+            "resource-id": "co.peeksoft.stocks:id/name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                32,
+                856,
+                88,
+                922
+            ],
+            "componentLabel": "Text",
+            "text_color": "#BDBDBD",
+            "bounds_updated": [
+                36.0,
+                873.3333333333334,
+                85.33333333333333,
+                909.3333333333334
+            ],
+            "text_updated": "50",
+            "font_size": 8.466909942785092,
+            "id": "9070_21"
+        },
+        {
+            "text": "AAPL",
+            "resource-id": "co.peeksoft.stocks:id/symbol",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                32,
+                771,
+                182,
+                856
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                33.333333333333336,
+                793.6666666666666,
+                181.33333333333331,
+                839.0
+            ],
+            "text_updated": "AAPL",
+            "font_size": 12.204124654455766,
+            "id": "9070_22"
+        },
+        {
+            "text": "+ 5,137",
+            "resource-id": "co.peeksoft.stocks:id/totalChangePercent",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1098,
+                660,
+                1408,
+                726
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B2C293",
+            "bounds_updated": [
+                1247.3333333333333,
+                682.6666666666666,
+                1404.6666666666665,
+                718.6666666666666
+            ],
+            "text_updated": "+ 5,137",
+            "font_size": 8.481601777252838,
+            "id": "9070_23"
+        },
+        {
+            "text": "+ 171.22%",
+            "resource-id": "co.peeksoft.stocks:id/totalChange",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1098,
+                584,
+                1408,
+                660
+            ],
+            "componentLabel": "Text",
+            "text_color": "#67D855",
+            "bounds_updated": [
+                1152.6666666666667,
+                610.6666666666666,
+                1404.6666666666665,
+                645.3333333333334
+            ],
+            "text_updated": "+171.22%",
+            "font_size": 10.543934031792757,
+            "id": "9070_24"
+        },
+        {
+            "text": "+ 41",
+            "resource-id": "co.peeksoft.stocks:id/dailyChangePercent",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                788,
+                660,
+                1098,
+                726
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B2C89A",
+            "bounds_updated": [
+                788,
+                660,
+                1098,
+                726
+            ],
+            "text_updated": "+ 41",
+            "font_size": 12,
+            "id": "9070_25"
+        },
+        {
+            "text": "+ 0.51%",
+            "resource-id": "co.peeksoft.stocks:id/dailyChange",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                788,
+                584,
+                1098,
+                660
+            ],
+            "componentLabel": "Text",
+            "text_color": "#66D555",
+            "bounds_updated": [
+                905.3333333333334,
+                610.6666666666666,
+                1096.0,
+                645.3333333333334
+            ],
+            "text_updated": "+ 0.51%",
+            "font_size": 9.816965816411056,
+            "id": "9070_26"
+        },
+        {
+            "text": "3,000",
+            "resource-id": "co.peeksoft.stocks:id/costBasis",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                376,
+                660,
+                770,
+                726
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C0C0C0",
+            "bounds_updated": [
+                650.6666666666666,
+                676.0,
+                766.6666666666666,
+                718.6666666666666
+            ],
+            "text_updated": "3,000",
+            "font_size": 8.99799548349444,
+            "id": "9070_27"
+        },
+        {
+            "text": "8,137",
+            "resource-id": "co.peeksoft.stocks:id/value",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                376,
+                584,
+                770,
+                660
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                638.6666666666666,
+                604.0,
+                768.0,
+                652.0
+            ],
+            "text_updated": "8,137",
+            "font_size": 10.037923812758265,
+            "id": "9070_28"
+        },
+        {
+            "text": "10",
+            "resource-id": "co.peeksoft.stocks:id/name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                32,
+                665,
+                88,
+                731
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C0C0C0",
+            "bounds_updated": [
+                32,
+                665,
+                88,
+                731
+            ],
+            "text_updated": "10",
+            "font_size": 12,
+            "id": "9070_29"
+        },
+        {
+            "text": "GOOG",
+            "resource-id": "co.peeksoft.stocks:id/symbol",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                32,
+                580,
+                204,
+                665
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                32,
+                580,
+                204,
+                665
+            ],
+            "text_updated": "GOOG",
+            "font_size": 12,
+            "id": "9070_30"
+        },
+        {
+            "text": "Total",
+            "resource-id": "co.peeksoft.stocks:id/holdingsTabTotalChangeColHeader",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                1099,
+                422,
+                1408,
+                562
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#303030",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                1303.0,
+                476.6666666666667,
+                1404.3333333333333,
+                512.6666666666666
+            ],
+            "text_updated": "Total",
+            "font_size": 9.462257484026544,
+            "id": "9070_31"
+        },
+        {
+            "text": "Daily",
+            "resource-id": "co.peeksoft.stocks:id/holdingsTabDailyChangeColHeader",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                780,
+                422,
+                1086,
+                562
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "daily",
+            "bg_color": "#303030",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                780,
+                422,
+                1086,
+                562
+            ],
+            "text_updated": "Daily",
+            "font_size": 12,
+            "id": "9070_32"
+        },
+        {
+            "text": "Value/Cost",
+            "resource-id": "co.peeksoft.stocks:id/holdingsTabValueCostColHeader",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                372,
+                422,
+                767,
+                562
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#303030",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                530.6666666666666,
+                476.6666666666667,
+                765.3333333333333,
+                515.3333333333334
+            ],
+            "text_updated": "Value/Cost",
+            "font_size": 9.739639597325953,
+            "id": "9070_33"
+        },
+        {
+            "text": "Ticker",
+            "resource-id": "co.peeksoft.stocks:id/holdingsTabTickerColHeader",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                32,
+                422,
+                359,
+                562
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#303030",
+            "text_color": "#FFFFFF",
+            "bounds_text": [
+                33.333333333333336,
+                476.6666666666667,
+                162.66666666666666,
+                512.6666666666666
+            ],
+            "text_updated": "Ticker",
+            "font_size": 9.522619801381536,
+            "id": "9070_34"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "co.peeksoft.stocks:id/indicator",
+            "clickable": false,
+            "class": "co.peeksoft.stocks.prod.framework.ui.view_pager.TitlePageIndicator",
+            "bounds": [
+                0,
+                280,
+                1440,
+                404
+            ],
+            "componentLabel": "Pager Indicator",
+            "id": "9070_35"
+        },
+        {
+            "ancestors": [
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                2217,
+                1440,
+                2392
+            ],
+            "clickable": true,
+            "class": "com.google.android.gms.ads.internal.webview.o",
+            "componentLabel": "Web View",
+            "id": "9070_36"
+        },
+        {
+            "text": "Ad Space (Free this space by upgrading)",
+            "resource-id": "co.peeksoft.stocks:id/textPlaceholder",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                291,
+                2271,
+                1149,
+                2337
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                291,
+                2271,
+                1149,
+                2337
+            ],
+            "text_updated": "Ad Space (Free this space by upgrading)",
+            "font_size": 12,
+            "id": "9070_37"
+        },
+        {
+            "iconClass": "more",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatImageView",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                1300,
+                98,
+                1440,
+                266
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.ActionMenuPresenter$d",
+            "componentLabel": "Icon",
+            "id": "9070_38"
+        },
+        {
+            "iconClass": "add",
+            "resource-id": "co.peeksoft.stocks:id/action_add",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1132,
+                98,
+                1300,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "9070_39"
+        },
+        {
+            "iconClass": "refresh",
+            "resource-id": "co.peeksoft.stocks:id/action_refresh",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                964,
+                98,
+                1132,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "9070_40"
+        },
+        {
+            "iconClass": "menu",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "componentLabel": "Icon",
+            "id": "9070_41"
+        },
+        {
+            "text": "My Portfolio",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                252,
+                135,
+                640,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F2FFFF",
+            "bounds_updated": [
+                257.3333333333333,
+                159.0,
+                637.3333333333333,
+                224.33333333333331
+            ],
+            "text_updated": "My Portfolio",
+            "font_size": 13.010340420587902,
+            "id": "9070_42"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                404,
+                1440,
+                2217
+            ],
+            "class": "android.support.v4.view.ViewPager",
+            "bg_color": "#303030",
+            "id": "9070_43",
+            "ui_comp_ids": [
+                "9070_0",
+                "9070_1",
+                "9070_2",
+                "9070_3",
+                "9070_4",
+                "9070_5",
+                "9070_6",
+                "9070_7",
+                "9070_8",
+                "9070_9",
+                "9070_10",
+                "9070_11",
+                "9070_12",
+                "9070_13",
+                "9070_14",
+                "9070_15",
+                "9070_16",
+                "9070_17",
+                "9070_18",
+                "9070_19",
+                "9070_20",
+                "9070_21",
+                "9070_22",
+                "9070_23",
+                "9070_24",
+                "9070_25",
+                "9070_26",
+                "9070_27",
+                "9070_28",
+                "9070_29",
+                "9070_30",
+                "9070_31",
+                "9070_32",
+                "9070_33",
+                "9070_34"
+            ],
+            "ui_comp_group_ids": [
+                "9070_44",
+                "9070_46",
+                "9070_47",
+                "9070_48",
+                "9070_49",
+                "9070_50",
+                "9070_51",
+                "9070_52",
+                "9070_53",
+                "9070_54"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                562,
+                1440,
+                2035
+            ],
+            "class": "com.mobeta.android.dslv.DragSortListView",
+            "bg_color": "#303030",
+            "id": "9070_44",
+            "ui_comp_ids": [
+                "9070_7",
+                "9070_8",
+                "9070_9",
+                "9070_10",
+                "9070_11",
+                "9070_12",
+                "9070_13",
+                "9070_14",
+                "9070_15",
+                "9070_16",
+                "9070_17",
+                "9070_18",
+                "9070_19",
+                "9070_20",
+                "9070_21",
+                "9070_22",
+                "9070_23",
+                "9070_24",
+                "9070_25",
+                "9070_26",
+                "9070_27",
+                "9070_28",
+                "9070_29",
+                "9070_30"
+            ],
+            "ui_comp_group_ids": [
+                "9070_46",
+                "9070_47",
+                "9070_48"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#1976D3",
+            "id": "9070_45",
+            "ui_comp_ids": [
+                "9070_38",
+                "9070_39",
+                "9070_40",
+                "9070_41",
+                "9070_42"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                562,
+                1440,
+                749
+            ],
+            "class": "com.mobeta.android.dslv.c",
+            "bg_color": "#303030",
+            "id": "9070_46",
+            "ui_comp_ids": [
+                "9070_23",
+                "9070_24",
+                "9070_25",
+                "9070_26",
+                "9070_27",
+                "9070_28",
+                "9070_29",
+                "9070_30"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                753,
+                1440,
+                940
+            ],
+            "class": "com.mobeta.android.dslv.c",
+            "bg_color": "#303030",
+            "id": "9070_47",
+            "ui_comp_ids": [
+                "9070_15",
+                "9070_16",
+                "9070_17",
+                "9070_18",
+                "9070_19",
+                "9070_20",
+                "9070_21",
+                "9070_22"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                944,
+                1440,
+                1131
+            ],
+            "class": "com.mobeta.android.dslv.c",
+            "bg_color": "#303030",
+            "id": "9070_48",
+            "ui_comp_ids": [
+                "9070_7",
+                "9070_8",
+                "9070_9",
+                "9070_10",
+                "9070_11",
+                "9070_12",
+                "9070_13",
+                "9070_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2035,
+                1440,
+                2217
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#303030",
+            "id": "9070_49",
+            "ui_comp_ids": [
+                "9070_0",
+                "9070_1",
+                "9070_2",
+                "9070_3",
+                "9070_4",
+                "9070_5",
+                "9070_6"
+            ],
+            "ui_comp_group_ids": [
+                "9070_51",
+                "9070_52",
+                "9070_53",
+                "9070_54"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                422,
+                1440,
+                562
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#303030",
+            "id": "9070_50",
+            "ui_comp_ids": [
+                "9070_31",
+                "9070_32",
+                "9070_33",
+                "9070_34"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                32,
+                2057,
+                1408,
+                2199
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#303030",
+            "id": "9070_51",
+            "ui_comp_ids": [
+                "9070_0",
+                "9070_1",
+                "9070_2",
+                "9070_3",
+                "9070_4",
+                "9070_5",
+                "9070_6"
+            ],
+            "ui_comp_group_ids": [
+                "9070_52",
+                "9070_53",
+                "9070_54"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                376,
+                2057,
+                788,
+                2199
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#303030",
+            "id": "9070_52",
+            "ui_comp_ids": [
+                "9070_4",
+                "9070_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                1098,
+                2057,
+                1408,
+                2199
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#303030",
+            "id": "9070_53",
+            "ui_comp_ids": [
+                "9070_0",
+                "9070_1"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                788,
+                2057,
+                1098,
+                2199
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#303030",
+            "id": "9070_54",
+            "ui_comp_ids": [
+                "9070_2",
+                "9070_3"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

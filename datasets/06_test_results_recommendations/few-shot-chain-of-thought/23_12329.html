@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  font-family: Arial,sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+.run-stats {
+  background-color: white;
+  margin: 50px 0;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.run-stats h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+.run-stats label {
+  display: block;
+  margin-bottom: 10px;
+}
+.run-stats input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  border: 1px solid #aaa;
+}
+.run-stats button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #5cb85c;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.run-stats button:hover {
+  background-color: #4cae4c;
+}
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="run-stats">
+      <h2>Run Stats</h2>
+      <label for="distance">Distance (mi)</label>
+      <input type="text" id="distance" name="distance">
+      <label for="duration">Duration (min)</label>
+      <input type="text" id="duration" name="duration">
+      <label for="calories">Calories Burnt</label>
+      <input type="text" id="calories" name="calories">
+      <button>Save Run</button>
+    </div>
+  </div>
+</body>
+</html>

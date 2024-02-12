@@ -1,0 +1,7 @@
+You are given a user story in the context of a graphical user interface. In addition to the user story, you are also given a textual representation of a graphical user interface. The GUI is organized as a two-level bullet point list, the outer points representing layouting groups and the inner points the user interface features contained in that layouting group. Each feature is represented in the following abstract pattern: 'text' (ui component type) (semantic description of ui component), the 'text' being the visual text of the component. Your task is to determine if the user story is already implemented in the given user interface or not. Do not provide any explanation. As your prediction, write '1' if the user story is already implemented otherwise write '0'. 
+
+user story: 'PLACEHOLDER_US' 
+
+graphical user interface description: PLACEHOLDER_GUI 
+
+prediction:

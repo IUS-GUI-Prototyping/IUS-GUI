@@ -1,0 +1,1703 @@
+{
+    "bg_color": "#EEEEEE",
+    "ui_comps": [
+        {
+            "text": "51\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_lo_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1289,
+                2098,
+                1405,
+                2216
+            ],
+            "componentLabel": "Text",
+            "text_color": "#696D78",
+            "bounds_updated": [
+                1289,
+                2098,
+                1405,
+                2216
+            ],
+            "text_updated": "51\u00b0",
+            "font_size": 12,
+            "id": "13964_0"
+        },
+        {
+            "text": "70\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_hi_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1131,
+                2098,
+                1289,
+                2216
+            ],
+            "componentLabel": "Text",
+            "text_color": "#121212",
+            "bounds_updated": [
+                1161.6666666666667,
+                2164.6666666666665,
+                1253.6666666666667,
+                2210.0
+            ],
+            "text_updated": "70\u00b0",
+            "font_size": 11.349137793134382,
+            "id": "13964_1"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_image",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                956,
+                2098,
+                1131,
+                2216
+            ],
+            "componentLabel": "Image",
+            "id": "13964_2"
+        },
+        {
+            "text": "Plenty of sun",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_desc",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                245,
+                2134,
+                956,
+                2216
+            ],
+            "componentLabel": "Text",
+            "text_color": "#303030",
+            "bounds_updated": [
+                249.0,
+                2170.0,
+                525.0,
+                2215.3333333333335
+            ],
+            "text_updated": "Plenty of sun",
+            "font_size": 9.318659286986374,
+            "id": "13964_3"
+        },
+        {
+            "text": "Tue",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_name",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                35,
+                2098,
+                245,
+                2216
+            ],
+            "componentLabel": "Text",
+            "text_color": "#101010",
+            "bounds_updated": [
+                36.333333333333336,
+                2164.6666666666665,
+                149.66666666666666,
+                2210.0
+            ],
+            "text_updated": "TUE",
+            "font_size": 12.164983362310936,
+            "id": "13964_4"
+        },
+        {
+            "text": "47\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_lo_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1289,
+                1922,
+                1405,
+                2097
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6D747A",
+            "bounds_updated": [
+                1314.3333333333333,
+                1992.6666666666667,
+                1383.6666666666667,
+                2027.3333333333333
+            ],
+            "text_updated": "47\u00b0",
+            "font_size": 8.46551705751244,
+            "id": "13964_5"
+        },
+        {
+            "text": "69\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_hi_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1131,
+                1922,
+                1289,
+                2097
+            ],
+            "componentLabel": "Text",
+            "text_color": "#161616",
+            "bounds_updated": [
+                1163.0,
+                1988.6666666666667,
+                1253.6666666666667,
+                2034.0
+            ],
+            "text_updated": "69\u00b0",
+            "font_size": 11.10457035401848,
+            "id": "13964_6"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_image",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                956,
+                1922,
+                1131,
+                2097
+            ],
+            "componentLabel": "Image",
+            "id": "13964_7"
+        },
+        {
+            "text": "Intervals of clouds and sunshine",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_desc",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                245,
+                1958,
+                956,
+                2060
+            ],
+            "componentLabel": "Text",
+            "text_color": "#333333",
+            "bounds_updated": [
+                249.0,
+                1994.0,
+                947.6666666666666,
+                2030.0
+            ],
+            "text_updated": "Intervals of clouds and sunshine",
+            "font_size": 9.46806918115671,
+            "id": "13964_8"
+        },
+        {
+            "text": "Mon",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_name",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                35,
+                1922,
+                245,
+                2097
+            ],
+            "componentLabel": "Text",
+            "text_color": "#101010",
+            "bounds_updated": [
+                39.0,
+                1988.6666666666667,
+                175.0,
+                2034.0
+            ],
+            "text_updated": "MON",
+            "font_size": 12.10492143877416,
+            "id": "13964_9"
+        },
+        {
+            "text": "44\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_lo_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1289,
+                1705,
+                1405,
+                1921
+            ],
+            "componentLabel": "Text",
+            "text_color": "#646B73",
+            "bounds_updated": [
+                1314.3333333333333,
+                1797.0,
+                1383.6666666666667,
+                1831.6666666666667
+            ],
+            "text_updated": "44\u00b0",
+            "font_size": 8.53376843587034,
+            "id": "13964_10"
+        },
+        {
+            "text": "60\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_hi_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1131,
+                1705,
+                1289,
+                1921
+            ],
+            "componentLabel": "Text",
+            "text_color": "#131313",
+            "bounds_updated": [
+                1163.0,
+                1791.6666666666667,
+                1253.6666666666667,
+                1837.0
+            ],
+            "text_updated": "60\u00b0",
+            "font_size": 11.156896410759536,
+            "id": "13964_11"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_image",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                956,
+                1725,
+                1131,
+                1900
+            ],
+            "componentLabel": "Image",
+            "id": "13964_12"
+        },
+        {
+            "text": "Breezy in the morning; otherwise, decreasing clouds and cooler",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_desc",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                245,
+                1705,
+                956,
+                1921
+            ],
+            "componentLabel": "Text",
+            "text_color": "#333333",
+            "bounds_updated": [
+                246.33333333333334,
+                1739.6666666666667,
+                877.0,
+                1889.0
+            ],
+            "text_updated": "Breezy in the morning;\notherwise, decreasing clouds\nand cooler",
+            "font_size": 9.528983859437993,
+            "id": "13964_13"
+        },
+        {
+            "text": "Sun",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_name",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                35,
+                1705,
+                245,
+                1921
+            ],
+            "componentLabel": "Text",
+            "text_color": "#111111",
+            "bounds_updated": [
+                37.666666666666664,
+                1791.6666666666667,
+                156.33333333333331,
+                1837.0
+            ],
+            "text_updated": "SUN",
+            "font_size": 12.08513427446033,
+            "id": "13964_14"
+        },
+        {
+            "text": "55\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_lo_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1289,
+                1488,
+                1405,
+                1704
+            ],
+            "componentLabel": "Text",
+            "text_color": "#666A73",
+            "bounds_updated": [
+                1317.0,
+                1580.0,
+                1383.6666666666667,
+                1616.0
+            ],
+            "text_updated": "55\u00b0",
+            "font_size": 8.012576092046338,
+            "id": "13964_15"
+        },
+        {
+            "text": "73\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_hi_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1131,
+                1488,
+                1289,
+                1704
+            ],
+            "componentLabel": "Text",
+            "text_color": "#161616",
+            "bounds_updated": [
+                1161.6666666666667,
+                1574.6666666666667,
+                1253.6666666666667,
+                1621.3333333333333
+            ],
+            "text_updated": "73\u00b0",
+            "font_size": 11.297949259365904,
+            "id": "13964_16"
+        },
+        {
+            "iconClass": "flight",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_image",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                956,
+                1508,
+                1131,
+                1683
+            ],
+            "componentLabel": "Icon",
+            "id": "13964_17"
+        },
+        {
+            "text": "Patchy fog in the morning; cloudy with showers and thunderstorms",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_desc",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                245,
+                1488,
+                956,
+                1704
+            ],
+            "componentLabel": "Text",
+            "text_color": "#333333",
+            "bounds_updated": [
+                245,
+                1522.6666666666667,
+                811.6666666666666,
+                1673.3333333333333
+            ],
+            "text_updated": "Patchy fog in the morning;\ncloudy with showers and\nthunderstorms",
+            "font_size": 9.383172515646248,
+            "id": "13964_18"
+        },
+        {
+            "text": "Sat",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_name",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                35,
+                1488,
+                245,
+                1704
+            ],
+            "componentLabel": "Text",
+            "text_color": "#141414",
+            "bounds_updated": [
+                37.666666666666664,
+                1574.6666666666667,
+                149.66666666666666,
+                1621.3333333333333
+            ],
+            "text_updated": "SAT",
+            "font_size": 12.431409649952695,
+            "id": "13964_19"
+        },
+        {
+            "text": "64\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_lo_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1289,
+                1271,
+                1405,
+                1487
+            ],
+            "componentLabel": "Text",
+            "text_color": "#67717A",
+            "bounds_updated": [
+                1315.6666666666667,
+                1363.0,
+                1383.6666666666667,
+                1399.0
+            ],
+            "text_updated": "64\u00b0",
+            "font_size": 8.295892308358281,
+            "id": "13964_20"
+        },
+        {
+            "text": "77\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_hi_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1131,
+                1271,
+                1289,
+                1487
+            ],
+            "componentLabel": "Text",
+            "text_color": "#101010",
+            "bounds_updated": [
+                1161.6666666666667,
+                1359.0,
+                1253.6666666666667,
+                1403.0
+            ],
+            "text_updated": "77\u00b0",
+            "font_size": 11.297949259365904,
+            "id": "13964_21"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_image",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                956,
+                1291,
+                1131,
+                1466
+            ],
+            "componentLabel": "Image",
+            "id": "13964_22"
+        },
+        {
+            "text": "Patchy morning fog; mostly cloudy with a couple of showers and a thunderstorm",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_desc",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                245,
+                1271,
+                956,
+                1487
+            ],
+            "componentLabel": "Text",
+            "text_color": "#353535",
+            "bounds_updated": [
+                246.33333333333334,
+                1307.0,
+                942.3333333333333,
+                1456.3333333333333
+            ],
+            "text_updated": "Patchy morning fog; mostly\ncloudy with a couple of showers\nand a thunderstorm",
+            "font_size": 9.546065819187538,
+            "id": "13964_23"
+        },
+        {
+            "text": "Fri",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_name",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                35,
+                1271,
+                245,
+                1487
+            ],
+            "componentLabel": "Text",
+            "text_color": "#121212",
+            "bounds_updated": [
+                39.0,
+                1359.0,
+                124.33333333333333,
+                1403.0
+            ],
+            "text_updated": "FRI",
+            "font_size": 11.800199108340895,
+            "id": "13964_24"
+        },
+        {
+            "text": "67\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_lo_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1289,
+                1095,
+                1405,
+                1270
+            ],
+            "componentLabel": "Text",
+            "text_color": "#656C72",
+            "bounds_updated": [
+                1315.6666666666667,
+                1167.0,
+                1383.6666666666667,
+                1203.0
+            ],
+            "text_updated": "67\u00b0",
+            "font_size": 8.226637233259751,
+            "id": "13964_25"
+        },
+        {
+            "text": "79\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_hi_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1131,
+                1095,
+                1289,
+                1270
+            ],
+            "componentLabel": "Text",
+            "text_color": "#111111",
+            "bounds_updated": [
+                1161.6666666666667,
+                1163.0,
+                1253.6666666666667,
+                1208.3333333333333
+            ],
+            "text_updated": "79\u00b0",
+            "font_size": 11.297949259365904,
+            "id": "13964_26"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_image",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                956,
+                1095,
+                1131,
+                1270
+            ],
+            "componentLabel": "Image",
+            "id": "13964_27"
+        },
+        {
+            "text": "Mostly cloudy",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_desc",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                245,
+                1131,
+                956,
+                1233
+            ],
+            "componentLabel": "Text",
+            "text_color": "#363636",
+            "bounds_updated": [
+                249.0,
+                1167.0,
+                546.3333333333333,
+                1212.3333333333333
+            ],
+            "text_updated": "Mosily cloudy",
+            "font_size": 9.709208840923322,
+            "id": "13964_28"
+        },
+        {
+            "text": "Thu",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_extended_forecast_daily_name",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                35,
+                1095,
+                245,
+                1270
+            ],
+            "componentLabel": "Text",
+            "text_color": "#101010",
+            "bounds_updated": [
+                36.333333333333336,
+                1163.0,
+                157.66666666666666,
+                1208.3333333333333
+            ],
+            "text_updated": "THU",
+            "font_size": 12.215958501328755,
+            "id": "13964_29"
+        },
+        {
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                960,
+                954,
+                1440,
+                1095
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "info",
+            "bg_color": "#EEEEEE",
+            "text_color": "#233C5A",
+            "bounds_text": [
+                960,
+                954,
+                1440,
+                1095
+            ],
+            "text_updated": "info",
+            "font_size": 12,
+            "id": "13964_30"
+        },
+        {
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                480,
+                954,
+                960,
+                1095
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "hourly",
+            "bg_color": "#EEEEEE",
+            "text_color": "#15304D",
+            "bounds_text": [
+                626.6666666666666,
+                1006.0,
+                817.3333333333333,
+                1044.6666666666667
+            ],
+            "text_updated": "HOURLY",
+            "font_size": 10.605966043710922,
+            "id": "13964_31"
+        },
+        {
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                0,
+                954,
+                480,
+                1095
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "text": "7 Day",
+            "bg_color": "#EEEEEE",
+            "text_color": "#19325B",
+            "bounds_text": [
+                170.66666666666666,
+                1006.0,
+                309.3333333333333,
+                1044.6666666666667
+            ],
+            "text_updated": "7 DAY",
+            "font_size": 10.44578906411294,
+            "id": "13964_32"
+        },
+        {
+            "text": "L 67\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_current_conditions_lo",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1162,
+                834,
+                1285,
+                905
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F0F0F0",
+            "bounds_updated": [
+                1164.6666666666667,
+                851.3333333333334,
+                1280.6666666666667,
+                890.0
+            ],
+            "text_updated": "L 67\u00b0",
+            "font_size": 9.68815812844127,
+            "id": "13964_33"
+        },
+        {
+            "text": "H 79\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_current_conditions_hi",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                996,
+                834,
+                1162,
+                905
+            ],
+            "componentLabel": "Text",
+            "text_color": "#EFEFEF",
+            "bounds_updated": [
+                998.6666666666666,
+                851.3333333333334,
+                1122.6666666666667,
+                890.0
+            ],
+            "text_updated": "H 79\u00b0",
+            "font_size": 9.631845047354556,
+            "id": "13964_34"
+        },
+        {
+            "text": "Mostly cloudy",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_current_conditions_desc",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                36,
+                803,
+                841,
+                936
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F0F0F0",
+            "bounds_updated": [
+                36,
+                803,
+                841,
+                936
+            ],
+            "text_updated": "Mostly cloudy",
+            "font_size": 12,
+            "id": "13964_35"
+        },
+        {
+            "text": "72\u00b0",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_current_conditions_temp",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1020,
+                481,
+                1440,
+                667
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6E808E",
+            "bounds_updated": [
+                1020,
+                481,
+                1440,
+                667
+            ],
+            "text_updated": "72\u00b0",
+            "font_size": 12,
+            "id": "13964_36"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_current_conditions_icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1195,
+                451,
+                1440,
+                696
+            ],
+            "componentLabel": "Image",
+            "id": "13964_37"
+        },
+        {
+            "text": "EDIT",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_current_conditions_edit_button",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.Button",
+            "bounds": [
+                77,
+                638,
+                264,
+                761
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "edit",
+            "bg_color": "#808183",
+            "text_color": "#EFF1F0",
+            "bounds_text": [
+                122.33333333333333,
+                683.3333333333334,
+                221.0,
+                719.3333333333334
+            ],
+            "text_updated": "EDIT",
+            "font_size": 9.487219509294562,
+            "id": "13964_38"
+        },
+        {
+            "text": "Houston",
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_current_conditions_cityName",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                0,
+                364,
+                1002,
+                638
+            ],
+            "componentLabel": "Text",
+            "text_color": "#606163",
+            "bounds_updated": [
+                0,
+                364,
+                1002,
+                638
+            ],
+            "text_updated": "Houston",
+            "font_size": 12,
+            "id": "13964_39"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_current_condition_hero_image",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                0,
+                364,
+                1440,
+                924
+            ],
+            "componentLabel": "Image",
+            "id": "13964_40"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.abclocal.ktrk.news:id/wx_weather_main_pager_indicator",
+            "clickable": false,
+            "class": "com.viewpagerindicator.TitlePageIndicator",
+            "bounds": [
+                0,
+                252,
+                1440,
+                364
+            ],
+            "componentLabel": "Pager Indicator",
+            "id": "13964_41"
+        },
+        {
+            "ancestors": [
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                160,
+                2217,
+                1280,
+                2392
+            ],
+            "clickable": true,
+            "class": "tv.freewheel.renderers.html.MRAIDWebView",
+            "componentLabel": "Web View",
+            "id": "13964_42"
+        },
+        {
+            "text": "Weather",
+            "resource-id": "android:id/action_bar_title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                169,
+                125,
+                401,
+                210
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F3F1F6",
+            "bounds_updated": [
+                169,
+                125,
+                401,
+                210
+            ],
+            "text_updated": "Weather",
+            "font_size": 12,
+            "id": "13964_43"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/home",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                43,
+                112,
+                155,
+                224
+            ],
+            "componentLabel": "Image",
+            "id": "13964_44"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/up",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                0,
+                140,
+                56,
+                196
+            ],
+            "componentLabel": "Icon",
+            "id": "13964_45"
+        },
+        {
+            "text": "Settings",
+            "resource-id": "com.abclocal.ktrk.news:id/weather_page_settings",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.android.internal.view.menu.ActionMenuItemView",
+            "bounds": [
+                1185,
+                84,
+                1440,
+                252
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "settings",
+            "bg_color": "#4B7CB6",
+            "text_color": "#F5FFFF",
+            "bounds_text": [
+                1214.3333333333333,
+                153.33333333333331,
+                1410.3333333333333,
+                185.33333333333331
+            ],
+            "text_updated": "SETTINGS",
+            "font_size": 8.731209923262906,
+            "id": "13964_46"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                954,
+                1440,
+                2216
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_47",
+            "ui_comp_ids": [
+                "13964_0",
+                "13964_1",
+                "13964_2",
+                "13964_3",
+                "13964_4",
+                "13964_5",
+                "13964_6",
+                "13964_7",
+                "13964_8",
+                "13964_9",
+                "13964_10",
+                "13964_11",
+                "13964_12",
+                "13964_13",
+                "13964_14",
+                "13964_15",
+                "13964_16",
+                "13964_17",
+                "13964_18",
+                "13964_19",
+                "13964_20",
+                "13964_21",
+                "13964_22",
+                "13964_23",
+                "13964_24",
+                "13964_25",
+                "13964_26",
+                "13964_27",
+                "13964_28",
+                "13964_29",
+                "13964_30",
+                "13964_31",
+                "13964_32"
+            ],
+            "ui_comp_group_ids": [
+                "13964_48",
+                "13964_53",
+                "13964_54",
+                "13964_55",
+                "13964_56",
+                "13964_57",
+                "13964_58",
+                "13964_59",
+                "13964_60",
+                "13964_61",
+                "13964_62",
+                "13964_65",
+                "13964_67"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1095,
+                1440,
+                2216
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_48",
+            "ui_comp_ids": [
+                "13964_0",
+                "13964_1",
+                "13964_2",
+                "13964_3",
+                "13964_4",
+                "13964_5",
+                "13964_6",
+                "13964_7",
+                "13964_8",
+                "13964_9",
+                "13964_10",
+                "13964_11",
+                "13964_12",
+                "13964_13",
+                "13964_14",
+                "13964_15",
+                "13964_16",
+                "13964_17",
+                "13964_18",
+                "13964_19",
+                "13964_20",
+                "13964_21",
+                "13964_22",
+                "13964_23",
+                "13964_24",
+                "13964_25",
+                "13964_26",
+                "13964_27",
+                "13964_28",
+                "13964_29"
+            ],
+            "ui_comp_group_ids": [
+                "13964_53",
+                "13964_54",
+                "13964_55",
+                "13964_56",
+                "13964_57",
+                "13964_58",
+                "13964_59",
+                "13964_60",
+                "13964_61",
+                "13964_62",
+                "13964_67"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                364,
+                1440,
+                954
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#666666",
+            "id": "13964_49",
+            "ui_comp_ids": [
+                "13964_33",
+                "13964_34",
+                "13964_35",
+                "13964_36",
+                "13964_37",
+                "13964_38",
+                "13964_39",
+                "13964_40"
+            ],
+            "ui_comp_group_ids": [
+                "13964_50",
+                "13964_51",
+                "13964_52",
+                "13964_63",
+                "13964_66",
+                "13964_68"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                364,
+                1440,
+                924
+            ],
+            "class": "android.widget.ImageView",
+            "bg_color": "#666666",
+            "id": "13964_50",
+            "ui_comp_ids": [
+                "13964_33",
+                "13964_34",
+                "13964_36",
+                "13964_37",
+                "13964_38",
+                "13964_39"
+            ],
+            "ui_comp_group_ids": [
+                "13964_51",
+                "13964_52",
+                "13964_66"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                364,
+                1440,
+                784
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_51",
+            "ui_comp_ids": [
+                "13964_36",
+                "13964_37",
+                "13964_38",
+                "13964_39"
+            ],
+            "ui_comp_group_ids": [
+                "13964_52",
+                "13964_66"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                364,
+                1020,
+                784
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#AFB3B6",
+            "id": "13964_52",
+            "ui_comp_ids": [
+                "13964_38",
+                "13964_39"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1705,
+                1440,
+                1922
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_53",
+            "ui_comp_ids": [
+                "13964_10",
+                "13964_11",
+                "13964_12",
+                "13964_13",
+                "13964_14"
+            ],
+            "ui_comp_group_ids": [
+                "13964_56"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1488,
+                1440,
+                1705
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_54",
+            "ui_comp_ids": [
+                "13964_15",
+                "13964_16",
+                "13964_17",
+                "13964_18",
+                "13964_19"
+            ],
+            "ui_comp_group_ids": [
+                "13964_57"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1271,
+                1440,
+                1488
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_55",
+            "ui_comp_ids": [
+                "13964_20",
+                "13964_21",
+                "13964_22",
+                "13964_23",
+                "13964_24"
+            ],
+            "ui_comp_group_ids": [
+                "13964_58"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1705,
+                1440,
+                1921
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_56",
+            "ui_comp_ids": [
+                "13964_10",
+                "13964_11",
+                "13964_12",
+                "13964_13",
+                "13964_14"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1488,
+                1440,
+                1704
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_57",
+            "ui_comp_ids": [
+                "13964_15",
+                "13964_16",
+                "13964_17",
+                "13964_18",
+                "13964_19"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1271,
+                1440,
+                1487
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_58",
+            "ui_comp_ids": [
+                "13964_20",
+                "13964_21",
+                "13964_22",
+                "13964_23",
+                "13964_24"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1922,
+                1440,
+                2098
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_59",
+            "ui_comp_ids": [
+                "13964_5",
+                "13964_6",
+                "13964_7",
+                "13964_8",
+                "13964_9"
+            ],
+            "ui_comp_group_ids": [
+                "13964_61"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1095,
+                1440,
+                1271
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_60",
+            "ui_comp_ids": [
+                "13964_25",
+                "13964_26",
+                "13964_27",
+                "13964_28",
+                "13964_29"
+            ],
+            "ui_comp_group_ids": [
+                "13964_62"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1922,
+                1440,
+                2097
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_61",
+            "ui_comp_ids": [
+                "13964_5",
+                "13964_6",
+                "13964_7",
+                "13964_8",
+                "13964_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1095,
+                1440,
+                1270
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_62",
+            "ui_comp_ids": [
+                "13964_25",
+                "13964_26",
+                "13964_27",
+                "13964_28",
+                "13964_29"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                785,
+                1440,
+                954
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#666666",
+            "id": "13964_63",
+            "ui_comp_ids": [
+                "13964_33",
+                "13964_34",
+                "13964_35"
+            ],
+            "ui_comp_group_ids": [
+                "13964_68"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "com.android.internal.widget.ActionBarContainer",
+            "bg_color": "#4B7CB6",
+            "id": "13964_64",
+            "ui_comp_ids": [
+                "13964_43",
+                "13964_44",
+                "13964_45",
+                "13964_46"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                954,
+                1440,
+                1095
+            ],
+            "class": "android.widget.TabWidget",
+            "bg_color": "#EEEEEE",
+            "id": "13964_65",
+            "ui_comp_ids": [
+                "13964_30",
+                "13964_31",
+                "13964_32"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                1020,
+                364,
+                1440,
+                784
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#D6D7D9",
+            "id": "13964_66",
+            "ui_comp_ids": [
+                "13964_36",
+                "13964_37"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2098,
+                1440,
+                2216
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#EEEEEE",
+            "id": "13964_67",
+            "ui_comp_ids": [
+                "13964_0",
+                "13964_1",
+                "13964_2",
+                "13964_3",
+                "13964_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                860,
+                785,
+                1422,
+                954
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#666666",
+            "id": "13964_68",
+            "ui_comp_ids": [
+                "13964_33",
+                "13964_34"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

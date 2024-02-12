@@ -1,0 +1,696 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "Chicago, IL",
+            "resource-id": "com.hipmunk.android:id/title",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.devspark.robototextview.widget.RobotoTextView",
+            "bounds": [
+                35,
+                2089,
+                1405,
+                2201
+            ],
+            "componentLabel": "Text",
+            "text_color": "#111619",
+            "bounds_updated": [
+                35,
+                2089,
+                1405,
+                2201
+            ],
+            "text_updated": "Chicago, IL",
+            "font_size": 12,
+            "id": "9715_0"
+        },
+        {
+            "iconClass": "share",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.hipmunk.android:id/share",
+            "clickable": true,
+            "class": "com.hipmunk.android.sharing.view.SharingIconView",
+            "bounds": [
+                1079,
+                1795,
+                1247,
+                1956
+            ],
+            "componentLabel": "Icon",
+            "id": "9715_1"
+        },
+        {
+            "iconClass": "favorite",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.hipmunk.android:id/favorite_heart",
+            "clickable": true,
+            "class": "com.hipmunk.android.discover.views.DiscoverFavoriteHeartView",
+            "bounds": [
+                1247,
+                1809,
+                1391,
+                1942
+            ],
+            "componentLabel": "Icon",
+            "id": "9715_2"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.hipmunk.android:id/destination_background",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                35,
+                1795,
+                1405,
+                2392
+            ],
+            "componentLabel": "Image",
+            "id": "9715_3"
+        },
+        {
+            "text": "$164",
+            "resource-id": "com.hipmunk.android:id/new_price",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.devspark.robototextview.widget.RobotoTextView",
+            "bounds": [
+                1141,
+                1510,
+                1293,
+                1600
+            ],
+            "componentLabel": "Text",
+            "text_color": "#4282AE",
+            "bounds_updated": [
+                1143.6666666666667,
+                1526.0,
+                1290.3333333333333,
+                1587.3333333333333
+            ],
+            "text_updated": "$164",
+            "font_size": 12.295850790647394,
+            "id": "9715_4"
+        },
+        {
+            "text": "$264",
+            "resource-id": "com.hipmunk.android:id/old_price",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.devspark.robototextview.widget.RobotoTextView",
+            "bounds": [
+                1185,
+                1444,
+                1293,
+                1510
+            ],
+            "componentLabel": "Text",
+            "text_color": "#74777C",
+            "bounds_updated": [
+                1185,
+                1444,
+                1293,
+                1510
+            ],
+            "text_updated": "$264",
+            "font_size": 12,
+            "id": "9715_5"
+        },
+        {
+            "text": "Jan 14 - Jan 15",
+            "resource-id": "com.hipmunk.android:id/dates",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.devspark.robototextview.widget.RobotoTextView",
+            "bounds": [
+                259,
+                1517,
+                638,
+                1593
+            ],
+            "componentLabel": "Text",
+            "text_color": "#242F35",
+            "bounds_updated": [
+                261.6666666666667,
+                1535.6666666666667,
+                637.6666666666666,
+                1578.3333333333333
+            ],
+            "text_updated": "Jan 14-Jan15",
+            "font_size": 12.443113678706185,
+            "id": "9715_6"
+        },
+        {
+            "text": "Weekend Trip (Sat - Sun)",
+            "resource-id": "com.hipmunk.android:id/duration",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.devspark.robototextview.widget.RobotoTextView",
+            "bounds": [
+                259,
+                1451,
+                784,
+                1517
+            ],
+            "componentLabel": "Text",
+            "text_color": "#5A5E61",
+            "bounds_updated": [
+                261.6666666666667,
+                1469.6666666666667,
+                781.6666666666666,
+                1515.0
+            ],
+            "text_updated": "Weekend Trip (Sat - Sun)",
+            "font_size": 8.218769457180048,
+            "id": "9715_7"
+        },
+        {
+            "text": "$147",
+            "resource-id": "com.hipmunk.android:id/new_price",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.devspark.robototextview.widget.RobotoTextView",
+            "bounds": [
+                1141,
+                1284,
+                1293,
+                1374
+            ],
+            "componentLabel": "Text",
+            "text_color": "#447EA3",
+            "bounds_updated": [
+                1143.6666666666667,
+                1300.0,
+                1290.3333333333333,
+                1361.3333333333333
+            ],
+            "text_updated": "$147",
+            "font_size": 12.295850790647394,
+            "id": "9715_8"
+        },
+        {
+            "text": "$293",
+            "resource-id": "com.hipmunk.android:id/old_price",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.devspark.robototextview.widget.RobotoTextView",
+            "bounds": [
+                1185,
+                1218,
+                1293,
+                1284
+            ],
+            "componentLabel": "Text",
+            "text_color": "#68676F",
+            "bounds_updated": [
+                1185,
+                1218,
+                1293,
+                1284
+            ],
+            "text_updated": "$293",
+            "font_size": 12,
+            "id": "9715_9"
+        },
+        {
+            "text": "Jan 06 - Jan 09",
+            "resource-id": "com.hipmunk.android:id/dates",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.devspark.robototextview.widget.RobotoTextView",
+            "bounds": [
+                259,
+                1291,
+                638,
+                1367
+            ],
+            "componentLabel": "Text",
+            "text_color": "#203644",
+            "bounds_updated": [
+                261.6666666666667,
+                1312.3333333333333,
+                635.0,
+                1352.3333333333333
+            ],
+            "text_updated": "Jan 06 - Jan 09",
+            "font_size": 10.863048088992757,
+            "id": "9715_10"
+        },
+        {
+            "text": "Weekend Trip (Fri - Mon)",
+            "resource-id": "com.hipmunk.android:id/duration",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.devspark.robototextview.widget.RobotoTextView",
+            "bounds": [
+                259,
+                1225,
+                780,
+                1291
+            ],
+            "componentLabel": "Text",
+            "text_color": "#66676C",
+            "bounds_updated": [
+                261.6666666666667,
+                1243.6666666666667,
+                776.3333333333333,
+                1289.0
+            ],
+            "text_updated": "Weekend Trip (Fri - Mon)",
+            "font_size": 8.389599719953988,
+            "id": "9715_11"
+        },
+        {
+            "iconClass": "flight",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.hipmunk.android:id/carousel_background",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                91,
+                1466,
+                203,
+                1578
+            ],
+            "componentLabel": "Icon",
+            "id": "9715_12"
+        },
+        {
+            "iconClass": "flight",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.hipmunk.android:id/carousel_background",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                91,
+                1240,
+                203,
+                1352
+            ],
+            "componentLabel": "Icon",
+            "id": "9715_13"
+        },
+        {
+            "text": "San Diego, CA",
+            "resource-id": "com.hipmunk.android:id/title",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.devspark.robototextview.widget.RobotoTextView",
+            "bounds": [
+                35,
+                777,
+                1405,
+                889
+            ],
+            "componentLabel": "Text",
+            "text_color": "#27160C",
+            "bounds_updated": [
+                421.66666666666663,
+                875.6666666666666,
+                1405.6666666666665,
+                889
+            ],
+            "text_updated": "~San Diego, CA sami",
+            "font_size": 16.235102328948237,
+            "id": "9715_14"
+        },
+        {
+            "iconClass": "share",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.hipmunk.android:id/share",
+            "clickable": true,
+            "class": "com.hipmunk.android.sharing.view.SharingIconView",
+            "bounds": [
+                1079,
+                483,
+                1247,
+                644
+            ],
+            "componentLabel": "Icon",
+            "id": "9715_15"
+        },
+        {
+            "iconClass": "favorite",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.hipmunk.android:id/favorite_heart",
+            "clickable": true,
+            "class": "com.hipmunk.android.discover.views.DiscoverFavoriteHeartView",
+            "bounds": [
+                1247,
+                497,
+                1391,
+                630
+            ],
+            "componentLabel": "Icon",
+            "id": "9715_16"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.hipmunk.android:id/destination_background",
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatImageView",
+            "bounds": [
+                35,
+                483,
+                1405,
+                1183
+            ],
+            "componentLabel": "Image",
+            "id": "9715_17"
+        },
+        {
+            "text": "Show More",
+            "resource-id": "com.hipmunk.android:id/show_more",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.devspark.robototextview.widget.RobotoTextView",
+            "bounds": [
+                35,
+                1635,
+                1405,
+                1761
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#3D8EC3",
+            "bounds_text": [
+                261.66666666666663,
+                1680.3333333333333,
+                589.6666666666666,
+                1720.3333333333333
+            ],
+            "text_updated": "SHOW MORE",
+            "font_size": 10.838977727525613,
+            "id": "9715_18"
+        },
+        {
+            "text": "Weekend Deals",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                886,
+                331,
+                1273,
+                397
+            ],
+            "componentLabel": "Text",
+            "text_color": "#437FA3",
+            "bounds_updated": [
+                888.6666666666666,
+                347.0,
+                1272.6666666666665,
+                384.3333333333333
+            ],
+            "text_updated": "WEEKEND DEALS",
+            "font_size": 9.071253372577866,
+            "id": "9715_19"
+        },
+        {
+            "text": "Top Deals",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                232,
+                331,
+                488,
+                397
+            ],
+            "componentLabel": "Text",
+            "text_color": "#ADADAD",
+            "bounds_updated": [
+                232,
+                347.0,
+                485.3333333333333,
+                384.3333333333333
+            ],
+            "text_updated": "TOP DEALS",
+            "font_size": 9.307067216943402,
+            "id": "9715_20"
+        },
+        {
+            "text": "Flight Deals",
+            "resource-id": "com.hipmunk.android:id/base_activity_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                273,
+                137,
+                629,
+                227
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F0FFFF",
+            "bounds_updated": [
+                273,
+                137,
+                629,
+                227
+            ],
+            "text_updated": "Flight Deals",
+            "font_size": 12,
+            "id": "9715_21"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "9715_22"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                448,
+                1440,
+                2392
+            ],
+            "class": "android.support.v4.view.ViewPager",
+            "bg_color": "#FFFFFF",
+            "id": "9715_23",
+            "ui_comp_ids": [
+                "9715_0",
+                "9715_1",
+                "9715_2",
+                "9715_3",
+                "9715_4",
+                "9715_5",
+                "9715_6",
+                "9715_7",
+                "9715_8",
+                "9715_9",
+                "9715_10",
+                "9715_11",
+                "9715_12",
+                "9715_13",
+                "9715_14",
+                "9715_15",
+                "9715_16",
+                "9715_17",
+                "9715_18"
+            ],
+            "ui_comp_group_ids": [
+                "9715_24",
+                "9715_25"
+            ]
+        },
+        {
+            "componentLabel": "Card",
+            "bounds": [
+                35,
+                483,
+                1405,
+                1761
+            ],
+            "class": "android.support.v7.widget.CardView",
+            "bg_color": "#FFFFFF",
+            "id": "9715_24",
+            "ui_comp_ids": [
+                "9715_4",
+                "9715_5",
+                "9715_6",
+                "9715_7",
+                "9715_8",
+                "9715_9",
+                "9715_10",
+                "9715_11",
+                "9715_12",
+                "9715_13",
+                "9715_14",
+                "9715_15",
+                "9715_16",
+                "9715_17",
+                "9715_18"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Card",
+            "bounds": [
+                35,
+                1795,
+                1405,
+                2392
+            ],
+            "class": "android.support.v7.widget.CardView",
+            "bg_color": "#5381B3",
+            "id": "9715_25",
+            "ui_comp_ids": [
+                "9715_0",
+                "9715_1",
+                "9715_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                0,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#3294DD",
+            "id": "9715_26",
+            "ui_comp_ids": [
+                "9715_21",
+                "9715_22"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                448
+            ],
+            "class": "android.support.design.widget.TabLayout",
+            "bg_color": "#FFFFFF",
+            "id": "9715_27",
+            "ui_comp_ids": [
+                "9715_19",
+                "9715_20"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

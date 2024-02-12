@@ -1,0 +1,904 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "80",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1328,
+                1258,
+                1384,
+                1324
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C7376A",
+            "bounds_updated": [
+                1330.6666666666667,
+                1274.0,
+                1381.3333333333333,
+                1311.3333333333333
+            ],
+            "text_updated": "80",
+            "font_size": 7.5099482029750435,
+            "id": "22545_0"
+        },
+        {
+            "text": "Paskesz, 1 standard portion (0.7 oz.)",
+            "resource-id": "com.yazio.android:id/streamDescription",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                217,
+                1300,
+                794,
+                1348
+            ],
+            "componentLabel": "Text",
+            "text_color": "#ABABAB",
+            "bounds_updated": [
+                219.66666666666666,
+                1310.6666666666667,
+                793.0,
+                1342.6666666666667
+            ],
+            "text_updated": "Paskesz, 1 standard portion (0.7 oz.)",
+            "font_size": 3.1565508559532223,
+            "id": "22545_1"
+        },
+        {
+            "text": "Melba Toast Multigrain",
+            "resource-id": "com.yazio.android:id/streamLabel",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                217,
+                1234,
+                726,
+                1300
+            ],
+            "componentLabel": "Text",
+            "text_color": "#464646",
+            "bounds_updated": [
+                222.33333333333334,
+                1250.0,
+                723.6666666666666,
+                1295.3333333333333
+            ],
+            "text_updated": "Melba Toast Multigrain",
+            "font_size": 8.976538460973561,
+            "id": "22545_2"
+        },
+        {
+            "text": "100",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1300,
+                1069,
+                1384,
+                1135
+            ],
+            "componentLabel": "Text",
+            "text_color": "#CD3A6E",
+            "bounds_updated": [
+                1302.6666666666667,
+                1085.0,
+                1380.0,
+                1122.3333333333333
+            ],
+            "text_updated": "100",
+            "font_size": 7.97386841757704,
+            "id": "22545_3"
+        },
+        {
+            "text": "Papadopoulou, 1 standard portion (1.1 oz.)",
+            "resource-id": "com.yazio.android:id/streamDescription",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                217,
+                1111,
+                891,
+                1159
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A8A8A8",
+            "bounds_updated": [
+                219.66666666666666,
+                1121.6666666666667,
+                889.0,
+                1156.3333333333333
+            ],
+            "text_updated": "Papadopoulou, 1 standard portion (1,1 oz.)",
+            "font_size": 3.0713869943878898,
+            "id": "22545_4"
+        },
+        {
+            "text": "Multigrain Bread Toasted",
+            "resource-id": "com.yazio.android:id/streamLabel",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                217,
+                1045,
+                773,
+                1111
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3F3F3F",
+            "bounds_updated": [
+                222.33333333333334,
+                1061.0,
+                771.6666666666666,
+                1106.3333333333333
+            ],
+            "text_updated": "Multigrain Bread Toasted",
+            "font_size": 8.846230553645603,
+            "id": "22545_5"
+        },
+        {
+            "text": "150",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1300,
+                880,
+                1384,
+                946
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B93163",
+            "bounds_updated": [
+                1302.6666666666667,
+                898.6666666666666,
+                1380.0,
+                933.3333333333334
+            ],
+            "text_updated": "150",
+            "font_size": 7.97386841757704,
+            "id": "22545_6"
+        },
+        {
+            "text": "Multigrain, 1 serving, whole (2 oz.)",
+            "resource-id": "com.yazio.android:id/streamDescription",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                217,
+                922,
+                758,
+                970
+            ],
+            "componentLabel": "Text",
+            "text_color": "#ADADAD",
+            "bounds_updated": [
+                219.66666666666666,
+                932.6666666666666,
+                755.6666666666666,
+                967.3333333333334
+            ],
+            "text_updated": "Multigrain, 1 serving, whole (2 oz.)",
+            "font_size": 2.7886944966118747,
+            "id": "22545_7"
+        },
+        {
+            "text": "Toast Sans Gluten",
+            "resource-id": "com.yazio.android:id/streamLabel",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                217,
+                856,
+                622,
+                922
+            ],
+            "componentLabel": "Text",
+            "text_color": "#414141",
+            "bounds_updated": [
+                219.66666666666666,
+                872.0,
+                619.6666666666666,
+                909.3333333333334
+            ],
+            "text_updated": "Toast Sans Gluten",
+            "font_size": 9.013245033112597,
+            "id": "22545_8"
+        },
+        {
+            "text": "157",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1300,
+                691,
+                1384,
+                757
+            ],
+            "componentLabel": "Text",
+            "text_color": "#CE0F54",
+            "bounds_updated": [
+                1302.6666666666667,
+                709.6666666666666,
+                1380.0,
+                744.3333333333334
+            ],
+            "text_updated": "157",
+            "font_size": 7.89085111601671,
+            "id": "22545_9"
+        },
+        {
+            "text": "Budget, 1 standard portion (2.3 oz.)",
+            "resource-id": "com.yazio.android:id/streamDescription",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                217,
+                733,
+                775,
+                781
+            ],
+            "componentLabel": "Text",
+            "text_color": "#AAAAAA",
+            "bounds_updated": [
+                219.66666666666666,
+                746.3333333333334,
+                774.3333333333333,
+                778.3333333333334
+            ],
+            "text_updated": "Budget, 1 standard portion (2.3 oz.)",
+            "font_size": 2.827244463006064,
+            "id": "22545_10"
+        },
+        {
+            "text": "Multigrain Sliced Toast Bread",
+            "resource-id": "com.yazio.android:id/streamLabel",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                217,
+                667,
+                866,
+                733
+            ],
+            "componentLabel": "Text",
+            "text_color": "#404040",
+            "bounds_updated": [
+                222.33333333333334,
+                683.0,
+                865.0,
+                728.3333333333334
+            ],
+            "text_updated": "Multigrain Sliced Toast Bread",
+            "font_size": 8.931472345528976,
+            "id": "22545_11"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.yazio.android:id/streamImageFront",
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomImageView",
+            "bounds": [
+                56,
+                1239,
+                161,
+                1344
+            ],
+            "componentLabel": "Image",
+            "id": "22545_12"
+        },
+        {
+            "iconClass": "avatar",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.yazio.android:id/streamImageFront",
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomImageView",
+            "bounds": [
+                56,
+                1050,
+                161,
+                1155
+            ],
+            "componentLabel": "Icon",
+            "id": "22545_13"
+        },
+        {
+            "iconClass": "avatar",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.yazio.android:id/streamImageFront",
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomImageView",
+            "bounds": [
+                56,
+                861,
+                161,
+                966
+            ],
+            "componentLabel": "Icon",
+            "id": "22545_14"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.yazio.android:id/streamImageFront",
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomImageView",
+            "bounds": [
+                56,
+                672,
+                161,
+                777
+            ],
+            "componentLabel": "Image",
+            "id": "22545_15"
+        },
+        {
+            "text": "Quick add...",
+            "resource-id": "com.yazio.android:id/streamActionQuickAddPre",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                619,
+                1197,
+                877,
+                1386
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3E3E3E",
+            "bounds_updated": [
+                619,
+                1197,
+                877,
+                1386
+            ],
+            "text_updated": "Quick add...",
+            "font_size": 12,
+            "id": "22545_16"
+        },
+        {
+            "text": "Quick add...",
+            "resource-id": "com.yazio.android:id/streamActionQuickAddPre",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                619,
+                1008,
+                877,
+                1197
+            ],
+            "componentLabel": "Text",
+            "text_color": "#404040",
+            "bounds_updated": [
+                619,
+                1008,
+                877,
+                1197
+            ],
+            "text_updated": "Quick add...",
+            "font_size": 12,
+            "id": "22545_17"
+        },
+        {
+            "text": "Quick add...",
+            "resource-id": "com.yazio.android:id/streamActionQuickAddPre",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                619,
+                819,
+                877,
+                1008
+            ],
+            "componentLabel": "Text",
+            "text_color": "#ADADAD",
+            "bounds_updated": [
+                619,
+                819,
+                877,
+                1008
+            ],
+            "text_updated": "Quick add...",
+            "font_size": 12,
+            "id": "22545_18"
+        },
+        {
+            "text": "Quick add...",
+            "resource-id": "com.yazio.android:id/streamActionQuickAddPre",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                619,
+                630,
+                877,
+                819
+            ],
+            "componentLabel": "Text",
+            "text_color": "#424242",
+            "bounds_updated": [
+                619,
+                630,
+                877,
+                819
+            ],
+            "text_updated": "Quick add...",
+            "font_size": 12,
+            "id": "22545_19"
+        },
+        {
+            "text": "\ue90e",
+            "resource-id": "com.yazio.android:id/searchContainerDelete",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                1282,
+                420,
+                1426,
+                588
+            ],
+            "componentLabel": "Text",
+            "text_color": "#515151",
+            "bounds_updated": [
+                1282,
+                420,
+                1426,
+                588
+            ],
+            "text_updated": "\ue90e",
+            "font_size": 12,
+            "id": "22545_20"
+        },
+        {
+            "text": "multigrain toast",
+            "resource-id": "com.yazio.android:id/searchContainerSearchTerm",
+            "ancestors": [
+                "android.widget.EditText",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "de.yazio.mobile.widgets.CustomEditTextView",
+            "bounds": [
+                182,
+                420,
+                1282,
+                588
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FFFFFF",
+            "text_color": "#464646",
+            "bounds_text": [
+                200.66666666666666,
+                481.3333333333333,
+                590.0,
+                537.3333333333334
+            ],
+            "text_updated": "multigrain toast",
+            "font_size": 10.182128639082281,
+            "id": "22545_21"
+        },
+        {
+            "text": "\ue913",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "de.yazio.mobile.widgets.CustomTextView",
+            "bounds": [
+                14,
+                420,
+                182,
+                588
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3C3C3C",
+            "bounds_updated": [
+                14,
+                420,
+                182,
+                588
+            ],
+            "text_updated": "\ue913",
+            "font_size": 12,
+            "id": "22545_22"
+        },
+        {
+            "text": "Created",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                1154,
+                280,
+                1365,
+                406
+            ],
+            "componentLabel": "Text",
+            "text_color": "#484745",
+            "bounds_updated": [
+                1154,
+                322.6666666666667,
+                1362.0,
+                360.0
+            ],
+            "text_updated": "CREATED",
+            "font_size": 9.146487802116955,
+            "id": "22545_23"
+        },
+        {
+            "text": "Meals",
+            "resource-id": "android:id/title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                819,
+                280,
+                980,
+                406
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3F3E3C",
+            "bounds_updated": [
+                821.6666666666666,
+                322.6666666666667,
+                979.0,
+                360.0
+            ],
+            "text_updated": "MEALS",
+            "font_size": 9.844384832481083,
+            "id": "22545_24"
+        },
+        {
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                360,
+                280,
+                720,
+                406
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "favorites",
+            "bg_color": "#F3F2F0",
+            "text_color": "#454442",
+            "bounds_text": [
+                416.0,
+                322.6666666666667,
+                664.0,
+                360.0
+            ],
+            "text_updated": "FAVORITES",
+            "font_size": 9.500985069666987,
+            "id": "22545_25"
+        },
+        {
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                0,
+                280,
+                360,
+                406
+            ],
+            "clickable": true,
+            "componentLabel": "Text Button",
+            "textButtonClass": "search",
+            "bg_color": "#F3F2F0",
+            "text_color": "#DA195A",
+            "bounds_text": [
+                88.0,
+                322.6666666666667,
+                272.0,
+                360.0
+            ],
+            "text_updated": "SEARCH",
+            "font_size": 9.41584285120133,
+            "id": "22545_26"
+        },
+        {
+            "ancestors": [
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                2217,
+                1440,
+                2392
+            ],
+            "clickable": true,
+            "class": "com.google.android.gms.ads.internal.webview.m",
+            "componentLabel": "Web View",
+            "id": "22545_27"
+        },
+        {
+            "iconClass": "add",
+            "resource-id": "com.yazio.android:id/action_plus",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1272,
+                98,
+                1440,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "22545_28"
+        },
+        {
+            "text": "",
+            "resource-id": "com.yazio.android:id/action_barcode",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.view.menu.ActionMenuItemView",
+            "bounds": [
+                1104,
+                98,
+                1272,
+                266
+            ],
+            "componentLabel": "Image",
+            "id": "22545_29"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageButton",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatImageButton",
+            "componentLabel": "Icon",
+            "id": "22545_30"
+        },
+        {
+            "resource-id": "com.yazio.android:id/toolbarSpinner",
+            "ancestors": [
+                "android.widget.Spinner",
+                "android.widget.AbsSpinner",
+                "android.widget.AdapterView",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatSpinner",
+            "bounds": [
+                252,
+                140,
+                592,
+                224
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "breakfast",
+            "bg_color": "#F3F2F0",
+            "text_color": "#302F2D",
+            "bounds_text": [
+                257.3333333333333,
+                161.33333333333334,
+                574.6666666666666,
+                204.0
+            ],
+            "text_updated": "Breakfast v",
+            "font_size": 11.765166444987614,
+            "id": "22545_31"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                406,
+                1440,
+                2217
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "22545_32",
+            "ui_comp_ids": [
+                "22545_0",
+                "22545_1",
+                "22545_2",
+                "22545_3",
+                "22545_4",
+                "22545_5",
+                "22545_6",
+                "22545_7",
+                "22545_8",
+                "22545_9",
+                "22545_10",
+                "22545_11",
+                "22545_12",
+                "22545_13",
+                "22545_14",
+                "22545_15",
+                "22545_16",
+                "22545_17",
+                "22545_18",
+                "22545_19",
+                "22545_20",
+                "22545_21",
+                "22545_22"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#F3F2F0",
+            "id": "22545_33",
+            "ui_comp_ids": [
+                "22545_28",
+                "22545_29",
+                "22545_30",
+                "22545_31"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                406
+            ],
+            "class": "android.widget.TabHost",
+            "bg_color": "#F3F2F0",
+            "id": "22545_34",
+            "ui_comp_ids": [
+                "22545_23",
+                "22545_24",
+                "22545_25",
+                "22545_26"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

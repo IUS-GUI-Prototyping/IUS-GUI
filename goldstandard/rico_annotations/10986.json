@@ -1,0 +1,1631 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": " - Mon 17 Apr",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                275,
+                381,
+                589,
+                447
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6F6F67",
+            "bounds_updated": [
+                289.6666666666667,
+                417.0,
+                588.3333333333333,
+                445.0
+            ],
+            "text_updated": "- Mon 17 Apr",
+            "font_size": 10.266303424955888,
+            "id": "10986_0"
+        },
+        {
+            "text": "Sat 15 Apr",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                35,
+                381,
+                275,
+                447
+            ],
+            "componentLabel": "Text",
+            "text_color": "#6F6F65",
+            "bounds_updated": [
+                37.666666666666664,
+                397.0,
+                275.0,
+                445.0
+            ],
+            "text_updated": "Sat 15 Apr",
+            "font_size": 9.94812052856462,
+            "id": "10986_1"
+        },
+        {
+            "text": "1",
+            "resource-id": "com.edreams.travel:id/text_AmountPassengers_topbrief",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                655,
+                381,
+                711,
+                447
+            ],
+            "componentLabel": "Text",
+            "text_color": "#726F6A",
+            "bounds_updated": [
+                655,
+                381,
+                711,
+                447
+            ],
+            "text_updated": "1",
+            "font_size": 12,
+            "id": "10986_2"
+        },
+        {
+            "iconClass": "avatar",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/imgPersonCaret",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                624,
+                391,
+                655,
+                437
+            ],
+            "componentLabel": "Icon",
+            "id": "10986_3"
+        },
+        {
+            "text": "San Francisco",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                327,
+                315,
+                648,
+                381
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3C3D2F",
+            "bounds_updated": [
+                329.6666666666667,
+                332.3333333333333,
+                645.6666666666666,
+                367.0
+            ],
+            "text_updated": "San Francisco",
+            "font_size": 10.164026042976502,
+            "id": "10986_4"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                270,
+                335,
+                319,
+                360
+            ],
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "componentLabel": "Image",
+            "id": "10986_5"
+        },
+        {
+            "text": "New York",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                35,
+                315,
+                262,
+                381
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3F4030",
+            "bounds_updated": [
+                40.333333333333336,
+                332.3333333333333,
+                261.66666666666663,
+                367.0
+            ],
+            "text_updated": "New York",
+            "font_size": 10.623928294360717,
+            "id": "10986_6"
+        },
+        {
+            "text": "Delta Air Lines",
+            "resource-id": "com.edreams.travel:id/airline_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                999,
+                2364,
+                1309,
+                2392
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3186D7",
+            "bounds_updated": [
+                999,
+                2364,
+                1309,
+                2392
+            ],
+            "text_updated": "Delta Air Lines",
+            "font_size": 12,
+            "id": "10986_7"
+        },
+        {
+            "ancestors": [
+                "com.android.volley.toolbox.NetworkImageView",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/airline_icon",
+            "clickable": false,
+            "class": "com.odigeo.dataodigeo.net.helper.CustomNetworkImageView",
+            "bounds": [
+                1327,
+                2360,
+                1397,
+                2392
+            ],
+            "componentLabel": "Image",
+            "id": "10986_8"
+        },
+        {
+            "text": "Departure",
+            "resource-id": "com.edreams.travel:id/text_header_section_resultWidget",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                60,
+                2360,
+                326,
+                2392
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3186D7",
+            "bounds_updated": [
+                60,
+                2360,
+                326,
+                2392
+            ],
+            "text_updated": "Departure",
+            "font_size": 12,
+            "id": "10986_9"
+        },
+        {
+            "text": "$ 682.47",
+            "resource-id": "com.edreams.travel:id/flights_price",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                60,
+                2175,
+                337,
+                2278
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                60,
+                2175,
+                337,
+                2278
+            ],
+            "text_updated": "$ 682.47",
+            "font_size": 12,
+            "id": "10986_10"
+        },
+        {
+            "text": "All taxes and fees included",
+            "resource-id": "com.edreams.travel:id/fullPriceSentence",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                856,
+                2198,
+                1380,
+                2255
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFFFF",
+            "bounds_updated": [
+                856,
+                2198,
+                1380,
+                2255
+            ],
+            "text_updated": "All taxes and fees included",
+            "font_size": 12,
+            "id": "10986_11"
+        },
+        {
+            "text": "1 seats left",
+            "resource-id": "com.edreams.travel:id/number_passengers",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                575,
+                1666,
+                819,
+                1732
+            ],
+            "componentLabel": "Text",
+            "text_color": "#E56A1D",
+            "bounds_updated": [
+                580.3333333333334,
+                1682.0,
+                819.0,
+                1718.0
+            ],
+            "text_updated": "1 seats left",
+            "font_size": 9.399047416725944,
+            "id": "10986_12"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/icon_passengers",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                525,
+                1672,
+                564,
+                1725
+            ],
+            "componentLabel": "Image",
+            "id": "10986_13"
+        },
+        {
+            "text": "Direct",
+            "resource-id": "com.edreams.travel:id/type_flight_info",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                362,
+                1666,
+                497,
+                1732
+            ],
+            "componentLabel": "Text",
+            "text_color": "#989898",
+            "bounds_updated": [
+                366.0,
+                1682.0,
+                495.3333333333333,
+                1718.0
+            ],
+            "text_updated": "Direct",
+            "font_size": 9.486113250166845,
+            "id": "10986_14"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/type_flight_icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                298,
+                1681,
+                351,
+                1716
+            ],
+            "componentLabel": "Icon",
+            "id": "10986_15"
+        },
+        {
+            "text": "05h40'",
+            "resource-id": "com.edreams.travel:id/estimeted_time",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                117,
+                1666,
+                270,
+                1732
+            ],
+            "componentLabel": "Text",
+            "text_color": "#959595",
+            "bounds_updated": [
+                118.33333333333333,
+                1682.0,
+                266.3333333333333,
+                1718.0
+            ],
+            "text_updated": "05h40'",
+            "font_size": 9.594892906151168,
+            "id": "10986_16"
+        },
+        {
+            "iconClass": "time",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/clock_icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                60,
+                1672,
+                106,
+                1725
+            ],
+            "componentLabel": "Icon",
+            "id": "10986_17"
+        },
+        {
+            "text": "Hand luggage only",
+            "resource-id": "com.edreams.travel:id/TvBaggageAllowanceText",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                113,
+                1743,
+                536,
+                1809
+            ],
+            "componentLabel": "Text",
+            "text_color": "#979797",
+            "bounds_updated": [
+                117.0,
+                1760.3333333333333,
+                535.6666666666666,
+                1807.0
+            ],
+            "text_updated": "Hand luggage only",
+            "font_size": 9.75886434931399,
+            "id": "10986_18"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/IvBaggageAllowanceIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                60,
+                1753,
+                106,
+                1799
+            ],
+            "componentLabel": "Image",
+            "id": "10986_19"
+        },
+        {
+            "text": "John F Kennedy Intl Airport (JFK) New York",
+            "resource-id": "com.edreams.travel:id/arrival_place",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                387,
+                1589,
+                1291,
+                1655
+            ],
+            "componentLabel": "Text",
+            "text_color": "#36362C",
+            "bounds_updated": [
+                387,
+                1605.0,
+                1260.3333333333333,
+                1653.0
+            ],
+            "text_updated": "John F Kennedy Intl Airport (JFK) New...",
+            "font_size": 9.982527075447127,
+            "id": "10986_20"
+        },
+        {
+            "text": "12:45 AM (+1)",
+            "resource-id": "com.edreams.travel:id/arrival_hour",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                60,
+                1589,
+                376,
+                1655
+            ],
+            "componentLabel": "Text",
+            "text_color": "#44413A",
+            "bounds_updated": [
+                64.0,
+                1606.3333333333333,
+                374.66666666666663,
+                1649.0
+            ],
+            "text_updated": "12:45 AM (+1)",
+            "font_size": 9.381186356191694,
+            "id": "10986_21"
+        },
+        {
+            "text": "San Francisco Intl Airport (SFO) San Francisco",
+            "resource-id": "com.edreams.travel:id/departure_place",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                284,
+                1523,
+                1291,
+                1589
+            ],
+            "componentLabel": "Text",
+            "text_color": "#42423A",
+            "bounds_updated": [
+                286.6666666666667,
+                1540.3333333333333,
+                1268.0,
+                1587.0
+            ],
+            "text_updated": "San Francisco Intl Airport (SFO) San Franci...",
+            "font_size": 9.833185716704957,
+            "id": "10986_22"
+        },
+        {
+            "text": "04:05 PM",
+            "resource-id": "com.edreams.travel:id/departure_hour",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                60,
+                1523,
+                273,
+                1589
+            ],
+            "componentLabel": "Text",
+            "text_color": "#42423A",
+            "bounds_updated": [
+                61.333333333333336,
+                1540.3333333333333,
+                269.3333333333333,
+                1575.0
+            ],
+            "text_updated": "04:05 PM",
+            "font_size": 9.992641648270784,
+            "id": "10986_23"
+        },
+        {
+            "iconClass": "check",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/checkbox_resultswidget",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1309,
+                1627,
+                1397,
+                1715
+            ],
+            "componentLabel": "Icon",
+            "id": "10986_24"
+        },
+        {
+            "text": "Delta Air Lines",
+            "resource-id": "com.edreams.travel:id/airline_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                999,
+                1384,
+                1309,
+                1446
+            ],
+            "componentLabel": "Text",
+            "text_color": "#706F6A",
+            "bounds_updated": [
+                1003.0,
+                1400.0,
+                1307.0,
+                1433.3333333333333
+            ],
+            "text_updated": "Delta Air Lines",
+            "font_size": 9.094148173966921,
+            "id": "10986_25"
+        },
+        {
+            "iconClass": "navigation",
+            "ancestors": [
+                "com.android.volley.toolbox.NetworkImageView",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/airline_icon",
+            "clickable": false,
+            "class": "com.odigeo.dataodigeo.net.helper.CustomNetworkImageView",
+            "bounds": [
+                1327,
+                1380,
+                1397,
+                1450
+            ],
+            "componentLabel": "Icon",
+            "id": "10986_26"
+        },
+        {
+            "text": "Return",
+            "resource-id": "com.edreams.travel:id/text_header_section_resultWidget",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                60,
+                1380,
+                237,
+                1451
+            ],
+            "componentLabel": "Text",
+            "text_color": "#3E3C30",
+            "bounds_updated": [
+                65.33333333333333,
+                1397.3333333333333,
+                233.33333333333331,
+                1437.3333333333333
+            ],
+            "text_updated": "Return",
+            "font_size": 11.057850660499666,
+            "id": "10986_27"
+        },
+        {
+            "text": "Continue",
+            "resource-id": "com.edreams.travel:id/button_standard_accept",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                113,
+                1892,
+                1327,
+                2074
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "continue",
+            "bg_color": "#1E44D5",
+            "text_color": "#F4F3EF",
+            "bounds_text": [
+                578.3333333333333,
+                1962.6666666666667,
+                862.3333333333333,
+                2005.3333333333333
+            ],
+            "text_updated": "CONTINUE",
+            "font_size": 11.70889946004208,
+            "id": "10986_28"
+        },
+        {
+            "text": "1 stop",
+            "resource-id": "com.edreams.travel:id/type_flight_info",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                362,
+                1021,
+                503,
+                1087
+            ],
+            "componentLabel": "Text",
+            "text_color": "#959595",
+            "bounds_updated": [
+                366.0,
+                1037.0,
+                499.3333333333333,
+                1085.0
+            ],
+            "text_updated": "1 stop",
+            "font_size": 9.37741705256516,
+            "id": "10986_29"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/type_flight_icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                298,
+                1036,
+                351,
+                1071
+            ],
+            "componentLabel": "Image",
+            "id": "10986_30"
+        },
+        {
+            "text": "08h37'",
+            "resource-id": "com.edreams.travel:id/estimeted_time",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                117,
+                1021,
+                270,
+                1087
+            ],
+            "componentLabel": "Text",
+            "text_color": "#989898",
+            "bounds_updated": [
+                118.33333333333333,
+                1037.0,
+                266.3333333333333,
+                1073.0
+            ],
+            "text_updated": "08h37'",
+            "font_size": 9.467613308672888,
+            "id": "10986_31"
+        },
+        {
+            "iconClass": "time",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/clock_icon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                60,
+                1027,
+                106,
+                1080
+            ],
+            "componentLabel": "Icon",
+            "id": "10986_32"
+        },
+        {
+            "text": "Hand luggage only",
+            "resource-id": "com.edreams.travel:id/TvBaggageAllowanceText",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                113,
+                1164,
+                536,
+                1230
+            ],
+            "componentLabel": "Text",
+            "text_color": "#969696",
+            "bounds_updated": [
+                117.0,
+                1181.3333333333333,
+                535.6666666666666,
+                1228.0
+            ],
+            "text_updated": "Hand luggage only",
+            "font_size": 9.75886434931399,
+            "id": "10986_33"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/IvBaggageAllowanceIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                60,
+                1174,
+                106,
+                1220
+            ],
+            "componentLabel": "Image",
+            "id": "10986_34"
+        },
+        {
+            "text": "San Francisco Intl Airport (SFO) San Francisco",
+            "resource-id": "com.edreams.travel:id/arrival_place",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                284,
+                944,
+                1291,
+                1010
+            ],
+            "componentLabel": "Text",
+            "text_color": "#424238",
+            "bounds_updated": [
+                286.6666666666667,
+                961.3333333333334,
+                1268.0,
+                1008.0
+            ],
+            "text_updated": "San Francisco Intl Airport (SFO) San Franci...",
+            "font_size": 9.833185716704957,
+            "id": "10986_35"
+        },
+        {
+            "text": "06:07 PM",
+            "resource-id": "com.edreams.travel:id/arrival_hour",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                60,
+                944,
+                273,
+                1010
+            ],
+            "componentLabel": "Text",
+            "text_color": "#414139",
+            "bounds_updated": [
+                61.333333333333336,
+                961.3333333333334,
+                269.3333333333333,
+                996.0
+            ],
+            "text_updated": "06:07 PM",
+            "font_size": 9.94735948378333,
+            "id": "10986_36"
+        },
+        {
+            "text": "Stewart (SWF) Newburgh, NY",
+            "resource-id": "com.edreams.travel:id/departure_place",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                284,
+                878,
+                938,
+                944
+            ],
+            "componentLabel": "Text",
+            "text_color": "#414137",
+            "bounds_updated": [
+                286.6666666666667,
+                895.3333333333334,
+                937.3333333333333,
+                943.3333333333334
+            ],
+            "text_updated": "Stewart (SWF) Newburgh, NY",
+            "font_size": 9.865142097571066,
+            "id": "10986_37"
+        },
+        {
+            "text": "12:30 PM",
+            "resource-id": "com.edreams.travel:id/departure_hour",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                60,
+                878,
+                273,
+                944
+            ],
+            "componentLabel": "Text",
+            "text_color": "#414137",
+            "bounds_updated": [
+                64.0,
+                895.3333333333334,
+                269.3333333333333,
+                931.3333333333334
+            ],
+            "text_updated": "12:30 PM",
+            "font_size": 9.777275256196258,
+            "id": "10986_38"
+        },
+        {
+            "text": "Operated by: SKYWEST DBA DELTA CONNECTION",
+            "resource-id": "com.edreams.travel:id/operating_carrier",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                60,
+                1241,
+                1181,
+                1307
+            ],
+            "componentLabel": "Text",
+            "text_color": "#969696",
+            "bounds_updated": [
+                62.666666666666664,
+                1255.6666666666667,
+                1176.0,
+                1305.0
+            ],
+            "text_updated": "Operated by: SKYWEST DBA DELTA CONNECTION",
+            "font_size": 10.086701727825533,
+            "id": "10986_39"
+        },
+        {
+            "text": "Stops: Detroit (01h41')",
+            "resource-id": "com.edreams.travel:id/extra_linea1_resultswidget",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                60,
+                1087,
+                568,
+                1153
+            ],
+            "componentLabel": "Text",
+            "text_color": "#949494",
+            "bounds_updated": [
+                62.666666666666664,
+                1103.0,
+                566.6666666666666,
+                1151.0
+            ],
+            "text_updated": "Stops: Detroit (01h41')",
+            "font_size": 9.749699241972973,
+            "id": "10986_40"
+        },
+        {
+            "iconClass": "check",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/checkbox_resultswidget",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1309,
+                1048,
+                1397,
+                1136
+            ],
+            "componentLabel": "Icon",
+            "id": "10986_41"
+        },
+        {
+            "text": "Delta Air Lines",
+            "resource-id": "com.edreams.travel:id/airline_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                999,
+                739,
+                1309,
+                801
+            ],
+            "componentLabel": "Text",
+            "text_color": "#71706B",
+            "bounds_updated": [
+                1003.0,
+                755.0,
+                1307.0,
+                788.3333333333334
+            ],
+            "text_updated": "Delta Air Lines",
+            "font_size": 9.094148173966921,
+            "id": "10986_42"
+        },
+        {
+            "iconClass": "navigation",
+            "ancestors": [
+                "com.android.volley.toolbox.NetworkImageView",
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.edreams.travel:id/airline_icon",
+            "clickable": false,
+            "class": "com.odigeo.dataodigeo.net.helper.CustomNetworkImageView",
+            "bounds": [
+                1327,
+                735,
+                1397,
+                805
+            ],
+            "componentLabel": "Icon",
+            "id": "10986_43"
+        },
+        {
+            "text": "Departure",
+            "resource-id": "com.edreams.travel:id/text_header_section_resultWidget",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.odigeo.app.android.lib.ui.widgets.CustomTextView",
+            "bounds": [
+                60,
+                735,
+                326,
+                806
+            ],
+            "componentLabel": "Text",
+            "text_color": "#423E33",
+            "bounds_updated": [
+                65.33333333333333,
+                753.6666666666666,
+                324.0,
+                804.3333333333334
+            ],
+            "text_updated": "Departure",
+            "font_size": 11.090428176520895,
+            "id": "10986_44"
+        },
+        {
+            "text": "$ 678.22",
+            "resource-id": "com.edreams.travel:id/flights_price",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                60,
+                550,
+                337,
+                653
+            ],
+            "componentLabel": "Text",
+            "text_color": "#1B3BCA",
+            "bounds_updated": [
+                64.0,
+                574.0,
+                336.0,
+                636.6666666666666
+            ],
+            "text_updated": "$ 678.22",
+            "font_size": 12.589706964463492,
+            "id": "10986_45"
+        },
+        {
+            "text": "All taxes and fees included",
+            "resource-id": "com.edreams.travel:id/fullPriceSentence",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                856,
+                573,
+                1380,
+                630
+            ],
+            "componentLabel": "Text",
+            "text_color": "#4B8DCA",
+            "bounds_updated": [
+                856,
+                587.6666666666666,
+                1377.3333333333333,
+                618.3333333333334
+            ],
+            "text_updated": "All taxes and fees included",
+            "font_size": 8.2492348585318,
+            "id": "10986_46"
+        },
+        {
+            "text": "Details",
+            "resource-id": "com.edreams.travel:id/snackbar_action",
+            "ancestors": [
+                "android.widget.Button",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.widget.AppCompatButton",
+            "bounds": [
+                1090,
+                2224,
+                1398,
+                2392
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "info",
+            "bg_color": "#188CFB",
+            "text_color": "#002D96",
+            "bounds_text": [
+                1151.3333333333333,
+                2292.0,
+                1338.0,
+                2328.0
+            ],
+            "text_updated": "DETAILS",
+            "font_size": 10.102820176836547,
+            "id": "10986_47"
+        },
+        {
+            "text": "Clear prices, no surprises",
+            "resource-id": "com.edreams.travel:id/snackbar_text",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                42,
+                2226,
+                1090,
+                2390
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F0FFFF",
+            "bounds_updated": [
+                86.0,
+                2291.3333333333335,
+                630.0,
+                2336.6666666666665
+            ],
+            "text_updated": "Clear prices, no surprises",
+            "font_size": 9.386659741159159,
+            "id": "10986_48"
+        },
+        {
+            "iconClass": "sliders",
+            "resource-id": "com.edreams.travel:id/menu_item_goto_filters",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.support.v7.internal.view.menu.ActionMenuItemView",
+            "bounds": [
+                1272,
+                98,
+                1440,
+                266
+            ],
+            "componentLabel": "Icon",
+            "id": "10986_49"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "10986_50"
+        },
+        {
+            "text": "Results",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                210,
+                135,
+                444,
+                228
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F9FFFF",
+            "bounds_updated": [
+                214.0,
+                159.0,
+                440.66666666666663,
+                211.0
+            ],
+            "text_updated": "Results",
+            "font_size": 12.727604237889647,
+            "id": "10986_51"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                25,
+                507,
+                1415,
+                2392
+            ],
+            "class": "com.floatingexpandiblelistview.FloatingGroupExpandableListView",
+            "bg_color": "#FFFFFF",
+            "id": "10986_52",
+            "ui_comp_ids": [
+                "10986_7",
+                "10986_8",
+                "10986_9",
+                "10986_10",
+                "10986_11",
+                "10986_12",
+                "10986_13",
+                "10986_14",
+                "10986_15",
+                "10986_16",
+                "10986_17",
+                "10986_18",
+                "10986_19",
+                "10986_20",
+                "10986_21",
+                "10986_22",
+                "10986_23",
+                "10986_24",
+                "10986_25",
+                "10986_26",
+                "10986_27",
+                "10986_28",
+                "10986_29",
+                "10986_30",
+                "10986_31",
+                "10986_32",
+                "10986_33",
+                "10986_34",
+                "10986_35",
+                "10986_36",
+                "10986_37",
+                "10986_38",
+                "10986_39",
+                "10986_40",
+                "10986_41",
+                "10986_42",
+                "10986_43",
+                "10986_44",
+                "10986_45",
+                "10986_46",
+                "10986_47",
+                "10986_48"
+            ],
+            "ui_comp_group_ids": [
+                "10986_53",
+                "10986_54",
+                "10986_57",
+                "10986_58",
+                "10986_60"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                25,
+                1343,
+                1415,
+                2133
+            ],
+            "class": "com.odigeo.app.android.lib.ui.widgets.SegmentGroupWidget",
+            "bg_color": "#FFFFFF",
+            "id": "10986_53",
+            "ui_comp_ids": [
+                "10986_12",
+                "10986_13",
+                "10986_14",
+                "10986_15",
+                "10986_16",
+                "10986_17",
+                "10986_18",
+                "10986_19",
+                "10986_20",
+                "10986_21",
+                "10986_22",
+                "10986_23",
+                "10986_24",
+                "10986_25",
+                "10986_26",
+                "10986_27",
+                "10986_28"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                25,
+                698,
+                1415,
+                1344
+            ],
+            "class": "com.odigeo.app.android.lib.ui.widgets.SegmentGroupWidget",
+            "bg_color": "#FFFFFF",
+            "id": "10986_54",
+            "ui_comp_ids": [
+                "10986_29",
+                "10986_30",
+                "10986_31",
+                "10986_32",
+                "10986_33",
+                "10986_34",
+                "10986_35",
+                "10986_36",
+                "10986_37",
+                "10986_38",
+                "10986_39",
+                "10986_40",
+                "10986_41",
+                "10986_42",
+                "10986_43",
+                "10986_44"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                482
+            ],
+            "class": "com.odigeo.app.android.lib.ui.widgets.TopBriefWidget",
+            "bg_color": "#FFFFFF",
+            "id": "10986_55",
+            "ui_comp_ids": [
+                "10986_0",
+                "10986_1",
+                "10986_2",
+                "10986_3",
+                "10986_4",
+                "10986_5",
+                "10986_6"
+            ],
+            "ui_comp_group_ids": [
+                "10986_61",
+                "10986_62",
+                "10986_63",
+                "10986_64"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.internal.widget.ActionBarContainer",
+            "bg_color": "#1E44D5",
+            "id": "10986_56",
+            "ui_comp_ids": [
+                "10986_49",
+                "10986_50",
+                "10986_51"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                25,
+                507,
+                1415,
+                699
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "10986_57",
+            "ui_comp_ids": [
+                "10986_45",
+                "10986_46"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                25,
+                2132,
+                1415,
+                2324
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#188CFB",
+            "id": "10986_58",
+            "ui_comp_ids": [
+                "10986_10",
+                "10986_11"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2224,
+                1440,
+                2392
+            ],
+            "class": "android.support.design.widget.Snackbar$SnackbarLayout",
+            "bg_color": "#188CFB",
+            "id": "10986_59",
+            "ui_comp_ids": [
+                "10986_7",
+                "10986_8",
+                "10986_9",
+                "10986_47",
+                "10986_48"
+            ],
+            "ui_comp_group_ids": [
+                "10986_60"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                25,
+                2323,
+                1415,
+                2392
+            ],
+            "class": "com.odigeo.app.android.lib.ui.widgets.SegmentGroupWidget",
+            "bg_color": "#188CFB",
+            "id": "10986_60",
+            "ui_comp_ids": [
+                "10986_7",
+                "10986_8",
+                "10986_9"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                315,
+                711,
+                447
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "10986_61",
+            "ui_comp_ids": [
+                "10986_0",
+                "10986_1",
+                "10986_2",
+                "10986_3",
+                "10986_4",
+                "10986_5",
+                "10986_6"
+            ],
+            "ui_comp_group_ids": [
+                "10986_62",
+                "10986_63",
+                "10986_64"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                381,
+                711,
+                447
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "10986_62",
+            "ui_comp_ids": [
+                "10986_0",
+                "10986_1",
+                "10986_2",
+                "10986_3"
+            ],
+            "ui_comp_group_ids": [
+                "10986_64"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                315,
+                648,
+                381
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "10986_63",
+            "ui_comp_ids": [
+                "10986_4",
+                "10986_5",
+                "10986_6"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                35,
+                381,
+                589,
+                447
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "10986_64",
+            "ui_comp_ids": [
+                "10986_0",
+                "10986_1"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

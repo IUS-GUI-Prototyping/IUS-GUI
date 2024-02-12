@@ -1,0 +1,900 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "text": "SAN FRANCISCO, CA, 94103",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_citystatezip",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                25,
+                1946,
+                643,
+                2012
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                26.333333333333332,
+                1962.0,
+                639.6666666666666,
+                2004.6666666666667
+            ],
+            "text_updated": "SAN FRANCISCO, CA, 94103",
+            "font_size": 9.720874791583398,
+            "id": "12905_0"
+        },
+        {
+            "text": "1750 HARRISON STREET",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_address_line2",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                25,
+                1880,
+                572,
+                1946
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                29.0,
+                1897.3333333333333,
+                570.3333333333333,
+                1933.3333333333333
+            ],
+            "text_updated": "1750 HARRISON STREET",
+            "font_size": 9.797869750373696,
+            "id": "12905_1"
+        },
+        {
+            "text": "3.52 miles",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_mile",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1188,
+                1880,
+                1415,
+                2012
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                1190.6666666666667,
+                1929.3333333333333,
+                1413.3333333333333,
+                1965.3333333333333
+            ],
+            "text_updated": "3.52 miles",
+            "font_size": 9.419812114552716,
+            "id": "12905_2"
+        },
+        {
+            "text": "View Weekly Ads",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_weeklyads",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                443,
+                2234,
+                1415,
+                2336
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#0080C1",
+            "bounds_text": [
+                1040.3333333333333,
+                2250.0,
+                1413.6666666666665,
+                2296.6666666666665
+            ],
+            "text_updated": "View Weekly Ads",
+            "font_size": 9.722769659917896,
+            "id": "12905_3"
+        },
+        {
+            "text": "Set as My Store",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_setasmystore",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                43,
+                2234,
+                425,
+                2336
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#1C7CD3",
+            "text_color": "#EDFFFF",
+            "bounds_text": [
+                63.0,
+                2267.3333333333335,
+                407.0,
+                2314.0
+            ],
+            "text_updated": "Set as My Store",
+            "font_size": 9.69146260074953,
+            "id": "12905_4"
+        },
+        {
+            "text": "Store Hours: 08:00AM-09:00PM",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_storehours",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                25,
+                2132,
+                1415,
+                2198
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                26.333333333333332,
+                2148.0,
+                733.0,
+                2185.3333333333335
+            ],
+            "text_updated": "Store Hours: 08:00AM-09:00PM",
+            "font_size": 10.021783635317174,
+            "id": "12905_5"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_brand_logo",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                977,
+                2030,
+                1415,
+                2096
+            ],
+            "componentLabel": "Image",
+            "id": "12905_6"
+        },
+        {
+            "text": "(415) 252-7611",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_phone_contactinfo",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                25,
+                2030,
+                370,
+                2096
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#0486D4",
+            "bounds_text": [
+                27.666666666666668,
+                2044.6666666666667,
+                361.0,
+                2092.6666666666665
+            ],
+            "text_updated": "(415) 252-7611",
+            "font_size": 9.467422770353334,
+            "id": "12905_7"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_item_navigator",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1303,
+                1778,
+                1415,
+                1880
+            ],
+            "componentLabel": "Icon",
+            "id": "12905_8"
+        },
+        {
+            "text": "SAN FRANCISCO,Store #6368",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_address_line1",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                79,
+                1778,
+                755,
+                1880
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#1A81BB",
+            "bounds_text": [
+                99.0,
+                1811.3333333333333,
+                753.6666666666666,
+                1855.3333333333333
+            ],
+            "text_updated": "SAN FRANCISCO,Store #6368",
+            "font_size": 9.782017268498826,
+            "id": "12905_9"
+        },
+        {
+            "text": "2. ",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_item_position",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                25,
+                1778,
+                79,
+                1880
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                25,
+                1778,
+                79,
+                1880
+            ],
+            "text_updated": "2. ",
+            "font_size": 12,
+            "id": "12905_10"
+        },
+        {
+            "text": "SAN FRANCISCO, CA, 94118",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_citystatezip",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                25,
+                1298,
+                643,
+                1364
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                26.333333333333332,
+                1314.0,
+                639.6666666666666,
+                1356.6666666666667
+            ],
+            "text_updated": "SAN FRANCISCO, CA, 94118",
+            "font_size": 9.705509880957957,
+            "id": "12905_11"
+        },
+        {
+            "text": "3700 GEARY BOULEVARD",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_address_line2",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                25,
+                1232,
+                586,
+                1298
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                26.333333333333332,
+                1248.0,
+                583.6666666666666,
+                1285.3333333333333
+            ],
+            "text_updated": "3700 GEARY BOULEVARD",
+            "font_size": 9.769645279888184,
+            "id": "12905_12"
+        },
+        {
+            "text": "3.24 miles",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_mile",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1188,
+                1232,
+                1415,
+                1364
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                1190.6666666666667,
+                1281.3333333333333,
+                1413.3333333333333,
+                1317.3333333333333
+            ],
+            "text_updated": "3.24 miles",
+            "font_size": 9.419812114552716,
+            "id": "12905_13"
+        },
+        {
+            "text": "View Weekly Ads",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_weeklyads",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                443,
+                1586,
+                1415,
+                1688
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#097BB7",
+            "bounds_text": [
+                1040.3333333333333,
+                1602.0,
+                1413.6666666666665,
+                1647.3333333333333
+            ],
+            "text_updated": "View Weekly Ads",
+            "font_size": 9.722769659917896,
+            "id": "12905_14"
+        },
+        {
+            "text": "Set as My Store",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_setasmystore",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                43,
+                1586,
+                425,
+                1688
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#1C7CD3",
+            "text_color": "#F2FFFF",
+            "bounds_text": [
+                63.0,
+                1619.3333333333333,
+                407.0,
+                1666.0
+            ],
+            "text_updated": "Set as My Store",
+            "font_size": 9.69146260074953,
+            "id": "12905_15"
+        },
+        {
+            "text": "Store Hours: 08:00AM-09:00PM",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_storehours",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                25,
+                1484,
+                1415,
+                1550
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                26.333333333333332,
+                1500.0,
+                733.0,
+                1537.3333333333333
+            ],
+            "text_updated": "Store Hours: 08:00AM-09:00PM",
+            "font_size": 10.021783635317174,
+            "id": "12905_16"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_brand_logo",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                977,
+                1382,
+                1415,
+                1448
+            ],
+            "componentLabel": "Image",
+            "id": "12905_17"
+        },
+        {
+            "text": "(415) 831-1080",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_phone_contactinfo",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                25,
+                1382,
+                370,
+                1448
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#0C82BF",
+            "bounds_text": [
+                27.666666666666668,
+                1396.6666666666667,
+                367.66666666666663,
+                1446.0
+            ],
+            "text_updated": "(415) 831-1080",
+            "font_size": 9.639440765268585,
+            "id": "12905_18"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_item_navigator",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1303,
+                1130,
+                1415,
+                1232
+            ],
+            "componentLabel": "Icon",
+            "id": "12905_19"
+        },
+        {
+            "text": "SAN FRANCISCO,Store #6498",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_address_line1",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                79,
+                1130,
+                755,
+                1232
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#1A81BB",
+            "bounds_text": [
+                99.0,
+                1163.3333333333333,
+                753.6666666666666,
+                1208.6666666666667
+            ],
+            "text_updated": "SAN FRANCISCO,Store #6498",
+            "font_size": 9.789218101995303,
+            "id": "12905_20"
+        },
+        {
+            "text": "1. ",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_view_item_position",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                25,
+                1130,
+                79,
+                1232
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                25,
+                1130,
+                79,
+                1232
+            ],
+            "text_updated": "1. ",
+            "font_size": 12,
+            "id": "12905_21"
+        },
+        {
+            "text": "Find Stores",
+            "resource-id": "com.officedepot.mobile.ui:id/store_locator_find_stores",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1092,
+                934,
+                1412,
+                1061
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#1C7CD3",
+            "text_color": "#EEFFFF",
+            "bounds_text": [
+                1124.0,
+                980.6666666666666,
+                1382.6666666666665,
+                1019.3333333333334
+            ],
+            "text_updated": "Find Stores",
+            "font_size": 10.307510652497545,
+            "id": "12905_22"
+        },
+        {
+            "text": "",
+            "resource-id": "com.officedepot.mobile.ui:id/storelocator_location",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.EditText",
+            "bounds": [
+                28,
+                751,
+                1412,
+                878
+            ],
+            "componentLabel": "Input",
+            "bg_color": "#FFFFFF",
+            "text_color": "#7B7B7B",
+            "bounds_text": [
+                32.0,
+                752.3333333333334,
+                1408.0,
+                878
+            ],
+            "text_updated": "Example: New York, NY -or- '12345'",
+            "font_size": 14.20572582439208,
+            "id": "12905_23"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "text": "Enter a Zip code, or City and State",
+            "bounds": [
+                28,
+                624,
+                1412,
+                695
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                30.666666666666668,
+                642.6666666666666,
+                834.6666666666666,
+                692.0
+            ],
+            "text_updated": "Enter a Zip code, or City and State",
+            "font_size": 10.206436544283736,
+            "id": "12905_24"
+        },
+        {
+            "text": "Stores Near ",
+            "resource-id": "com.officedepot.mobile.ui:id/store_locator_stores_near_me_caption",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                0,
+                272,
+                1440,
+                431
+            ],
+            "componentLabel": "Text",
+            "text_color": "#000000",
+            "bounds_updated": [
+                30.666666666666664,
+                326.6666666666667,
+                436.0,
+                382.66666666666663
+            ],
+            "text_updated": "Stores Near",
+            "font_size": 13.446354716051003,
+            "id": "12905_25"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.officedepot.mobile.ui:id/store_locator_map_loader",
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "bounds": [
+                1244,
+                281,
+                1412,
+                421
+            ],
+            "componentLabel": "Image",
+            "id": "12905_26"
+        },
+        {
+            "text": "20 Stores",
+            "resource-id": "com.officedepot.mobile.ui:id/store_locator_store_results",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                0,
+                451,
+                1440,
+                592
+            ],
+            "componentLabel": "Text",
+            "text_color": "#AFAFAF",
+            "bounds_updated": [
+                29.333333333333332,
+                500.3333333333333,
+                297.3333333333333,
+                547.0
+            ],
+            "text_updated": "20 Stores",
+            "font_size": 11.987084445323045,
+            "id": "12905_27"
+        },
+        {
+            "iconClass": "cart",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.officedepot.mobile.ui:id/actionbar_cart_imageview",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1328,
+                120,
+                1440,
+                216
+            ],
+            "componentLabel": "Icon",
+            "id": "12905_28"
+        },
+        {
+            "text": "Store Results",
+            "resource-id": "android:id/action_bar_title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                197,
+                127,
+                551,
+                208
+            ],
+            "componentLabel": "Text",
+            "text_color": "#464646",
+            "bounds_updated": [
+                198.33333333333334,
+                148.33333333333334,
+                547.6666666666666,
+                192.33333333333331
+            ],
+            "text_updated": "Store Results",
+            "font_size": 11.458408445448047,
+            "id": "12905_29"
+        },
+        {
+            "iconClass": "search",
+            "resource-id": "com.officedepot.mobile.ui:id/action_search",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.android.internal.view.menu.ActionMenuItemView",
+            "bounds": [
+                1132,
+                84,
+                1328,
+                252
+            ],
+            "componentLabel": "Icon",
+            "id": "12905_30"
+        },
+        {
+            "iconClass": "menu",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/home",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                71,
+                112,
+                183,
+                224
+            ],
+            "componentLabel": "Icon",
+            "id": "12905_31"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                252,
+                1440,
+                1093
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12905_32",
+            "ui_comp_ids": [
+                "12905_22",
+                "12905_23",
+                "12905_24",
+                "12905_25",
+                "12905_26",
+                "12905_27"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1095,
+                1440,
+                1741
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12905_33",
+            "ui_comp_ids": [
+                "12905_11",
+                "12905_12",
+                "12905_13",
+                "12905_14",
+                "12905_15",
+                "12905_16",
+                "12905_17",
+                "12905_18",
+                "12905_19",
+                "12905_20",
+                "12905_21"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                1743,
+                1440,
+                2389
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "12905_34",
+            "ui_comp_ids": [
+                "12905_0",
+                "12905_1",
+                "12905_2",
+                "12905_3",
+                "12905_4",
+                "12905_5",
+                "12905_6",
+                "12905_7",
+                "12905_8",
+                "12905_9",
+                "12905_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "com.android.internal.widget.ActionBarContainer",
+            "bg_color": "#FFFFFF",
+            "id": "12905_35",
+            "ui_comp_ids": [
+                "12905_28",
+                "12905_29",
+                "12905_30",
+                "12905_31"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

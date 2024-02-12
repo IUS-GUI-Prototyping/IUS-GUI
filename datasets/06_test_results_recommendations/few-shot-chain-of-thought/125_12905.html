@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .container {
+      width: 80%;
+      margin: auto;
+      overflow: hidden;
+    }
+
+    .store-locator {
+      background-color: #FFF;
+      margin: 50px auto;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .store-locator h2 {
+      margin-bottom: 20px;
+    }
+
+    .store-locator input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border-radius: 4px;
+      border: 1px solid #AAA;
+    }
+
+    .store-locator input[type="submit"] {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      background-color: #5CB85C;
+      color: #FFF;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    .store-locator input[type="submit"]:hover {
+      background-color: #4CAE4C;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="store-locator">
+      <h2>Store Locator</h2>
+      <form>
+        <input type="text" placeholder="Enter your zip code">
+        <input type="submit" value="Find Stores">
+      </form>
+    </div>
+  </div>
+</body>
+</html>

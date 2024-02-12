@@ -1,0 +1,623 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.lowes.android:id/NIFimage",
+            "clickable": false,
+            "class": "com.lowes.android.view.NetworkImageView",
+            "bounds": [
+                53,
+                628,
+                263,
+                838
+            ],
+            "componentLabel": "Image",
+            "id": "3801_0"
+        },
+        {
+            "resource-id": "com.lowes.android:id/locationButton",
+            "ancestors": [
+                "android.widget.FrameLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.lowes.android.sdk.views.LocationButton",
+            "bounds": [
+                1081,
+                658,
+                1387,
+                807
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "map",
+            "bg_color": "#084B8F",
+            "text_color": "#ECEDF1",
+            "bounds_text": [
+                1081,
+                658,
+                1387,
+                807
+            ],
+            "text_updated": "map",
+            "font_size": 12,
+            "id": "3801_1"
+        },
+        {
+            "text": "Kreg Clamp",
+            "resource-id": "com.lowes.android:id/quick_list_item_product_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.lowes.android.sdk.views.StyledTextView",
+            "bounds": [
+                298,
+                695,
+                1046,
+                770
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#1C5F89",
+            "bounds_text": [
+                300.6666666666667,
+                716.3333333333334,
+                564.6666666666666,
+                761.6666666666666
+            ],
+            "text_updated": "Kreg Clamp",
+            "font_size": 9.264410105469729,
+            "id": "3801_2"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.lowes.android:id/NIFimage",
+            "clickable": false,
+            "class": "com.lowes.android.view.NetworkImageView",
+            "bounds": [
+                53,
+                323,
+                263,
+                533
+            ],
+            "componentLabel": "Image",
+            "id": "3801_3"
+        },
+        {
+            "resource-id": "com.lowes.android:id/locationButton",
+            "ancestors": [
+                "android.widget.FrameLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.lowes.android.sdk.views.LocationButton",
+            "bounds": [
+                1081,
+                354,
+                1387,
+                503
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "map",
+            "bg_color": "#084B8F",
+            "text_color": "#FFFBFF",
+            "bounds_text": [
+                1081,
+                354,
+                1387,
+                503
+            ],
+            "text_updated": "map",
+            "font_size": 12,
+            "id": "3801_4"
+        },
+        {
+            "text": "Filtrete (Common: 20-in x 25-in x 1-in; Actual: 19.6-in x 24.7-in x 0.8125-in) 2-Pack Micro Allergen Extra Reduction Electrostatic Pleated Air Filters",
+            "resource-id": "com.lowes.android:id/quick_list_item_product_name",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.lowes.android.sdk.views.StyledTextView",
+            "bounds": [
+                298,
+                273,
+                1046,
+                584
+            ],
+            "componentLabel": "Text Button",
+            "bg_color": "#FFFFFF",
+            "text_color": "#1A658C",
+            "bounds_text": [
+                298,
+                273.0,
+                1031.3333333333333,
+                569.0
+            ],
+            "text_updated": "x 1-in; Actual: 19.6-in x 24.7-in x\n0.8125-in) 2-Pack Micro Allergen\nExtra Reduction Electrostatic\nPleated Air Filters",
+            "font_size": 9.05988875135899,
+            "id": "3801_5"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.lowes.android:id/tabIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1254,
+                2226,
+                1338,
+                2310
+            ],
+            "componentLabel": "Image",
+            "id": "3801_6"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.lowes.android:id/tabIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                966,
+                2226,
+                1050,
+                2310
+            ],
+            "componentLabel": "Image",
+            "id": "3801_7"
+        },
+        {
+            "iconClass": "cart",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.lowes.android:id/tabIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                678,
+                2226,
+                762,
+                2310
+            ],
+            "componentLabel": "Icon",
+            "id": "3801_8"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.lowes.android:id/tabIcon",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                390,
+                2226,
+                474,
+                2310
+            ],
+            "componentLabel": "Image",
+            "id": "3801_9"
+        },
+        {
+            "text": "MyLowe's",
+            "resource-id": "com.lowes.android:id/tabTitle",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                1152,
+                2310,
+                1440,
+                2374
+            ],
+            "componentLabel": "Text",
+            "text_color": "#EDFFFF",
+            "bounds_updated": [
+                1205.3333333333333,
+                2331.3333333333335,
+                1386.6666666666667,
+                2371.3333333333335
+            ],
+            "text_updated": "MyLowe's",
+            "font_size": 6.4359843726496955,
+            "id": "3801_10"
+        },
+        {
+            "text": "Tools",
+            "resource-id": "com.lowes.android:id/tabTitle",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                864,
+                2310,
+                1152,
+                2374
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D8FFFF",
+            "bounds_updated": [
+                957.3333333333334,
+                2331.3333333333335,
+                1058.6666666666667,
+                2363.3333333333335
+            ],
+            "text_updated": "Tools",
+            "font_size": 7.805367954013947,
+            "id": "3801_11"
+        },
+        {
+            "text": "Cart",
+            "resource-id": "com.lowes.android:id/tabTitle",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                576,
+                2310,
+                864,
+                2374
+            ],
+            "componentLabel": "Text",
+            "text_color": "#E2FFFF",
+            "bounds_updated": [
+                682.6666666666666,
+                2331.3333333333335,
+                760.0,
+                2363.3333333333335
+            ],
+            "text_updated": "Cart",
+            "font_size": 5.981453180128662,
+            "id": "3801_12"
+        },
+        {
+            "text": "Shop",
+            "resource-id": "com.lowes.android:id/tabTitle",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                288,
+                2310,
+                576,
+                2374
+            ],
+            "componentLabel": "Text",
+            "text_color": "#F0FFFF",
+            "bounds_updated": [
+                384.0,
+                2331.3333333333335,
+                480.0,
+                2371.3333333333335
+            ],
+            "text_updated": "Shop",
+            "font_size": 6.81162619573213,
+            "id": "3801_13"
+        },
+        {
+            "resource-id": "com.lowes.android:id/menu_tab",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                0,
+                2190,
+                288,
+                2392
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "menu",
+            "bg_color": "#003D80",
+            "text_color": "#F1FFFF",
+            "bounds_text": [
+                93.33333333333333,
+                2331.3333333333335,
+                194.66666666666666,
+                2363.3333333333335
+            ],
+            "text_updated": "Menu",
+            "font_size": 6.138446294960628,
+            "id": "3801_14"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/home",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                22,
+                126,
+                244,
+                210
+            ],
+            "componentLabel": "Image",
+            "id": "3801_15"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "android:id/up",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                0,
+                146,
+                35,
+                190
+            ],
+            "componentLabel": "Image",
+            "id": "3801_16"
+        },
+        {
+            "text": "Recent Items",
+            "resource-id": "com.lowes.android:id/action_bar_title",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.lowes.android.sdk.views.StyledTextView",
+            "bounds": [
+                560,
+                121,
+                880,
+                214
+            ],
+            "componentLabel": "Text",
+            "text_color": "#E4FFFF",
+            "bounds_updated": [
+                581.3333333333334,
+                153.0,
+                861.3333333333333,
+                187.66666666666666
+            ],
+            "text_updated": "Recent Items",
+            "font_size": 8.384211079575337,
+            "id": "3801_17"
+        },
+        {
+            "ancestors": [
+                "android.widget.LinearLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "class": "android.widget.ActionMenuView",
+            "bounds": [
+                1206,
+                84,
+                1430,
+                252
+            ],
+            "clickable": false,
+            "componentLabel": "Pager Indicator",
+            "id": "3801_18"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                252,
+                1440,
+                2190
+            ],
+            "class": "android.widget.FrameLayout",
+            "bg_color": "#FFFFFF",
+            "id": "3801_19",
+            "ui_comp_ids": [
+                "3801_0",
+                "3801_1",
+                "3801_2",
+                "3801_3",
+                "3801_4",
+                "3801_5"
+            ],
+            "ui_comp_group_ids": [
+                "3801_20",
+                "3801_21"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                252,
+                1440,
+                605
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "3801_20",
+            "ui_comp_ids": [
+                "3801_3",
+                "3801_4",
+                "3801_5"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                0,
+                607,
+                1440,
+                859
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "3801_21",
+            "ui_comp_ids": [
+                "3801_0",
+                "3801_1",
+                "3801_2"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2190,
+                1440,
+                2392
+            ],
+            "class": "android.widget.TabWidget",
+            "bg_color": "#004890",
+            "id": "3801_22",
+            "ui_comp_ids": [
+                "3801_6",
+                "3801_7",
+                "3801_8",
+                "3801_9",
+                "3801_10",
+                "3801_11",
+                "3801_12",
+                "3801_13",
+                "3801_14"
+            ],
+            "ui_comp_group_ids": [
+                "3801_24",
+                "3801_25",
+                "3801_26",
+                "3801_27"
+            ]
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                252
+            ],
+            "class": "com.android.internal.widget.ActionBarContainer",
+            "bg_color": "#15B5E5",
+            "id": "3801_23",
+            "ui_comp_ids": [
+                "3801_15",
+                "3801_16",
+                "3801_17",
+                "3801_18"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                1152,
+                2190,
+                1440,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#003D80",
+            "id": "3801_24",
+            "ui_comp_ids": [
+                "3801_6",
+                "3801_10"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                864,
+                2190,
+                1152,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#15B5E5",
+            "id": "3801_25",
+            "ui_comp_ids": [
+                "3801_7",
+                "3801_11"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                576,
+                2190,
+                864,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#004890",
+            "id": "3801_26",
+            "ui_comp_ids": [
+                "3801_8",
+                "3801_12"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                288,
+                2190,
+                576,
+                2392
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#004890",
+            "id": "3801_27",
+            "ui_comp_ids": [
+                "3801_9",
+                "3801_13"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

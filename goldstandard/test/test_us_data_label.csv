@@ -1,0 +1,211 @@
+user_story,rico_id,comp_ids,label
+"As a frequent app user, I want to refresh the content within the home screen, ensuring I have the latest information and resources available to me.",12750,['26'],1
+As a user I want to quickly see how much time a receipe takes for each step to quickyl know how time I woudl need to invest,23369,"['12', '11', '10', '9', '8', '7', '6', '5']",0
+"As a parent of multiple children, I want to be able to enter the amount of children over or under the age of 12 I am traveling with, so the lower price for them is already included in the prices shown for my results.",16072,"['9', '8', '7', '6', '5', '4', '3', '2', '1', '0']",0
+"As a PRI user, I want to mark episodes as favorite so that I can watch them again later.",25008,"['11', '5', '0']",1
+As a user I want to be able to select a league of my choice so I can see the up to date football results,5474,"['60', '61']",1
+As a User I want to change the screen turn on setting so I can the text remains readable even when I dont though my phone for a long time,11264,"['1', '2']",1
+"As someone who wants to support first aid education, I want to see a donation button, so I can easily find out how to give money to first aid services that need it.",17686,['5'],1
+"As a user, I want to be able to quickly switch between the different functions of the app, such as exercises, workouts, logs and body statistics, so that I can optimise my time and have a comprehensive training experience.",9525,"['10', '9', '8', '7', '6']",0
+i want to have a menue button to alter existing shopping list in the preferred way.,10428,['3'],0
+"As a busy professional, I want to quickly check the store hours of my nearest store so that i can plan my visit according to my schedule",12905,"['16', '5']",1
+"As a fan of english, I want to use a share function so that I can show my friends words I like.",5526,['1'],1
+"As an investor, I want to save my calculations so that I can compare which investment is currently most profitable.",20595,['6'],0
+"As a user, I want to import text into the app so I can directly import known texts from different sources",11264,['0'],1
+"As a person looking for accommodation, I want to be able to choose the period of my stay, so that I can see the available options for that time-frame.",16072,"['16', '17']",0
+"As a recorder, I want to be able to finish my recording with one click, so I can react quickly.",759,['5'],1
+As a user I want to be able to mofidy a recipe to adjust it to my preferences and post it to the community,23369,['16'],1
+As a user I want to save photos of my runs to share with the community what I have seen,12329,['10'],1
+"As a fitness enthusiast, I want to receive notifications about my daily calorie statistics so that I can stay informed and motivated throughout the day",203,"['15', '16', '17']",0
+"As a user that is unable to watch games live, I want to be able to watch videos of goals, so I don't miss any highlights.",17004,"['11', '12', '9', '10', '7', '8', '13']",0
+"As a music listener, I want to be able to have control over the current song played so that I can stop an skip it whenever I want.",11888,"['2', '1', '0']",0
+"As a enduser, i want to have a field/ button where i can change the language of thi sapplication.",8162,"['8', '9']",0
+As a user I want to change the backgorund color to turn make the screen less stressfull for my eyes,570,"['5', '4']",1
+"As a frequent user of the app, I want to favorite recipes so that I can easily find them later for repeated use",37166,"['21', '5']",1
+As a user I want to save a run to rreviwe it later on and save the performance metrics,12329,['21'],1
+"As a user that is unable to watch games live, I want to see a list of goals and chances, including players and times, so I have an overview of the game.",17004,"['32', '29', '27', '26', '28', '31', '23', '21', '20', '22', '25', '17', '15', '14', '16', '19', '6', '3', '1', '0', '2', '5', '30', '24', '18']",1
+"As a travel app user, I want to be able to deny any data colleciton so that I can keep my privacy.",14616,"['7', '8', '1']",1
+"As a user interested in discussing music, I want to be able to see who is following this profile, so I can find people that share similar interests with me.",4158,['15'],0
+"As a recorder, I want to be able to pause my recording so that I can take a second to think about what I'm saying and not have to edit it later.",759,['4'],0
+"As a music listener, I want to have control over the current song beeing played, so that I can pause and skip it whenever I like to.",30889,"['13', '12', '11']",1
+"As a bank customer, I want to be able to contact my bank so that I can get adivsed by a representive of the bank.",24754,"['6', '7']",1
+"As someone who often makes typos, I want the app to provide word suggestions for mistyped words, so that I can write more accurately and efficiently",6989,"['14', '15', '16']",0
+As a user I want to have the opportunity to import my personal data so that it is even less time-consuming to enter my data.,16559,['17'],0
+"as a helath app user i want a button where i can insert my exact age, for better training quality",5253,"['5', '4']",1
+"as a user i want to be able to set the amount of body fat in three catgeories (low, medium, high) to tailor the trainings ?plan to my goals.",5253,"['3', '2', '1', '0']",0
+"As a travel app user, I want to be able to deny any search history saving so that nobody can track my last searches.",14616,"['0', '6', '5']",0
+"AS a enduser, i want to have a check box where i can enable and disable to recommendation of the 'Shopping Reminder'.",8162,"['2', '3']",1
+"As a user, I want to be able to purchase or find other stocks, so that I can expand my portfolio from within the application",9070,['39'],1
+"As a person looking for accommodation, I want to be able to specify the number of guests, so that the price is adjusted accordingly.",16072,"['7', '5', '2', '0']",0
+"As a programming student, I want to see an overview of the programming course so that I can plan my learning path.",303,"['11', '12', '10']",0
+"As a PRI user, I want to share episodes so that I can show them my friends and family.",25008,"['2', '7', '13']",1
+"As a student, I want to be able to se my downloaded videos, so that I can choose what to watch offline.",12750,['22'],0
+"As a travel app user, I want to be able to clear all personal data so that nobody can access my data.",14616,"['4', '14']",1
+i want an add button to create and add new shopping lists.,10428,['16'],1
+"As a buyer, I want a text and barcode search option so that I don't have to search through all the products and save time when shopping.",3801,['18'],1
+"As a  user, i want to auto dwonlaod  some new papers or magazins, so i have a  faster accsesability, but i want to be able to disabled this functionality",5472,"['22', '21', '20']",0
+As a shopper I want to be able to select if I have a coupon for the item so that I can use it for my next shopping and save some coins.,17943,"['3', '2']",1
+"As a cook, I want to access a video tutorial for the recipe so that I can follow along step by step and improve my cooking skills",37166,"['22', '23', '8', '24']",0
+"As a bargain hunter, I want to view weekly ads from my local store so that i can take advantage of the best deals and discounts",12905,"['14', '3']",1
+as a user i want to have a section/Button where i can be redirect to page to report problems,5472,"['12', '11']",0
+"As a commuter, I want to see the size of the files before I download them so that I ensure that I use my mobile data volume efficiently.",3558,"['10', '6', '1']",1
+"As a parent traveling with my family, I want to be able to search for multiple rooms at the same time, so I do not have to book a room for me and my partner and one for my children separately.",16072,"['14', '13', '12', '11', '10']",1
+"As a student learning english, I want to save words so that I can access a list of words I find interresting.",5526,['2'],1
+As a student I want to see the full day weather forecast so that I can decide if I go to the university by train or bike.,13964,['31'],1
+"As an athlete, I want to know the muscles that are targeted by a particular exercise so that I can tailor my training plan to my fitness goals.",9525,['2'],1
+"As a text writer, I want to alter the text formation so that the written text is formatted according to my needs",11264,"['3', '4', '9', '7', '8', '11', '5', '6', '10']",0
+As a User i want to see how much of the tutorials are left to estimate the progress already made,303,"['10', '7', '3', '0']",0
+"As a recipe app user, I want to know how many people a recipe serves so that I can adjust it to the amount I need.",7991,"['6', '5', '4']",1
+"As a researcher, I want to access multiple translations of the bible so that i can compare the language and interpret the text more deeply",27400,['18'],1
+"As a user, I want to be able to select the origin and destination of my travel, so that I can see what my travel options are on that route.",1106,"['4', '3', '2']",1
+"As a user, I want to be able to read a short summary of the episode so that I can listen only to the ones I want to learn more about and not waste time.",3558,"['13', '11', '7', '2']",0
+"As a tourist exploring Paris, I want to see the average rating for the selected location so that I can decide if it's worth visiting.",2209,['7'],1
+"As a recipe app user, I want to know how hard a recipe is to cook so that I can select recipes that I am capable of cooking.",7991,['10'],0
+"As a fan of this artist, I want to be able to start a 'radio' session based on this artist that will play music by this and similar artists, so I can find new music that I will probably like.",4158,['10'],0
+"As a user looking for new artists and music to listen to, I want to be able to see which other profiles this profile follows, so I can easily find music that I will probably enjoy.",4158,['16'],1
+"as a user of a helth app i want to ha a button to insert and track my weight, for better control over my progress",5253,"['10', '9', '8']",0
+"As a reader, I want to be able to filter the results, so that only the content relevant to me is displayed",27400,"['14', '13', '11']",0
+"AS a enduser, i want to have a dispaly option to see all the shoppinglist that i have created so far. ( so i have an overview over all the different shoppingtodos in need to make)",10428,['6'],0
+"As a bank customer, I want to apply for a loan so that I can pay for my unexpected expenses.",24754,"['8', '9']",1
+As a user I want to automatically add the ingrediens of a recipe to a shopping list to not having to type them in manually,23369,['3'],1
+"As a football fan, I want to see the videos of games I missed so that I dont have to miss any football highlights.",10641,['26'],1
+"As someone unfamilar with technology, I want to be able to use a setup wizard that guides me through the setup process, so I can get started without having to know the details of how the system works.",9478,['13'],1
+"As a football fan, I want to see / get reminded of what time the football games are on today so that I can watch them.",10641,"['13', '4']",1
+as a user i want a section at the button of the screen which song/ radio station is palying right now (skip and pasue optione included,14452,"['48', '45', '44', '47', '46']",0
+"As a travel app user, I want to be able to read the privacy policy so that I can decide for myself wether to trust the app.",14616,"['10', '9']",1
+"As a scientist, I want to change my location so that I can compare reporting in different countries.",25203,"['18', '19', '17']",1
+"As a reader of a certain magazine, I want to add the magazine to my favourites so that I can access the magazine quickly.",25203,"['1', '3', '5']",1
+"As a user seeking specific content, I want to search through the available material, so that I can quickly find what I'm interested in.",12750,['24'],1
+"As a user who is conscious about storage space, I want to see the file size before downloading it, so that I can decide which content to prioritize for download.",12750,"['18', '14']",1
+"As a health enthusiast, I want to be able to see the macros of my meals, so that I can become more aware of my consumption.",8336,"['19', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18']",0
+As a user I want to save all my personal information with one button click so that I don?t have much effort to contribute my data.,16559,['18'],1
+"As someone who needs a first aid certificate for my work, I want there to be a tab where I can take quizzes about first aid, so I can prepare for tests I need to pass to get my certificate.",17686,['12'],0
+"as user i want to have the total amount of shares and its values,  they should dispaly value and cost, daily changes, and the total amount of win and loss.",9070,"['6', '5', '4', '3', '2', '1', '0']",1
+As a user I want to be able to share a receipe outside of the app to share it with friends,7991,['13'],0
+"As a regular user of the App, I want to get update reminders when a new version is available on google play so that I can take advantage of the latest features and improvements",203,"['12', '13', '14']",0
+"As an organised consumer, I want to be able to categorise the items in my shopping list so that I can shop more efficiently and find the items in the store more quickly.",17943,"['13', '9', '8']",0
+"As an investor, I want to compare my calculations to past calculations so that I can see if my investment got more profitable over time.",20595,['7'],0
+"As a programming student, I want to have distinct learning modules so that I can select the right learning module for me.",303,"['9', '5', '2', '8', '7', '4', '3', '1', '0', '11', '12', '10']",0
+"As a user looking for deals, I want to see special offers and promotions prominently displayed so that I don't miss out on the best prices available.",1106,"['0', '1']",1
+"As a data-driven dieter, I want to mark my days as 'complete' so that my information can be accurately included in weekly and monthly analyses.",203,"['6', '7', '8']",0
+"As a tourist interrested in visiting a certain location, I want a 'remember' function so that I can be notified when there are deals for places I want to visit.",9715,"['16', '2']",0
+"AS a cosumer i wnat too have a progress button, that shows me how much i have already completed from my shopping list.",10428,['0'],1
+"As a user who likes to explore additional resources, I want easy access to more content, to broaden my knowledge base within the app",12750,"['4', '3', '2', '1', '0']",1
+as auser i also want a reload button to get the most current changes for all my shares,9070,['40'],1
+As a user I want to share my run to other social media plattforms to let my friends know how my workout went,12329,"['15', '13', '14', '12']",1
+"As a person with limited internet access, I want to download videos, so that I can view them anywhere and anytime.",12750,"['19', '15', '9', '5']",0
+"As a user looking for convenient services, I want to be able to set the dates for both when I want to leave and when I want to return, so that I can book both flights at the same time and don't have to search twice.",1990,"['8', '7']",1
+"As a travel app user, I want to be able to deny auto-save so that I can decide for myself wether to save my personal data in the first place.",14616,"['15', '16']",1
+"As a vacation planner, I want to easily switch between options for flights, busses, trains, and hotels, so that I can organize all aspects of my trip within a single app.",1106,"['10', '9', '8', '7']",1
+"As a user interested in the location, I want to access a corresponding website, so that I can access more comprehensive information.",2209,['11'],1
+"As a reader of a certain magazine, I want a search option so that I can access the Sources I am interrested in quickly.",25203,"['15', '16']",0
+"As a user looking for good deals, I want to see offers for trips, including their prices, so that I can find the best offers without having to do a lot of searching.",1990,"['21', '18', '10', '9']",0
+"As a student learning french, I want to be able to search for words both in english and french, so that I can learn new words more easily.",570,"['15', '16', '14']",0
+"As a music listener, I want to browse threw albums so that I can select and listen to albums I like.",11888,['27'],0
+"As a student, I want to be able to search for a topic, so that I can learn new things based on my interests.",12750,['24'],0
+As a User I want to know how much is in my shopping bag so I know how much money I have to spend later,8612,['6'],1
+"As a football fan, I want to know which clubs are playing so that I can watch matches that are interesting for me.",10641,"['12', '11', '9', '10', '3', '2', '0', '1']",1
+"As a buyer, I want to be able to move quickly between key functions via a navigation bar, so that I can buy the things I need easily and efficiently.",3801,"['14', '9', '8', '7', '6', '13', '12', '11', '10']",0
+"As someone who struggles with playing certain note lengths, I want to be able to set the beat subdivision, so that I can practice different types of rhythms.",12520,"['16', '15']",0
+"AS a user of a music and audioo app,i want cards with different genres where channels for radio sations are displayed. This card should conatin a see all button, to show all possibilitys if wanted.",14452,"['37', '36', '35', '34', '33', '32', '31', '30', '29', '28', '27', '26', '23', '25', '22', '21', '20', '19', '18', '17', '16', '15', '14', '13', '12', '11', '10', '7', '9', '6', '5', '4', '3', '2', '1', '0', '8', '24']",0
+"As a music listener, I want to browse threw playlists so that I can select and listen to pIaylists I like.",11888,['25'],1
+"As a user, I want to be able to choose the date of my travel, so that I can see the relevant travel options for my plans.",1106,['6'],0
+"As a PRI user, I want to comment episodes so that I can leave qualitative feedback.",25008,['17'],0
+"As a bank customer, I want to know where the closest location of my bank is so that I can get desired money and advise nearby.",24754,"['2', '3']",1
+"As a user trying to imporve my english skills, I want to be able to see what are the previous 'words of the day', so that I can make sure not to forget them.",5526,['7'],0
+"As a user with difficulty seeing, I want to easily adjust the font size so that I can read text without difficulty.",6989,"['9', '10']",1
+As a user I want to view an introduction of the page content so that I understand what I need to enter.,16559,"['20', '19']",0
+"AS a user of a music and audioo app, i want a section button where i can swistch to radio.",14452,['40'],1
+"As someone new to using bike computers, I want to be able to access a user guide, so I can quickly understand how everything works.",9478,"['15', '14']",0
+As a user I want to skip tutorials to save time when I already know speciffic topics,303,['6'],1
+As a shopper I want to have the oppurtunity to select if the item contains sales takes so that I have a clear picture of the price.,17943,"['5', '4']",0
+"As someone eating mostly packaged food, I want to be able to scan a product's barcode, so I don't have to enter its nutritional information myself.",22545,['29'],0
+"As a short-haul traveller, I would like to be able to travel with cabin baggage only so that I can save time at the baggage carousel and reduce travel costs.",10986,"['34', '33', '19', '18']",0
+As a User I want to track my run so I now how fast I was and how much i improved,12329,"['8', '7', '5', '6', '4', '3', '2', '1']",0
+"As a PRI user, I want to download episodes so that I can watch them offline.",25008,"['12', '6', '1']",0
+"As a footbal fan, I want to know which leagues are playing today so that I dont miss out on games from my favorite league.",10641,"['16', '15', '7', '6']",1
+"As a new resident in a city, i want to input my zip code and find the closest office depot so that i can establish where i can get my office supplies frem in my new city",12905,"['24', '23']",0
+"as a user of a fitenss app, i want  a field where i can track my height, to get better kontext for tarining recommendations",5253,"['13', '12', '11']",0
+As a User I want to change the UI Language to switch to a language I prefer,570,"['19', '18']",0
+"As a customer planing a vacation, I want to share my search results so that the people I travel with can see locations I find interresting.",9715,"['15', '1']",0
+a further functionality would be the enbalement of LTE for dwonloads.,5472,"['19', '18']",1
+As a german/american user I want to change the unit in kg/cm / lb/ft so that I understand which values I have to enter in my measured variables.,16559,"['15', '14', '16']",0
+"As a health-conscious eater, I want to see the nutritional information of the recipe so that I can choose meals that fit within my dietary goals",37166,"['20', '19', '18', '17']",1
+"As a user regularly reliant on mobile data, I want the flexibility to toggle image search on and off when using a 3G connection, enabling me to efficiently manage my data consumption.",6989,"['11', '12', '13']",1
+"As someone who wants to have control of my phone while using the app, I want to be able to disable the screen lock, so I can easily access other apps during usage.",9478,"['11', '10']",0
+"As a traveler browsing through multiple locations, I want to bookmark the location so that I can easily return to its information",2209,['8'],0
+"As a person on a weight loss program, I want to easily enter my daily weight and measurements so that I can track my progress towards my fitness goals.",19176,"['6', '7']",0
+"As a music listener, I want to browse threw songs so that I can select and listen to the songs I like.",11888,['28'],1
+"As a user who is not familiar with the area I'm in, I want to see the addresses of the nearest stores, so that I can navigate to them.",12905,"['12', '11', '1', '0']",0
+"As someone who wants the most accurate data possible, I want to be able to enter a product's nutritional info by hand, so I can be sure that my caloric intake is tracked as well as possible.",22545,['28'],0
+"As the recipient of a discount, I want to be able to enter my discount code before I begin searching for flights, so I can be sure the discount applies to the results that are shown to me during my search.",1990,['11'],1
+"As a fan of this artist, I want to be able to follow their profile, so I can find them again easily and see any new music they release.",4158,['11'],1
+"As a recipe app user, I want to see an image of the cooked recipe so that I have a references and impression while cooking it.",7991,['16'],1
+"As a music listener, I want to browse threw artist so that I can select and listen to the artist I like.",11888,['26'],1
+As a user I want to see a time estimation to know how much time I need to make this recipe,7991,"['8', '3', '2', '7', '1', '0']",0
+"As someone who cares about privacy, I want to be able to toggle which sensors are tracked and which aren't, so I have full control over my personal data.",9478,"['2', '1', '0']",1
+"As a mindful person, I want to download the podcast episodes so I can keep my smartphone in flight mode to avoid distractions, but still listen to the education.",3558,"['9', '5', '0']",0
+As a User I want to change the font size to make the text better reable,570,"['7', '6']",0
+"AS a enduser, i want to have a dispaly option at which time a reminder for 'shopping reminder' is set, i also want to have the option to changes this reminder to macth my personal preferneces.",8162,"['0', '1']",1
+"As someone wanting to play along with a song, I want to be able to tap along with it and automatically set the bpm, so I don't have to figure out the correct value myself.",12520,['6'],0
+as a sport fan i also want a refresh button to always get the most current changes,5481,['54'],0
+"As a user, I want to be able to see what accommodation options there are at my destination, so that I can plan my stay.",1106,['7'],1
+As a user I want to be able to adjust the portions numbers of a receipe to plan for different cooking volumes,23369,['4'],1
+"As a PRI user, I want to see all episodes of my favorite show so that I can choose one to see.",25008,['22'],0
+"As a dieter following a specific meal plan, I want to access a food list that aligns with my dietary guidelines so that I can make informed choices about what to eat.",19176,"['19', '20']",0
+"As someone who is interested in first aid for a specific type of emergency, I want there to be a categorized list of first aid techniques, so I can quickly find the one I am interested in.",17686,"['4', '3', '2', '1', '0']",0
+"As someone learning to play more advanced songs, I want to be able to set a time signature, so I can practice every kind of song.",12520,"['20', '19', '18', '17']",1
+"As someone who is not able to watch every match, I want to be able to quickly see a list of past matches, so I can get an overview of how my favourite team is doing.",15764,"['39', '29', '30', '31', '38', '37', '34', '32', '33', '36', '35', '28', '20', '27', '26', '23', '21', '22', '25', '24', '19', '11', '18', '17', '14', '12', '13', '16', '15']",0
+As a user i want to go back to shopping to buy additional items,8612,"['43', '12']",0
+"As a user, I want to be able to choose between different types of transport, so that I have better understanding of the options",1106,"['10', '9', '8']",0
+"As a user, I want to know which airline is operating the flight, so that I know what service and quality standards I can expect.",10986,"['42', '43', '25', '26']",0
+"As a health enthusiast, I want to be able to add meal options, so that I can choose what to cook for different meal-times.",8336,['29'],0
+"As a parent planning a family trip, I want to be able to enter the amount of adults and children I will be traveling with before I begin my search, so I can be sure there are enough seats for the entire group on each fligh that is shown to me.",1990,"['4', '2', '1', '0', '6', '5']",0
+"As a user that is unable to watch games live, I want to be able to see the current score, so I always know how games are currently going.",17004,['43'],1
+As a user I want to bookmark a view so I can go back to a specific league a like without havaing to press too much buttons,5474,['65'],1
+"As a music listener, I want to know the artist of the current song beeing played so that I can find the artist again in future.",30889,['0'],1
+"As a user, I want to be able to share or export my data, so that I can use it outside of the application",9070,['38'],0
+"As a  user, i want to auto archive some new papers or magazins, so my phone storage is managed in a better way, but i want to be able to disabled this functionality",5472,"['25', '24', '23']",0
+"As someone who rarely gets to see matches in person, I want to be able to see pictures of my favourite team, so I can feel more connected to them.",15764,['9'],1
+"As a person looking for accommodation, I want to be able to choose the place of stay, so that I can see the relevant options for that location.",16072,['18'],1
+"As a frequent user of text-to-speech services, I want the option to install a TTS engine so that i can listen to readings of texts.",6989,"['0', '1', '2']",0
+"AS a enduser, i want to have a dispaly option at which time a reminder for 'recipe of the day' is set, i also want to have the option to changes this reminder to macth my personal preferneces.",8162,"['4', '5']",1
+As a user I want to be able to search for results to find specific clubs or games of my choice with ease,5474,['63'],0
+As a user I want to go to checkout to purchase the items in my shopping bag,8612,"['7', '5']",1
+"As someone interested in only one sport, I want to be able to filter matches by sport, so that I only see those that I care about.",15764,"['0', '1', '2', '3', '4', '5', '6', '7', '8']",0
+"As a recipe app user, I want to know how long it takes to cook the recipe so that I can better plan my meals.",7991,"['3', '2', '1', '0', '8', '7']",0
+"As a Traveler unfamiliar with the location, I want to view multiple pictures of the location so that I can get a sense of what it looks like.",2209,"['5', '3', '2', '1', '0']",0
+"As a saver, I want to find round-trip flights from New York to San Francisco with all taxes and fees included in the displayed price so I can accurately budget my costs.",10986,"['46', '45']",0
+As a eventplanner I want to see the weather forecast for the next 7 days so that I can rearrange the location in time.,13964,['32'],0
+as a user i want to have section/ field where i can share this application with a friend,5472,"['16', '15']",1
+"As a newcomer to sport, I would like to see a full description and tips so that I can have quality training and gain in-depth knowledge quickly.",9525,['0'],1
+"As a fan of a specific team, I want to be able to follow teams so I can easily find them and see how they are performing.",15764,"['44', '43']",0
+"As a music listener, I want to download songs I like so that I can listen to them offline.",30889,['6'],0
+"AS a user of a music and audioo app, i want a section button where i can swistch to music.",14452,['39'],1
+"As someone struggling with more complicated time signatures, I want to be able to toggle a first beat accent, so I can more easily tell when a new bar begins.",12520,"['2', '1']",1
+"As a social media user, I want to connect the app with my facebook account so that i can share my progress and achievements with friends",203,"['0', '1', '2']",0
+"As a food enthusiast, I want to share recipes with friends and family so that I can inspire others with meal ideas",37166,['27'],0
+"As a user, I want to be able to sort my stocks based on different criteria, so that I can have a better overview based on my needs.",9070,"['34', '33', '32', '31']",0
+As a User I want to be able to turn on notifications so I get notified when new football results are available,5474,['66'],1
+"As a theology student, I want to search for specific terms so that I can find all instances and study the context in which they are used within the Bible.",27400,"['1', '2', '0']",1
+"As a user, I want to export text from the app so I can share it with other users",11264,['0'],1
+"As someone who does not enjoy many metronome sounds, I want to be able to select the sound from a number of packs, so I can find one that sounds pleasant to me.",12520,"['5', '4', '3']",1
+As a user I want to edit the location of the forecast so that the results are meaningful and helpful for me.,13964,['38'],0
+"As a european, I want to be able to customize the measurement units for distance and temperature, so their values are more easily interpretable to me.",9478,"['7', '6', '5', '4', '3']",1
+As a user I want to see a short description of a receipe to get the feeling how hard to cook it will be and how it will taste,7991,['11'],0
+as a user i want to have a add button to add newa amount of stocks and shares to my account,9070,['39'],1
+"AS a user of a fitness app i want a button where i can click male or female, so the recommendations can be tailored to ceratin preconditions",5253,"['7', '6']",1
+"As a traveler, I want easy access to a map view showing where the location is, so that i can easily navigate there from my current location",2209,['10'],1
+"As an unexperienced user, I want an explanation function so that I can understand the abbreviations.",20595,['10'],1
+As a User i want to ttake notes of my runs to remeber details later on,12329,"['17', '16', '18']",1
+"As someone interested in first aid, I want there to be a learning tab where I can learn about first aid for various situations, so I feel like I know what to do if someone around me needs help.",17686,['15'],0
+"As a user looking for new travel destinations, I want to see pictures of places, so I can easily find inspirations for my next trip.",1990,"['18', '21', '10', '9']",1
+"AS a enduser, i want to have a check box where i can enable and disable to recommendation of the 'recipe of the day'.",8162,"['6', '7']",1
+"As a user who has a specific meal in mind but doesn't know how to cook it, I want to be able to search for it by name or key ingredients so that I can find a detailed recipe and instructions that will guide me through the cooking process.",37166,['6'],1
+As a translator I want an easy copy function so that I don't have to select text manually.,21020,['7'],0
+As a user I want to remove items in my shopping bag if I changed my mind,8612,"['25', '18']",1
+"As someone with a small amount of free time, I want to be able to select from pre-created meals, so I don't have to spend a lot of time tracking my meals.",22545,['24'],0
+"As a recorder, I want clear visual feedback that the recording is running so I can be sure that my content is being recorded correctly.",759,"['6', '7', '8']",0
+As a user I want to be able to read through the ingrediens list to know which ingrediens I need to buy or have,23369,"['1', '2']",1
+"As a user, I want to see the total journey time for the outward and return flights so that I can make the most of my time at my destination.",10986,"['17', '16', '32', '31']",0
+As a user I want to enable suggestions so my words will get auto completed,570,"['11', '12', '13']",0

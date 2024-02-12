@@ -1,0 +1,1436 @@
+{
+    "bg_color": "#FFFFFF",
+    "ui_comps": [
+        {
+            "resource-id": "com.grofers.customerapp:id/promo_code_apply",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                961,
+                2000,
+                1440,
+                2224
+            ],
+            "componentLabel": "Text Button",
+            "textButtonClass": "login",
+            "bg_color": "#FFFFFF",
+            "text_color": "#323232",
+            "bounds_text": [
+                961,
+                2000,
+                1440,
+                2224
+            ],
+            "text_updated": "login",
+            "font_size": 12,
+            "id": "8612_0"
+        },
+        {
+            "text": "+ \u20b9128",
+            "resource-id": "com.grofers.customerapp:id/delivery_charges",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                646,
+                2099,
+                795,
+                2173
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D23759",
+            "bounds_updated": [
+                648.6666666666666,
+                2123.0,
+                792.6666666666666,
+                2157.6666666666665
+            ],
+            "text_updated": "+ %128",
+            "font_size": 5.642465865423922,
+            "id": "8612_1"
+        },
+        {
+            "text": "Delivery Charges",
+            "resource-id": "com.grofers.customerapp:id/delivery_charge_txt",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                560,
+                2051,
+                881,
+                2105
+            ],
+            "componentLabel": "Text",
+            "text_color": "#8F8F8F",
+            "bounds_updated": [
+                562.6666666666666,
+                2064.3333333333335,
+                880.0,
+                2105
+            ],
+            "text_updated": "Delivery Charges",
+            "font_size": 6.13965596234745,
+            "id": "8612_2"
+        },
+        {
+            "text": "\u20b9161",
+            "resource-id": "com.grofers.customerapp:id/sub_total",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                190,
+                2099,
+                288,
+                2173
+            ],
+            "componentLabel": "Text",
+            "text_color": "#383838",
+            "bounds_updated": [
+                192.66666666666666,
+                2117.6666666666665,
+                283.3333333333333,
+                2157.6666666666665
+            ],
+            "text_updated": "2161",
+            "font_size": 5.637524359378693,
+            "id": "8612_3"
+        },
+        {
+            "text": "Sub Total",
+            "resource-id": "com.grofers.customerapp:id/sub_total_title",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                149,
+                2051,
+                330,
+                2105
+            ],
+            "componentLabel": "Text",
+            "text_color": "#959595",
+            "bounds_updated": [
+                151.66666666666666,
+                2064.3333333333335,
+                327.66666666666663,
+                2093.6666666666665
+            ],
+            "text_updated": "Sub Total",
+            "font_size": 6.84841795437823,
+            "id": "8612_4"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "resource-id": "com.grofers.customerapp:id/checkout_cart_button",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "com.grofers.customerapp.customviews.IconTextView",
+            "bounds": [
+                1328,
+                2224,
+                1440,
+                2392
+            ],
+            "componentLabel": "Icon",
+            "id": "8612_5"
+        },
+        {
+            "text": "\u20b9289",
+            "resource-id": "com.grofers.customerapp:id/cart_checkout_price",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                1177,
+                2224,
+                1328,
+                2392
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFEDD2",
+            "bounds_updated": [
+                1179.6666666666667,
+                2290.6666666666665,
+                1283.6666666666667,
+                2328.0
+            ],
+            "text_updated": "2289",
+            "font_size": 7.745570838286108,
+            "id": "8612_6"
+        },
+        {
+            "text": "Login to Checkout",
+            "resource-id": "com.grofers.customerapp:id/checkout_btn_txt",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                63,
+                2224,
+                1177,
+                2392
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFE8C9",
+            "bounds_updated": [
+                65.66666666666667,
+                2290.6666666666665,
+                497.66666666666663,
+                2341.3333333333335
+            ],
+            "text_updated": "Login to Checkout",
+            "font_size": 10.034311721581773,
+            "id": "8612_7"
+        },
+        {
+            "text": "+ \u20b999",
+            "resource-id": "com.grofers.customerapp:id/merchant_delivery_charge",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                1260,
+                1747,
+                1356,
+                1801
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B64F50",
+            "bounds_updated": [
+                1262.6666666666667,
+                1765.6666666666667,
+                1356.0,
+                1789.6666666666667
+            ],
+            "text_updated": "+ 99",
+            "font_size": 6.94939958981105,
+            "id": "8612_8"
+        },
+        {
+            "text": "Delivery Charges",
+            "resource-id": "com.grofers.customerapp:id/delivery_charges_text",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                273,
+                1747,
+                1260,
+                1801
+            ],
+            "componentLabel": "Text",
+            "text_color": "#626262",
+            "bounds_updated": [
+                278.3333333333333,
+                1760.3333333333333,
+                593.0,
+                1801
+            ],
+            "text_updated": "Delivery Charges",
+            "font_size": 5.979081257226949,
+            "id": "8612_9"
+        },
+        {
+            "text": "\u20b967",
+            "resource-id": "com.grofers.customerapp:id/merchant_item_price",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewMediumFont",
+            "bounds": [
+                1279,
+                1667,
+                1356,
+                1733
+            ],
+            "componentLabel": "Text",
+            "text_color": "#383838",
+            "bounds_updated": [
+                1279,
+                1683.0,
+                1353.6666666666667,
+                1717.6666666666667
+            ],
+            "text_updated": "67",
+            "font_size": 12.324423761509918,
+            "id": "8612_10"
+        },
+        {
+            "text": "Sabzi 2 Home - Neb Sarai",
+            "resource-id": "com.grofers.customerapp:id/merchant_name",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewMediumFont",
+            "bounds": [
+                273,
+                1667,
+                1279,
+                1733
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2D2D2D",
+            "bounds_updated": [
+                275.6666666666667,
+                1683.0,
+                838.3333333333333,
+                1717.6666666666667
+            ],
+            "text_updated": "Sabzi 2 Home - Neb Sarai",
+            "font_size": 8.853144028952434,
+            "id": "8612_11"
+        },
+        {
+            "text": "Shop",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewMediumFont",
+            "bounds": [
+                1209,
+                1875,
+                1382,
+                1996
+            ],
+            "componentLabel": "Text",
+            "text_color": "#E05F35",
+            "bounds_updated": [
+                1241.0,
+                1917.6666666666667,
+                1353.0,
+                1965.6666666666667
+            ],
+            "text_updated": "Shop",
+            "font_size": 9.124251024913313,
+            "id": "8612_12"
+        },
+        {
+            "text": "away from free delivery",
+            "resource-id": "com.grofers.customerapp:id/free_delivery_message_part_2",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                185,
+                1862,
+                744,
+                1996
+            ],
+            "componentLabel": "Text",
+            "text_color": "#B93E5A",
+            "bounds_updated": [
+                187.66666666666666,
+                1928.6666666666667,
+                702.3333333333333,
+                1966.0
+            ],
+            "text_updated": "away from free delivery",
+            "font_size": 8.540481650556883,
+            "id": "8612_13"
+        },
+        {
+            "text": "\u20b9333 ",
+            "resource-id": "com.grofers.customerapp:id/free_delivery_message",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                30,
+                1862,
+                185,
+                1996
+            ],
+            "componentLabel": "Text",
+            "text_color": "#E52F46",
+            "bounds_updated": [
+                30,
+                1862,
+                185,
+                1996
+            ],
+            "text_updated": "\u20b9333 ",
+            "font_size": 12,
+            "id": "8612_14"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.grofers.customerapp:id/merchant_image",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                84,
+                1664,
+                224,
+                1804
+            ],
+            "componentLabel": "Image",
+            "id": "8612_15"
+        },
+        {
+            "text": "1",
+            "resource-id": "com.grofers.customerapp:id/quantity_count",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewLightFont",
+            "bounds": [
+                1122,
+                1419,
+                1227,
+                1524
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2E2E2E",
+            "bounds_updated": [
+                1122,
+                1419,
+                1227,
+                1524
+            ],
+            "text_updated": "1",
+            "font_size": 12,
+            "id": "8612_16"
+        },
+        {
+            "resource-id": "com.grofers.customerapp:id/add_to_cart",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                1227,
+                1419,
+                1409,
+                1577
+            ],
+            "componentLabel": "Text Button",
+            "text": "+",
+            "bg_color": "#FFFFFF",
+            "text_color": "#989898",
+            "bounds_text": [
+                1227,
+                1419,
+                1409,
+                1577
+            ],
+            "text_updated": "+",
+            "font_size": 12,
+            "id": "8612_17"
+        },
+        {
+            "resource-id": "com.grofers.customerapp:id/remove_from_cart",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                940,
+                1419,
+                1122,
+                1577
+            ],
+            "componentLabel": "Text Button",
+            "text": "-",
+            "bg_color": "#FFFFFF",
+            "text_color": "#9E9E9E",
+            "bounds_text": [
+                940,
+                1419,
+                1122,
+                1577
+            ],
+            "text_updated": "-",
+            "font_size": 12,
+            "id": "8612_18"
+        },
+        {
+            "text": "\u20b940",
+            "resource-id": "com.grofers.customerapp:id/product_price",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                311,
+                1391,
+                385,
+                1496
+            ],
+            "componentLabel": "Text",
+            "text_color": "#393939",
+            "bounds_updated": [
+                311,
+                1391,
+                385,
+                1496
+            ],
+            "text_updated": "\u20b940",
+            "font_size": 12,
+            "id": "8612_19"
+        },
+        {
+            "text": "100 gm+68 gm",
+            "resource-id": "com.grofers.customerapp:id/units",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewLightFont",
+            "bounds": [
+                311,
+                1338,
+                586,
+                1391
+            ],
+            "componentLabel": "Text",
+            "text_color": "#898989",
+            "bounds_updated": [
+                311,
+                1338,
+                586,
+                1391
+            ],
+            "text_updated": "100 gm+68 gm",
+            "font_size": 12,
+            "id": "8612_20"
+        },
+        {
+            "text": "Kurkure Masala Munch + Puffcorn Yummy Cheese Crisps Combo",
+            "resource-id": "com.grofers.customerapp:id/product_name",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                311,
+                1131,
+                976,
+                1324
+            ],
+            "componentLabel": "Text",
+            "text_color": "#292929",
+            "bounds_updated": [
+                311,
+                1165.6666666666667,
+                943.0,
+                1312.3333333333333
+            ],
+            "text_updated": "Kurkure Masala Munch +\nPuffcorn Yummy Cheese Crisps\nCombo",
+            "font_size": 7.703011335587411,
+            "id": "8612_21"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.grofers.customerapp:id/product_image",
+            "clickable": false,
+            "class": "com.grofers.clade.CladeImageView",
+            "bounds": [
+                31,
+                1131,
+                311,
+                1411
+            ],
+            "componentLabel": "Image",
+            "id": "8612_22"
+        },
+        {
+            "text": "1",
+            "resource-id": "com.grofers.customerapp:id/quantity_count",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewLightFont",
+            "bounds": [
+                1122,
+                928,
+                1227,
+                1033
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2C2C2C",
+            "bounds_updated": [
+                1122,
+                928,
+                1227,
+                1033
+            ],
+            "text_updated": "1",
+            "font_size": 12,
+            "id": "8612_23"
+        },
+        {
+            "resource-id": "com.grofers.customerapp:id/add_to_cart",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                1227,
+                928,
+                1409,
+                1086
+            ],
+            "componentLabel": "Text Button",
+            "text": "+",
+            "bg_color": "#FFFFFF",
+            "text_color": "#8F8F8F",
+            "bounds_text": [
+                1227,
+                928,
+                1409,
+                1086
+            ],
+            "text_updated": "+",
+            "font_size": 12,
+            "id": "8612_24"
+        },
+        {
+            "resource-id": "com.grofers.customerapp:id/remove_from_cart",
+            "ancestors": [
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": true,
+            "class": "android.widget.LinearLayout",
+            "bounds": [
+                940,
+                928,
+                1122,
+                1086
+            ],
+            "componentLabel": "Text Button",
+            "text": "-",
+            "bg_color": "#FFFFFF",
+            "text_color": "#9D9D9D",
+            "bounds_text": [
+                940,
+                928,
+                1122,
+                1086
+            ],
+            "text_updated": "-",
+            "font_size": 12,
+            "id": "8612_25"
+        },
+        {
+            "text": "\u20b954",
+            "resource-id": "com.grofers.customerapp:id/product_price",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                413,
+                900,
+                483,
+                1005
+            ],
+            "componentLabel": "Text",
+            "text_color": "#333333",
+            "bounds_updated": [
+                413,
+                900,
+                483,
+                1005
+            ],
+            "text_updated": "\u20b954",
+            "font_size": 12,
+            "id": "8612_26"
+        },
+        {
+            "text": "\u20b960",
+            "resource-id": "com.grofers.customerapp:id/product_mrp",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                311,
+                900,
+                413,
+                1005
+            ],
+            "componentLabel": "Text",
+            "text_color": "#8F8F8F",
+            "bounds_updated": [
+                311,
+                900,
+                413,
+                1005
+            ],
+            "text_updated": "\u20b960",
+            "font_size": 12,
+            "id": "8612_27"
+        },
+        {
+            "text": "2x58 gm",
+            "resource-id": "com.grofers.customerapp:id/units",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewLightFont",
+            "bounds": [
+                311,
+                847,
+                468,
+                900
+            ],
+            "componentLabel": "Text",
+            "text_color": "#7F7F7F",
+            "bounds_updated": [
+                311,
+                857.6666666666666,
+                463.0,
+                897.6666666666666
+            ],
+            "text_updated": "2x58 gm",
+            "font_size": 4.851980945741827,
+            "id": "8612_28"
+        },
+        {
+            "text": "Lay's Maxx Macho Chilli Chips",
+            "resource-id": "com.grofers.customerapp:id/product_name",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                311,
+                754,
+                976,
+                833
+            ],
+            "componentLabel": "Text",
+            "text_color": "#323232",
+            "bounds_updated": [
+                313.6666666666667,
+                788.6666666666666,
+                929.6666666666666,
+                833
+            ],
+            "text_updated": "Lay's Maxx Macho Chilli Chips",
+            "font_size": 7.831283506780188,
+            "id": "8612_29"
+        },
+        {
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.grofers.customerapp:id/product_image",
+            "clickable": false,
+            "class": "com.grofers.clade.CladeImageView",
+            "bounds": [
+                31,
+                754,
+                311,
+                1034
+            ],
+            "componentLabel": "Image",
+            "id": "8612_30"
+        },
+        {
+            "text": "+ \u20b929",
+            "resource-id": "com.grofers.customerapp:id/merchant_delivery_charge",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                1262,
+                447,
+                1356,
+                501
+            ],
+            "componentLabel": "Text",
+            "text_color": "#A65363",
+            "bounds_updated": [
+                1264.6666666666667,
+                463.0,
+                1355.3333333333333,
+                487.0
+            ],
+            "text_updated": "+ F29",
+            "font_size": 2.5777438161543937,
+            "id": "8612_31"
+        },
+        {
+            "text": "Delivery Charges",
+            "resource-id": "com.grofers.customerapp:id/delivery_charges_text",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                273,
+                447,
+                1262,
+                501
+            ],
+            "componentLabel": "Text",
+            "text_color": "#595959",
+            "bounds_updated": [
+                278.3333333333333,
+                457.6666666666667,
+                593.0,
+                497.6666666666667
+            ],
+            "text_updated": "Delivery Charges",
+            "font_size": 5.979081257226949,
+            "id": "8612_32"
+        },
+        {
+            "text": "\u20b994",
+            "resource-id": "com.grofers.customerapp:id/merchant_item_price",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewMediumFont",
+            "bounds": [
+                1278,
+                367,
+                1356,
+                433
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2A2A2A",
+            "bounds_updated": [
+                1280.6666666666667,
+                383.0,
+                1355.3333333333333,
+                415.0
+            ],
+            "text_updated": "294",
+            "font_size": 7.286485160657377,
+            "id": "8612_33"
+        },
+        {
+            "text": "Super Store - Lado Sarai",
+            "resource-id": "com.grofers.customerapp:id/merchant_name",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewMediumFont",
+            "bounds": [
+                273,
+                367,
+                1278,
+                433
+            ],
+            "componentLabel": "Text",
+            "text_color": "#2F2F2F",
+            "bounds_updated": [
+                275.6666666666667,
+                380.3333333333333,
+                819.6666666666666,
+                428.3333333333333
+            ],
+            "text_updated": "Super Store - Lado Sarai",
+            "font_size": 9.049430809851543,
+            "id": "8612_34"
+        },
+        {
+            "text": "Shop",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewMediumFont",
+            "bounds": [
+                1209,
+                575,
+                1382,
+                697
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C05F4C",
+            "bounds_updated": [
+                1241.0,
+                617.6666666666666,
+                1353.0,
+                663.0
+            ],
+            "text_updated": "Shop",
+            "font_size": 9.124251024913313,
+            "id": "8612_35"
+        },
+        {
+            "text": "away from free delivery",
+            "resource-id": "com.grofers.customerapp:id/free_delivery_message_part_2",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                191,
+                562,
+                750,
+                710
+            ],
+            "componentLabel": "Text",
+            "text_color": "#AE5163",
+            "bounds_updated": [
+                191,
+                628.6666666666666,
+                705.6666666666666,
+                663.3333333333334
+            ],
+            "text_updated": "away from free delivery",
+            "font_size": 8.512350291900379,
+            "id": "8612_36"
+        },
+        {
+            "text": "\u20b9406 ",
+            "resource-id": "com.grofers.customerapp:id/free_delivery_message",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                30,
+                562,
+                191,
+                710
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D13E48",
+            "bounds_updated": [
+                30,
+                562,
+                191,
+                710
+            ],
+            "text_updated": "\u20b9406 ",
+            "font_size": 12,
+            "id": "8612_37"
+        },
+        {
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.grofers.customerapp:id/merchant_image",
+            "clickable": false,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                84,
+                364,
+                224,
+                504
+            ],
+            "componentLabel": "Image",
+            "id": "8612_38"
+        },
+        {
+            "text": "3 Items",
+            "resource-id": "com.grofers.customerapp:id/item_count",
+            "ancestors": [
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.support.v7.widget.AppCompatTextView",
+            "bounds": [
+                412,
+                195,
+                530,
+                242
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C6CBCE",
+            "bounds_updated": [
+                414.6666666666667,
+                208.33333333333334,
+                529.3333333333334,
+                232.33333333333331
+            ],
+            "text_updated": "3 Items",
+            "font_size": 2.6167258534088553,
+            "id": "8612_39"
+        },
+        {
+            "text": "E",
+            "resource-id": "com.grofers.customerapp:id/separator_icon",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.IconTextView",
+            "bounds": [
+                331,
+                207,
+                412,
+                232
+            ],
+            "componentLabel": "Text",
+            "text_color": "#D0D5D8",
+            "bounds_updated": [
+                331,
+                207,
+                412,
+                232
+            ],
+            "text_updated": "E",
+            "font_size": 12,
+            "id": "8612_40"
+        },
+        {
+            "text": "2 Stores",
+            "resource-id": "com.grofers.customerapp:id/store_count",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                196,
+                194,
+                331,
+                243
+            ],
+            "componentLabel": "Text",
+            "text_color": "#C7CCCF",
+            "bounds_updated": [
+                196,
+                204.66666666666666,
+                329.3333333333333,
+                231.33333333333331
+            ],
+            "text_updated": "2 Stores",
+            "font_size": 3.720011950405862,
+            "id": "8612_41"
+        },
+        {
+            "text": "My Cart",
+            "resource-id": "com.grofers.customerapp:id/tv_title_activity_cart",
+            "ancestors": [
+                "android.support.v7.widget.AppCompatTextView",
+                "android.widget.TextView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "com.grofers.customerapp.customviews.TextViewRegularFont",
+            "bounds": [
+                196,
+                120,
+                405,
+                194
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FBFFFF",
+            "bounds_updated": [
+                198.66666666666666,
+                138.66666666666666,
+                401.3333333333333,
+                192.0
+            ],
+            "text_updated": "My Cart",
+            "font_size": 11.038147435270094,
+            "id": "8612_42"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.widget.ImageView",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                84,
+                196,
+                280
+            ],
+            "clickable": true,
+            "class": "android.widget.ImageButton",
+            "componentLabel": "Icon",
+            "id": "8612_43"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                280,
+                1440,
+                1996
+            ],
+            "class": "android.support.v7.widget.RecyclerView",
+            "bg_color": "#FFFFFF",
+            "id": "8612_44",
+            "ui_comp_ids": [
+                "8612_8",
+                "8612_9",
+                "8612_10",
+                "8612_11",
+                "8612_12",
+                "8612_13",
+                "8612_14",
+                "8612_15",
+                "8612_16",
+                "8612_17",
+                "8612_18",
+                "8612_19",
+                "8612_20",
+                "8612_21",
+                "8612_22",
+                "8612_23",
+                "8612_24",
+                "8612_25",
+                "8612_26",
+                "8612_27",
+                "8612_28",
+                "8612_29",
+                "8612_30",
+                "8612_31",
+                "8612_32",
+                "8612_33",
+                "8612_34",
+                "8612_35",
+                "8612_36",
+                "8612_37",
+                "8612_38"
+            ],
+            "ui_comp_group_ids": [
+                "8612_45",
+                "8612_46",
+                "8612_47",
+                "8612_48"
+            ]
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                28,
+                1089,
+                1412,
+                1580
+            ],
+            "class": "android.support.constraint.ConstraintLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8612_45",
+            "ui_comp_ids": [
+                "8612_16",
+                "8612_17",
+                "8612_18",
+                "8612_19",
+                "8612_20",
+                "8612_21",
+                "8612_22"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                28,
+                308,
+                1412,
+                712
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8612_46",
+            "ui_comp_ids": [
+                "8612_31",
+                "8612_32",
+                "8612_33",
+                "8612_34",
+                "8612_35",
+                "8612_36",
+                "8612_37",
+                "8612_38"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                28,
+                1608,
+                1412,
+                1996
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8612_47",
+            "ui_comp_ids": [
+                "8612_8",
+                "8612_9",
+                "8612_10",
+                "8612_11",
+                "8612_12",
+                "8612_13",
+                "8612_14",
+                "8612_15"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "List Item",
+            "bounds": [
+                28,
+                712,
+                1412,
+                1089
+            ],
+            "class": "android.support.constraint.ConstraintLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8612_48",
+            "ui_comp_ids": [
+                "8612_23",
+                "8612_24",
+                "8612_25",
+                "8612_26",
+                "8612_27",
+                "8612_28",
+                "8612_29",
+                "8612_30"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                1996,
+                1440,
+                2224
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8612_49",
+            "ui_comp_ids": [
+                "8612_0",
+                "8612_1",
+                "8612_2",
+                "8612_3",
+                "8612_4"
+            ],
+            "ui_comp_group_ids": [
+                "8612_50"
+            ]
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2000,
+                1440,
+                2224
+            ],
+            "class": "android.widget.LinearLayout",
+            "bg_color": "#FFFFFF",
+            "id": "8612_50",
+            "ui_comp_ids": [
+                "8612_0",
+                "8612_1",
+                "8612_2",
+                "8612_3",
+                "8612_4"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                280
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#1C2124",
+            "id": "8612_51",
+            "ui_comp_ids": [
+                "8612_39",
+                "8612_40",
+                "8612_41",
+                "8612_42",
+                "8612_43"
+            ],
+            "ui_comp_group_ids": []
+        },
+        {
+            "componentLabel": "Layout",
+            "bounds": [
+                0,
+                2224,
+                1440,
+                2392
+            ],
+            "class": "android.widget.RelativeLayout",
+            "bg_color": "#E96125",
+            "id": "8612_52",
+            "ui_comp_ids": [
+                "8612_5",
+                "8612_6",
+                "8612_7"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

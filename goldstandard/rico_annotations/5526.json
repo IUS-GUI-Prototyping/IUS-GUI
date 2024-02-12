@@ -1,0 +1,239 @@
+{
+    "bg_color": "#DD5A12",
+    "ui_comps": [
+        {
+            "ancestors": [
+                "android.webkit.WebView",
+                "android.widget.AbsoluteLayout",
+                "android.view.ViewGroup",
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "bounds": [
+                0,
+                2217,
+                1440,
+                2392
+            ],
+            "clickable": true,
+            "class": "com.google.android.gms.ads.internal.webview.o",
+            "componentLabel": "Web View",
+            "id": "5526_0"
+        },
+        {
+            "iconClass": "share",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.mobisystems.msdict.embedded.wireless.oxford.azgrammarandpunctuation:id/icon_share",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1282,
+                488,
+                1422,
+                596
+            ],
+            "componentLabel": "Icon",
+            "id": "5526_1"
+        },
+        {
+            "iconClass": "star",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.mobisystems.msdict.embedded.wireless.oxford.azgrammarandpunctuation:id/icon_favorite",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1142,
+                488,
+                1282,
+                596
+            ],
+            "componentLabel": "Icon",
+            "id": "5526_2"
+        },
+        {
+            "iconClass": "close",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.mobisystems.msdict.embedded.wireless.oxford.azgrammarandpunctuation:id/icon_close",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                1316,
+                102,
+                1422,
+                232
+            ],
+            "componentLabel": "Icon",
+            "id": "5526_3"
+        },
+        {
+            "text": "ought",
+            "resource-id": "com.mobisystems.msdict.embedded.wireless.oxford.azgrammarandpunctuation:id/title",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                18,
+                488,
+                1002,
+                596
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FDFEF9",
+            "bounds_updated": [
+                20.666666666666668,
+                530.6666666666666,
+                219.33333333333331,
+                590.6666666666666
+            ],
+            "text_updated": "ought",
+            "font_size": 13.397450830310474,
+            "id": "5526_4"
+        },
+        {
+            "iconClass": "arrow_forward",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.mobisystems.msdict.embedded.wireless.oxford.azgrammarandpunctuation:id/icon_right",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                954,
+                307,
+                1060,
+                413
+            ],
+            "componentLabel": "Icon",
+            "id": "5526_5"
+        },
+        {
+            "text": "21 April 2017",
+            "resource-id": "com.mobisystems.msdict.embedded.wireless.oxford.azgrammarandpunctuation:id/date",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                485,
+                306,
+                954,
+                414
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFE9D3",
+            "bounds_updated": [
+                489.0,
+                332.6666666666667,
+                950.3333333333333,
+                408.66666666666663
+            ],
+            "text_updated": "21 April 2017",
+            "font_size": 13.380356552843658,
+            "id": "5526_6"
+        },
+        {
+            "iconClass": "arrow_backward",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.mobisystems.msdict.embedded.wireless.oxford.azgrammarandpunctuation:id/icon_left",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                379,
+                307,
+                485,
+                413
+            ],
+            "componentLabel": "Icon",
+            "id": "5526_7"
+        },
+        {
+            "text": "WORD OF THE DAY",
+            "resource-id": "com.mobisystems.msdict.embedded.wireless.oxford.azgrammarandpunctuation:id/heading",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "clickable": false,
+            "class": "android.widget.TextView",
+            "bounds": [
+                124,
+                102,
+                1316,
+                232
+            ],
+            "componentLabel": "Text",
+            "text_color": "#FFFAF1",
+            "bounds_updated": [
+                306.66666666666663,
+                136.66666666666666,
+                1134.6666666666665,
+                207.33333333333331
+            ],
+            "text_updated": "WORD OF THE DAY",
+            "font_size": 14.807207629935341,
+            "id": "5526_8"
+        },
+        {
+            "iconClass": "info",
+            "ancestors": [
+                "android.view.View",
+                "java.lang.Object"
+            ],
+            "resource-id": "com.mobisystems.msdict.embedded.wireless.oxford.azgrammarandpunctuation:id/icon_info",
+            "clickable": true,
+            "class": "android.widget.ImageView",
+            "bounds": [
+                18,
+                102,
+                124,
+                232
+            ],
+            "componentLabel": "Icon",
+            "id": "5526_9"
+        }
+    ],
+    "ui_comp_groups": [
+        {
+            "componentLabel": "Toolbar",
+            "bounds": [
+                0,
+                84,
+                1440,
+                688
+            ],
+            "class": "android.support.v7.widget.Toolbar",
+            "bg_color": "#DD5A12",
+            "id": "5526_10",
+            "ui_comp_ids": [
+                "5526_1",
+                "5526_2",
+                "5526_3",
+                "5526_4",
+                "5526_5",
+                "5526_6",
+                "5526_7",
+                "5526_8",
+                "5526_9"
+            ],
+            "ui_comp_group_ids": []
+        }
+    ]
+}

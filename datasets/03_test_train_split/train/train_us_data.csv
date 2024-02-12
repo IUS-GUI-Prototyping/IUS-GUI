@@ -1,0 +1,22 @@
+user_story,rico_id,comp_ids
+"As a student, I want to access the lesson again so that I can see what mistakes I made.",3218,"['8', '9']"
+"As a student, I want to select the next lesson so that I can continue learning.",3218,"['6', '7']"
+"As a veterinarian, I want to follow different dogs so that I can see if they show signs of illness.",3716,['25']
+"i want to have a category section, where i can browse different shopping options.",4179,['26']
+"I want to have a star icon on the product card, the remeber my store my favorite products",4179,"['14', '8']"
+"As a user, I want to be able to go back so that I can always return and continue my previous search.",4891,['17']
+"As a user, I want to see a picture of the food so that I can imagine what it will look like and judge whether I would like it.",4891,['15']
+"As a user, I want to be able to save a particular meal for later, so that I don't have to search for it again and can just find it on my favourites page.",4891,['11']
+As a user I want to know how long it will take me to cook the selected meal so that I can integrate it in my current week.,4891,['13']
+As a user I want to add ingredients to a shopping list so that it is easier for me to go shopping and buy everything I need for the cooking.,4891,"['4', '2']"
+"AS a enduser, i want to have a dispaly option at where i can see the total value of my current portfolio so that i have a complete overview over my finacial situation.",6584,"['51', '50', '54']"
+"AS a enduser, i want to have a dispaly option at where i can see the toal changes in value over the last 24 hours, so that i can observe if i have lost or made moeny. it is supposed to help me ti reavlaute my purchasing descisions.",6584,"['56', '49', '55']"
+"AS a enduser, i want to have a dispaly option where i can observe the price and price chnages of differnet coins types, to habe additional information for my investment decisons.",6584,"['33', '26', '19', '12', '5', '34', '27', '20', '13', '6']"
+"As an enduser, i want to be able to make alerts for different coin types, so i am always informed at all time if there is a change happening.",6584,"['31', '24', '17', '10', '3']"
+"AS a enduser, i want to have an add coin button, to add new coins to my portfolio.",6584,"['1', '0']"
+"As a sport app user, I want to see which football leagues have games on today so that I dont miss out on my favorite leagues.",10364,"['23', '22', '11', '10']"
+As a user I want to search for games or clubs to find the clubs of my choice quickly,10364,['48']
+"As a sport app user, I want to see which football games are on today so that I dont miss out on my favorite teams.",10364,"['28', '25', '26', '24', '27', '16', '13', '14', '12', '15', '4', '1', '2', '0', '3']"
+As a user I want to read the football news to be informed about the newest developments in the football world,10364,"['47', '40', '39']"
+As a user i want to be able to read news about transfer of player so I know which player changed to which team,10364,"['45', '46', '44']"
+As a user I want to see the games of yesterday and tomorrow to anticipate future games and see the history of games of my clubs,10364,['49']
