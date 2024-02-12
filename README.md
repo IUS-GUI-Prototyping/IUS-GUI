@@ -1,5 +1,8 @@
 # Interlinking User Stories and GUI Prototyping: A Semi-Automatic LLM-based Approach
 
+[![DOI](https://zenodo.org/badge/756560448.svg)](https://zenodo.org/doi/10.5281/zenodo.10652221)
+
+
 The supplementary material of our submission to the RE 2024 conference is structured as follows:
 
 - **datasets**: This directory contains the collected user story and GUI annotation dataset across multiple preprocessing steps
